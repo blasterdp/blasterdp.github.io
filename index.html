@@ -1074,546 +1074,542 @@ Lo que necesitas para tu familia a la distancia de un clic"
 
     <!-- =================== INICIO SCRIPTS =================== -->
     <script>
-      // =================== PRODUCTOS DINÁMICOS ===================
-      // Array de productos (edítalo fácilmente aquí)
-      const productos = [
-        {
-          id: "prod-101",
-          nombre: "Refrigerador 13.4 pies",
-          marca: "EKO",
-          categoria: "refrigeracion",
-          descripcion:
-            "Congelación seca con dispensador de agua. 3 meses de garantía.",
-          imagen: "https://i.postimg.cc/C5PDQTwZ/refrigerador1-img.jpg",
-          precio: 780,
-          comision: 7000,
-          garantia: "3 meses",
-          rating: 4,
-        },
-        {
-          id: "prod-102",
-          nombre: "Refrigerador 8.5 pies",
-          marca: "Royal",
-          categoria: "refrigeracion",
-          descripcion: "Refrigerador de 8.5 pies. 3 meses de garantía.",
-          imagen:
-            "https://i.postimg.cc/XvLwCytc/refrigerador2-royal-8-5-img.jpg",
-          precio: 520,
-          comision: 5000,
-          garantia: "3 meses",
-          rating: 4,
-        },
-        {
-          id: "prod-103",
-          nombre: "Refrigerador 9.1 pies",
-          marca: "",
-          categoria: "refrigeracion",
-          descripcion: "Domicilio GRATIS. 1 mes de garantía.",
-          imagen:
-            "https://i.postimg.cc/7YNS5WdJ/refrigerador2-milexus-9-1-img.jpg",
-          precio: 600,
-          comision: 5000,
-          garantia: "1 mes",
-          rating: 4,
-        },
-        {
-          id: "prod-104",
-          nombre: "Refrigerador 7.3 pies",
-          marca: "Hisense",
-          categoria: "refrigeracion",
-          descripcion: "Dispensador. 2 meses de garantía.",
-          imagen:
-            "https://i.postimg.cc/RZY5ZxyR/82d7d765-010c-4c7f-8c48-f38b2f3f2489.jpg",
-          precio: 500,
-          comision: null,
-          garantia: "2 meses",
-        },
-        {
-          id: "prod-105",
-          nombre: "Nevera 20 pies",
-          marca: "Milexus",
-          categoria: "refrigeracion",
-          descripcion: "Domicilio gratis (en Tunas). 1 mes de garantía.",
-          imagen: "https://i.postimg.cc/qMY66HQR/nevera-milexus-20-img.jpg",
-          precio: 960,
-          comision: 6000,
-          rating: 4,
-          garantia: "1 mes",
-        },
-        {
-          id: "prod-106",
-          nombre: "Nevera 11.2 pies",
-          marca: "Milexus",
-          categoria: "refrigeracion",
-          descripcion: "Domicilio gratis. 1 mes de garantía.",
-          imagen: "https://i.postimg.cc/4yRsRw1X/nevera-milexus-112-img.jpg",
-          precio: 520,
-          comision: 6000,
-          rating: 4,
-          garantia: "1 mes",
-        },
-        {
-          id: "prod-107",
-          nombre: "Nevera 7.8 pies",
-          marca: "Royal",
-          categoria: "refrigeracion",
-          descripcion: "Domicilio gratis. 1 mes de garantía.",
-          imagen: "https://i.postimg.cc/RhSptHSc/nevera-royal-78-img.jpg",
-          precio: 360,
-          comision: 3000,
-          rating: 4,
-          garantia: "1 mes",
-        },
-        {
-          id: "prod-108",
-          nombre: "Nevera 7 pies",
-          marca: "Milexus",
-          categoria: "refrigeracion",
-          descripcion: "1 mes de garantía.",
-          imagen: "https://i.postimg.cc/L6sydZdh/nevera-Milexus-7-pies.jpg",
-          precio: 370,
-          comision: 3000,
-          rating: 4.5,
-          garantia: "1 mes",
-        },
-        {
-          id: "prod-109",
-          nombre: "Nevera 3.5 pies",
-          marca: "",
-          categoria: "refrigeracion",
-          descripcion: "Domicilio gratis. 1 mes de garantía.",
-          imagen: "https://i.postimg.cc/sxgJRbNb/nevera-EKO-3-5-pies.jpg",
-          precio: 270,
-          comision: 4000,
-          rating: 4.5,
-          garantia: "1 mes",
-        },
-        {
-          id: "prod-110",
-          nombre: "Nevera 10 pies",
-          marca: "EKO",
-          categoria: "refrigeracion",
-          descripcion: "1 mes de garantía.",
-          imagen: "https://i.postimg.cc/13kMNC8N/nevera-EKO-10-pies.jpg",
-          precio: 440,
-          comision: 5000,
-          rating: 4.5,
-          garantia: "1 mes",
-        },
-        {
-          id: "prod-111",
-          nombre: "Nevera 25 pies",
-          marca: "Milexus",
-          categoria: "refrigeracion",
-          descripcion: "3 meses de garantía.",
-          imagen: "https://i.postimg.cc/zGb0vZGr/nevera-Milexus-25-pis.jpg",
-          precio: 1400,
-          comision: 7000,
-          rating: 4.5,
-          garantia: "3 meses",
-        },
-        {
-          id: "prod-112",
-          nombre: 'SMART TV 43"',
-          marca: "Milexus",
-          categoria: "tv",
-          descripcion: "15 días de garantía.",
-          imagen: "https://i.postimg.cc/sXycTM9j/smart-tv-43-pulgadas.jpg",
-          precio: 300,
-          comision: 3000,
-          rating: 4.5,
-          garantia: "15 días",
-        },
-        {
-          id: "prod-113",
-          nombre: 'TV 43" Visón',
-          marca: "Visón",
-          categoria: "tv",
-          descripcion: "Cajita interna y base a la pared. 15 días de garantía.",
-          imagen:
-            "https://i.postimg.cc/xTF69TY5/smart-tv-43-pulgadas-caja-interna.jpg",
-          precio: 360,
-          comision: 3000,
-          rating: 4.5,
-          garantia: "15 días",
-        },
-        {
-          id: "prod-114",
-          nombre: "Lavadora 7kg",
-          marca: "Milexus",
-          categoria: "lavado",
-          descripcion: "1 mes de garantía.",
-          imagen: "https://i.postimg.cc/Kcf9sDHd/lavadora-milexus-de-7kg.jpg",
-          precio: 225,
-          comision: 2500,
-          rating: 4.5,
-          garantia: "1 mes",
-        },
-        {
-          id: "prod-115",
-          nombre: "Calentador Eléctrico de Agua 100L",
-          marca: "",
-          categoria: "calentadores",
-          descripcion: "3 meses de garantía.",
-          imagen:
-            "https://i.postimg.cc/RhSgZWNs/calentador-de-agua-de-100-L.jpg",
-          precio: 440,
-          comision: 5000,
-          rating: 4.5,
-          garantia: "3 meses",
-        },
-        {
-          id: "prod-116",
-          nombre: "Calentador Eléctrico de Agua 50L",
-          marca: "",
-          categoria: "calentadores",
-          descripcion: "Domicilio GRATIS. 3 meses de garantía.",
-          imagen:
-            "https://i.postimg.cc/QdwYJNyC/calentador-electrico-de-agua-de-50-L.jpg",
-          precio: 330,
-          comision: 3000,
-          rating: 4.5,
-          garantia: "3 meses",
-        },
-        {
-          id: "prod-117",
-          nombre: "Ventilador",
-          marca: "",
-          categoria: "climatizacion",
-          descripcion:
-            "Duración de la batería 4 a 6h según fabricante. Sin garantía.",
-          imagen:
-            "https://i.postimg.cc/5NPRjS5w/ventiladores-de-mesa-y-de-pie.jpg",
-          precio: 67,
-          comision: 1500,
-          rating: 4.5,
-          garantia: "No",
-        },
-        {
-          id: "prod-118",
-          nombre: "Juego de baño FV",
-          marca: "FV",
-          categoria: "baño",
-          descripcion: "Descargue al piso.",
-          imagen:
-            "https://i.postimg.cc/QxNzXy78/juego-de-ba-o-con-fv-y-descargue-al-piso.jpg",
-          precio: 140,
-          comision: 2000,
-          rating: 4.5,
-          garantia: "",
-        },
-        {
-          id: "prod-119",
-          nombre: "Ventilador Recargable de pared",
-          marca: "",
-          categoria: "climatizacion",
-          descripcion: "Sin garantía.",
-          imagen:
-            "https://i.postimg.cc/3RCLhXJ0/ventilador-de-pared-recargable.jpg",
-          precio: 65,
-          comision: 1500,
-          rating: 4.5,
-          garantia: "No",
-        },
-        {
-          id: "prod-120",
-          nombre: "Split 1 tonelada",
-          marca: "Milexus",
-          categoria: "climatizacion",
-          descripcion: "Domicilio a parte. 1 mes de garantía.",
-          imagen:
-            "https://i.postimg.cc/DZKCRjFK/split-milexus-de-1tonelada.jpg",
-          precio: 330,
-          comision: 2000,
-          rating: 4.5,
-          garantia: "1 mes",
-        },
-        {
-          id: "prod-121",
-          nombre: "Microondas 20L",
-          marca: "Milexus",
-          categoria: "cocina",
-          descripcion: "Sin garantía.",
-          imagen: "https://i.postimg.cc/PqD33Gg4/microwave-milexus-20lt.jpg",
-          precio: 140,
-          comision: 2000,
-          rating: 4.5,
-          garantia: "No",
-        },
-        {
-          id: "prod-122",
-          nombre: "Olla Reyna 6L 90min",
-          marca: "Milexus",
-          categoria: "cocina",
-          descripcion: "No tiene garantía.",
-          imagen:
-            "https://i.postimg.cc/pVJ7MHpc/olla-reina-milexus-de-6-L-90min.jpg",
-          precio: 60.81,
-          comision: 800,
-          rating: 4.5,
-          garantia: "No",
-        },
-        {
-          id: "prod-123",
-          nombre: "Batidora con picatodo",
-          marca: "",
-          categoria: "cocina",
-          descripcion: "Domicilio gratis. Sin garantía.",
-          imagen: "https://i.postimg.cc/85hY58w5/batidora-con-picatodo.jpg",
-          precio: 29.72,
-          comision: 500,
-          rating: 4.5,
-          garantia: "No",
-        },
-        {
-          id: "prod-124",
-          nombre: "Planta de gasolina 2800W",
-          marca: "EKO",
-          categoria: "energia",
-          descripcion: "4 tiempos, 110-220V, motor de arranque.",
-          imagen:
-            "https://i.postimg.cc/prR6501B/planta-de-gasolina-eko-de-2800watt.jpg",
-          precio: 900,
-          comision: 7000,
-          rating: 4.5,
-          garantia: "",
-        },
-        {
-          id: "prod-125",
-          nombre: "Fogón Infrarrojo 3500W",
-          marca: "JMD",
-          categoria: "cocina",
-          descripcion: "1 mes de garantía.",
-          imagen: "https://i.postimg.cc/vmxjJxV5/fogon-infrarrojo-jmd.jpg",
-          precio: 56.75,
-          comision: 1000,
-          rating: 4.5,
-          garantia: "1 mes",
-        },
-        {
-          id: "prod-126",
-          nombre: "Ventilador Recargable de mesa",
-          marca: "",
-          categoria: "climatizacion",
-          descripcion: "72 horas de garantía.",
-          imagen:
-            "https://i.postimg.cc/C1ytSMGX/ventilador-recargable-de-mesa.jpg",
-          precio: 60,
-          comision: 1500,
-          rating: 4.5,
-          garantia: "72 horas",
-        },
-        {
-          id: "prod-127",
-          nombre: "Olla de presión 3 válvulas",
-          marca: "",
-          categoria: "cocina",
-          descripcion: "Para todo tipo de fogón. Domicilio gratis.",
-          imagen:
-            "https://i.postimg.cc/Gm5VgxHc/olla-de-pres-n-de-3-valvulas-maca-eko.jpg",
-          precio: 35.13,
-          comision: 750,
-          rating: 4.5,
-          garantia: "",
-        },
-        {
-          id: "prod-128",
-          nombre: "Equipo de música",
-          marca: "",
-          categoria: "audio",
-          descripcion: "Con mando y micrófono, se escucha alto.",
-          imagen:
-            "https://i.postimg.cc/9F1vZh2w/equipo-de-musica-recargable-y-con-microfono-marca-Sing-e.jpg",
-          precio: 40,
-          comision: 1000,
-          rating: 4.5,
-          garantia: "",
-        },
-        {
-          id: "prod-129",
-          nombre: "Cafetera eléctrica",
-          marca: "",
-          categoria: "cocina",
-          descripcion: "",
-          imagen: "https://i.postimg.cc/6p3Fhm6j/cafetera-marca-moka.jpg",
-          precio: 39.18,
-          comision: 500,
-          rating: 4.5,
-          garantia: "",
-        },
-        {
-          id: "prod-130",
-          nombre: "Bicicleta eléctrica",
-          marca: "",
-          categoria: "movilidad",
-          descripcion: "Garantía NO.",
-          imagen: "https://i.postimg.cc/PJQ06G8c/bici-electrica-bucatti.jpg",
-          precio: 1150,
-          comision: 6000,
-          rating: 4.5,
-          garantia: "No",
-        },
-        {
-          id: "prod-131",
-          nombre: "Cemento PerlaGris",
-          marca: "",
-          categoria: "construccion",
-          descripcion: "Venta mínima 10 bolsas.",
-          imagen: "https://i.postimg.cc/fb3nMg6t/cemento-perlagris.jpg",
-          precio: 23.78,
-          comision: 150,
-          rating: 4.5,
-          garantia: "",
-        },
-        {
-          id: "prod-132",
-          nombre: "Olla arrocera 1.8L",
-          marca: "EKO",
-          categoria: "cocina",
-          descripcion:
-            "Capacidad: 1.8L / 20 tazas. Recipiente interior de aluminio con revestimiento antiadherente. Tapa de cristal templado. Potencia: 700W. Incluye paleta de arroz y taza para medir. Color: Plateado.",
-          imagen: "https://i.postimg.cc/kXcdsSQ4/olla-arrocera-mara-eko.jpg",
-          precio: 35.13,
-          comision: 1000,
-          rating: 4.5,
-          garantia: "",
-        },
-        {
-          id: "prod-133",
-          nombre: "Espumera de café 350ml",
-          marca: "BARONESS",
-          categoria: "cocina",
-          descripcion: "Capacidad: 350 ml.",
-          imagen: "https://i.postimg.cc/D0Q3tJRx/espumera-de-cafe-baroness.jpg",
-          precio: 13.51,
-          comision: 500,
-          rating: 4.5,
-          garantia: "",
-        },
-        {
-          id: "prod-134",
-          nombre: "Neumáticos Centara para Autos 205/70R/15C",
-          marca: "Centara",
-          categoria: "automotriz",
-          descripcion: "Detalles: 205/70R/15C",
-          imagen:
-            "https://i.postimg.cc/25Ppy7DH/neumaticos-para-autos-205-70r.jpg",
-          precio: 140,
-          comision: null,
-          rating: 4.5,
-          garantia: "",
-        },
-        {
-          id: "prod-135",
-          nombre: "Neumáticos Revistone para Camiones y Guaguas 315/80R/22.5",
-          marca: "Revistone",
-          categoria: "automotriz",
-          descripcion: "Detalles: 315/80R/22.5",
-          imagen:
-            "https://i.postimg.cc/RZZxD0dT/neumaticos-para-camiones-y-guaguas-315-80r.jpg",
-          precio: 330,
-          comision: null,
-          rating: 4.5,
-          garantia: "",
-        },
-        {
-          id: "prod-136",
-          nombre: "Neumáticos Centara para Autos 195/70R/15C",
-          marca: "Centara",
-          categoria: "automotriz",
-          descripcion: "Detalles: 195/70R/15C",
-          imagen:
-            "https://i.postimg.cc/2jnYqM3n/neumaticos-para-autos-195-70r.jpg",
-          precio: 130,
-          comision: null,
-          rating: 4.5,
-          garantia: "",
-        },
-        {
-          id: "prod-137",
-          nombre: "Refrigerador 7.5 pies",
-          marca: "Lemax",
-          categoria: "refrigeracion",
-          descripcion: "Congelación seca. 3 meses de garantía.",
-          imagen: "https://i.postimg.cc/T2zKgd69/refrigerador-lemax-de-7-5-pies.jpg", // Agrega URL de imagen si la tienes
-          precio: 480,
-          comision: 5000,
-          garantia: "3 meses",
-          rating: 4.5
-        },
-        {
-          id: "prod-138",
-          nombre: "SMART TV 50\"",
-          marca: "Wynwood",
-          categoria: "tv",
-          descripcion: "Con cajita interna. 1 mes de garantía.",
-          imagen: "https://i.postimg.cc/ZndhJzsY/Smart-TV-Marca-Royal-De-55-Pulgadas.jpg", // Agrega URL de imagen si la tienes
-          precio: 520,
-          comision: 5000,
-          garantia: "1 mes",
-          rating: 4.5
-        },
-        {
-          id: "prod-139",
-          nombre: "SMART TV 55\"",
-          marca: "Royal",
-          categoria: "tv",
-          descripcion: "1 mes de garantía.",
-          imagen: "https://i.postimg.cc/Hj11xvFw/Smart-TV-De-50-Pulgadas-Marca-Wynwood-Con-Cajita-Interna.jpg", // Agrega URL de imagen si la tienes
-          precio: 560,
-          comision: 5000,
-          garantia: "1 mes",
-          rating: 4.5
-        },
-        {
-          id: "prod-140",
-          nombre: "Colchón de espuma importado 200x140x10 cm",
-          marca: "",
-          categoria: "colchones",
-          descripcion: "Alta densidad, confort, resistencia y versatilidad.",
-          imagen: "https://i.postimg.cc/B6y0Wngw/Colchones-De-Espuma-Importados-De-Alta-Densidad-Confort.jpg", // Agrega URL de imagen si la tienes
-          precio: 140,
-          comision: 2000,
-          garantia: "",
-          rating: 4.5
-        },
-        {
-          id: "prod-141",
-          nombre: "Colchón Camero 1.50x1.90",
-          marca: "Confork",
-          categoria: "colchones",
-          descripcion: "De muelles y esponja.",
-          imagen: "https://i.postimg.cc/XvsW88yW/Colchon-Camero-Marca-Confork-De-Muelles-Y-Esponja.jpg", // Agrega URL de imagen si la tienes
-          precio: 200,
-          comision: 2000,
-          garantia: "",
-          rating: 4.5
-        },
-        {
-          id: "prod-142",
-          nombre: "Ventilador recargable de pedestal 18\"",
-          marca: "JMD",
-          categoria: "climatizacion",
-          descripcion: "Con batería de litio, potencia 20W, voltaje 110V, puerto USB, lámpara incorporada. Funciona con electricidad y batería interna. El color puede variar. Si compra 1 unidad le llegará sin caja, si compra 2 unidades le llegará en su caja.",
-          imagen: "https://i.postimg.cc/ZR0SDdrd/Ventilador-Recargable-De-Pedestal-De-18-Marca-JMD.jpg", // Agrega URL de imagen si la tienes
-          precio: 72,
-          comision: 2000,
-          garantia: "",
-          rating: 4.5
-        },
-      ];
-
-      // Variables globales para el filtro, la búsqueda y la moneda
-let filtroActual = "todos";
-let busquedaActual = "";
-let monedaActual = "USD";
-let tasas = {
-  USD: 1,
-  CUP: 385,
-  EUR: 1.08, // ejemplo, puedes actualizarlo dinámicamente
+      // =================== VARIABLES GLOBALES AGRUPADAS ===================
+const productos = [
+  {
+    id: "prod-101",
+    nombre: "Refrigerador 13.4 pies",
+    marca: "EKO",
+    categoria: "refrigeracion",
+    descripcion:
+      "Congelación seca con dispensador de agua. 3 meses de garantía.",
+    imagen: "https://i.postimg.cc/C5PDQTwZ/refrigerador1-img.jpg",
+    precio: 780,
+    comision: 7000,
+    garantia: "3 meses",
+    rating: 4,
+  },
+  {
+    id: "prod-102",
+    nombre: "Refrigerador 8.5 pies",
+    marca: "Royal",
+    categoria: "refrigeracion",
+    descripcion: "Refrigerador de 8.5 pies. 3 meses de garantía.",
+    imagen:
+      "https://i.postimg.cc/XvLwCytc/refrigerador2-royal-8-5-img.jpg",
+    precio: 520,
+    comision: 5000,
+    garantia: "3 meses",
+    rating: 4,
+  },
+  {
+    id: "prod-103",
+    nombre: "Refrigerador 9.1 pies",
+    marca: "",
+    categoria: "refrigeracion",
+    descripcion: "Domicilio GRATIS. 1 mes de garantía.",
+    imagen:
+      "https://i.postimg.cc/7YNS5WdJ/refrigerador2-milexus-9-1-img.jpg",
+    precio: 600,
+    comision: 5000,
+    garantia: "1 mes",
+    rating: 4,
+  },
+  {
+    id: "prod-104",
+    nombre: "Refrigerador 7.3 pies",
+    marca: "Hisense",
+    categoria: "refrigeracion",
+    descripcion: "Dispensador. 2 meses de garantía.",
+    imagen:
+      "https://i.postimg.cc/RZY5ZxyR/82d7d765-010c-4c7f-8c48-f38b2f3f2489.jpg",
+    precio: 500,
+    comision: null,
+    garantia: "2 meses",
+  },
+  {
+    id: "prod-105",
+    nombre: "Nevera 20 pies",
+    marca: "Milexus",
+    categoria: "refrigeracion",
+    descripcion: "Domicilio gratis (en Tunas). 1 mes de garantía.",
+    imagen: "https://i.postimg.cc/qMY66HQR/nevera-milexus-20-img.jpg",
+    precio: 960,
+    comision: 6000,
+    rating: 4,
+    garantia: "1 mes",
+  },
+  {
+    id: "prod-106",
+    nombre: "Nevera 11.2 pies",
+    marca: "Milexus",
+    categoria: "refrigeracion",
+    descripcion: "Domicilio gratis. 1 mes de garantía.",
+    imagen: "https://i.postimg.cc/4yRsRw1X/nevera-milexus-112-img.jpg",
+    precio: 520,
+    comision: 6000,
+    rating: 4,
+    garantia: "1 mes",
+  },
+  {
+    id: "prod-107",
+    nombre: "Nevera 7.8 pies",
+    marca: "Royal",
+    categoria: "refrigeracion",
+    descripcion: "Domicilio gratis. 1 mes de garantía.",
+    imagen: "https://i.postimg.cc/RhSptHSc/nevera-royal-78-img.jpg",
+    precio: 360,
+    comision: 3000,
+    rating: 4,
+    garantia: "1 mes",
+  },
+  {
+    id: "prod-108",
+    nombre: "Nevera 7 pies",
+    marca: "Milexus",
+    categoria: "refrigeracion",
+    descripcion: "1 mes de garantía.",
+    imagen: "https://i.postimg.cc/L6sydZdh/nevera-Milexus-7-pies.jpg",
+    precio: 370,
+    comision: 3000,
+    rating: 4.5,
+    garantia: "1 mes",
+  },
+  {
+    id: "prod-109",
+    nombre: "Nevera 3.5 pies",
+    marca: "",
+    categoria: "refrigeracion",
+    descripcion: "Domicilio gratis. 1 mes de garantía.",
+    imagen: "https://i.postimg.cc/sxgJRbNb/nevera-EKO-3-5-pies.jpg",
+    precio: 270,
+    comision: 4000,
+    rating: 4.5,
+    garantia: "1 mes",
+  },
+  {
+    id: "prod-110",
+    nombre: "Nevera 10 pies",
+    marca: "EKO",
+    categoria: "refrigeracion",
+    descripcion: "1 mes de garantía.",
+    imagen: "https://i.postimg.cc/13kMNC8N/nevera-EKO-10-pies.jpg",
+    precio: 440,
+    comision: 5000,
+    rating: 4.5,
+    garantia: "1 mes",
+  },
+  {
+    id: "prod-111",
+    nombre: "Nevera 25 pies",
+    marca: "Milexus",
+    categoria: "refrigeracion",
+    descripcion: "3 meses de garantía.",
+    imagen: "https://i.postimg.cc/zGb0vZGr/nevera-Milexus-25-pis.jpg",
+    precio: 1400,
+    comision: 7000,
+    rating: 4.5,
+    garantia: "3 meses",
+  },
+  {
+    id: "prod-112",
+    nombre: 'SMART TV 43"',
+    marca: "Milexus",
+    categoria: "tv",
+    descripcion: "15 días de garantía.",
+    imagen: "https://i.postimg.cc/sXycTM9j/smart-tv-43-pulgadas.jpg",
+    precio: 300,
+    comision: 3000,
+    rating: 4.5,
+    garantia: "15 días",
+  },
+  {
+    id: "prod-113",
+    nombre: 'TV 43" Visón',
+    marca: "Visón",
+    categoria: "tv",
+    descripcion: "Cajita interna y base a la pared. 15 días de garantía.",
+    imagen:
+      "https://i.postimg.cc/xTF69TY5/smart-tv-43-pulgadas-caja-interna.jpg",
+    precio: 360,
+    comision: 3000,
+    rating: 4.5,
+    garantia: "15 días",
+  },
+  {
+    id: "prod-114",
+    nombre: "Lavadora 7kg",
+    marca: "Milexus",
+    categoria: "lavado",
+    descripcion: "1 mes de garantía.",
+    imagen: "https://i.postimg.cc/Kcf9sDHd/lavadora-milexus-de-7kg.jpg",
+    precio: 225,
+    comision: 2500,
+    rating: 4.5,
+    garantia: "1 mes",
+  },
+  {
+    id: "prod-115",
+    nombre: "Calentador Eléctrico de Agua 100L",
+    marca: "",
+    categoria: "calentadores",
+    descripcion: "3 meses de garantía.",
+    imagen:
+      "https://i.postimg.cc/RhSgZWNs/calentador-de-agua-de-100-L.jpg",
+    precio: 440,
+    comision: 5000,
+    rating: 4.5,
+    garantia: "3 meses",
+  },
+  {
+    id: "prod-116",
+    nombre: "Calentador Eléctrico de Agua 50L",
+    marca: "",
+    categoria: "calentadores",
+    descripcion: "Domicilio GRATIS. 3 meses de garantía.",
+    imagen:
+      "https://i.postimg.cc/QdwYJNyC/calentador-electrico-de-agua-de-50-L.jpg",
+    precio: 330,
+    comision: 3000,
+    rating: 4.5,
+    garantia: "3 meses",
+  },
+  {
+    id: "prod-117",
+    nombre: "Ventilador",
+    marca: "",
+    categoria: "climatizacion",
+    descripcion:
+      "Duración de la batería 4 a 6h según fabricante. Sin garantía.",
+    imagen:
+      "https://i.postimg.cc/5NPRjS5w/ventiladores-de-mesa-y-de-pie.jpg",
+    precio: 67,
+    comision: 1500,
+    rating: 4.5,
+    garantia: "No",
+  },
+  {
+    id: "prod-118",
+    nombre: "Juego de baño FV",
+    marca: "FV",
+    categoria: "baño",
+    descripcion: "Descargue al piso.",
+    imagen:
+      "https://i.postimg.cc/QxNzXy78/juego-de-ba-o-con-fv-y-descargue-al-piso.jpg",
+    precio: 140,
+    comision: 2000,
+    rating: 4.5,
+    garantia: "",
+  },
+  {
+    id: "prod-119",
+    nombre: "Ventilador Recargable de pared",
+    marca: "",
+    categoria: "climatizacion",
+    descripcion: "Sin garantía.",
+    imagen:
+      "https://i.postimg.cc/3RCLhXJ0/ventilador-de-pared-recargable.jpg",
+    precio: 65,
+    comision: 1500,
+    rating: 4.5,
+    garantia: "No",
+  },
+  {
+    id: "prod-120",
+    nombre: "Split 1 tonelada",
+    marca: "Milexus",
+    categoria: "climatizacion",
+    descripcion: "Domicilio a parte. 1 mes de garantía.",
+    imagen:
+      "https://i.postimg.cc/DZKCRjFK/split-milexus-de-1tonelada.jpg",
+    precio: 330,
+    comision: 2000,
+    rating: 4.5,
+    garantia: "1 mes",
+  },
+  {
+    id: "prod-121",
+    nombre: "Microondas 20L",
+    marca: "Milexus",
+    categoria: "cocina",
+    descripcion: "Sin garantía.",
+    imagen: "https://i.postimg.cc/PqD33Gg4/microwave-milexus-20lt.jpg",
+    precio: 140,
+    comision: 2000,
+    rating: 4.5,
+    garantia: "No",
+  },
+  {
+    id: "prod-122",
+    nombre: "Olla Reyna 6L 90min",
+    marca: "Milexus",
+    categoria: "cocina",
+    descripcion: "No tiene garantía.",
+    imagen:
+      "https://i.postimg.cc/pVJ7MHpc/olla-reina-milexus-de-6-L-90min.jpg",
+    precio: 60.81,
+    comision: 800,
+    rating: 4.5,
+    garantia: "No",
+  },
+  {
+    id: "prod-123",
+    nombre: "Batidora con picatodo",
+    marca: "",
+    categoria: "cocina",
+    descripcion: "Domicilio gratis. Sin garantía.",
+    imagen: "https://i.postimg.cc/85hY58w5/batidora-con-picatodo.jpg",
+    precio: 29.72,
+    comision: 500,
+    rating: 4.5,
+    garantia: "No",
+  },
+  {
+    id: "prod-124",
+    nombre: "Planta de gasolina 2800W",
+    marca: "EKO",
+    categoria: "energia",
+    descripcion: "4 tiempos, 110-220V, motor de arranque.",
+    imagen:
+      "https://i.postimg.cc/prR6501B/planta-de-gasolina-eko-de-2800watt.jpg",
+    precio: 900,
+    comision: 7000,
+    rating: 4.5,
+    garantia: "",
+  },
+  {
+    id: "prod-125",
+    nombre: "Fogón Infrarrojo 3500W",
+    marca: "JMD",
+    categoria: "cocina",
+    descripcion: "1 mes de garantía.",
+    imagen: "https://i.postimg.cc/vmxjJxV5/fogon-infrarrojo-jmd.jpg",
+    precio: 56.75,
+    comision: 1000,
+    rating: 4.5,
+    garantia: "1 mes",
+  },
+  {
+    id: "prod-126",
+    nombre: "Ventilador Recargable de mesa",
+    marca: "",
+    categoria: "climatizacion",
+    descripcion: "72 horas de garantía.",
+    imagen:
+      "https://i.postimg.cc/C1ytSMGX/ventilador-recargable-de-mesa.jpg",
+    precio: 60,
+    comision: 1500,
+    rating: 4.5,
+    garantia: "72 horas",
+  },
+  {
+    id: "prod-127",
+    nombre: "Olla de presión 3 válvulas",
+    marca: "",
+    categoria: "cocina",
+    descripcion: "Para todo tipo de fogón. Domicilio gratis.",
+    imagen:
+      "https://i.postimg.cc/Gm5VgxHc/olla-de-pres-n-de-3-valvulas-maca-eko.jpg",
+    precio: 35.13,
+    comision: 750,
+    rating: 4.5,
+    garantia: "",
+  },
+  {
+    id: "prod-128",
+    nombre: "Equipo de música",
+    marca: "",
+    categoria: "audio",
+    descripcion: "Con mando y micrófono, se escucha alto.",
+    imagen:
+      "https://i.postimg.cc/9F1vZh2w/equipo-de-musica-recargable-y-con-microfono-marca-Sing-e.jpg",
+    precio: 40,
+    comision: 1000,
+    rating: 4.5,
+    garantia: "",
+  },
+  {
+    id: "prod-129",
+    nombre: "Cafetera eléctrica",
+    marca: "",
+    categoria: "cocina",
+    descripcion: "",
+    imagen: "https://i.postimg.cc/6p3Fhm6j/cafetera-marca-moka.jpg",
+    precio: 39.18,
+    comision: 500,
+    rating: 4.5,
+    garantia: "",
+  },
+  {
+    id: "prod-130",
+    nombre: "Bicicleta eléctrica",
+    marca: "",
+    categoria: "movilidad",
+    descripcion: "Garantía NO.",
+    imagen: "https://i.postimg.cc/PJQ06G8c/bici-electrica-bucatti.jpg",
+    precio: 1150,
+    comision: 6000,
+    rating: 4.5,
+    garantia: "No",
+  },
+  {
+    id: "prod-131",
+    nombre: "Cemento PerlaGris",
+    marca: "",
+    categoria: "construccion",
+    descripcion: "Venta mínima 10 bolsas.",
+    imagen: "https://i.postimg.cc/fb3nMg6t/cemento-perlagris.jpg",
+    precio: 23.78,
+    comision: 150,
+    rating: 4.5,
+    garantia: "",
+  },
+  {
+    id: "prod-132",
+    nombre: "Olla arrocera 1.8L",
+    marca: "EKO",
+    categoria: "cocina",
+    descripcion:
+      "Capacidad: 1.8L / 20 tazas. Recipiente interior de aluminio con revestimiento antiadherente. Tapa de cristal templado. Potencia: 700W. Incluye paleta de arroz y taza para medir. Color: Plateado.",
+    imagen: "https://i.postimg.cc/kXcdsSQ4/olla-arrocera-mara-eko.jpg",
+    precio: 35.13,
+    comision: 1000,
+    rating: 4.5,
+    garantia: "",
+  },
+  {
+    id: "prod-133",
+    nombre: "Espumera de café 350ml",
+    marca: "BARONESS",
+    categoria: "cocina",
+    descripcion: "Capacidad: 350 ml.",
+    imagen: "https://i.postimg.cc/D0Q3tJRx/espumera-de-cafe-baroness.jpg",
+    precio: 13.51,
+    comision: 500,
+    rating: 4.5,
+    garantia: "",
+  },
+  {
+    id: "prod-134",
+    nombre: "Neumáticos Centara para Autos 205/70R/15C",
+    marca: "Centara",
+    categoria: "automotriz",
+    descripcion: "Detalles: 205/70R/15C",
+    imagen:
+      "https://i.postimg.cc/25Ppy7DH/neumaticos-para-autos-205-70r.jpg",
+    precio: 140,
+    comision: null,
+    rating: 4.5,
+    garantia: "",
+  },
+  {
+    id: "prod-135",
+    nombre: "Neumáticos Revistone para Camiones y Guaguas 315/80R/22.5",
+    marca: "Revistone",
+    categoria: "automotriz",
+    descripcion: "Detalles: 315/80R/22.5",
+    imagen:
+      "https://i.postimg.cc/RZZxD0dT/neumaticos-para-camiones-y-guaguas-315-80r.jpg",
+    precio: 330,
+    comision: null,
+    rating: 4.5,
+    garantia: "",
+  },
+  {
+    id: "prod-136",
+    nombre: "Neumáticos Centara para Autos 195/70R/15C",
+    marca: "Centara",
+    categoria: "automotriz",
+    descripcion: "Detalles: 195/70R/15C",
+    imagen:
+      "https://i.postimg.cc/2jnYqM3n/neumaticos-para-autos-195-70r.jpg",
+    precio: 130,
+    comision: null,
+    rating: 4.5,
+    garantia: "",
+  },
+  {
+    id: "prod-137",
+    nombre: "Refrigerador 7.5 pies",
+    marca: "Lemax",
+    categoria: "refrigeracion",
+    descripcion: "Congelación seca. 3 meses de garantía.",
+    imagen: "https://i.postimg.cc/T2zKgd69/refrigerador-lemax-de-7-5-pies.jpg", // Agrega URL de imagen si la tienes
+    precio: 480,
+    comision: 5000,
+    garantia: "3 meses",
+    rating: 4.5
+  },
+  {
+    id: "prod-138",
+    nombre: "SMART TV 50\"",
+    marca: "Wynwood",
+    categoria: "tv",
+    descripcion: "Con cajita interna. 1 mes de garantía.",
+    imagen: "https://i.postimg.cc/ZndhJzsY/Smart-TV-Marca-Royal-De-55-Pulgadas.jpg", // Agrega URL de imagen si la tienes
+    precio: 520,
+    comision: 5000,
+    garantia: "1 mes",
+    rating: 4.5
+  },
+  {
+    id: "prod-139",
+    nombre: "SMART TV 55\"",
+    marca: "Royal",
+    categoria: "tv",
+    descripcion: "1 mes de garantía.",
+    imagen: "https://i.postimg.cc/Hj11xvFw/Smart-TV-De-50-Pulgadas-Marca-Wynwood-Con-Cajita-Interna.jpg", // Agrega URL de imagen si la tienes
+    precio: 560,
+    comision: 5000,
+    garantia: "1 mes",
+    rating: 4.5
+  },
+  {
+    id: "prod-140",
+    nombre: "Colchón de espuma importado 200x140x10 cm",
+    marca: "",
+    categoria: "colchones",
+    descripcion: "Alta densidad, confort, resistencia y versatilidad.",
+    imagen: "https://i.postimg.cc/B6y0Wngw/Colchones-De-Espuma-Importados-De-Alta-Densidad-Confort.jpg", // Agrega URL de imagen si la tienes
+    precio: 140,
+    comision: 2000,
+    garantia: "",
+    rating: 4.5
+  },
+  {
+    id: "prod-141",
+    nombre: "Colchón Camero 1.50x1.90",
+    marca: "Confork",
+    categoria: "colchones",
+    descripcion: "De muelles y esponja.",
+    imagen: "https://i.postimg.cc/XvsW88yW/Colchon-Camero-Marca-Confork-De-Muelles-Y-Esponja.jpg", // Agrega URL de imagen si la tienes
+    precio: 200,
+    comision: 2000,
+    garantia: "",
+    rating: 4.5
+  },
+  {
+    id: "prod-142",
+    nombre: "Ventilador recargable de pedestal 18\"",
+    marca: "JMD",
+    categoria: "climatizacion",
+    descripcion: "Con batería de litio, potencia 20W, voltaje 110V, puerto USB, lámpara incorporada. Funciona con electricidad y batería interna. El color puede variar. Si compra 1 unidad le llegará sin caja, si compra 2 unidades le llegará en su caja.",
+    imagen: "https://i.postimg.cc/ZR0SDdrd/Ventilador-Recargable-De-Pedestal-De-18-Marca-JMD.jpg", // Agrega URL de imagen si la tienes
+    precio: 72,
+    comision: 2000,
+    garantia: "",
+    rating: 4.5
+  },
+];
+const estado = {
+  filtro: "todos",
+  busqueda: "",
+  moneda: "USD",
+  tasas: { USD: 1, CUP: 385, EUR: 1.08 },
+  carrito: JSON.parse(localStorage.getItem("carrito")) || []
 };
 
-// Función para obtener tasas desde El Toque (asíncrona)
+// =================== UTILIDADES ===================
 async function obtenerTasas() {
   try {
     const url = "https://eltoque.com/tasas-de-cambio-de-moneda-en-cuba-hoy#formal-diaria";
@@ -1621,103 +1617,78 @@ async function obtenerTasas() {
     const html = await response.text();
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, "text/html");
-    // Aquí debes ajustar los selectores según la estructura real de la página
-    // Ejemplo: buscar la tasa informal USD/CUP
     const tasaInformal = doc.querySelector('[data-currency="usd"][data-market="informal"] .exchange-rate-value');
-    console.log({tasaInformal});
-    
     if (tasaInformal) {
-      tasas.CUP = parseFloat(tasaInformal.textContent.replace(/[^\d.]/g, ""));
+      estado.tasas.CUP = parseFloat(tasaInformal.textContent.replace(/[^\d.]/g, ""));
     }
-    // Puedes agregar más monedas aquí si lo deseas
   } catch (e) {
     console.warn("No se pudieron actualizar las tasas automáticamente. Usando valores por defecto.");
   }
 }
 
+function formatearPrecio(precioUSD) {
+  const tasa = estado.tasas[estado.moneda] || 1;
+  let precioConvertido = precioUSD * tasa;
+  let simbolo = "";
+  switch (estado.moneda) {
+    case "USD": simbolo = "$"; break;
+    case "CUP": simbolo = "CUP $"; break;
+    case "EUR": simbolo = "€"; break;
+    default: simbolo = estado.moneda + " $";
+  }
+  precioConvertido = estado.moneda === "CUP" ? Math.round(precioConvertido) : precioConvertido.toFixed(2);
+  return `${simbolo}${precioConvertido}`;
+}
+
+// =================== RENDERIZADO ===================
 function renderizarSelectorMoneda() {
   const contenedor = document.getElementById("selector-moneda-container");
   contenedor.innerHTML = `
     <label for="selector-moneda" style="margin-right:8px; font-weight:500;">Moneda:</label>
     <select id="selector-moneda" style="padding:6px 12px; border-radius:8px; border:1px solid #ddd;">
-      ${Object.keys(tasas)
-        .map(
-          (mon) => `<option value="${mon}"${mon === monedaActual ? " selected" : ""}>${mon}</option>`
-        )
-        .join("")}
+      ${Object.keys(estado.tasas).map(mon => `<option value="${mon}"${mon === estado.moneda ? " selected" : ""}>${mon}</option>`).join("")}
     </select>
   `;
   document.getElementById("selector-moneda").addEventListener("change", function () {
-    monedaActual = this.value;
-    renderizarProductos(filtroActual, busquedaActual);
+    estado.moneda = this.value;
+    renderizarProductos();
+    actualizarCarrito();
   });
 }
 
-function formatearPrecio(precioUSD) {
-  const tasa = tasas[monedaActual] || 1;
-  let precioConvertido = precioUSD * tasa;
-  let simbolo = "";
-  switch (monedaActual) {
-    case "USD":
-      simbolo = "$";
-      break;
-    case "CUP":
-      simbolo = "CUP $";
-      break;
-    case "EUR":
-      simbolo = "€";
-      break;
-    default:
-      simbolo = monedaActual + " $";
-  }
-  // Mostrar 2 decimales solo para USD/EUR, sin decimales para CUP
-  if (monedaActual === "CUP") {
-    precioConvertido = Math.round(precioConvertido);
-  } else {
-    precioConvertido = precioConvertido.toFixed(2);
-  }
-  return `${simbolo}${precioConvertido}`;
+function renderizarFiltros() {
+  const filtrosContainer = document.getElementById("product-filters");
+  const categorias = Array.from(new Set(productos.map(p => p.categoria)));
+  categorias.sort();
+  categorias.unshift("todos");
+  const nombres = { todos: "Todos", refrigeracion: "Refrigeración", lavado: "Lavado", cocina: "Cocina", climatizacion: "Climatización" };
+  filtrosContainer.innerHTML = categorias.map(cat => `<button class="filter-btn${cat === "todos" ? " active" : ""}" data-category="${cat}">${nombres[cat] || cat.charAt(0).toUpperCase() + cat.slice(1)}</button>`).join("");
 }
 
-function renderizarProductos(filtro = "todos", busqueda = "") {
-  filtroActual = filtro;
-  busquedaActual = busqueda;
+function renderizarProductos() {
   const grid = document.getElementById("products-grid");
-  grid.innerHTML = "";
-  let productosFiltrados =
-    filtro === "todos"
-      ? productos.slice().reverse() // Mostrar los más nuevos primero
-      : productos.filter((p) => p.categoria === filtro).reverse();
-  if (busqueda && busqueda.trim() !== "") {
-    const texto = busqueda.trim().toLowerCase();
-    productosFiltrados = productosFiltrados.filter(
-      (p) =>
-        (p.nombre && p.nombre.toLowerCase().includes(texto)) ||
-        (p.marca && p.marca.toLowerCase().includes(texto))
-    );
+  let productosFiltrados = estado.filtro === "todos" ? productos.slice().reverse() : productos.filter(p => p.categoria === estado.filtro).reverse();
+  if (estado.busqueda && estado.busqueda.trim() !== "") {
+    const texto = estado.busqueda.trim().toLowerCase();
+    productosFiltrados = productosFiltrados.filter(p => (p.nombre && p.nombre.toLowerCase().includes(texto)) || (p.marca && p.marca.toLowerCase().includes(texto)));
   }
   if (productosFiltrados.length === 0) {
     grid.innerHTML = '<p style="grid-column: 1/-1; text-align: center; color: var(--gray); font-size: 1.2rem;">No se encontraron productos</p>';
     return;
   }
-  productosFiltrados.forEach((producto) => {
+  let html = "";
+  for (const producto of productosFiltrados) {
     let estrellas = "";
     for (let i = 1; i <= 5; i++) {
-      if (producto.rating >= i)
-        estrellas += '<i class="fas fa-star"></i>';
-      else if (producto.rating >= i - 0.5)
-        estrellas += '<i class="fas fa-star-half-alt"></i>';
+      if (producto.rating >= i) estrellas += '<i class="fas fa-star"></i>';
+      else if (producto.rating >= i - 0.5) estrellas += '<i class="fas fa-star-half-alt"></i>';
       else estrellas += '<i class="far fa-star"></i>';
     }
-    grid.innerHTML += `
+    html += `
       <div class="product-card" data-category="${producto.categoria}">
         <div class="product-image">
           <img src="${producto.imagen}" alt="${producto.nombre}">
-          ${
-            producto.descuento
-              ? `<span class='discount-badge'>${producto.descuento}</span>`
-              : ""
-          }
+          ${producto.descuento ? `<span class='discount-badge'>${producto.descuento}</span>` : ""}
         </div>
         <div class="product-info">
           <h3>${producto.nombre}</h3>
@@ -1727,323 +1698,153 @@ function renderizarProductos(filtro = "todos", busqueda = "") {
           </div>
           <p class="product-description">${producto.descripcion}</p>
           <div class="product-price">
-            ${
-              producto.precioViejo
-                ? `<span class='old-price'>${formatearPrecio(producto.precioViejo)}</span>`
-                : ""
-            }
+            ${producto.precioViejo ? `<span class='old-price'>${formatearPrecio(producto.precioViejo)}</span>` : ""}
             <span class="current-price">${formatearPrecio(producto.precio)}</span>
           </div>
-          <button class="btn-add-to-cart" data-id="${producto.id}">
-            <i class="fas fa-cart-plus"></i> Añadir al carrito
-          </button>
+          <button class="btn-add-to-cart" data-id="${producto.id}"><i class="fas fa-cart-plus"></i> Añadir al carrito</button>
         </div>
       </div>
+    `;
+  }
+  grid.innerHTML = html;
+}
+
+// =================== EVENTOS DELEGADOS Y ÚNICOS ===================
+document.addEventListener("DOMContentLoaded", async function () {
+  await obtenerTasas();
+  // Selector de moneda
+  const filtros = document.getElementById("product-filters");
+  const selectorDiv = document.createElement("div");
+  selectorDiv.id = "selector-moneda-container";
+  selectorDiv.style.display = "flex";
+  selectorDiv.style.justifyContent = "flex-end";
+  selectorDiv.style.marginBottom = "10px";
+  filtros.parentNode.insertBefore(selectorDiv, filtros);
+  renderizarSelectorMoneda();
+  renderizarFiltros();
+  renderizarProductos();
+  actualizarCarrito();
+  actualizarContadorOfertas();
+});
+
+// Filtros (delegado)
+document.getElementById("product-filters").addEventListener("click", function(e) {
+  if (e.target.classList.contains("filter-btn")) {
+    document.querySelectorAll(".filter-btn").forEach(btn => btn.classList.remove("active"));
+    e.target.classList.add("active");
+    estado.filtro = e.target.getAttribute("data-category");
+    renderizarProductos();
+  }
+});
+
+// Búsqueda (único listener)
+document.getElementById("search-bar").addEventListener("input", function () {
+  estado.busqueda = this.value;
+  renderizarProductos();
+});
+
+// =================== CARRITO (DRY, ÚNICO LISTENER) ===================
+function actualizarCarrito() {
+  const totalItems = estado.carrito.reduce((total, item) => total + item.cantidad, 0);
+  const cartCount = document.querySelector(".cart-count");
+  if (cartCount) cartCount.textContent = totalItems;
+  const cartItems = document.getElementById("cart-items");
+  let total = 0;
+  let html = "";
+  if (estado.carrito.length === 0) {
+    html = '<p class="empty-cart">Tu carrito está vacío</p>';
+  } else {
+    for (const [index, item] of estado.carrito.entries()) {
+      const itemTotal = item.precio * item.cantidad;
+      total += itemTotal;
+      html += `
+        <div class="cart-item">
+          <img src="${item.imagen}" alt="${item.nombre}" class="cart-item-img">
+          <div class="cart-item-details">
+            <h4 class="cart-item-title">${item.nombre}</h4>
+            <p>${item.cantidad} x $${item.precio.toFixed(2)}</p>
+            <p class="cart-item-price">$${itemTotal.toFixed(2)}</p>
+            <button class="cart-item-remove" data-index="${index}"><i class="fas fa-trash"></i> Eliminar</button>
+          </div>
+        </div>
       `;
-  });
+    }
+  }
+  cartItems.innerHTML = html;
+  document.getElementById("cart-total").textContent = `$${total.toFixed(2)}`;
+  localStorage.setItem("carrito", JSON.stringify(estado.carrito));
 }
 
-function renderizarFiltros() {
-  const filtrosContainer = document.getElementById("product-filters");
-  // Obtener categorías únicas del array de productos
-  const categorias = Array.from(
-    new Set(productos.map((p) => p.categoria))
-  );
-  // Ordenar y agregar 'todos' al inicio
-  categorias.sort();
-  categorias.unshift("todos");
-  // Diccionario para mostrar nombres bonitos
-  const nombres = {
-    todos: "Todos",
-    refrigeracion: "Refrigeración",
-    lavado: "Lavado",
-    cocina: "Cocina",
-    climatizacion: "Climatización",
-  };
-  filtrosContainer.innerHTML = categorias
-    .map(
-      (cat) =>
-        `<button class="filter-btn${
-          cat === "todos" ? " active" : ""
-        }" data-category="${cat}">${
-          nombres[cat] || cat.charAt(0).toUpperCase() + cat.slice(1)
-        }</button>`
-    )
-    .join("");
-}
+// Carrito: listeners delegados y únicos
+document.body.addEventListener("click", function(e) {
+  // Añadir al carrito
+  if (e.target.classList.contains("btn-add-to-cart")) {
+    const productoId = e.target.getAttribute("data-id");
+    const producto = productos.find(p => p.id === productoId);
+    if (!producto) return;
+    const precio = producto.precio * (estado.tasas[estado.moneda] || 1);
+    const existente = estado.carrito.find(item => item.id === productoId);
+    if (existente) existente.cantidad += 1;
+    else estado.carrito.push({ id: productoId, nombre: producto.nombre, precio, imagen: producto.imagen, cantidad: 1 });
+    actualizarCarrito();
+    mostrarNotificacion(`${producto.nombre} añadido al carrito`);
+  }
+  // Eliminar del carrito
+  if (e.target.closest(".cart-item-remove")) {
+    const index = e.target.closest(".cart-item-remove").getAttribute("data-index");
+    estado.carrito.splice(index, 1);
+    actualizarCarrito();
+    mostrarNotificacion("Producto eliminado del carrito");
+  }
+  // Modal producto
+  if (e.target.closest('.product-card') && !e.target.classList.contains('btn-add-to-cart')) {
+    const card = e.target.closest('.product-card');
+    const id = card.querySelector('.btn-add-to-cart').getAttribute('data-id');
+    const producto = productos.find(p => p.id === id);
+    if (producto) mostrarModalProducto(producto);
+  }
+  // Cerrar modal producto
+  if (e.target.id === 'cerrar-modal-producto' || e.target.id === 'modal-producto') {
+    cerrarModalProducto();
+  }
+});
 
-function manejarFiltros() {
-  const botonesFiltro = document.querySelectorAll(".filter-btn");
-  botonesFiltro.forEach((boton) => {
-    boton.addEventListener("click", function () {
-      botonesFiltro.forEach((btn) => btn.classList.remove("active"));
-      this.classList.add("active");
-      const categoria = this.getAttribute("data-category");
-      const texto = document.getElementById("search-bar").value;
-      renderizarProductos(categoria, texto);
+// Mostrar/ocultar carrito
+(function() {
+  const cartLink = document.querySelector(".cart-link");
+  const cartDropdown = document.getElementById("cart-dropdown");
+  const cartOverlay = document.querySelector(".cart-overlay");
+  if (cartLink) {
+    cartLink.addEventListener("click", e => {
+      e.preventDefault();
+      cartDropdown.classList.add("active");
+      cartOverlay.classList.add("active");
     });
+  }
+  document.querySelector(".close-cart").addEventListener("click", () => {
+    cartDropdown.classList.remove("active");
+    cartOverlay.classList.remove("active");
   });
+  cartOverlay.addEventListener("click", () => {
+    cartDropdown.classList.remove("active");
+    cartOverlay.classList.remove("active");
+  });
+})();
+
+// =================== NOTIFICACIONES DRY ===================
+function mostrarNotificacion(mensaje) {
+  const notificacion = document.createElement("div");
+  notificacion.className = "notification";
+  notificacion.innerHTML = `<i class="fas fa-check-circle"></i><span>${mensaje}</span>`;
+  document.body.appendChild(notificacion);
+  setTimeout(() => notificacion.classList.add("show"), 10);
+  setTimeout(() => {
+    notificacion.classList.remove("show");
+    setTimeout(() => document.body.removeChild(notificacion), 300);
+  }, 3000);
 }
 
-      // =================== CARRITO ===================
-      function manejarCarrito() {
-        const botonesAgregar = document.querySelectorAll(".btn-add-to-cart");
-        const cartLink = document.querySelector(".cart-link");
-        const cartDropdown = document.getElementById("cart-dropdown");
-        const cartOverlay = document.querySelector(".cart-overlay");
-        // Mostrar/ocultar carrito
-        cartLink.addEventListener("click", (e) => {
-          e.preventDefault();
-          cartDropdown.classList.add("active");
-          cartOverlay.classList.add("active");
-        });
-        document.querySelector(".close-cart").addEventListener("click", () => {
-          cartDropdown.classList.remove("active");
-          cartOverlay.classList.remove("active");
-        });
-        let carrito = JSON.parse(localStorage.getItem("carrito")) || [];
-        function actualizarCarrito() {
-          const totalItems = carrito.reduce(
-            (total, item) => total + item.cantidad,
-            0
-          );
-          document.querySelector(".cart-count").textContent = totalItems;
-          const cartItems = document.getElementById("cart-items");
-          cartItems.innerHTML = "";
-          let total = 0;
-          if (carrito.length === 0) {
-            cartItems.innerHTML =
-              '<p class="empty-cart">Tu carrito está vacío</p>';
-          } else {
-            carrito.forEach((item, index) => {
-              const itemTotal = item.precio * item.cantidad;
-              total += itemTotal;
-              const cartItem = document.createElement("div");
-              cartItem.className = "cart-item";
-              cartItem.innerHTML = `
-              <img src="${item.imagen}" alt="${
-                item.nombre
-              }" class="cart-item-img">
-              <div class="cart-item-details">
-                <h4 class="cart-item-title">${item.nombre}</h4>
-                <p>${item.cantidad} x $${item.precio.toFixed(2)}</p>
-                <p class="cart-item-price">$${itemTotal.toFixed(2)}</p>
-                <button class="cart-item-remove" data-index="${index}">
-                  <i class="fas fa-trash"></i> Eliminar
-                </button>
-              </div>
-            `;
-              cartItems.appendChild(cartItem);
-            });
-          }
-          document.getElementById("cart-total").textContent = `$${total.toFixed(
-            2
-          )}`;
-          localStorage.setItem("carrito", JSON.stringify(carrito));
-        }
-        document.getElementById("cart-items").addEventListener("click", (e) => {
-          if (e.target.closest(".cart-item-remove")) {
-            const index = e.target
-              .closest(".cart-item-remove")
-              .getAttribute("data-index");
-            carrito.splice(index, 1);
-            actualizarCarrito();
-            const notificacion = document.createElement("div");
-            notificacion.className = "notification";
-            notificacion.innerHTML = `
-            <i class="fas fa-check-circle"></i>
-            <span>Producto eliminado del carrito</span>
-          `;
-            document.body.appendChild(notificacion);
-            setTimeout(() => {
-              notificacion.classList.add("show");
-            }, 10);
-            setTimeout(() => {
-              notificacion.classList.remove("show");
-              setTimeout(() => {
-                document.body.removeChild(notificacion);
-              }, 300);
-            }, 3000);
-          }
-        });
-        cartOverlay.addEventListener("click", () => {
-          cartDropdown.classList.remove("active");
-          cartOverlay.classList.remove("active");
-        });
-        cartDropdown.addEventListener("click", (e) => {
-          e.stopPropagation();
-        });
-        document.addEventListener("click", (e) => {
-          if (e.target.classList.contains("cart-item-remove")) {
-            const index = e.target.getAttribute("data-index");
-            carrito.splice(index, 1);
-            actualizarCarrito();
-          }
-        });
-        document.addEventListener("click", function (e) {
-          if (e.target.classList.contains("btn-add-to-cart")) {
-            const productoId = e.target.getAttribute("data-id");
-            const productoCard = e.target.closest(".product-card");
-            const productoNombre = productoCard.querySelector("h3").textContent;
-            const productoPrecio = parseFloat(
-              productoCard
-                .querySelector(".current-price")
-                .textContent.replace("$", "")
-            );
-            const productoImagen = productoCard
-              .querySelector("img")
-              .getAttribute("src");
-            const productoExistente = carrito.find(
-              (item) => item.id === productoId
-            );
-            if (productoExistente) {
-              productoExistente.cantidad += 1;
-            } else {
-              carrito.push({
-                id: productoId,
-                nombre: productoNombre,
-                precio: productoPrecio,
-                imagen: productoImagen,
-                cantidad: 1,
-              });
-            }
-            actualizarCarrito();
-            const notificacion = document.createElement("div");
-            notificacion.className = "notification";
-            notificacion.innerHTML = `
-            <i class="fas fa-check-circle"></i>
-            <span>${productoNombre} añadido al carrito</span>
-          `;
-            document.body.appendChild(notificacion);
-            setTimeout(() => {
-              notificacion.classList.add("show");
-            }, 10);
-            setTimeout(() => {
-              notificacion.classList.remove("show");
-              setTimeout(() => {
-                document.body.removeChild(notificacion);
-              }, 300);
-            }, 3000);
-          }
-        });
-        document
-          .getElementById("checkout-btn")
-          .addEventListener("click", function () {
-            if (carrito.length === 0) {
-              alert(
-                "Tu carrito está vacío. Agrega productos antes de confirmar."
-              );
-              return;
-            }
-            let mensaje =
-              "¡Hola! Estoy interesado en los siguientes productos:\n\n";
-            carrito.forEach((item) => {
-              mensaje += `- ${item.nombre} (${item.cantidad} unidad${
-                item.cantidad > 1 ? "es" : ""
-              }) - $${(item.precio * item.cantidad).toFixed(2)}\n`;
-            });
-            const total = carrito.reduce(
-              (sum, item) => sum + item.precio * item.cantidad,
-              0
-            );
-            mensaje += `\n*Total: $${total.toFixed(2)}*\n\n`;
-            mensaje +=
-              "Por favor, confírmenme disponibilidad y formas de pago.";
-            window.open(
-              `https://wa.me/5354267103?text=${encodeURIComponent(mensaje)}`,
-              "_blank"
-            );
-          });
-        document
-          .getElementById("whatsapp-btn")
-          .addEventListener("click", function () {
-            if (carrito.length === 0) {
-              let mensaje =
-                "¡Hola! Estoy interesado en algunos productos de ElectroHome. ¿Podrían ayudarme?";
-              window.open(
-                `https://wa.me/5354267103?text=${encodeURIComponent(mensaje)}`,
-                "_blank"
-              );
-              return;
-            }
-            let mensaje =
-              "¡Hola! Estoy interesado en los siguientes productos:\n\n";
-            carrito.forEach((item) => {
-              mensaje += `- ${item.nombre} (${item.cantidad} unidad${
-                item.cantidad > 1 ? "es" : ""
-              }) - $${(item.precio * item.cantidad).toFixed(2)}\n`;
-            });
-            const total = carrito.reduce(
-              (sum, item) => sum + item.precio * item.cantidad,
-              0
-            );
-            mensaje += `\n*Total: $${total.toFixed(2)}*\n\n`;
-            mensaje +=
-              "Por favor, confírmenme disponibilidad y formas de pago.";
-            window.open(
-              `https://wa.me/5354267103?text=${encodeURIComponent(mensaje)}`,
-              "_blank"
-            );
-          });
-        actualizarCarrito();
-      }
-      // =================== CONTADOR DE OFERTAS ===================
-      function actualizarContadorOfertas() {
-        const contadores = document.querySelectorAll(".time-remaining");
-        contadores.forEach((contador) => {
-          const fechaFin = new Date(
-            contador.getAttribute("data-end")
-          ).getTime();
-          function actualizarContador() {
-            const ahora = new Date().getTime();
-            const diferencia = fechaFin - ahora;
-            if (diferencia <= 0) {
-              contador.textContent = "Oferta terminada";
-              return;
-            }
-            const dias = Math.floor(diferencia / (1000 * 60 * 60 * 24));
-            const horas = Math.floor(
-              (diferencia % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
-            );
-            const minutos = Math.floor(
-              (diferencia % (1000 * 60 * 60)) / (1000 * 60)
-            );
-            contador.textContent = `Termina en: ${dias}d ${horas}h ${minutos}m`;
-          }
-          actualizarContador();
-          setInterval(actualizarContador, 60000); // Actualizar cada minuto
-        });
-      }
-      // Modifico la inicialización para renderizar filtros antes de productos
-      document.addEventListener("DOMContentLoaded", async function () {
-        await obtenerTasas();
-        // Insertar el selector de moneda arriba de los filtros
-        const filtros = document.getElementById("product-filters");
-        const selectorDiv = document.createElement("div");
-        selectorDiv.id = "selector-moneda-container";
-        selectorDiv.style.display = "flex";
-        selectorDiv.style.justifyContent = "flex-end";
-        selectorDiv.style.marginBottom = "10px";
-        filtros.parentNode.insertBefore(selectorDiv, filtros);
-        renderizarSelectorMoneda();
-        renderizarFiltros();
-        renderizarProductos();
-        manejarFiltros();
-        manejarCarrito();
-        actualizarContadorOfertas();
-
-        const searchBar = document.getElementById("search-bar");
-        searchBar.addEventListener("input", function () {
-          const texto = searchBar.value;
-          const btn = document.querySelector(".filter-btn.active");
-          const filtro = btn ? btn.getAttribute("data-category") : "todos";
-          renderizarProductos(filtro, texto);
-        });
-
-        manejarClickTarjetasProducto();
-      });
-
-      // Modal para detalles de producto
+// =================== MODAL PRODUCTO ===================
 function crearModalProducto() {
   if (document.getElementById('modal-producto')) return;
   const modal = document.createElement('div');
@@ -2068,18 +1869,7 @@ function crearModalProducto() {
     </div>
   `;
   document.body.appendChild(modal);
-  document.getElementById('cerrar-modal-producto').onclick = function() {
-    modal.style.opacity = '0';
-    setTimeout(()=>{modal.style.visibility = 'hidden';}, 200);
-  };
-  modal.onclick = function(e) {
-    if (e.target === modal) {
-      modal.style.opacity = '0';
-      setTimeout(()=>{modal.style.visibility = 'hidden';}, 200);
-    }
-  };
 }
-
 function mostrarModalProducto(producto) {
   crearModalProducto();
   const modal = document.getElementById('modal-producto');
@@ -2092,7 +1882,6 @@ function mostrarModalProducto(producto) {
         <p style="color:#6b7280; font-size:1.1rem; margin-bottom:10px;"><b>Marca:</b> ${producto.marca || 'Sin marca'}</p>
         <p style="margin-bottom:10px;">${producto.descripcion}</p>
         <p style="margin-bottom:10px;"><b>Garantía:</b> ${producto.garantia || 'No especificada'}</p>
-        
         <p style="margin-bottom:10px; font-size:1.3rem;"><b>Precio:</b> <span style="color:#2563eb;">${formatearPrecio(producto.precio)}</span></p>
         <button class="btn-add-to-cart" data-id="${producto.id}" style="margin-top:10px; width:auto;">Añadir al carrito</button>
       </div>
@@ -2101,18 +1890,52 @@ function mostrarModalProducto(producto) {
   modal.style.visibility = 'visible';
   modal.style.opacity = '1';
 }
-
-// Añadir evento a las tarjetas de producto
-function manejarClickTarjetasProducto() {
-  document.getElementById('products-grid').addEventListener('click', function(e) {
-    const card = e.target.closest('.product-card');
-    if (card && !e.target.classList.contains('btn-add-to-cart')) {
-      const id = card.querySelector('.btn-add-to-cart').getAttribute('data-id');
-      const producto = productos.find(p => p.id === id);
-      if (producto) mostrarModalProducto(producto);
-    }
-  });
+function cerrarModalProducto() {
+  const modal = document.getElementById('modal-producto');
+  if (modal) {
+    modal.style.opacity = '0';
+    setTimeout(()=>{modal.style.visibility = 'hidden';}, 200);
+  }
 }
+
+// =================== CONTADOR DE OFERTAS (UN SOLO INTERVALO) ===================
+let intervalOfertas = null;
+function actualizarContadorOfertas() {
+  if (intervalOfertas) clearInterval(intervalOfertas);
+  function tick() {
+    document.querySelectorAll(".time-remaining").forEach(contador => {
+      const fechaFin = new Date(contador.getAttribute("data-end")).getTime();
+      const ahora = Date.now();
+      const diferencia = fechaFin - ahora;
+      if (diferencia <= 0) {
+        contador.textContent = "Oferta terminada";
+        return;
+      }
+      const dias = Math.floor(diferencia / (1000 * 60 * 60 * 24));
+      const horas = Math.floor((diferencia % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutos = Math.floor((diferencia % (1000 * 60 * 60)) / (1000 * 60));
+      contador.textContent = `Termina en: ${dias}d ${horas}h ${minutos}m`;
+    });
+  }
+  tick();
+  intervalOfertas = setInterval(tick, 60000);
+}
+
+// =================== CHECKOUT WHATSAPP ===================
+document.getElementById("checkout-btn").addEventListener("click", function () {
+  if (estado.carrito.length === 0) {
+    alert("Tu carrito está vacío. Agrega productos antes de confirmar.");
+    return;
+  }
+  let mensaje = "¡Hola! Estoy interesado en los siguientes productos:\n\n";
+  estado.carrito.forEach(item => {
+    mensaje += `- ${item.nombre} (${item.cantidad} unidad${item.cantidad > 1 ? "es" : ""}) - $${(item.precio * item.cantidad).toFixed(2)}\n`;
+  });
+  const total = estado.carrito.reduce((sum, item) => sum + item.precio * item.cantidad, 0);
+  mensaje += `\n*Total: $${total.toFixed(2)}*\n\n`;
+  mensaje += "Por favor, confírmenme disponibilidad y formas de pago.";
+  window.open(`https://wa.me/5354267103?text=${encodeURIComponent(mensaje)}`, "_blank");
+});
     </script>
     <!-- =================== FIN SCRIPTS =================== -->
   </body>
