@@ -2092,7 +2092,7 @@ function mostrarModalProducto(producto) {
         <p style="color:#6b7280; font-size:1.1rem; margin-bottom:10px;"><b>Marca:</b> ${producto.marca || 'Sin marca'}</p>
         <p style="margin-bottom:10px;">${producto.descripcion}</p>
         <p style="margin-bottom:10px;"><b>Garantía:</b> ${producto.garantia || 'No especificada'}</p>
-        <p style="margin-bottom:10px;"><b>Comisión:</b> ${producto.comision ? formatearPrecio(producto.comision) : 'No aplica'}</p>
+        
         <p style="margin-bottom:10px; font-size:1.3rem;"><b>Precio:</b> <span style="color:#2563eb;">${formatearPrecio(producto.precio)}</span></p>
         <button class="btn-add-to-cart" data-id="${producto.id}" style="margin-top:10px; width:auto;">Añadir al carrito</button>
       </div>
