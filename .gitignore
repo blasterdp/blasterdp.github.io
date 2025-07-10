@@ -1,0 +1,11 @@
+# Ignore all files
+*
+
+# But don't ignore index.html
+!index.html
+
+# Don't ignore directories (so we can traverse them)
+!*/
+
+# Don't ignore .gitignore itself
+!.gitignore
