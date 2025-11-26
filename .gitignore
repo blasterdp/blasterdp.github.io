@@ -4,6 +4,10 @@
 # But don't ignore index.html
 !index.html
 
+# Don't ignore religious-spectrum files
+!religious-spectrum/**
+!religious-spectrum/
+
 # Don't ignore directories (so we can traverse them)
 !*/
 
