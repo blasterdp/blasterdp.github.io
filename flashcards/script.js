@@ -12,7 +12,7 @@ const counter = document.getElementById('counter');
 
 async function loadCSV() {
     try {
-        const response = await fetch('../tarjetas-vaerá/flashcards.csv');
+        const response = await fetch('../tarjetas_variadas/flashcards.csv');
         const text = await response.text();
         const lines = text.split('\n');
         cards = lines.map(line => {
