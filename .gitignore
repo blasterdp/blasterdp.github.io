@@ -20,6 +20,10 @@
 !tarjetas_variadas/**
 !tarjetas_variadas/
 
+# Don't ignore vaera files
+!vaera/**
+!vaera/
+
 # Don't ignore directories (so we can traverse them)
 !*/
 
