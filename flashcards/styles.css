@@ -29,8 +29,33 @@ h1 {
 #counter {
     color: #34495e;
     font-size: 1.5em;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     font-weight: 500;
+}
+
+.options {
+    margin-bottom: 20px;
+}
+
+.options button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+    background: #95a5a6;
+    color: white;
+    transition: all 0.3s ease;
+    font-weight: 500;
+}
+
+.options button.active {
+    background: #e74c3c;
+}
+
+.options button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
 .card-container {
@@ -133,5 +158,9 @@ h1 {
     .controls button {
         padding: 12px 25px;
         font-size: 1.1em;
+    }
+    .options button {
+        padding: 8px 16px;
+        font-size: 0.9em;
     }
 }

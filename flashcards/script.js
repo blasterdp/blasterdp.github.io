@@ -1,6 +1,7 @@
 let cards = [];
 let currentIndex = 0;
 let isFlipped = false;
+let isRandomMode = false;
 
 const card = document.getElementById('card');
 const front = card.querySelector('.front');
@@ -8,6 +9,7 @@ const back = card.querySelector('.back');
 const prevBtn = document.getElementById('prev');
 const nextBtn = document.getElementById('next');
 const flipBtn = document.getElementById('flip');
+const randomBtn = document.getElementById('randomMode');
 const counter = document.getElementById('counter');
 
 async function loadCSV() {
@@ -51,19 +53,37 @@ function updateCounter() {
     counter.textContent = `Tarjeta ${currentIndex + 1} de ${cards.length}`;
 }
 
+function getRandomIndex() {
+    return Math.floor(Math.random() * cards.length);
+}
+
 prevBtn.addEventListener('click', () => {
-    currentIndex = (currentIndex - 1 + cards.length) % cards.length;
+    if (isRandomMode) {
+        currentIndex = getRandomIndex();
+    } else {
+        currentIndex = (currentIndex - 1 + cards.length) % cards.length;
+    }
     showCard();
 });
 
 nextBtn.addEventListener('click', () => {
-    currentIndex = (currentIndex + 1) % cards.length;
+    if (isRandomMode) {
+        currentIndex = getRandomIndex();
+    } else {
+        currentIndex = (currentIndex + 1) % cards.length;
+    }
     showCard();
 });
 
 flipBtn.addEventListener('click', () => {
     card.classList.toggle('flipped');
     isFlipped = !isFlipped;
+});
+
+randomBtn.addEventListener('click', () => {
+    isRandomMode = !isRandomMode;
+    randomBtn.textContent = `Modo Aleatorio: ${isRandomMode ? 'ON' : 'OFF'}`;
+    randomBtn.classList.toggle('active', isRandomMode);
 });
 
 // Allow clicking on card to flip
