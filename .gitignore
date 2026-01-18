@@ -16,6 +16,10 @@
 !flashcards/**
 !flashcards/
 
+# Don't ignore tarjetas-vaerá files
+!tarjetas-vaerá/**
+!tarjetas-vaerá/
+
 # Don't ignore directories (so we can traverse them)
 !*/
 
