@@ -8,6 +8,14 @@
 !religious-spectrum/**
 !religious-spectrum/
 
+# Don't ignore electrohome files
+!electrohome/**
+!electrohome/
+
+# Don't ignore flashcards files
+!flashcards/**
+!flashcards/
+
 # Don't ignore directories (so we can traverse them)
 !*/
 
