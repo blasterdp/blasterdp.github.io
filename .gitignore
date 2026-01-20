@@ -24,6 +24,10 @@
 !vaera/**
 !vaera/
 
+# Don't ignore dia_biblico files
+!dia_biblico/**
+!dia_biblico/
+
 # Don't ignore directories (so we can traverse them)
 !*/
 
