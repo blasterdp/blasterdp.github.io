@@ -9,6 +9,17 @@
 <body>
     <div id="app">
         <h1>Tarjetas de Estudio</h1>
+        <div class="selector-container">
+            <label for="topicSelector">Selecciona un tema:</label>
+            <div class="custom-select-wrapper">
+                <select id="topicSelector">
+                    <option value="">-- Selecciona un tema --</option>
+                </select>
+                <svg class="select-arrow" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                    <path fill="#3498db" d="M6 9L1 4h10z"/>
+                </svg>
+            </div>
+        </div>
         <div id="counter">Tarjeta 1 de 55</div>
         <div class="options">
             <button id="randomMode">Modo Aleatorio: OFF</button>
