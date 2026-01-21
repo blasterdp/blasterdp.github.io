@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Tito 1:14 Reina Valera 1960",
+    "texto": "no atendiendo a fábulas judaicas, ni a mandamientos de hombres que se apartan de la verdad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3361",
+      "texto": "μὴ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4337",
+      "texto": "προσέχοντες",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-PAP-NPM",
+      "traduccion": "prestando atención"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2451",
+      "texto": "Ἰουδαϊκοῖς",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Dativo-Plural-Masculino",
+      "parsing": "A-DPM",
+      "traduccion": "a judaicos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3454",
+      "texto": "μύθοις",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Plural-Masculino",
+      "parsing": "N-DPM",
+      "traduccion": "mitos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1785",
+      "texto": "ἐντολαῖς",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Plural-Femenino",
+      "parsing": "N-DPF",
+      "traduccion": "mandatos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "444",
+      "texto": "ἀνθρώπων",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Plural-Masculino",
+      "parsing": "N-GPM",
+      "traduccion": "de hombres"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "654",
+      "texto": "ἀποστρεφομένων",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Medio-Pasivo-Genitivo-Plural-Masculino",
+      "parsing": "V-PMP-GPM",
+      "traduccion": "volviéndose alejando"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3588",
+      "texto": "τὴν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Femenino",
+      "parsing": "T-ASF",
+      "traduccion": "a la"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "225",
+      "texto": "ἀλήθειαν.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Femenino",
+      "parsing": "N-ASF",
+      "traduccion": "verdad"
+    }
+  ]
+}

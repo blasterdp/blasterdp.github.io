@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Santiago 1:16 Reina Valera 1960",
+    "texto": "Amados hermanos míos, no erréis."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3361",
+      "texto": "Μὴ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "No"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4105",
+      "texto": "πλανᾶσθε,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Pasivo-Imperativo-2ª Persona-Plural",
+      "parsing": "V-PPM-2P",
+      "traduccion": "estén siendo extraviados"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "80",
+      "texto": "ἀδελφοί",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Vocativo-Plural-Masculino",
+      "parsing": "N-VPM",
+      "traduccion": "hermanos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1473",
+      "texto": "μου",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Genitivo-Singular",
+      "parsing": "P-1GS",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "27",
+      "texto": "ἀγαπητοί.",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Vocativo-Plural-Masculino",
+      "parsing": "A-VPM",
+      "traduccion": "amados"
+    }
+  ]
+}

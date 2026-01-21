@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Romanos 6:7 Reina Valera 1960",
+    "texto": "Porque el que ha muerto, ha sido justificado del pecado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "El"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1063",
+      "texto": "γὰρ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "599",
+      "texto": "ἀποθανὼν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-2AAP-NSM",
+      "traduccion": "habiendo muerto"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1344",
+      "texto": "δεδικαίωται",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-RPI-3S",
+      "traduccion": "ha sido absuelto"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "575",
+      "texto": "ἀπὸ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "τῆς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Femenino",
+      "parsing": "T-GSF",
+      "traduccion": "el"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "266",
+      "texto": "ἁμαρτίας.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Femenino",
+      "parsing": "N-GSF",
+      "traduccion": "pecado"
+    }
+  ]
+}

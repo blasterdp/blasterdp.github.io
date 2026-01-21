@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Santiago 1:3 Reina Valera 1960",
+    "texto": "sabiendo que la prueba de vuestra fe produce paciencia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1097",
+      "texto": "γινώσκοντες",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-PAP-NPM",
+      "traduccion": "conociendo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3754",
+      "texto": "ὅτι",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Neutro",
+      "parsing": "T-NSN",
+      "traduccion": "la"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1383",
+      "texto": "δοκίμιον",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Neutro",
+      "parsing": "N-NSN",
+      "traduccion": "demostración probada"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5210",
+      "texto": "ὑμῶν",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Genitivo-Plural",
+      "parsing": "P-2GP",
+      "traduccion": "de ustedes"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "τῆς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Femenino",
+      "parsing": "T-GSF",
+      "traduccion": "de la"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4102",
+      "texto": "πίστεως",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Femenino",
+      "parsing": "N-GSF",
+      "traduccion": "fe"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2716",
+      "texto": "κατεργάζεται",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Deponente Medio o Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PNI-3S",
+      "traduccion": "está obrando completamente"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5281",
+      "texto": "ὑπομονήν.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Femenino",
+      "parsing": "N-ASF",
+      "traduccion": "aguante"
+    }
+  ]
+}

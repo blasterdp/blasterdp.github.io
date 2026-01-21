@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Mateo 7:1 Reina Valera 1960",
+    "texto": "No juzguéis, para que no seáis juzgados."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3361",
+      "texto": "Μὴ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "No"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2919",
+      "texto": "κρίνετε,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Imperativo-2ª Persona-Plural",
+      "parsing": "V-PAM-2P",
+      "traduccion": "estén juzgando"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2443",
+      "texto": "ἵνα",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "para que"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3361",
+      "texto": "μὴ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2919",
+      "texto": "κριθῆτε.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Subjuntivo-2ª Persona-Plural",
+      "parsing": "V-APS-2P",
+      "traduccion": "sean juzgados"
+    }
+  ]
+}

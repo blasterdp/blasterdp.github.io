@@ -1,0 +1,125 @@
+{
+  "versiculo": {
+    "referencia": "Santiago 3:11 Reina Valera 1960",
+    "texto": "¿Acaso alguna fuente echa por una misma abertura agua dulce y amarga?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3385",
+      "texto": "μήτι",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Interrogativa",
+      "parsing": "PRT-I",
+      "traduccion": "No"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3588",
+      "texto": "ἡ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Femenino",
+      "parsing": "T-NSF",
+      "traduccion": "la"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4077",
+      "texto": "πηγὴ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "fuente"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1537",
+      "texto": "ἐκ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "procedente de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "texto": "τῆς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Femenino",
+      "parsing": "T-GSF",
+      "traduccion": "la"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "846",
+      "texto": "αὐτῆς",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Genitivo-Singular-Femenino",
+      "parsing": "P-GSF",
+      "traduccion": "misma"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3692",
+      "texto": "ὀπῆς",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Femenino",
+      "parsing": "N-GSF",
+      "traduccion": "abertura"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1032",
+      "texto": "βρύει",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está borbotoneando"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Neutro",
+      "parsing": "T-ASN",
+      "traduccion": "lo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1099",
+      "texto": "γλυκὺ",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Neutro",
+      "parsing": "A-ASN",
+      "traduccion": "dulce"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Neutro",
+      "parsing": "T-ASN",
+      "traduccion": "lo"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4089",
+      "texto": "πικρόν;",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Neutro",
+      "parsing": "A-ASN",
+      "traduccion": "amargo?"
+    }
+  ]
+}

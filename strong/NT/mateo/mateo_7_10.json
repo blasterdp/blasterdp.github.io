@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Mateo 7:10 Reina Valera 1960",
+    "texto": "¿O si le pide un pescado, le dará una serpiente?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2228",
+      "texto": "ἢ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula",
+      "parsing": "PRT",
+      "traduccion": "O"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "también"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2486",
+      "texto": "ἰχθὺν",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Masculino",
+      "parsing": "N-ASM",
+      "traduccion": "pescado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "154",
+      "texto": "αἰτήσει,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Futuro-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-FAI-3S",
+      "traduccion": "suplicará"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3361",
+      "texto": "μὴ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "¿no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3789",
+      "texto": "ὄφιν",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Masculino",
+      "parsing": "N-ASM",
+      "traduccion": "serpiente"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1929",
+      "texto": "ἐπιδώσει",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Futuro-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-FAI-3S",
+      "traduccion": "dará sobre"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "846",
+      "texto": "αὐτῷ;",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Dativo-Singular-Masculino",
+      "parsing": "P-DSM",
+      "traduccion": "a él?"
+    }
+  ]
+}

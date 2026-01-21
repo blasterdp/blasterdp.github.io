@@ -1,0 +1,44 @@
+{
+  "versiculo": {
+    "referencia": "Romanos 1:22 Reina Valera 1960",
+    "texto": "Profesando ser sabios, se hicieron necios,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5335",
+      "texto": "φάσκοντες",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-PAP-NPM",
+      "traduccion": "alegando"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1510",
+      "texto": "εἶναι",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Infinitivo",
+      "parsing": "V-PAN",
+      "traduccion": "ser"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4680",
+      "texto": "σοφοὶ",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino",
+      "parsing": "A-NPM",
+      "traduccion": "sabios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3471",
+      "texto": "ἐμωράνθησαν,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Indicativo-3ª Persona-Plural",
+      "parsing": "V-API-3P",
+      "traduccion": "fueron hechos necios"
+    }
+  ]
+}

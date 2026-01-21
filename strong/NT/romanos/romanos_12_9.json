@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Romanos 12:9 Reina Valera 1960",
+    "texto": "El amor sea sin fingimiento. Aborreced lo malo, seguid lo bueno."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "texto": "Ἡ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Femenino",
+      "parsing": "T-NSF",
+      "traduccion": "El"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "26",
+      "texto": "ἀγάπη",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "amor"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "505",
+      "texto": "ἀνυπόκριτος.",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Femenino",
+      "parsing": "A-NSF",
+      "traduccion": "sin hipocresía"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "655",
+      "texto": "ἀποστυγοῦντες",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-PAP-NPM",
+      "traduccion": "Aborreciendo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Neutro",
+      "parsing": "T-ASN",
+      "traduccion": "lo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4190",
+      "texto": "πονηρόν,",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Neutro",
+      "parsing": "A-ASN",
+      "traduccion": "malo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2853",
+      "texto": "κολλώμενοι",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Pasivo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-PPP-NPM",
+      "traduccion": "siendo adheridos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3588",
+      "texto": "τῷ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Dativo-Singular-Neutro",
+      "parsing": "T-DSN",
+      "traduccion": "a lo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "18",
+      "texto": "ἀγαθῷ,",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Dativo-Singular-Neutro",
+      "parsing": "A-DSN",
+      "traduccion": "bueno"
+    }
+  ]
+}

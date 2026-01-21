@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Romanos 3:18 Reina Valera 1960",
+    "texto": "No hay temor de Dios delante de sus ojos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3756",
+      "texto": "οὐκ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "No"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1510",
+      "texto": "ἔστιν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está siendo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5401",
+      "texto": "φόβος",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "temor"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2316",
+      "texto": "θεοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "de Dios"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "561",
+      "texto": "ἀπέναντι",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "en lugar opuesto"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "τῶν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Plural-Masculino",
+      "parsing": "T-GPM",
+      "traduccion": "de los"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3788",
+      "texto": "ὀφθαλμῶν",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Plural-Masculino",
+      "parsing": "N-GPM",
+      "traduccion": "ojos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "846",
+      "texto": "αὐτῶν.",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Genitivo-Plural-Masculino",
+      "parsing": "P-GPM",
+      "traduccion": "de ellos"
+    }
+  ]
+}

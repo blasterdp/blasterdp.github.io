@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Mateo 5:27 Reina Valera 1960",
+    "texto": "Oísteis que fue dicho: No cometerás adulterio."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "191",
+      "texto": "Ἠκούσατε",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Activo-Indicativo-2ª Persona-Plural",
+      "parsing": "V-AAI-2P",
+      "traduccion": "Oyeron"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3754",
+      "texto": "ὅτι",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2046",
+      "texto": "ἐρρέθη,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-API-3S",
+      "traduccion": "fue dicho"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3756",
+      "texto": "οὐ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "No"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3431",
+      "texto": "μοιχεύσεις.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Futuro-Activo-Indicativo-2ª Persona-Singular",
+      "parsing": "V-FAI-2S",
+      "traduccion": "cometerás adulterio"
+    }
+  ]
+}

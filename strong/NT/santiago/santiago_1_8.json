@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Santiago 1:8 Reina Valera 1960",
+    "texto": "El hombre de doble ánimo es inconstante en todos sus caminos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "435",
+      "texto": "ἀνὴρ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "varón"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1374",
+      "texto": "δίψυχος,",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino",
+      "parsing": "A-NSM",
+      "traduccion": "de dos almas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "182",
+      "texto": "ἀκατάστατος",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino",
+      "parsing": "A-NSM",
+      "traduccion": "no establecido completamente"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1722",
+      "texto": "ἐν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3956",
+      "texto": "πάσαις",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Dativo-Plural-Femenino",
+      "parsing": "A-DPF",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "ταῖς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Dativo-Plural-Femenino",
+      "parsing": "T-DPF",
+      "traduccion": "los"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3598",
+      "texto": "ὁδοῖς",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Plural-Femenino",
+      "parsing": "N-DPF",
+      "traduccion": "caminos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "846",
+      "texto": "αὐτοῦ.",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Genitivo-Singular-Masculino",
+      "parsing": "P-GSM",
+      "traduccion": "de él"
+    }
+  ]
+}

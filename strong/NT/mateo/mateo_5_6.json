@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Mateo 5:6 Reina Valera 1960",
+    "texto": "Bienaventurados los que tienen hambre y sed de justicia, porque ellos serán saciados."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3107",
+      "texto": "μακάριοι",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino",
+      "parsing": "A-NPM",
+      "traduccion": "Afortunados"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3588",
+      "texto": "οἱ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Plural-Masculino",
+      "parsing": "T-NPM",
+      "traduccion": "los"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3983",
+      "texto": "πεινῶντες",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-PAP-NPM",
+      "traduccion": "teniendo hambre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1372",
+      "texto": "διψῶντες",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-PAP-NPM",
+      "traduccion": "teniendo sed"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "τὴν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Femenino",
+      "parsing": "T-ASF",
+      "traduccion": "a la"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1343",
+      "texto": "δικαιοσύνην,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Femenino",
+      "parsing": "N-ASF",
+      "traduccion": "rectitud"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3754",
+      "texto": "ὅτι",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "846",
+      "texto": "αὐτοὶ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Nominativo-Plural-Masculino",
+      "parsing": "P-NPM",
+      "traduccion": "ellos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5526",
+      "texto": "χορτασθήσονται.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Futuro-Pasivo-Indicativo-3ª Persona-Plural",
+      "parsing": "V-FPI-3P",
+      "traduccion": "serán saciados"
+    }
+  ]
+}

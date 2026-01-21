@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Romanos 11:35 Reina Valera 1960",
+    "texto": "¿O quién le dio a él primero, para que le fuese recompensado?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2228",
+      "texto": "ἢ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula",
+      "parsing": "PRT",
+      "traduccion": "O"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5101",
+      "texto": "τίς",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Interrogativo-Nominativo-Singular-Masculino",
+      "parsing": "I-NSM",
+      "traduccion": "¿Quien"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4272",
+      "texto": "προέδωκεν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-AAI-3S",
+      "traduccion": "dio de antemano"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "846",
+      "texto": "αὐτῷ,",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Dativo-Singular-Masculino",
+      "parsing": "P-DSM",
+      "traduccion": "a él"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "467",
+      "texto": "ἀνταποδοθήσεται",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Futuro-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-FPI-3S",
+      "traduccion": "será recompensado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "846",
+      "texto": "αὐτῷ;",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Dativo-Singular-Masculino",
+      "parsing": "P-DSM",
+      "traduccion": "a él?"
+    }
+  ]
+}

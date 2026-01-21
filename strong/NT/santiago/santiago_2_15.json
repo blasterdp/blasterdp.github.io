@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Santiago 2:15 Reina Valera 1960",
+    "texto": "Y si un hermano o una hermana están desnudos, y tienen necesidad del mantenimiento de cada día,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1437",
+      "texto": "ἐὰν",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "Si alguna vez"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "80",
+      "texto": "ἀδελφὸς",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "hermano"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2228",
+      "texto": "ἢ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula",
+      "parsing": "PRT",
+      "traduccion": "o"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "79",
+      "texto": "ἀδελφὴ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "hermana"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1131",
+      "texto": "γυμνοὶ",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino",
+      "parsing": "A-NPM",
+      "traduccion": "desnudos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5225",
+      "texto": "ὑπάρχωσιν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Subjuntivo-3ª Persona-Plural",
+      "parsing": "V-PAS-3P",
+      "traduccion": "estén existiendo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3007",
+      "texto": "λειπόμενοι",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Pasivo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-PPP-NPM",
+      "traduccion": "siendo faltado"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3588",
+      "texto": "τῆς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Femenino",
+      "parsing": "T-GSF",
+      "traduccion": "de el"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2184",
+      "texto": "ἐφημέρου",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Genitivo-Singular-Femenino",
+      "parsing": "A-GSF",
+      "traduccion": "diario"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5160",
+      "texto": "τροφῆς,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Femenino",
+      "parsing": "N-GSF",
+      "traduccion": "alimento"
+    }
+  ]
+}

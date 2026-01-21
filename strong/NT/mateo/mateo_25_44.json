@@ -1,0 +1,233 @@
+{
+  "versiculo": {
+    "referencia": "Mateo 25:44 Reina Valera 1960",
+    "texto": "Entonces también ellos le responderán diciendo: Señor, ¿cuándo te vimos hambriento, sediento, forastero, desnudo, enfermo, o en la cárcel, y no te servimos?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5119",
+      "texto": "τότε",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "Entonces"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "611",
+      "texto": "ἀποκριθήσονται",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Futuro-Deponente Pasivo-Indicativo-3ª Persona-Plural",
+      "parsing": "V-FOI-3P",
+      "traduccion": "responderán"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "también"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "846",
+      "texto": "αὐτοὶ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Nominativo-Plural-Masculino",
+      "parsing": "P-NPM",
+      "traduccion": "ellos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3004",
+      "texto": "λέγοντες·",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-PAP-NPM",
+      "traduccion": "diciendo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2962",
+      "texto": "κύριε,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Vocativo-Singular-Masculino",
+      "parsing": "N-VSM",
+      "traduccion": "Señor"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4219",
+      "texto": "πότε",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Interrogativa",
+      "parsing": "PRT-I",
+      "traduccion": "¿cuándo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4771",
+      "texto": "σε",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Acusativo-Singular",
+      "parsing": "P-2AS",
+      "traduccion": "a ti"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3708",
+      "texto": "εἴδομεν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Indicativo-1ª Persona-Plural",
+      "parsing": "V-2AAI-1P",
+      "traduccion": "vimos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3983",
+      "texto": "πεινῶντα",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Acusativo-Singular-Masculino",
+      "parsing": "V-PAP-ASM",
+      "traduccion": "teniendo hambre"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2228",
+      "texto": "ἢ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula",
+      "parsing": "PRT",
+      "traduccion": "o"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "1372",
+      "texto": "διψῶντα",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Acusativo-Singular-Masculino",
+      "parsing": "V-PAP-ASM",
+      "traduccion": "teniendo sed"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "2228",
+      "texto": "ἢ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula",
+      "parsing": "PRT",
+      "traduccion": "o"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3581",
+      "texto": "ξένον",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Masculino",
+      "parsing": "A-ASM",
+      "traduccion": "extranjero"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "2228",
+      "texto": "ἢ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula",
+      "parsing": "PRT",
+      "traduccion": "o"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "1131",
+      "texto": "γυμνὸν",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Masculino",
+      "parsing": "A-ASM",
+      "traduccion": "desnudo"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "2228",
+      "texto": "ἢ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula",
+      "parsing": "PRT",
+      "traduccion": "o"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "772",
+      "texto": "ἀσθενῆ",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Masculino",
+      "parsing": "A-ASM",
+      "traduccion": "débil"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "2228",
+      "texto": "ἢ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula",
+      "parsing": "PRT",
+      "traduccion": "o"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "1722",
+      "texto": "ἐν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "5438",
+      "texto": "φυλακῇ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Femenino",
+      "parsing": "N-DSF",
+      "traduccion": "guardia"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "3756",
+      "texto": "οὐ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "1247",
+      "texto": "διηκονήσαμέν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Activo-Indicativo-1ª Persona-Plural",
+      "parsing": "V-AAI-1P",
+      "traduccion": "hicimos servicio"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "4771",
+      "texto": "σοι;",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Dativo-Singular",
+      "parsing": "P-2DS",
+      "traduccion": "a ti?"
+    }
+  ]
+}

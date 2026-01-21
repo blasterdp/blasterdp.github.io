@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblia con Referencias Strong</title>
+    <link href="bootstrap.min.css" rel="stylesheet">
+    <script src="bootstrap.bundle.min.js"></script>
+    <style>
+        .word {
+            cursor: pointer;
+            color: blue;
+            text-decoration: underline;
+        }
+        .word:hover {
+            color: darkblue;
+            background-color: lightblue;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+        .definition {
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 5px;
+        }
+        .versiculo-hover {
+            padding: 5px;
+            border-radius: 3px;
+        }
+        .popover {
+            --bs-popover-bg: #fff3cd;
+            --bs-popover-border-color: #ffc107;
+            --bs-popover-header-color: #856404;
+            --bs-popover-body-color: #212529;
+            font-size: 14px;
+            max-width: 300px;
+        }
+        .popover-header {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Biblia con Referencias Strong - Capítulos Completos</h1>
+        <div class="row mb-4">
+            <div class="col-md-3">
+                <label for="testamento" class="form-label">Testamento</label>
+                <select id="testamento" class="form-select">
+                    <option value="AT">Antiguo Testamento</option>
+                    <option value="NT">Nuevo Testamento</option>
+                </select>
+            </div>
+            <div class="col-md-3">
+                <label for="libro" class="form-label">Libro</label>
+                <select id="libro" class="form-select">
+                    <!-- Libros se cargarán dinámicamente -->
+                </select>
+            </div>
+            <div class="col-md-3">
+                <label for="capitulo" class="form-label">Capítulo</label>
+                <select id="capitulo" class="form-select">
+                    <!-- Capítulos se cargarán dinámicamente -->
+                </select>
+            </div>
+            <div class="col-md-3">
+                <label for="vista" class="form-label">Vista</label>
+                <select id="vista" class="form-select">
+                    <option value="todos">Todos</option>
+                    <option value="hebreo">Solo Hebreo</option>
+                    <option value="griego">Solo Griego</option>
+                </select>
+            </div>
+            <!-- Removido selector de versículo -->
+        </div>
+        <div id="capitulo-header" class="mb-4 text-center"></div>
+        <div class="d-flex justify-content-between mb-4">
+            <button id="prev-capitulo" class="btn btn-secondary">Capítulo Anterior</button>
+            <button id="next-capitulo" class="btn btn-secondary">Capítulo Siguiente</button>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <h3>Reina Valera 1960</h3>
+                <div id="texto-rv" class="mb-4"></div>
+            </div>
+            <div class="col-md-6">
+                <h3>Texto Strong</h3>
+                <div id="texto-strong" class="mb-4"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const librosAT = [
+            'génesis', 'éxodo', 'levítico', 'números', 'deuteronomio', 'josué', 'jueces', 'rut', '1 samuel', '2 samuel',
+            '1 reyes', '2 reyes', '1 crónicas', '2 crónicas', 'esdras', 'nehemías', 'ester', 'job', 'salmos', 'proverbios',
+            'eclesiastés', 'cantares', 'isaías', 'jeremías', 'lamentaciones', 'ezequiel', 'daniel', 'oseas', 'joel', 'amós',
+            'abdías', 'jonás', 'miqueas', 'nahúm', 'habacuc', 'sofonías', 'hageo', 'zacarías', 'malaquías'
+        ];
+
+        const librosNT = [
+            'mateo', 'marcos', 'lucas', 'juan', 'hechos', 'romanos', '1 corintios', '2 corintios', 'gálatas', 'efesios',
+            'filipenses', 'colosenses', '1 tesalonicenses', '2 tesalonicenses', '1 timoteo', '2 timoteo', 'tito', 'filemón',
+            'hebreos', 'santiago', '1 pedro', '2 pedro', '1 juan', '2 juan', '3 juan', 'judas', 'apocalipsis'
+        ];
+
+        let strongDataHebreo = {};
+        let strongDataGriego = {};
+        let currentTestament = 'AT';
+
+        function updateVistaOptions() {
+            const vistaSelect = document.getElementById('vista');
+            vistaSelect.innerHTML = '';
+            const optionTodos = document.createElement('option');
+            optionTodos.value = 'todos';
+            optionTodos.textContent = 'Todos';
+            vistaSelect.appendChild(optionTodos);
+            if (currentTestament === 'AT') {
+                const optionHebreo = document.createElement('option');
+                optionHebreo.value = 'hebreo';
+                optionHebreo.textContent = 'Hebreo';
+                vistaSelect.appendChild(optionHebreo);
+            } else {
+                const optionGriego = document.createElement('option');
+                optionGriego.value = 'griego';
+                optionGriego.textContent = 'Griego';
+                vistaSelect.appendChild(optionGriego);
+            }
+        }
+
+        updateVistaOptions();
+
+        async function loadStrongData() {
+            const hebrewFiles = Array.from({length: 868}, (_, i) => `strong_hebrew_pagina_${i+1}.json`);
+            const greekFiles = Array.from({length: 553}, (_, i) => `strong_greek_pagina_${i+1}.json`);
+
+            const loadFiles = async (files, path, target) => {
+                for (const file of files) {
+                    try {
+                        const response = await fetch(`${path}/${file}`);
+                        const data = await response.json();
+                        data.forEach(item => {
+                            target[item.cod] = item;
+                        });
+                    } catch (e) {
+                        // Ignorar archivos que no existen
+                    }
+                }
+            };
+
+            await Promise.all([
+                loadFiles(hebrewFiles, 'strong_hebreo', strongDataHebreo),
+                loadFiles(greekFiles, 'strong_griego', strongDataGriego)
+            ]);
+        }
+
+        function populateLibros() {
+            const testamento = document.getElementById('testamento').value;
+            const libroSelect = document.getElementById('libro');
+            libroSelect.innerHTML = '';
+            const libros = testamento === 'AT' ? librosAT : librosNT;
+            libros.forEach(libro => {
+                const option = document.createElement('option');
+                option.value = libro;
+                option.textContent = libro.charAt(0).toUpperCase() + libro.slice(1);
+                libroSelect.appendChild(option);
+            });
+            populateCapitulos();
+            updateVistaOptions();
+        }
+
+        function populateCapitulos() {
+            // Para simplificar, asumir capítulos 1-50, pero en realidad cargar dinámicamente
+            const capituloSelect = document.getElementById('capitulo');
+            capituloSelect.innerHTML = '';
+            for (let i = 1; i <= 50; i++) {
+                const option = document.createElement('option');
+                option.value = i;
+                option.textContent = i;
+                capituloSelect.appendChild(option);
+            }
+            populateVersiculos();
+        }
+
+        function populateVersiculos() {
+            // No necesitamos selector de versículo, cargamos el capítulo completo
+            loadCapitulo();
+        }
+
+        function getFilePrefix(libro, testamento) {
+            if (testamento === 'AT') {
+                const prefixMapAT = {
+                    '1 samuel': '1ra',
+                    '2 samuel': '2da',
+                    '1 reyes': '1ra',
+                    '2 reyes': '2da',
+                    '1 crónicas': '1ra',
+                    '2 crónicas': '2da'
+                };
+                return prefixMapAT[libro] || libro;
+            } else {
+                const prefixMapNT = {
+                    '1 corintios': '1ra corintios',
+                    '2 corintios': '2da corintios',
+                    '1 tesalonicenses': '1ra tesalonicenses',
+                    '2 tesalonicenses': '2da tesalonicenses',
+                    '1 timoteo': '1ra timoteo',
+                    '2 timoteo': '2da timoteo',
+                    '1 pedro': '1ra pedro',
+                    '2 pedro': '2da pedro',
+                    '1 juan': '1ra juan',
+                    '2 juan': '2da juan',
+                    '3 juan': '3ra juan'
+                };
+                return prefixMapNT[libro] || libro;
+            }
+        }
+
+        async function loadCapitulo() {
+            const testamento = document.getElementById('testamento').value;
+            currentTestament = testamento;
+            const libro = document.getElementById('libro').value;
+            const capitulo = document.getElementById('capitulo').value;
+            const prefix = getFilePrefix(libro, testamento);
+
+            const versiculos = [];
+            let versiculo = 1;
+            while (true) {
+                const path = `${testamento}/${libro}/${prefix}_${capitulo}_${versiculo}.json`;
+                try {
+                    const response = await fetch(path);
+                    if (!response.ok) break;
+                    const data = await response.json();
+                    versiculos.push(data);
+                    versiculo++;
+                } catch (error) {
+                    break;
+                }
+            }
+            displayCapitulo(versiculos);
+            initPopovers();
+        }
+
+        function displayCapitulo(versiculos) {
+            if (versiculos.length === 0) {
+                document.getElementById('capitulo-header').innerHTML = 'Capítulo no encontrado.';
+                document.getElementById('texto-rv').innerHTML = '';
+                document.getElementById('texto-strong').innerHTML = '';
+                return;
+            }
+
+            // Extraer libro y capítulo de la primera referencia
+            const referencia = versiculos[0].versiculo.referencia;
+            const match = referencia.match(/^(.+?) (\d+):(\d+) (.+)$/);
+            if (match) {
+                const libro = match[1];
+                const capitulo = match[2];
+                const version = match[4];
+                document.getElementById('capitulo-header').innerHTML = `<h2>${libro} ${capitulo} ${version}</h2>`;
+            }
+
+            const textoRvDiv = document.getElementById('texto-rv');
+            const textoStrongDiv = document.getElementById('texto-strong');
+            textoRvDiv.innerHTML = '';
+            textoStrongDiv.innerHTML = '';
+
+            versiculos.forEach((data, index) => {
+                const versiculoNum = index + 1;
+                const versiculoId = `versiculo-${versiculoNum}`;
+
+                // Columna RV
+                const rvDiv = document.createElement('div');
+                rvDiv.id = `${versiculoId}-rv`;
+                rvDiv.className = 'versiculo-hover';
+                rvDiv.innerHTML = `<p><sup>${versiculoNum}</sup> ${data.versiculo.texto}</p>`;
+                textoRvDiv.appendChild(rvDiv);
+
+                // Columna Strong
+                const strongDiv = document.createElement('div');
+                strongDiv.id = `${versiculoId}-strong`;
+                strongDiv.className = 'versiculo-hover';
+                const idioma = currentTestament === 'AT' ? 'hebreo' : 'griego';
+                 const words = data.analisisInterlineal.map(item => {
+                     const original = currentTestament === 'AT' ? item.hebreo : item.texto;
+                     return `<span class="word" data-bs-toggle="popover" data-bs-placement="top" data-strong="${item.strongNumber}" data-idioma="${idioma}" data-traduccion="${item.traduccion}" data-original="${original}">${item.traduccion}</span>`;
+                 }).join(' ');
+                strongDiv.innerHTML = `<p><sup>${versiculoNum}</sup> ${words}</p>`;
+                textoStrongDiv.appendChild(strongDiv);
+            });
+        }
+
+
+        // Función para inicializar popovers
+        function initPopovers() {
+            const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]');
+            [...popoverTriggerList].forEach(popoverTriggerEl => {
+                const strongNumber = popoverTriggerEl.dataset.strong;
+                const idioma = popoverTriggerEl.dataset.idioma;
+                const data = idioma === 'hebreo' ? strongDataHebreo : strongDataGriego;
+                const def = data[strongNumber];
+                const palabraOrig = popoverTriggerEl.dataset.original;
+                const title = idioma === 'hebreo' ? `<span style="direction: rtl; display: inline-block;">${palabraOrig}</span>` : palabraOrig;
+                const content = def ? `<strong>${palabraOrig}</strong> (${def.pron})<br>${def.definicion}` : 'Definición no encontrada.';
+                const popover = new bootstrap.Popover(popoverTriggerEl, {
+                    title: title,
+                    content: content,
+                    html: true,
+                    placement: 'top',
+                    trigger: 'click focus'
+                });
+            });
+        }
+
+        document.addEventListener('mouseover', function(e) {
+            if (e.target.closest('.versiculo-hover')) {
+                const target = e.target.closest('.versiculo-hover');
+                const id = target.id;
+                const baseId = id.replace('-rv', '').replace('-strong', '');
+                const rvDiv = document.getElementById(`${baseId}-rv`);
+                const strongDiv = document.getElementById(`${baseId}-strong`);
+                if (rvDiv) rvDiv.style.backgroundColor = '#e9ecef';
+                if (strongDiv) strongDiv.style.backgroundColor = '#e9ecef';
+            }
+        });
+
+        document.addEventListener('mouseout', function(e) {
+            if (e.target.closest('.versiculo-hover')) {
+                const target = e.target.closest('.versiculo-hover');
+                const id = target.id;
+                const baseId = id.replace('-rv', '').replace('-strong', '');
+                const rvDiv = document.getElementById(`${baseId}-rv`);
+                const strongDiv = document.getElementById(`${baseId}-strong`);
+                if (rvDiv) rvDiv.style.backgroundColor = '';
+                if (strongDiv) strongDiv.style.backgroundColor = '';
+            }
+        });
+
+        function updateWords(vista) {
+            const words = document.querySelectorAll('.word');
+            words.forEach(word => {
+                const idioma = word.dataset.idioma;
+                if (vista === 'todos') {
+                    word.innerHTML = word.dataset.traduccion;
+                    word.style.direction = 'ltr';
+                } else if (vista === 'hebreo' && idioma === 'hebreo') {
+                    word.innerHTML = word.dataset.original;
+                    word.style.direction = 'rtl';
+                } else if (vista === 'griego' && idioma === 'griego') {
+                    word.innerHTML = word.dataset.original;
+                    word.style.direction = 'ltr';
+                } else {
+                    word.innerHTML = word.dataset.traduccion;
+                    word.style.direction = 'ltr';
+                }
+            });
+        }
+
+        document.getElementById('testamento').addEventListener('change', populateLibros);
+        document.getElementById('libro').addEventListener('change', populateCapitulos);
+        document.getElementById('capitulo').addEventListener('change', populateVersiculos);
+
+        document.getElementById('vista').addEventListener('change', function() {
+            const vista = this.value;
+            updateWords(vista);
+        });
+
+        document.getElementById('prev-capitulo').addEventListener('click', async () => {
+            const testamentoSelect = document.getElementById('testamento');
+            const libroSelect = document.getElementById('libro');
+            const capituloSelect = document.getElementById('capitulo');
+            const testamento = testamentoSelect.value;
+            const libro = libroSelect.value;
+            const currentCap = parseInt(capituloSelect.value);
+            if (currentCap > 1) {
+                capituloSelect.value = currentCap - 1;
+                populateVersiculos();
+            } else {
+                const libros = testamento === 'AT' ? librosAT : librosNT;
+                const currentIndex = libros.indexOf(libro);
+                if (currentIndex > 0) {
+                    libroSelect.value = libros[currentIndex - 1];
+                    populateCapitulos();
+                    // Find the last chapter
+                    for (let cap = 50; cap >= 1; cap--) {
+                        const prevLibro = libros[currentIndex - 1];
+                        const prevPrefix = getFilePrefix(prevLibro, testamento);
+                        const path = `${testamento}/${prevLibro}/${prevPrefix}_${cap}_1.json`;
+                        try {
+                            const response = await fetch(path);
+                            if (response.ok) {
+                                capituloSelect.value = cap;
+                                populateVersiculos();
+                                break;
+                            }
+                        } catch (e) {}
+                    }
+                } else if (testamento === 'NT') {
+                    testamentoSelect.value = 'AT';
+                    populateLibros();
+                    libroSelect.value = librosAT[librosAT.length - 1];
+                    populateCapitulos();
+                    // Find the last chapter of the last book in AT
+                    for (let cap = 50; cap >= 1; cap--) {
+                        const lastLibro = librosAT[librosAT.length - 1];
+                        const lastPrefix = getFilePrefix(lastLibro, 'AT');
+                        const path = `AT/${lastLibro}/${lastPrefix}_${cap}_1.json`;
+                        try {
+                            const response = await fetch(path);
+                            if (response.ok) {
+                                capituloSelect.value = cap;
+                                populateVersiculos();
+                                break;
+                            }
+                        } catch (e) {}
+                    }
+                }
+            }
+        });
+
+        document.getElementById('next-capitulo').addEventListener('click', async () => {
+            const testamentoSelect = document.getElementById('testamento');
+            const libroSelect = document.getElementById('libro');
+            const capituloSelect = document.getElementById('capitulo');
+            const testamento = testamentoSelect.value;
+            const libro = libroSelect.value;
+            const currentCap = parseInt(capituloSelect.value);
+            const nextCap = currentCap + 1;
+            const prefix = getFilePrefix(libro, testamento);
+            const path = `${testamento}/${libro}/${prefix}_${nextCap}_1.json`;
+            try {
+                const response = await fetch(path);
+                if (response.ok) {
+                    capituloSelect.value = nextCap;
+                    populateVersiculos();
+                } else {
+                    throw new Error();
+                }
+            } catch (e) {
+                // Change book
+                const libros = testamento === 'AT' ? librosAT : librosNT;
+                const currentIndex = libros.indexOf(libro);
+                if (currentIndex < libros.length - 1) {
+                    libroSelect.value = libros[currentIndex + 1];
+                    populateCapitulos();
+                    capituloSelect.value = 1;
+                    populateVersiculos();
+                } else if (testamento === 'AT') {
+                    testamentoSelect.value = 'NT';
+                    populateLibros();
+                    libroSelect.value = librosNT[0];
+                    populateCapitulos();
+                    capituloSelect.value = 1;
+                    populateVersiculos();
+                }
+                // If at the end of NT, do nothing
+            }
+        });
+
+        // Inicializar
+        loadStrongData().then(() => {
+            populateLibros();
+        });
+
+    </script>
+</body>
+</html>
