@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:32 Reina Valera 1960",
+    "texto": "Por el camino de tus mandamientos correré, Cuando ensanches mi corazón."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דֶּֽרֶךְ־",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "camino"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4687",
+      "hebreo": "מִצְוָה",
+      "transliteracion": "מִצְוֹתֶ֥יךָ",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.SG",
+      "traduccion": "de tus mandamientos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7323",
+      "hebreo": "רוץ",
+      "transliteracion": "אָר֑וּץ",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "correré"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֖י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7337",
+      "hebreo": "רחב",
+      "transliteracion": "תַרְחִ֣יב",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG",
+      "traduccion": "tú ensanchas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִבִּֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi corazón"
+    }
+  ]
+}

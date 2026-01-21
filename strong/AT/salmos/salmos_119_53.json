@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:53 Reina Valera 1960",
+    "texto": "Horror se apoderó de mí a causa de los inicuos Que dejan tu ley."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2152",
+      "hebreo": "זַלְעָפָה",
+      "transliteracion": "זַלְעָפָ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "profunda indignación"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "270",
+      "hebreo": "אחז",
+      "transliteracion": "אֲ֭חָזַתְנִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "se ha apoderado de mí"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a causa"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de los impíos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5800",
+      "hebreo": "עזב",
+      "transliteracion": "עֹ֝זְבֵ֗י",
+      "parsingLabel": "verbo qal participio desconocido masculino plural constructivo",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.C",
+      "traduccion": "que abandonan"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8451",
+      "hebreo": "תֹּורָה",
+      "transliteracion": "תֹּורָתֶֽךָ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu ley"
+    }
+  ]
+}

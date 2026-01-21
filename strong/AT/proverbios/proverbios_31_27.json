@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 31:27 Reina Valera 1960",
+    "texto": "Considera los caminos de su casa, Y no come el pan de balde."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6822",
+      "hebreo": "צפה",
+      "transliteracion": "צֹ֭ופִיָּה",
+      "parsingLabel": "verbo qal participio desconocido femenino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.F.SG.A",
+      "traduccion": "vigila"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1979",
+      "hebreo": "הֲלִיכָה",
+      "transliteracion": "הֲלִיכֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "marchas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּיתָ֑הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "de su casa"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3899",
+      "hebreo": "לֶחֶם",
+      "transliteracion": "לֶ֥חֶם",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "pan"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6104",
+      "hebreo": "עַצְלוּת",
+      "transliteracion": "עַ֝צְל֗וּת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de ociosidad"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "תֹאכֵֽל׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "come"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 104:4 Reina Valera 1960",
+    "texto": "El que hace a los vientos sus mensajeros, Y a las flamas de fuego sus ministros."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עֹשֶׂ֣ה",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "el que hace"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4397",
+      "hebreo": "מַלְאָךְ",
+      "transliteracion": "מַלְאָכָ֣יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "mensajeros suyos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "רוּחֹ֑ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "a vientos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8334",
+      "hebreo": "שׁרת",
+      "transliteracion": "מְ֝שָׁרְתָ֗יו",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "ministros suyos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "784",
+      "hebreo": "אֵשׁ",
+      "transliteracion": "אֵ֣שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "al fuego"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3857",
+      "hebreo": "להט",
+      "transliteracion": "לֹהֵֽט׃",
+      "parsingLabel": "adjetivo qal participio desconocido masculino singular absoluto",
+      "parsing": "ADJV.QAL.PTCA.U.M.SG.A",
+      "traduccion": "llameante"
+    }
+  ]
+}

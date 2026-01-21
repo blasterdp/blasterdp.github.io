@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Números 24:5 Reina Valera 1960",
+    "texto": "¡Cuán hermosas son tus tiendas, oh Jacob, Tus habitaciones, oh Israel!"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מַה־",
+      "parsingLabel": "interrogativo partículo desconocido desconocido",
+      "parsing": "INRG.U.U",
+      "traduccion": "Cuán"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2895",
+      "hebreo": "טוב",
+      "transliteracion": "טֹּ֥בוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "hermosas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "168",
+      "hebreo": "אֹהֶל",
+      "transliteracion": "אֹהָלֶ֖יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus tiendas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3290",
+      "hebreo": "יַעֲקֹב",
+      "transliteracion": "יַעֲקֹ֑ב",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Jacob"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4908",
+      "hebreo": "מִשְׁכָּן",
+      "transliteracion": "מִשְׁכְּנֹתֶ֖יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus habitaciones"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵֽל׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Jeremías 13:15 Reina Valera 1960",
+    "texto": "Escuchad y oíd; no os envanezcáis, pues Jehová ha hablado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שִׁמְע֥וּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "escuchad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "238",
+      "hebreo": "אזן",
+      "transliteracion": "הַאֲזִ֖ינוּ",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPV.P2.M.PL",
+      "traduccion": "prestad atención"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1361",
+      "hebreo": "גָּבַהּ",
+      "transliteracion": "תִּגְבָּ֑הוּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.PL",
+      "traduccion": "seáis arrogantes"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֥י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֖ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "דִּבֵּֽר׃",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "habló"
+    }
+  ]
+}

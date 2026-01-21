@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Isaías 27:7 Reina Valera 1960",
+    "texto": "¿Acaso ha sido herido como quien lo hirió, o ha sido muerto como los que lo mataron?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הַ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿acaso"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4347",
+      "hebreo": "מַכָּה",
+      "transliteracion": "מַכַּ֥ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "golpe de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5221",
+      "hebreo": "נכה",
+      "transliteracion": "מַכֵּ֖הוּ",
+      "parsingLabel": "sustantivo hif‘il participio desconocido masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.HIF.PTCA.U.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "golpeador a él"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5221",
+      "hebreo": "נכה",
+      "transliteracion": "הִכָּ֑הוּ",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "le golpeó"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2027",
+      "hebreo": "הֶרֶג",
+      "transliteracion": "הֶ֥רֶג",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "matar de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2026",
+      "hebreo": "הרג",
+      "transliteracion": "הֲרֻגָ֖יו",
+      "parsingLabel": "sustantivo qal participio (passive) desconocido masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCP.U.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus matadores"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2026",
+      "hebreo": "הרג",
+      "transliteracion": "הֹרָֽג׃",
+      "parsingLabel": "verbo pu“al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PUAL.PERF.P3.M.SG",
+      "traduccion": "fue matado?"
+    }
+  ]
+}

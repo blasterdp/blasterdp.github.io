@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 6:31 Reina Valera 1960",
+    "texto": "Pero si es sorprendido, pagará siete veces; Entregará todo el haber de su casa."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "נִמְצָא",
+      "parsingLabel": "verbo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.M.SG.A",
+      "traduccion": "es hallado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7999",
+      "hebreo": "שׁלם",
+      "transliteracion": "יְשַׁלֵּ֣ם",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "abonará"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7651",
+      "hebreo": "שֶׁבַע",
+      "transliteracion": "שִׁבְעָתָ֑יִם",
+      "parsingLabel": "adverbio femenino dual absoluto",
+      "parsing": "ADVB.F.DU.A",
+      "traduccion": "séptulo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "toda"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1952",
+      "hebreo": "הֹון",
+      "transliteracion": "הֹ֖ון",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "riqueza"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּיתֹ֣ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su casa"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "יִתֵּֽן׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "dará"
+    }
+  ]
+}

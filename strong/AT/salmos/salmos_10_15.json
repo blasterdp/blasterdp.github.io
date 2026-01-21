@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 10:15 Reina Valera 1960",
+    "texto": "Quebranta tú el brazo del inicuo, Y persigue la maldad del malo hasta que no halles ninguna."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7665",
+      "hebreo": "שׁבר",
+      "transliteracion": "שְׁ֭בֹר",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "quiebra"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2220",
+      "hebreo": "זְרֹועַ",
+      "transliteracion": "זְרֹ֣ועַ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "brazo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רָשָׁ֑ע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del impío"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7451",
+      "hebreo": "רַע",
+      "transliteracion": "רָ֗ע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del malvado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1875",
+      "hebreo": "דרשׁ",
+      "transliteracion": "תִּֽדְרֹושׁ־",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "pide cuentas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7562",
+      "hebreo": "רֶשַׁע",
+      "transliteracion": "רִשְׁעֹ֥ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su maldad"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1077",
+      "hebreo": "בַּל",
+      "transliteracion": "בַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "תִּמְצָֽא׃",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "halles"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 6:8 Reina Valera 1960",
+    "texto": "Prepara en el verano su comida, Y recoge en el tiempo de la siega su mantenimiento."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3559",
+      "hebreo": "כון",
+      "transliteracion": "תָּכִ֣ין",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.F.SG",
+      "traduccion": "se provee"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7019",
+      "hebreo": "קַיִץ",
+      "transliteracion": "קַּ֣יִץ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "verano"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3899",
+      "hebreo": "לֶחֶם",
+      "transliteracion": "לַחְמָ֑הּ",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.F.SG",
+      "traduccion": "de su pan"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "103",
+      "hebreo": "אגר",
+      "transliteracion": "אָגְרָ֥ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "recoge"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7105",
+      "hebreo": "קָצִיר",
+      "transliteracion": "קָּצִ֗יר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "cosecha"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3978",
+      "hebreo": "מַאֲכָל",
+      "transliteracion": "מַאֲכָלָֽהּ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "su alimento"
+    }
+  ]
+}

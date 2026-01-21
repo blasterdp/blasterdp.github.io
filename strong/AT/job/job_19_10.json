@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 19:10 Reina Valera 1960",
+    "texto": "Me arruinó por todos lados, y perezco; Y ha hecho pasar mi esperanza como árbol arrancado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5422",
+      "hebreo": "נתץ",
+      "transliteracion": "יִתְּצֵ֣נִי",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me quebranta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5439",
+      "hebreo": "סָבִיב",
+      "transliteracion": "סָ֭בִיב",
+      "parsingLabel": "adverbio desconocido singular absoluto",
+      "parsing": "ADVB.U.SG.A",
+      "traduccion": "por todas partes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "אֵלַ֑ךְ",
+      "parsingLabel": "verbo qal wayyiqtol 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.WAYQ.P1.U.SG",
+      "traduccion": "desaparezco"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5265",
+      "hebreo": "נסע",
+      "transliteracion": "יַּסַּ֥ע",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG",
+      "traduccion": "arranca"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כָּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6086",
+      "hebreo": "עֵץ",
+      "transliteracion": "עֵ֗ץ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "árbol"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8615",
+      "hebreo": "תִּקְוָה",
+      "transliteracion": "תִּקְוָתִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi esperanza"
+    }
+  ]
+}

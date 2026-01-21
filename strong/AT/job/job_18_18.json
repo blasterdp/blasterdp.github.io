@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 18:18 Reina Valera 1960",
+    "texto": "De la luz será lanzado a las tinieblas, Y echado fuera del mundo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1920",
+      "hebreo": "הדף",
+      "transliteracion": "יֶ֭הְדְּפֻהוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL.PRS.P3.M.SG",
+      "traduccion": "lo empujan"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "216",
+      "hebreo": "אֹור",
+      "transliteracion": "אֹ֣ור",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "luz"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2822",
+      "hebreo": "חֹשֶׁךְ",
+      "transliteracion": "חֹ֑שֶׁךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "tinieblas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8398",
+      "hebreo": "תֵּבֵל",
+      "transliteracion": "תֵּבֵ֥ל",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "mundo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5074",
+      "hebreo": "נדד",
+      "transliteracion": "יְנִדֻּֽהוּ׃",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL.PRS.P3.M.SG",
+      "traduccion": "lo ahuyentan"
+    }
+  ]
+}

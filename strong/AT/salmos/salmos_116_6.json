@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 116:6 Reina Valera 1960",
+    "texto": "Jehová guarda a los sencillos; Estaba yo postrado, y me salvó."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "שֹׁמֵ֣ר",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "guarda"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6612",
+      "hebreo": "פֶּתִי",
+      "transliteracion": "פְּתָאיִ֣ם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "a sencillos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהֹוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1809",
+      "hebreo": "דלל",
+      "transliteracion": "דַּ֝לֹּותִ֗י",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "yo estaba postrado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֣י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "me"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3467",
+      "hebreo": "ישׁע",
+      "transliteracion": "יְהֹושִֽׁיעַ׃",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "salvó"
+    }
+  ]
+}

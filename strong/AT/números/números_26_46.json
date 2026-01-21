@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Números 26:46 Reina Valera 1960",
+    "texto": "Y el nombre de la hija de Aser fue Sera."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שֵׁ֥ם",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "nombre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1323",
+      "hebreo": "בַּת",
+      "transliteracion": "בַּת־",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "hija de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "836",
+      "hebreo": "אָשֵׁר",
+      "transliteracion": "אָשֵׁ֖ר",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Aser"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8294",
+      "hebreo": "שֶׂרַח",
+      "transliteracion": "שָֽׂרַח׃",
+      "parsingLabel": "nombre propio femenino singular absoluto",
+      "parsing": "NMPR.F.SG.A",
+      "traduccion": "Sera."
+    }
+  ]
+}

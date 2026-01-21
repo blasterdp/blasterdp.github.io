@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 20:12 Reina Valera 1960",
+    "texto": "El oído que oye, y el ojo que ve, Ambas cosas igualmente ha hecho Jehová."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אֹ֣זֶן",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "oído"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שֹׁ֖מַעַת",
+      "parsingLabel": "verbo qal participio desconocido femenino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.F.SG.A",
+      "traduccion": "que oye"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עַ֣יִן",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ojo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רֹאָ֑ה",
+      "parsingLabel": "verbo qal participio desconocido femenino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.F.SG.A",
+      "traduccion": "que ve"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֝הוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עָשָׂ֥ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ha hecho"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "pro igual"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁנֵיהֶֽם׃",
+      "parsingLabel": "sustantivo desconocido dual absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.U.DU.A.PRS.P3.M.PL",
+      "traduccion": "ambos"
+    }
+  ]
+}

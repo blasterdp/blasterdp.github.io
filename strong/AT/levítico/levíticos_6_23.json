@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Levíticos 6:23 Reina Valera 1960",
+    "texto": "Toda ofrenda de sacerdote será enteramente quemada; no se comerá."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "toda"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4503",
+      "hebreo": "מִנְחָה",
+      "transliteracion": "מִנְחַ֥ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "ofrenda vegetal de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3548",
+      "hebreo": "כֹּהֵן",
+      "transliteracion": "כֹּהֵ֛ן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "sacerdote"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3632",
+      "hebreo": "כָּלִיל",
+      "transliteracion": "כָּלִ֥יל",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "totalmente"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "תִּהְיֶ֖ה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "será"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "תֵאָכֵֽל׃ פ",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.F.SG",
+      "traduccion": "se comerá"
+    }
+  ]
+}

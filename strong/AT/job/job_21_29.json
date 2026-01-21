@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 21:29 Reina Valera 1960",
+    "texto": "¿No habéis preguntado a los que pasan por los caminos, Y no habéis conocido su respuesta,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7592",
+      "hebreo": "שׁאל",
+      "transliteracion": "שְׁ֭אֶלְתֶּם",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.PERF.P2.M.PL",
+      "traduccion": "habéis preguntado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "עֹ֣ובְרֵי",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "a los que van"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דָ֑רֶךְ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de camino"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "226",
+      "hebreo": "אֹות",
+      "transliteracion": "אֹתֹתָ֗ם",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.PL",
+      "traduccion": "a sus indicaciones"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5234",
+      "hebreo": "נכר",
+      "transliteracion": "תְנַכֵּֽרוּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.PL",
+      "traduccion": "habéis atendido"
+    }
+  ]
+}

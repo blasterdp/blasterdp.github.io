@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 9:18 Reina Valera 1960",
+    "texto": "No me ha concedido que tome aliento, Sino que me ha llenado de amarguras."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "יִ֭תְּנֵנִי",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me ha concedido"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "הָשֵׁ֣ב",
+      "parsingLabel": "verbo hif‘il infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.HIF.INFA.U.U.U.A",
+      "traduccion": "recobrar"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "רוּחִ֑י",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi aliento"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֥י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "sino que"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7646",
+      "hebreo": "שׂבע",
+      "transliteracion": "יַ֝שְׂבִּעַ֗נִי",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me colma de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4472",
+      "hebreo": "מַמְּרֹורִים",
+      "transliteracion": "מַמְּרֹרִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "amarguras"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 106:6 Reina Valera 1960",
+    "texto": "Pecamos nosotros, como nuestros padres; Hicimos iniquidad, hicimos impiedad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2398",
+      "hebreo": "חטא",
+      "transliteracion": "חָטָ֥אנוּ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P1.U.PL",
+      "traduccion": "hemos pecado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אֲבֹותֵ֗ינוּ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestros padres"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5753",
+      "hebreo": "עוה",
+      "transliteracion": "הֶעֱוִ֥ינוּ",
+      "parsingLabel": "verbo hif‘il perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.HIF.PERF.P1.U.PL",
+      "traduccion": "hicimos iniquidad"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7561",
+      "hebreo": "רשׁע",
+      "transliteracion": "הִרְשָֽׁעְנוּ׃",
+      "parsingLabel": "verbo hif‘il perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.HIF.PERF.P1.U.PL",
+      "traduccion": "ser culpable"
+    }
+  ]
+}

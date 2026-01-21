@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 107:5 Reina Valera 1960",
+    "texto": "Hambrientos y sedientos, Su alma desfallecía en ellos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7457",
+      "hebreo": "רָעֵב",
+      "transliteracion": "רְעֵבִ֥ים",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "hambrientos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "también"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6771",
+      "hebreo": "צָמֵא",
+      "transliteracion": "צְמֵאִ֑ים",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "sedientos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַ֝פְשָׁ֗ם",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "su alma"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּהֶ֥ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "en ellos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5848",
+      "hebreo": "עטף",
+      "transliteracion": "תִּתְעַטָּֽף׃",
+      "parsingLabel": "verbo hitpa“el imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.HIT.IMPF.P3.F.SG",
+      "traduccion": "desfallecía"
+    }
+  ]
+}

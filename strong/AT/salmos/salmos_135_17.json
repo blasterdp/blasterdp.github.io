@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 135:17 Reina Valera 1960",
+    "texto": "Tienen orejas, y no oyen; Tampoco hay aliento en sus bocas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אָזְנַ֣יִם",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "orejas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ֭הֶם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "tiene"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "238",
+      "hebreo": "אזן",
+      "transliteracion": "יַאֲזִ֑ינוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL",
+      "traduccion": "escucha"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "637",
+      "hebreo": "אַף",
+      "transliteracion": "אַ֝֗ף",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "cierto"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵין־",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "no de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3426",
+      "hebreo": "יֵשׁ",
+      "transliteracion": "יֶשׁ־",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "hay"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֥וּחַ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "aliento"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִיהֶֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "boca de ellos"
+    }
+  ]
+}

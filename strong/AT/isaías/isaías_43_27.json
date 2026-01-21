@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Isaías 43:27 Reina Valera 1960",
+    "texto": "Tu primer padre pecó, y tus enseñadores prevaricaron contra mí."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אָבִ֥יךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu padre"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7223",
+      "hebreo": "רִאשֹׁון",
+      "transliteracion": "רִאשֹׁ֖ון",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "primero"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2398",
+      "hebreo": "חטא",
+      "transliteracion": "חָטָ֑א",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "pecó"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3887",
+      "hebreo": "ליץ",
+      "transliteracion": "מְלִיצֶ֖יךָ",
+      "parsingLabel": "sustantivo hif‘il participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.HIF.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus enseñadores"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6586",
+      "hebreo": "פשׁע",
+      "transliteracion": "פָּ֥שְׁעוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se rebelaron"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִֽי׃",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "contra mí"
+    }
+  ]
+}

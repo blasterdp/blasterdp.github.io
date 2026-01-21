@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 10:24 Reina Valera 1960",
+    "texto": "Lo que el impío teme, eso le vendrá; Pero a los justos les será dado lo que desean."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4034",
+      "hebreo": "מְגֹורָה",
+      "transliteracion": "מְגֹורַ֣ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "lo que teme"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רָ֭שָׁע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "impío"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1931",
+      "hebreo": "הִיא",
+      "transliteracion": "הִ֣יא",
+      "parsingLabel": "pronombre personal 3ª persona femenino singular",
+      "parsing": "PRPS.P3.F.SG",
+      "traduccion": "ello"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "תְבֹואֶ֑נּוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG.PRS.P3.M.SG",
+      "traduccion": "vendrá sobre él"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8378",
+      "hebreo": "תַּאֲוָה",
+      "transliteracion": "תַאֲוַ֖ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "deseo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַדִּיקִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de justos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "יִתֵּֽן׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "concederá"
+    }
+  ]
+}

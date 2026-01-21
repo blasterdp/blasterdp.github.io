@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 106:11 Reina Valera 1960",
+    "texto": "Cubrieron las aguas a sus enemigos; No quedó ni uno de ellos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3680",
+      "hebreo": "כסה",
+      "transliteracion": "יְכַסּוּ־",
+      "parsingLabel": "verbo pi“el wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.WAYQ.P3.M.PL",
+      "traduccion": "cubrieron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַ֥יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6862",
+      "hebreo": "צַר",
+      "transliteracion": "צָרֵיהֶ֑ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "a sus adversarios"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "259",
+      "hebreo": "אֶחָד",
+      "transliteracion": "אֶחָ֥ד",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "uno"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ֝הֶ֗ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "de ellos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3498",
+      "hebreo": "יתר",
+      "transliteracion": "נֹותָֽר׃",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "quedó"
+    }
+  ]
+}

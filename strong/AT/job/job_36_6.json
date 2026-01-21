@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 36:6 Reina Valera 1960",
+    "texto": "No otorgará vida al impío, Pero a los afligidos dará su derecho."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2421",
+      "hebreo": "חיה",
+      "transliteracion": "יְחַיֶּ֥ה",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "mantiene vivo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רָשָׁ֑ע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "al malvado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4941",
+      "hebreo": "מִשְׁפָּט",
+      "transliteracion": "מִשְׁפַּ֖ט",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "derecho"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6041",
+      "hebreo": "עָנִי",
+      "transliteracion": "עֲנִיִּ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "a afligidos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "יִתֵּֽן׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "da"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 17:28 Reina Valera 1960",
+    "texto": "Aun el necio, cuando calla, es contado por sabio; El que cierra sus labios es entendido."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּ֤ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "aun"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "191",
+      "hebreo": "אֱוִיל",
+      "transliteracion": "אֱוִ֣יל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "necio"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2790",
+      "hebreo": "חרשׁ",
+      "transliteracion": "מַ֭חֲרִישׁ",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "cuando calla"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חָכָ֣ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "sabio"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2803",
+      "hebreo": "חשׁב",
+      "transliteracion": "יֵחָשֵׁ֑ב",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "es tenido"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "331",
+      "hebreo": "אטם",
+      "transliteracion": "אֹטֵ֖ם",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "quien cierra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שְׂפָתָ֣יו",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.SG",
+      "traduccion": "sus labios"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "נָבֹֽון׃",
+      "parsingLabel": "sustantivo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.NIF.PTCA.U.M.SG.A",
+      "traduccion": "prudente"
+    }
+  ]
+}

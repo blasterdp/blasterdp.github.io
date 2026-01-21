@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Números 14:32 Reina Valera 1960",
+    "texto": "En cuanto a vosotros, vuestros cuerpos caerán en este desierto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6297",
+      "hebreo": "פֶּגֶר",
+      "transliteracion": "פִגְרֵיכֶ֖ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.PL",
+      "traduccion": "vuestros cuerpos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "859",
+      "hebreo": "אַתֶּם",
+      "transliteracion": "אַתֶּ֑ם",
+      "parsingLabel": "pronombre personal 2ª persona masculino plural",
+      "parsing": "PRPS.P2.M.PL",
+      "traduccion": "vosotros,"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "יִפְּל֖וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "caerán"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4057",
+      "hebreo": "מִדְבָּר",
+      "transliteracion": "מִּדְבָּ֥ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "desierto"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶּֽה׃",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "éste."
+    }
+  ]
+}

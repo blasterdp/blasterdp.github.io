@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 6:16 Reina Valera 1960",
+    "texto": "Seis cosas aborrece Jehová, Y aun siete abomina su alma:"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8337",
+      "hebreo": "שֵׁשׁ",
+      "transliteracion": "שֶׁשׁ־",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "seis"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2007",
+      "hebreo": "הֵנָּה",
+      "transliteracion": "הֵ֭נָּה",
+      "parsingLabel": "pronombre personal 3ª persona femenino plural",
+      "parsing": "PRPS.P3.F.PL",
+      "traduccion": "estas cosas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "שָׂנֵ֣א",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "odia"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7651",
+      "hebreo": "שֶׁבַע",
+      "transliteracion": "שֶׁ֗בַע",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "siete"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8441",
+      "hebreo": "תֹּועֵבָה",
+      "transliteracion": "תֹּועֲבַ֥ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "abominación"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשֹֽׁו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su alma"
+    }
+  ]
+}

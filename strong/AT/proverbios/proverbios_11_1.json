@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 11:1 Reina Valera 1960",
+    "texto": "El peso falso es abominación a Jehová; Mas la pesa cabal le agrada."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3976",
+      "hebreo": "מֹאזְנַיִם",
+      "transliteracion": "מֹאזְנֵ֣י",
+      "parsingLabel": "sustantivo masculino dual constructivo",
+      "parsing": "SUBS.M.DU.C",
+      "traduccion": "balanza"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4820",
+      "hebreo": "מִרְמָה",
+      "transliteracion": "מִ֭רְמָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "falsa"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8441",
+      "hebreo": "תֹּועֵבָה",
+      "transliteracion": "תֹּועֲבַ֣ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "abominación"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "68",
+      "hebreo": "אֶבֶן",
+      "transliteracion": "אֶ֖בֶן",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "peso"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8003",
+      "hebreo": "שָׁלֵם",
+      "transliteracion": "שְׁלֵמָ֣ה",
+      "parsingLabel": "adjetivo femenino singular absoluto",
+      "parsing": "ADJV.F.SG.A",
+      "traduccion": "exacto"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7522",
+      "hebreo": "רָצֹון",
+      "transliteracion": "רְצֹונֹֽו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su deleite"
+    }
+  ]
+}

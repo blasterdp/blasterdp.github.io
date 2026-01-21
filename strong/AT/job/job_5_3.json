@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 5:3 Reina Valera 1960",
+    "texto": "Yo he visto al necio que echaba raíces, Y en la misma hora maldije su habitación."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲֽנִי־",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָ֭אִיתִי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "vi"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "191",
+      "hebreo": "אֱוִיל",
+      "transliteracion": "אֱוִ֣יל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "al necio"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8327",
+      "hebreo": "שׁרשׁ",
+      "transliteracion": "מַשְׁרִ֑ישׁ",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "echando raíces"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6895",
+      "hebreo": "קבב",
+      "transliteracion": "אֶקֹּ֖וב",
+      "parsingLabel": "verbo qal wayyiqtol 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.WAYQ.P1.U.SG",
+      "traduccion": "maldije"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5116",
+      "hebreo": "נָוֶה",
+      "transliteracion": "נָוֵ֣הוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su morada"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6597",
+      "hebreo": "פִּתְאֹם",
+      "transliteracion": "פִתְאֹֽם׃",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "al punto"
+    }
+  ]
+}

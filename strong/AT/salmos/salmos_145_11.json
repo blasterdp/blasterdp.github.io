@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 145:11 Reina Valera 1960",
+    "texto": "La gloria de tu reino digan, Y hablen de tu poder,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3519",
+      "hebreo": "כָּבֹוד",
+      "transliteracion": "כְּבֹ֣וד",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "gloria"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4438",
+      "hebreo": "מַלְכוּת",
+      "transliteracion": "מַלְכוּתְךָ֣",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu reino"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹאמֵ֑רוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "dirán"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1369",
+      "hebreo": "גְּבוּרָה",
+      "transliteracion": "גְבוּרָתְךָ֥",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu poder"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "יְדַבֵּֽרוּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "hablarán"
+    }
+  ]
+}

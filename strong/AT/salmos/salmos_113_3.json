@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 113:3 Reina Valera 1960",
+    "texto": "Desde el nacimiento del sol hasta donde se pone, Sea alabado el nombre de Jehová."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4217",
+      "hebreo": "מִזְרָח",
+      "transliteracion": "מִּזְרַח־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "el nacimiento"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8121",
+      "hebreo": "שֶׁמֶשׁ",
+      "transliteracion": "שֶׁ֥מֶשׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de sol"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3996",
+      "hebreo": "מָבֹוא",
+      "transliteracion": "מְבֹואֹ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su ocaso"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "מְ֝הֻלָּ֗ל",
+      "parsingLabel": "verbo pu“al participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.PUAL.PTCP.U.M.SG.A",
+      "traduccion": "alabado sea"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שֵׁ֣ם",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "nombre"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָֽה׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    }
+  ]
+}

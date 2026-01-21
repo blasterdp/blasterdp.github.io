@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 22:9 Reina Valera 1960",
+    "texto": "A las viudas enviaste vacías, Y los brazos de los huérfanos fueron quebrados."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "490",
+      "hebreo": "אַלְמָנָה",
+      "transliteracion": "אַ֭לְמָנֹות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "a viudas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "שִׁלַּ֣חְתָּ",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG",
+      "traduccion": "despedías"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7387",
+      "hebreo": "רֵיקָם",
+      "transliteracion": "רֵיקָ֑ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "vacías"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2220",
+      "hebreo": "זְרֹועַ",
+      "transliteracion": "זְרֹעֹ֖ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "brazos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3490",
+      "hebreo": "יָתֹום",
+      "transliteracion": "יְתֹמִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de huérfanos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1792",
+      "hebreo": "דכא",
+      "transliteracion": "יְדֻכָּֽא׃",
+      "parsingLabel": "verbo pu“al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PUAL.IMPF.P3.M.SG",
+      "traduccion": "fue quebrantado"
+    }
+  ]
+}

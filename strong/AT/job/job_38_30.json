@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 38:30 Reina Valera 1960",
+    "texto": "Las aguas se endurecen a manera de piedra, Y se congela la faz del abismo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כָּ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "68",
+      "hebreo": "אֶבֶן",
+      "transliteracion": "אֶבֶן",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "piedra"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַ֣יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2244",
+      "hebreo": "חבא",
+      "transliteracion": "יִתְחַבָּ֑אוּ",
+      "parsingLabel": "verbo hitpa“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIT.IMPF.P3.M.PL",
+      "traduccion": "se condensan"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פְנֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "la faz"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8415",
+      "hebreo": "תְּהֹום",
+      "transliteracion": "תְ֝הֹ֗ום",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "del abismo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3920",
+      "hebreo": "לכד",
+      "transliteracion": "יִתְלַכָּֽדוּ׃",
+      "parsingLabel": "verbo hitpa“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIT.IMPF.P3.M.PL",
+      "traduccion": "se apelmaza"
+    }
+  ]
+}

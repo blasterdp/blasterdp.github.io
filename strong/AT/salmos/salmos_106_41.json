@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 106:41 Reina Valera 1960",
+    "texto": "Los entregó en poder de las naciones, Y se enseñorearon de ellos los que les aborrecían."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "יִּתְּנֵ֥ם",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los entregó"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יַד־",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "mano"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּויִ֑ם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de naciones"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4910",
+      "hebreo": "משׁל",
+      "transliteracion": "יִּמְשְׁל֥וּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "se enseñorearon"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָ֝הֶ֗ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "sobre ellos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "שֹׂנְאֵיהֶֽם׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "quienes los odiaban"
+    }
+  ]
+}

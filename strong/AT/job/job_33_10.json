@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 33:10 Reina Valera 1960",
+    "texto": "He aquí que él buscó reproches contra mí, Y me tiene por su enemigo;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2005",
+      "hebreo": "הֵן",
+      "transliteracion": "הֵ֣ן",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "he aquí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8569",
+      "hebreo": "תְּנוּאָה",
+      "transliteracion": "תְּ֭נוּאֹות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "pretextos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלַ֣י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra mí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "יִמְצָ֑א",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "halla"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2803",
+      "hebreo": "חשׁב",
+      "transliteracion": "יַחְשְׁבֵ֖נִי",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me tiene"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹויֵ֣ב",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "enemigo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֹֽו׃",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "suyo"
+    }
+  ]
+}

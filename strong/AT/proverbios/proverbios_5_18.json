@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 5:18 Reina Valera 1960",
+    "texto": "Sea bendito tu manantial, Y alégrate con la mujer de tu juventud,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "יְהִֽי־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "sea"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4726",
+      "hebreo": "מָקֹור",
+      "transliteracion": "מְקֹורְךָ֥",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu fuente"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "בָר֑וּךְ",
+      "parsingLabel": "adjetivo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "ADJV.QAL.PTCP.U.M.SG.A",
+      "traduccion": "bendita"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8055",
+      "hebreo": "שׂמח",
+      "transliteracion": "שְׂמַ֗ח",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "alégrate"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "802",
+      "hebreo": "אִשָּׁה",
+      "transliteracion": "אֵ֥שֶׁת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "mujer"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5271",
+      "hebreo": "נְעוּרִים",
+      "transliteracion": "נְעוּרֶֽךָ׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.SG",
+      "traduccion": "de tu juventud"
+    }
+  ]
+}

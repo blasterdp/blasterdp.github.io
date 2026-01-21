@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 21:20 Reina Valera 1960",
+    "texto": "Verán sus ojos su quebranto, Y beberá de la ira del Todopoderoso."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "יִרְא֣וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "vean"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינָ֣יו",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.SG",
+      "traduccion": "sus ojos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3589",
+      "hebreo": "כִּיד",
+      "transliteracion": "כִּידֹ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su ruina"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2534",
+      "hebreo": "חֵמָה",
+      "transliteracion": "חֲמַ֖ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "furia"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7706",
+      "hebreo": "שַׁדַּי",
+      "transliteracion": "שַׁדַּ֣י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "del Todopoderoso"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8354",
+      "hebreo": "שׁתה",
+      "transliteracion": "יִשְׁתֶּֽה׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "beba"
+    }
+  ]
+}

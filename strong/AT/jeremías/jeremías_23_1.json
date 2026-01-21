@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Jeremías 23:1 Reina Valera 1960",
+    "texto": "¡Ay de los pastores que destruyen y dispersan las ovejas de mi rebaño! dice Jehová."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1945",
+      "hebreo": "הֹוי",
+      "transliteracion": "הֹ֣וי",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "¡Ay"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7462",
+      "hebreo": "רעה",
+      "transliteracion": "רֹעִ֗ים",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "pastores"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6",
+      "hebreo": "אבד",
+      "transliteracion": "מְאַבְּדִ֧ים",
+      "parsingLabel": "verbo pi“el participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.PIEL.PTCA.U.M.PL.A",
+      "traduccion": "que destruyen"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6327",
+      "hebreo": "פוץ",
+      "transliteracion": "מְפִצִ֛ים",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.PL.A",
+      "traduccion": "que esparcen"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6629",
+      "hebreo": "צֹאן",
+      "transliteracion": "צֹ֥אן",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "ovejas de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4830",
+      "hebreo": "מַרְעִית",
+      "transliteracion": "מַרְעִיתִ֖י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi rebaño!"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5002",
+      "hebreo": "נְאֻם",
+      "transliteracion": "נְאֻם־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "declaración de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָֽה׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    }
+  ]
+}

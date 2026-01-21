@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Números 32:26 Reina Valera 1960",
+    "texto": "Nuestros niños, nuestras mujeres, nuestros ganados y todas nuestras bestias, estarán ahí en las ciudades de Galaad;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2945",
+      "hebreo": "טַף",
+      "transliteracion": "טַפֵּ֣נוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.PL",
+      "traduccion": "Nuestro niño"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "802",
+      "hebreo": "אִשָּׁה",
+      "transliteracion": "נָשֵׁ֔ינוּ",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.F.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestras mujeres"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4735",
+      "hebreo": "מִקְנֶה",
+      "transliteracion": "מִקְנֵ֖נוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.PL",
+      "traduccion": "nuestro rebaño"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "929",
+      "hebreo": "בְּהֵמָה",
+      "transliteracion": "בְּהֶמְתֵּ֑נוּ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.PL",
+      "traduccion": "nuestro ganado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "יִֽהְיוּ־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "estarán"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8033",
+      "hebreo": "שָׁם",
+      "transliteracion": "שָׁ֖ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "aquí"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5892",
+      "hebreo": "עִיר",
+      "transliteracion": "עָרֵ֥י",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "ciudades de"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "1568",
+      "hebreo": "גִּלְעָד",
+      "transliteracion": "גִּלְעָֽד׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Galaad."
+    }
+  ]
+}

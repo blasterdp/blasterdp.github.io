@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 110:2 Reina Valera 1960",
+    "texto": "Jehová enviará desde Sion la vara de tu poder; Domina en medio de tus enemigos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4294",
+      "hebreo": "מַטֶּה",
+      "transliteracion": "מַטֵּֽה־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "cetro"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5797",
+      "hebreo": "עֹז",
+      "transliteracion": "עֻזְּךָ֗",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu poder"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "יִשְׁלַ֣ח",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "enviará"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6726",
+      "hebreo": "צִיֹּון",
+      "transliteracion": "צִּיֹּ֑ון",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Sión"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7287",
+      "hebreo": "רדה",
+      "transliteracion": "רְ֝דֵ֗ה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERB.QAL.IMPV.P2.M.SG",
+      "traduccion": "monina"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7130",
+      "hebreo": "קֶרֶב",
+      "transliteracion": "קֶ֣רֶב",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "medio"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹיְבֶֽיךָ׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "de tus enemigos"
+    }
+  ]
+}

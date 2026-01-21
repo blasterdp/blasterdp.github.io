@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 107:29 Reina Valera 1960",
+    "texto": "Cambia la tempestad en sosiego, Y se apaciguan sus ondas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "יָקֵ֣ם",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "levantó"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5591",
+      "hebreo": "סְעָרָה",
+      "transliteracion": "סְ֭עָרָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "tormenta"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "al"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1827",
+      "hebreo": "דְּמָמָה",
+      "transliteracion": "דְמָמָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "sosiego"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2814",
+      "hebreo": "חשׁה",
+      "transliteracion": "יֶּחֱשׁ֗וּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "se calmaron"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1531",
+      "hebreo": "גַּל",
+      "transliteracion": "גַּלֵּיהֶֽם׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus olas"
+    }
+  ]
+}

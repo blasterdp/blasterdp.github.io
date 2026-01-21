@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:130 Reina Valera 1960",
+    "texto": "La exposición de tus palabras alumbra; Hace entender a los simples."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6608",
+      "hebreo": "פֵּתַח",
+      "transliteracion": "פֵּ֖תַח",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "entrada"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְּבָרֶ֥יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "de tus palabras"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "215",
+      "hebreo": "אור",
+      "transliteracion": "יָאִ֗יר",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "da luz"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "מֵבִ֥ין",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "da entendimiento"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6612",
+      "hebreo": "פֶּתִי",
+      "transliteracion": "פְּתָיִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "a sencillos"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 106:12 Reina Valera 1960",
+    "texto": "Entonces creyeron a sus palabras Y cantaron su alabanza."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "539",
+      "hebreo": "אמן",
+      "transliteracion": "יַּאֲמִ֥ינוּ",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.PL",
+      "traduccion": "creyeron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְבָרָ֑יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus palabras"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7891",
+      "hebreo": "שׁיר",
+      "transliteracion": "יָ֝שִׁ֗ירוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "cantaron"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8416",
+      "hebreo": "תְּהִלָּה",
+      "transliteracion": "תְּהִלָּתֹֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su alabanza"
+    }
+  ]
+}

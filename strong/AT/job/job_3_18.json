@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 3:18 Reina Valera 1960",
+    "texto": "Allí también reposan los cautivos; No oyen la voz del capataz."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3162",
+      "hebreo": "יַחַד",
+      "transliteracion": "יַ֭חַד",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "juntos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "615",
+      "hebreo": "אָסִיר",
+      "transliteracion": "אֲסִירִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cautivos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7599",
+      "hebreo": "שׁאן",
+      "transliteracion": "שַׁאֲנָ֑נוּ",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL",
+      "traduccion": "gozan de sosiego"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שָׁ֝מְע֗וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "oyen"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6963",
+      "hebreo": "קֹול",
+      "transliteracion": "קֹ֣ול",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "voz"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5065",
+      "hebreo": "נגשׂ",
+      "transliteracion": "נֹגֵֽשׂ׃",
+      "parsingLabel": "adjetivo qal participio desconocido masculino singular absoluto",
+      "parsing": "ADJV.QAL.PTCA.U.M.SG.A",
+      "traduccion": "de capataz"
+    }
+  ]
+}

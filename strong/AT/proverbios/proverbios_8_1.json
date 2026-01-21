@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 8:1 Reina Valera 1960",
+    "texto": "¿No clama la sabiduría, Y da su voz la inteligencia?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2451",
+      "hebreo": "חָכְמָה",
+      "transliteracion": "חָכְמָ֥ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "sabiduría"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7121",
+      "hebreo": "קרא",
+      "transliteracion": "תִקְרָ֑א",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "clama"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8394",
+      "hebreo": "תְּבוּנָה",
+      "transliteracion": "תְבוּנָ֗ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "prudencia"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "תִּתֵּ֥ן",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "da"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6963",
+      "hebreo": "קֹול",
+      "transliteracion": "קֹולָֽהּ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "su voz"
+    }
+  ]
+}

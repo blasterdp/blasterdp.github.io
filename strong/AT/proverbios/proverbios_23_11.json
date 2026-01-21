@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 23:11 Reina Valera 1960",
+    "texto": "Porque el defensor de ellos es el Fuerte, El cual juzgará la causa de ellos contra ti."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1350",
+      "hebreo": "גאל",
+      "transliteracion": "גֹאֲלָ֥ם",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su redentor"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2389",
+      "hebreo": "חָזָק",
+      "transliteracion": "חָזָ֑ק",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "fuerte"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "הֽוּא־",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7378",
+      "hebreo": "ריב",
+      "transliteracion": "יָרִ֖יב",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "defenderá"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7379",
+      "hebreo": "רִיב",
+      "transliteracion": "רִיבָ֣ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "causa de ellos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "854",
+      "hebreo": "אֵת",
+      "transliteracion": "אִתָּֽךְ׃",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "contra ti"
+    }
+  ]
+}

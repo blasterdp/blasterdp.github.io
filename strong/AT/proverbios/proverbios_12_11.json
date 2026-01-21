@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 12:11 Reina Valera 1960",
+    "texto": "El que labra su tierra se saciará de pan; Mas el que sigue a los vagabundos es falto de entendimiento."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5647",
+      "hebreo": "עבד",
+      "transliteracion": "עֹבֵ֣ד",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERB.QAL.PTCA.U.M.SG.A",
+      "traduccion": "el que labra"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "127",
+      "hebreo": "אֲדָמָה",
+      "transliteracion": "אַ֭דְמָתֹו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su tierra"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7646",
+      "hebreo": "שׂבע",
+      "transliteracion": "יִֽשְׂבַּֽע־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se saciará"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3899",
+      "hebreo": "לֶחֶם",
+      "transliteracion": "לָ֑חֶם",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de pan"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7291",
+      "hebreo": "רדף",
+      "transliteracion": "מְרַדֵּ֖ף",
+      "parsingLabel": "verbo pi“el participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.PIEL.PTCA.U.M.SG.A",
+      "traduccion": "el que persigue"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7386",
+      "hebreo": "רֵיק",
+      "transliteracion": "רֵיקִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "vano"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2638",
+      "hebreo": "חָסֵר",
+      "transliteracion": "חֲסַר־",
+      "parsingLabel": "adjetivo masculino singular constructivo",
+      "parsing": "ADJV.M.SG.C",
+      "traduccion": "carece"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לֵֽב׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de corazón"
+    }
+  ]
+}

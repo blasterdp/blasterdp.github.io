@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 26:8 Reina Valera 1960",
+    "texto": "Ata las aguas en sus nubes, Y las nubes no se rompen debajo de ellas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3334",
+      "hebreo": "צרר",
+      "transliteracion": "צֹרֵֽר־",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERB.QAL.PTCA.U.M.SG.A",
+      "traduccion": "envuelve"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַ֥יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5645",
+      "hebreo": "עָב",
+      "transliteracion": "עָבָ֑יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus nubes"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1234",
+      "hebreo": "בקע",
+      "transliteracion": "נִבְקַ֖ע",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "revienta"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6051",
+      "hebreo": "עָנָן",
+      "transliteracion": "עָנָ֣ן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "nube"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּחְתָּֽם׃",
+      "parsingLabel": "preposición masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "debajo de ellas"
+    }
+  ]
+}

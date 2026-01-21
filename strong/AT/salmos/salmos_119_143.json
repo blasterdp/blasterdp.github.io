@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:143 Reina Valera 1960",
+    "texto": "Aflicción y angustia se han apoderado de mí, Mas tus mandamientos fueron mi delicia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6862",
+      "hebreo": "צַר",
+      "transliteracion": "צַר־",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "angustia"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4689",
+      "hebreo": "מָצֹוק",
+      "transliteracion": "מָצֹ֥וק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "aflicción"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "מְצָא֑וּנִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me han hallado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4687",
+      "hebreo": "מִצְוָה",
+      "transliteracion": "מִ֝צְוֹתֶ֗יךָ",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus mandamientos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8191",
+      "hebreo": "שַׁעֲשׁוּעִים",
+      "transliteracion": "שַׁעֲשֻׁעָֽי׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mi deleite"
+    }
+  ]
+}

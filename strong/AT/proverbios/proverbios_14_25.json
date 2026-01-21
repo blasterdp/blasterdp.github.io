@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 14:25 Reina Valera 1960",
+    "texto": "El testigo verdadero libra las almas; Mas el engañoso hablará mentiras."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "מַצִּ֣יל",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "libra"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נְ֭פָשֹׁות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "almas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5707",
+      "hebreo": "עֵד",
+      "transliteracion": "עֵ֣ד",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "testigo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "571",
+      "hebreo": "אֶמֶת",
+      "transliteracion": "אֱמֶ֑ת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "veraz"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6315",
+      "hebreo": "פוח",
+      "transliteracion": "יָפִ֖חַ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "el que respira"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3577",
+      "hebreo": "כָּזָב",
+      "transliteracion": "כְּזָבִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mentiras"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4820",
+      "hebreo": "מִרְמָה",
+      "transliteracion": "מִרְמָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "traición"
+    }
+  ]
+}

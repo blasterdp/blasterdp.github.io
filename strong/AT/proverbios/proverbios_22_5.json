@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 22:5 Reina Valera 1960",
+    "texto": "Espinos y lazos hay en el camino del perverso; El que guarda su alma se alejará de ellos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6791",
+      "hebreo": "צֵן",
+      "transliteracion": "צִנִּ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "espinos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6341",
+      "hebreo": "פַּח",
+      "transliteracion": "פַּ֭חִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "lazos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דֶ֣רֶךְ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "camino"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6141",
+      "hebreo": "עִקֵּשׁ",
+      "transliteracion": "עִקֵּ֑שׁ",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "del perverso"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "שֹׁומֵ֥ר",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.C",
+      "traduccion": "el que guarda"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַ֝פְשֹׁ֗ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su alma"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7368",
+      "hebreo": "רחק",
+      "transliteracion": "יִרְחַ֥ק",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se quedará lejos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵהֶֽם׃",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "de ellos"
+    }
+  ]
+}

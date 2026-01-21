@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 28:13 Reina Valera 1960",
+    "texto": "El que encubre sus pecados no prosperará; Mas el que los confiesa y se aparta alcanzará misericordia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3680",
+      "hebreo": "כסה",
+      "transliteracion": "מְכַסֶּ֣ה",
+      "parsingLabel": "verbo pi“el participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.PIEL.PTCA.U.M.SG.A",
+      "traduccion": "quien encubre"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6588",
+      "hebreo": "פֶּשַׁע",
+      "transliteracion": "פְ֭שָׁעָיו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus transgresiones"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6743",
+      "hebreo": "צלח",
+      "transliteracion": "יַצְלִ֑יחַ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "prosperará"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3034",
+      "hebreo": "ידה",
+      "transliteracion": "מֹודֶ֖ה",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "quien confiesa"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5800",
+      "hebreo": "עזב",
+      "transliteracion": "עֹזֵ֣ב",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "abandona"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7355",
+      "hebreo": "רחם",
+      "transliteracion": "יְרֻחָֽם׃",
+      "parsingLabel": "verbo pu“al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PUAL.IMPF.P3.M.SG",
+      "traduccion": "hallará compasión"
+    }
+  ]
+}

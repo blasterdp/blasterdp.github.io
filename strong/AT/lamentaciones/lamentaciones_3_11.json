@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Lamentaciones 3:11 Reina Valera 1960",
+    "texto": "Torció mis caminos, y me despedazó; me dejó desolado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דְּרָכַ֥י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Mis caminos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5493",
+      "hebreo": "סור",
+      "transliteracion": "סֹורֵ֛ר",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "trastorna"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6582",
+      "hebreo": "פשׁח",
+      "transliteracion": "יְפַשְּׁחֵ֖נִי",
+      "parsingLabel": "verbo pi“el wayyiqtol 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.WAYQ.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me destrozó"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7760",
+      "hebreo": "שׂים",
+      "transliteracion": "שָׂמַ֥נִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me dejó"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8074",
+      "hebreo": "שׁמם",
+      "transliteracion": "שֹׁמֵֽם׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "desolado"
+    }
+  ]
+}

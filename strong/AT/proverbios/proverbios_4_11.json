@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 4:11 Reina Valera 1960",
+    "texto": "Por el camino de la sabiduría te he encaminado, Y por veredas derechas te he hecho andar."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דֶ֣רֶךְ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "camino"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2451",
+      "hebreo": "חָכְמָה",
+      "transliteracion": "חָ֭כְמָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de sabiduría"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3384",
+      "hebreo": "ירה",
+      "transliteracion": "הֹרֵתִ֑יךָ",
+      "parsingLabel": "verbo hif‘il perfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "te he dirigido"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1869",
+      "hebreo": "דרך",
+      "transliteracion": "הִ֝דְרַכְתִּ֗יךָ",
+      "parsingLabel": "verbo hif‘il perfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "te he encaminado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4570",
+      "hebreo": "מַעְגָּל",
+      "transliteracion": "מַעְגְּלֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "sendas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3476",
+      "hebreo": "יֹשֶׁר",
+      "transliteracion": "יֹֽשֶׁר׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de rectitud"
+    }
+  ]
+}

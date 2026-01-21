@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 8:18 Reina Valera 1960",
+    "texto": "Si le arrancaren de su lugar, Este le negará entonces, diciendo: Nunca te vi."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1104",
+      "hebreo": "בלע",
+      "transliteracion": "יְבַלְּעֶ֥נּוּ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "se le arranca"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4725",
+      "hebreo": "מָקֹום",
+      "transliteracion": "מְּקֹומֹ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su lugar"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3584",
+      "hebreo": "כחשׁ",
+      "transliteracion": "כִ֥חֶשׁ",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "niega"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בֹּ֝֗ו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "le"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "nunca"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רְאִיתִֽיךָ׃",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "te vi"
+    }
+  ]
+}

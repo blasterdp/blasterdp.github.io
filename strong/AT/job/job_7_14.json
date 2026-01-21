@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 7:14 Reina Valera 1960",
+    "texto": "Entonces me asustas con sueños, Y me aterras con visiones."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2865",
+      "hebreo": "חתת",
+      "transliteracion": "חִתַּתַּ֥נִי",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me asustas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2472",
+      "hebreo": "חֲלֹום",
+      "transliteracion": "חֲלֹמֹ֑ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "sueños"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2384",
+      "hebreo": "חִזָּיֹון",
+      "transliteracion": "חֶזְיֹנֹ֥ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "visiones"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1204",
+      "hebreo": "בעת",
+      "transliteracion": "תְּבַעֲתַֽנִּי׃",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me aterras"
+    }
+  ]
+}

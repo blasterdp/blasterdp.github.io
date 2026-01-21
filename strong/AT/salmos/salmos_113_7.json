@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 113:7 Reina Valera 1960",
+    "texto": "Él levanta del polvo al pobre, Y al menesteroso alza del muladar,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "מְקִֽימִ֣י",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular constructivo",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.C",
+      "traduccion": "él levanta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6083",
+      "hebreo": "עָפָר",
+      "transliteracion": "עָפָ֣ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "polvo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1800",
+      "hebreo": "דַּל",
+      "transliteracion": "דָּ֑ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "a pobre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵֽ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "830",
+      "hebreo": "אַשְׁפֹּת",
+      "transliteracion": "אַשְׁפֹּ֗ת",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "muladar"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7311",
+      "hebreo": "רום",
+      "transliteracion": "יָרִ֥ים",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "alza"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "34",
+      "hebreo": "אֶבְיֹון",
+      "transliteracion": "אֶבְיֹֽון׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "al necesitado"
+    }
+  ]
+}

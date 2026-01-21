@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 2:4 Reina Valera 1960",
+    "texto": "Si como a la plata la buscares, Y la escudriñares como a tesoros,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1245",
+      "hebreo": "בקשׁ",
+      "transliteracion": "תְּבַקְשֶׁ֥נָּה",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG.PRS.P3.F.SG",
+      "traduccion": "la buscas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3701",
+      "hebreo": "כֶּסֶף",
+      "transliteracion": "כָּ֑סֶף",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "plata"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4301",
+      "hebreo": "מַטְמֹן",
+      "transliteracion": "מַּטְמֹונִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "tesoros escondidos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2664",
+      "hebreo": "חפשׂ",
+      "transliteracion": "תַּחְפְּשֶֽׂנָּה׃",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P3.F.SG",
+      "traduccion": "la escudriñas"
+    }
+  ]
+}

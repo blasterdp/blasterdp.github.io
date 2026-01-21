@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 28:17 Reina Valera 1960",
+    "texto": "El oro no se le igualará, ni el diamante, Ni se cambiará por alhajas de oro fino."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6186",
+      "hebreo": "ערך",
+      "transliteracion": "יַעַרְכֶ֣נָּה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P3.F.SG",
+      "traduccion": "la iguala"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2091",
+      "hebreo": "זָהָב",
+      "transliteracion": "זָ֭הָב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "oro"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2137",
+      "hebreo": "זְכֹוכִית",
+      "transliteracion": "זְכֹוכִ֑ית",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "vidrio"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "ni"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8545",
+      "hebreo": "תְּמוּרָה",
+      "transliteracion": "תְמ֖וּרָתָ֣הּ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.F.SG",
+      "traduccion": "cambiar por ella"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3627",
+      "hebreo": "כְּלִי",
+      "transliteracion": "כְּלִי־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "artículo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6337",
+      "hebreo": "פַּז",
+      "transliteracion": "פָֽז׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de oro puro"
+    }
+  ]
+}

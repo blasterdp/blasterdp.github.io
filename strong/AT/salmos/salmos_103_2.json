@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 103:2 Reina Valera 1960",
+    "texto": "Bendice, alma mía, a Jehová, Y no olvides ninguno de sus beneficios."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "בָּרֲכִ֣י",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPV.P2.F.SG",
+      "traduccion": "bendice"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַ֭פְשִׁי",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "alma mía"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "תִּ֝שְׁכְּחִ֗י",
+      "parsingLabel": "verbo qal imperfecto 2ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.F.SG",
+      "traduccion": "olvides"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1576",
+      "hebreo": "גְּמוּל",
+      "transliteracion": "גְּמוּלָֽיו׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus beneficios"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Joel 1:8 Reina Valera 1960",
+    "texto": "Llora tú como joven vestida de cilicio por el marido de su juventud."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "421",
+      "hebreo": "אלה",
+      "transliteracion": "אֱלִ֕י",
+      "parsingLabel": "verbo qal imperativo 2ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.F.SG",
+      "traduccion": "Gime"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1330",
+      "hebreo": "בְּתוּלָה",
+      "transliteracion": "בְתוּלָ֥ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "virgen"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2296",
+      "hebreo": "חגר",
+      "transliteracion": "חֲגֻֽרַת־",
+      "parsingLabel": "adjetivo qal participio (passive) desconocido femenino singular constructivo",
+      "parsing": "ADJV.QAL.PTCP.U.F.SG.C",
+      "traduccion": "vestida de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8242",
+      "hebreo": "שַׂק",
+      "transliteracion": "שַׂ֖ק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "saco"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1167",
+      "hebreo": "בַּעַל",
+      "transliteracion": "בַּ֥עַל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "marido de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5271",
+      "hebreo": "נְעוּרִים",
+      "transliteracion": "נְעוּרֶֽיהָ׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus juventudes"
+    }
+  ]
+}

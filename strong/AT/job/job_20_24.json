@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 20:24 Reina Valera 1960",
+    "texto": "Huirá de las armas de hierro, Y el arco de bronce le atravesará."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1272",
+      "hebreo": "ברח",
+      "transliteracion": "יִ֭בְרַח",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "huirá"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5402",
+      "hebreo": "נֵשֶׁק",
+      "transliteracion": "נֵּ֣שֶׁק",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "arma"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1270",
+      "hebreo": "בַּרְזֶל",
+      "transliteracion": "בַּרְזֶ֑ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de hierro"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2498",
+      "hebreo": "חלף",
+      "transliteracion": "תַּ֝חְלְפֵ֗הוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG.PRS.P3.M.SG",
+      "traduccion": "le atravesará"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7198",
+      "hebreo": "קֶשֶׁת",
+      "transliteracion": "קֶ֣שֶׁת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "arco"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5154",
+      "hebreo": "נְחוּשָׁה",
+      "transliteracion": "נְחוּשָֽׁה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de bronce"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 144:3 Reina Valera 1960",
+    "texto": "Oh Jehová, ¿qué es el hombre, para que en él pienses, O el hijo de hombre, para que lo estimes?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְֽהוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מָה־",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿qué"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָ֭דָם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "para que"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "תֵּדָעֵ֑הוּ",
+      "parsingLabel": "verbo qal wayyiqtol 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "tengas conocimiento de él"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶּן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hijo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "582",
+      "hebreo": "אֱנֹושׁ",
+      "transliteracion": "אֱ֝נֹ֗ושׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del hombre"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "para que"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2803",
+      "hebreo": "חשׁב",
+      "transliteracion": "תְּחַשְּׁבֵֽהוּ׃",
+      "parsingLabel": "verbo pi“el wayyiqtol 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.WAYQ.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "pienses en él"
+    }
+  ]
+}

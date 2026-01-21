@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 20:9 Reina Valera 1960",
+    "texto": "¿Quién podrá decir: Yo he limpiado mi corazón, Limpio estoy de mi pecado?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִֽי־",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿quién"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹ֭אמַר",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "dirá"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2135",
+      "hebreo": "זכה",
+      "transliteracion": "זִכִּ֣יתִי",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P1.U.SG",
+      "traduccion": "he limpiado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִבִּ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi corazón"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2891",
+      "hebreo": "טהר",
+      "transliteracion": "טָ֝הַ֗רְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "estoy limpio"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2403",
+      "hebreo": "חַטָּאת",
+      "transliteracion": "חַטָּאתִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi pecado?"
+    }
+  ]
+}

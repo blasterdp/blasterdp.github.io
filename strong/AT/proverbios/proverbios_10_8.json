@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 10:8 Reina Valera 1960",
+    "texto": "El sabio de corazón recibirá los mandamientos; Mas el necio de labios caerá."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חֲכַם־",
+      "parsingLabel": "adjetivo masculino singular constructivo",
+      "parsing": "ADJV.M.SG.C",
+      "traduccion": "sabio"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לֵ֭ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de corazón"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3947",
+      "hebreo": "לקח",
+      "transliteracion": "יִקַּ֣ח",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "aceptará"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4687",
+      "hebreo": "מִצְוָה",
+      "transliteracion": "מִצְוֹ֑ת",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mandamientos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וֶ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "191",
+      "hebreo": "אֱוִיל",
+      "transliteracion": "אֱוִ֥יל",
+      "parsingLabel": "adjetivo masculino singular constructivo",
+      "parsing": "ADJV.M.SG.C",
+      "traduccion": "necio"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שְׂ֝פָתַ֗יִם",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "de labios"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3832",
+      "hebreo": "לבט",
+      "transliteracion": "יִלָּבֵֽט׃",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "irá a la ruina"
+    }
+  ]
+}

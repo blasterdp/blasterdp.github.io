@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 145:19 Reina Valera 1960",
+    "texto": "Cumplirá el deseo de los que le temen; Oirá asimismo el clamor de ellos, y los salvará."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7522",
+      "hebreo": "רָצֹון",
+      "transliteracion": "רְצֹון־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "deseo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3373",
+      "hebreo": "יָרֵא",
+      "transliteracion": "יְרֵאָ֥יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "de que le temen"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "יַעֲשֶׂ֑ה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "hará"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7775",
+      "hebreo": "שַׁוְעָה",
+      "transliteracion": "שַׁוְעָתָ֥ם",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "su clamor"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "יִ֝שְׁמַ֗ע",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "oirá"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3467",
+      "hebreo": "ישׁע",
+      "transliteracion": "יֹושִׁיעֵֽם׃",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los salvará"
+    }
+  ]
+}

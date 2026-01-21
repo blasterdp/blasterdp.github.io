@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Lamentaciones 5:4 Reina Valera 1960",
+    "texto": "Nuestra agua bebemos por dinero; Compramos nuestra leña por precio."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מֵימֵ֨ינוּ֙",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "Nuestras aguas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3701",
+      "hebreo": "כֶּסֶף",
+      "transliteracion": "כֶ֣סֶף",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "dinero"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8354",
+      "hebreo": "שׁתה",
+      "transliteracion": "שָׁתִ֔ינוּ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P1.U.PL",
+      "traduccion": "bebemos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6086",
+      "hebreo": "עֵץ",
+      "transliteracion": "עֵצֵ֖ינוּ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestras maderas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4242",
+      "hebreo": "מְחִיר",
+      "transliteracion": "מְחִ֥יר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "precio"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "יָבֹֽאוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "vienen"
+    }
+  ]
+}

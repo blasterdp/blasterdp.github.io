@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 20:2 Reina Valera 1960",
+    "texto": "Por cierto mis pensamientos me hacen responder, Y por tanto me apresuro."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3651",
+      "hebreo": "לָכֵן",
+      "transliteracion": "לָ֭כֵן",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "por lo tanto"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5587",
+      "hebreo": "שְׂעִפִּים",
+      "transliteracion": "שְׂעִפַּ֣י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis pensamientos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "יְשִׁיב֑וּנִי",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL.PRS.P1.U.SG",
+      "traduccion": "me hacen responder"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "incluso"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5668",
+      "hebreo": "עֲבוּר",
+      "transliteracion": "עֲב֗וּר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "a causa"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2363",
+      "hebreo": "חושׁ",
+      "transliteracion": "ח֣וּשִׁי",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A.PRS.P1.U.SG",
+      "traduccion": "de agitación"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִֽי׃",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "en mí"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 30:22 Reina Valera 1960",
+    "texto": "Me alzaste sobre el viento, me hiciste cabalgar en él, Y disolviste mi sustancia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5375",
+      "hebreo": "נשׂא",
+      "transliteracion": "תִּשָּׂאֵ֣נִי",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me alzas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֖וּחַ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "viento"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7392",
+      "hebreo": "רכב",
+      "transliteracion": "תַּרְכִּיבֵ֑נִי",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me haces cabalgar"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4127",
+      "hebreo": "מוג",
+      "transliteracion": "תְמֹגְגֵ֗נִי",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me disuelves"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8454",
+      "hebreo": "תּוּשִׁיָּה",
+      "transliteracion": "תּוּשִׁיָּֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "en tempestad"
+    }
+  ]
+}

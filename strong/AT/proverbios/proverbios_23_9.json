@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 23:9 Reina Valera 1960",
+    "texto": "No hables a oídos del necio, Porque menospreciará la prudencia de tus razones."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אָזְנֵ֣י",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "los oídos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3684",
+      "hebreo": "כְּסִיל",
+      "transliteracion": "כְ֭סִיל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del necio"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "תְּדַבֵּ֑ר",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG",
+      "traduccion": "hables"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "936",
+      "hebreo": "בוז",
+      "transliteracion": "יָ֝ב֗וּז",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "despreciará"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7922",
+      "hebreo": "שֶׂכֶל",
+      "transliteracion": "שֵׂ֣כֶל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "la sabiduría"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4405",
+      "hebreo": "מִלָּה",
+      "transliteracion": "מִלֶּֽיךָ׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.SG",
+      "traduccion": "de tus palabras"
+    }
+  ]
+}

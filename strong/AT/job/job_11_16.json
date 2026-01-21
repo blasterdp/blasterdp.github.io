@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 11:16 Reina Valera 1960",
+    "texto": "Y olvidarás tu miseria, O te acordarás de ella como de aguas que pasaron."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַ֭תָּה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5999",
+      "hebreo": "עָמָל",
+      "transliteracion": "עָמָ֣ל",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "aflicción"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "תִּשְׁכָּ֑ח",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "olvidarás"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַ֖יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de aguas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "עָבְר֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "pasaron"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2142",
+      "hebreo": "זכר",
+      "transliteracion": "תִזְכֹּֽר׃",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "te acordarás"
+    }
+  ]
+}

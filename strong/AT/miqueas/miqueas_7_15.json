@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Miqueas 7:15 Reina Valera 1960",
+    "texto": "Yo les mostraré maravillas como el día que saliste de Egipto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "Como"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "ימֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "días de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "צֵאתְךָ֖",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A.PRS.P2.M.SG",
+      "traduccion": "tu salir"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֣רֶץ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "tierra de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4714",
+      "hebreo": "מִצְרַיִם",
+      "transliteracion": "מִצְרָ֑יִם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Egipto"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "אַרְאֶ֖נּוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG.PRS.P3.M.SG",
+      "traduccion": "le mostraré"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6381",
+      "hebreo": "פלא",
+      "transliteracion": "נִפְלָאֹֽות׃",
+      "parsingLabel": "sustantivo nif‘al participio desconocido femenino plural absoluto",
+      "parsing": "SUBS.NIF.PTCA.U.F.PL.A",
+      "traduccion": "cosas maravillosas"
+    }
+  ]
+}

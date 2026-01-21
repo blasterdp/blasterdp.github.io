@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 17:13 Reina Valera 1960",
+    "texto": "Si yo espero, el Seol es mi casa; Haré mi cama en las tinieblas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6960",
+      "hebreo": "קוה",
+      "transliteracion": "אֲ֭קַוֶּה",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "espero"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7585",
+      "hebreo": "שְׁאֹול",
+      "transliteracion": "שְׁאֹ֣ול",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "que Seol"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּיתִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi casa"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2822",
+      "hebreo": "חֹשֶׁךְ",
+      "transliteracion": "חֹ֗שֶׁךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "tinieblas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7502",
+      "hebreo": "רפד",
+      "transliteracion": "רִפַּ֥דְתִּי",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P1.U.SG",
+      "traduccion": "extiendo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3326",
+      "hebreo": "יָצוּעַ",
+      "transliteracion": "יְצוּעָֽי׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mi lecho"
+    }
+  ]
+}

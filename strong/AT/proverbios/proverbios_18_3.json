@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 18:3 Reina Valera 1960",
+    "texto": "Cuando viene el impío, viene también el menosprecio, Y con el deshonrador la afrenta."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "בֹוא־",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "llega"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רָ֭שָׁע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "impío"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "בָּ֣א",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "llega"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "también"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "937",
+      "hebreo": "בּוּז",
+      "transliteracion": "בּ֑וּז",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "desprecio"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7036",
+      "hebreo": "קָלֹון",
+      "transliteracion": "קָלֹ֥ון",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "deshonra"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2781",
+      "hebreo": "חֶרְפָּה",
+      "transliteracion": "חֶרְפָּֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "afrenta"
+    }
+  ]
+}

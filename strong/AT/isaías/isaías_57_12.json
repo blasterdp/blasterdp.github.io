@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Isaías 57:12 Reina Valera 1960",
+    "texto": "Yo publicaré tu justicia y tus obras, que no te aprovecharán."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲנִ֥י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5046",
+      "hebreo": "נגד",
+      "transliteracion": "אַגִּ֖יד",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG",
+      "traduccion": "explicaré"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6666",
+      "hebreo": "צְדָקָה",
+      "transliteracion": "צִדְקָתֵ֑ךְ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.F.SG",
+      "traduccion": "tu justicia"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶֽת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4639",
+      "hebreo": "מַעֲשֶׂה",
+      "transliteracion": "מַעֲשַׂ֖יִךְ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.F.SG",
+      "traduccion": "tus obras"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3276",
+      "hebreo": "יעל",
+      "transliteracion": "יֹועִילֽוּךְ׃",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural pronominal sufijo 2ª persona femenino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL.PRS.P2.F.SG",
+      "traduccion": "te benecficiarán"
+    }
+  ]
+}

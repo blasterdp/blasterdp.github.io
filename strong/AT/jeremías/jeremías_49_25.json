@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Jeremías 49:25 Reina Valera 1960",
+    "texto": "¡Cómo dejaron a la ciudad tan alabada, la ciudad de mi gozo!"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "349",
+      "hebreo": "אֵיךְ",
+      "transliteracion": "אֵ֥יךְ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¡cómo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5800",
+      "hebreo": "עזב",
+      "transliteracion": "עֻזְּבָ֖ה",
+      "parsingLabel": "verbo pu“al perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PUAL.PERF.P3.F.SG",
+      "traduccion": "ha sido abandonada"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5892",
+      "hebreo": "עִיר",
+      "transliteracion": "עִ֣יר",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "ciudad de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8416",
+      "hebreo": "תְּהִלָּה",
+      "transliteracion": "תְּהִלָּ֑ת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "fama"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7151",
+      "hebreo": "קִרְיָה",
+      "transliteracion": "קִרְיַ֖ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "población de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4885",
+      "hebreo": "מָשֹׂושׂ",
+      "transliteracion": "מְשֹׂושִֽׂי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi deleite!"
+    }
+  ]
+}

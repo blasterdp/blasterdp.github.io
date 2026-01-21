@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 102:11 Reina Valera 1960",
+    "texto": "Mis días son como sombra que se va, Y me he secado como la hierba."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יָ֭מַי",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis días"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6738",
+      "hebreo": "צֵל",
+      "transliteracion": "צֵ֣ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "sombra"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5186",
+      "hebreo": "נטה",
+      "transliteracion": "נָט֑וּי",
+      "parsingLabel": "adjetivo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "ADJV.QAL.PTCP.U.M.SG.A",
+      "traduccion": "que se alarga"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲנִ֗י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6212",
+      "hebreo": "עֵשֶׂב",
+      "transliteracion": "עֵ֥שֶׂב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hierba"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3001",
+      "hebreo": "יבשׁ",
+      "transliteracion": "אִיבָֽשׁ׃",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "me seco"
+    }
+  ]
+}

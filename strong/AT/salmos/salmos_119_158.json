@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:158 Reina Valera 1960",
+    "texto": "Veía a los prevaricadores, y me disgustaba, Porque no guardaban tus palabras."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָאִ֣יתִי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "me he fijado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "898",
+      "hebreo": "בגד",
+      "transliteracion": "בֹ֭גְדִים",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "en los pérfidos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6962",
+      "hebreo": "קוט",
+      "transliteracion": "אֶתְקֹוטָ֑טָה",
+      "parsingLabel": "verbo hitpa“el wayyiqtol 1ª persona desconocido singular",
+      "parsing": "VERBO.HIT.WAYQ.P1.U.SG",
+      "traduccion": "me dan asco"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֥ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "565",
+      "hebreo": "אִמְרָה",
+      "transliteracion": "אִ֝מְרָתְךָ֗",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu dicho"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "שָׁמָֽרוּ׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "han observado"
+    }
+  ]
+}

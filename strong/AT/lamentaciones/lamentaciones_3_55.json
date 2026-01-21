@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Lamentaciones 3:55 Reina Valera 1960",
+    "texto": "Invoqué tu nombre, oh Jehová, desde la cárcel profunda;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7121",
+      "hebreo": "קרא",
+      "transliteracion": "קָרָ֤אתִי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "Invoqué"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שִׁמְךָ֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu Nombre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֔ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "953",
+      "hebreo": "בֹּור",
+      "transliteracion": "בֹּ֖ור",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "el pozo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8482",
+      "hebreo": "תַּחְתִּי",
+      "transliteracion": "תַּחְתִּיֹּֽות׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "profundidades"
+    }
+  ]
+}

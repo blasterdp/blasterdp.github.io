@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 12:6 Reina Valera 1960",
+    "texto": "Las palabras de los impíos son asechanzas para derramar sangre; Mas la boca de los rectos los librará."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דִּבְרֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "palabras"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de impíos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "693",
+      "hebreo": "ארב",
+      "transliteracion": "אֱרָב־",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "asechanza"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1818",
+      "hebreo": "דָּם",
+      "transliteracion": "דָּ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de sangre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִ֥י",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "boca"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3477",
+      "hebreo": "יָשָׁר",
+      "transliteracion": "יְ֝שָׁרִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de rectos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "יַצִּילֵֽם׃",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los librará"
+    }
+  ]
+}

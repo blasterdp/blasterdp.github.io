@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 22:11 Reina Valera 1960",
+    "texto": "El que ama la limpieza de corazón, Por la gracia de sus labios tendrá la amistad del rey."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "אֹהֵ֥ב",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "el que ama"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2889",
+      "hebreo": "טָהֹר",
+      "transliteracion": "טְהָר־",
+      "parsingLabel": "adjetivo masculino singular constructivo",
+      "parsing": "ADJV.M.SG.C",
+      "traduccion": "pureza"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לֵ֑ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de corazón"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2580",
+      "hebreo": "חֵן",
+      "transliteracion": "חֵ֥ן",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "gracia"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שְׂ֝פָתָ֗יו",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.SG",
+      "traduccion": "sus labios"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7453",
+      "hebreo": "רֵעַ",
+      "transliteracion": "רֵעֵ֥הוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "amigo suyo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מֶֽלֶךְ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "rey"
+    }
+  ]
+}

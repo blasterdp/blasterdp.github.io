@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Job 16:18 Reina Valera 1960",
+    "texto": "¡Oh tierra! no cubras mi sangre, Y no haya lugar para mi clamor."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֭רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "¡tierra"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3680",
+      "hebreo": "כסה",
+      "transliteracion": "תְּכַסִּ֣י",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.F.SG",
+      "traduccion": "cubras"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1818",
+      "hebreo": "דָּם",
+      "transliteracion": "דָמִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi sangre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "יְהִ֥י",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "haya"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4725",
+      "hebreo": "מָקֹום",
+      "transliteracion": "מָ֝קֹ֗ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "lugar"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2201",
+      "hebreo": "זְעָקָה",
+      "transliteracion": "זַעֲקָתִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi clamor!"
+    }
+  ]
+}

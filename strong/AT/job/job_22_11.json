@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 22:11 Reina Valera 1960",
+    "texto": "O tinieblas, para que no veas, Y abundancia de agua te cubre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "176",
+      "hebreo": "אֹו",
+      "transliteracion": "אֹו־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2822",
+      "hebreo": "חֹשֶׁךְ",
+      "transliteracion": "חֹ֥שֶׁךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "tinieblas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "תִרְאֶ֑ה",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "ves"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "e"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8229",
+      "hebreo": "שִׁפְעָה",
+      "transliteracion": "שִׁפְעַת־",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "inundación"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַ֥יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de aguas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3680",
+      "hebreo": "כסה",
+      "transliteracion": "תְּכַסֶּֽךָּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG.PRS.P2.M.SG",
+      "traduccion": "te cubre"
+    }
+  ]
+}

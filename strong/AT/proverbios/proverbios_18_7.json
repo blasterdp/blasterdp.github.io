@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 18:7 Reina Valera 1960",
+    "texto": "La boca del necio es quebrantamiento para sí, Y sus labios son lazos para su alma."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּֽי־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "boca"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3684",
+      "hebreo": "כְּסִיל",
+      "transliteracion": "כְ֭סִיל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del necio"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4288",
+      "hebreo": "מְחִתָּה",
+      "transliteracion": "מְחִתָּה־",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ruina"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֹ֑ו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "para él"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שְׂפָתָ֗יו",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.SG",
+      "traduccion": "sus labios"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4170",
+      "hebreo": "מֹוקֵשׁ",
+      "transliteracion": "מֹוקֵ֥שׁ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "trampa"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשֹֽׁו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su alma"
+    }
+  ]
+}

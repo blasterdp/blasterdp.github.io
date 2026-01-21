@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 22:13 Reina Valera 1960",
+    "texto": "Dice el perezoso: El león está fuera; Seré muerto en la calle."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָמַ֣ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "dice"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6102",
+      "hebreo": "עָצֵל",
+      "transliteracion": "עָ֭צֵל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "perezoso"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "738",
+      "hebreo": "אֲרִי",
+      "transliteracion": "אֲרִ֣י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "león"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2351",
+      "hebreo": "חוּץ",
+      "transliteracion": "ח֑וּץ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "afuera"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8432",
+      "hebreo": "תָּוֶךְ",
+      "transliteracion": "תֹ֥וךְ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "medio"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7339",
+      "hebreo": "רְחֹב",
+      "transliteracion": "רְ֝חֹבֹ֗ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "de plaza"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7523",
+      "hebreo": "רצח",
+      "transliteracion": "אֵֽרָצֵֽחַ׃",
+      "parsingLabel": "verbo nif‘al imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.NIF.IMPF.P1.U.SG",
+      "traduccion": "será muerto"
+    }
+  ]
+}

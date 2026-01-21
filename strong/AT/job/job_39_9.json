@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 39:9 Reina Valera 1960",
+    "texto": "¿Querrá el búfalo servirte a ti, O quedar en tu pesebre?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "14",
+      "hebreo": "אבה",
+      "transliteracion": "יֹ֣אבֶה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "consentirá"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7214",
+      "hebreo": "רְאֵם",
+      "transliteracion": "רֵּ֣ים",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "búfalo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5647",
+      "hebreo": "עבד",
+      "transliteracion": "עָבְדֶ֑ךָ",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERB.QAL.INFC.U.U.U.A.PRS.P2.M.SG",
+      "traduccion": "en servirte"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3885",
+      "hebreo": "לין",
+      "transliteracion": "יָ֝לִ֗ין",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "pernoctará"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "junto a"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "18",
+      "hebreo": "אֵבוּס",
+      "transliteracion": "אֲבוּסֶֽךָ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu pesebre?"
+    }
+  ]
+}

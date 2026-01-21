@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 10:8 Reina Valera 1960",
+    "texto": "Tus manos me hicieron y me formaron; ¿Y luego te vuelves y me deshaces?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדֶ֣יךָ",
+      "parsingLabel": "sustantivo desconocido dual absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.DU.A.PRS.P2.M.SG",
+      "traduccion": "tus manos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6087",
+      "hebreo": "עצב",
+      "transliteracion": "עִ֭צְּבוּנִי",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me dieron forma"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "יַּעֲשׂ֑וּנִי",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL.PRS.P1.U.SG",
+      "traduccion": "me hicieron"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3162",
+      "hebreo": "יַחַד",
+      "transliteracion": "יַ֥חַד",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "a una"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5439",
+      "hebreo": "סָבִיב",
+      "transliteracion": "סָ֝בִ֗יב",
+      "parsingLabel": "adverbio desconocido singular absoluto",
+      "parsing": "ADVB.U.SG.A",
+      "traduccion": "en derredor"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "¿y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1104",
+      "hebreo": "בלע",
+      "transliteracion": "תְּבַלְּעֵֽנִי׃",
+      "parsingLabel": "verbo pi“el wayyiqtol 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.WAYQ.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me destruirás?"
+    }
+  ]
+}

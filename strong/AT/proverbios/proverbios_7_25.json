@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 7:25 Reina Valera 1960",
+    "texto": "No se aparte tu corazón a sus caminos; No yerres en sus veredas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7847",
+      "hebreo": "שׂטה",
+      "transliteracion": "יֵ֣שְׂטְ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se desvíe"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דְּרָכֶ֣יהָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus caminos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִבֶּ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu corazón"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8582",
+      "hebreo": "תעה",
+      "transliteracion": "תֵּ֝תַע",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "te extravíes"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5410",
+      "hebreo": "נְתִיבָה",
+      "transliteracion": "נְתִיבֹותֶֽיהָ׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus sendas"
+    }
+  ]
+}

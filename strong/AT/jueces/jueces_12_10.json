@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Jueces 12:10 Reina Valera 1960",
+    "texto": "Y murió Ibzán, y fue sepultado en Belén."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "יָּ֣מָת",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "murió"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "78",
+      "hebreo": "אִבְצָן",
+      "transliteracion": "אִבְצָ֔ן",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Ibzan"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6912",
+      "hebreo": "קבר",
+      "transliteracion": "יִּקָּבֵ֖ר",
+      "parsingLabel": "verbo nif‘al wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.WAYQ.P3.M.SG",
+      "traduccion": "fue sepultado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1035",
+      "hebreo": "בֵּית לֶחֶם",
+      "transliteracion": "בֵ֥ית לָֽחֶם׃ פ",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Belén"
+    }
+  ]
+}

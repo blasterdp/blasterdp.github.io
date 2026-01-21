@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 8:21 Reina Valera 1960",
+    "texto": "Aún llenará tu boca de risa, Y tus labios de júbilo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "aún"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4390",
+      "hebreo": "מלא",
+      "transliteracion": "יְמַלֵּ֣ה",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "llenará"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7814",
+      "hebreo": "שְׂחֹוק",
+      "transliteracion": "שְׂחֹ֣וק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de risa"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּ֑יךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu boca"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שְׂפָתֶ֥יךָ",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P2.M.SG",
+      "traduccion": "tus labios"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8643",
+      "hebreo": "תְּרוּעָה",
+      "transliteracion": "תְרוּעָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de gritos de júbilo"
+    }
+  ]
+}

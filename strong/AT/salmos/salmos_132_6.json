@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 132:6 Reina Valera 1960",
+    "texto": "He aquí en Efrata lo oímos; Lo hallamos en los campos del bosque."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנֵּֽה־",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "He aquí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שְׁמַֽעֲנ֥וּהָ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido plural pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.PL.PRS.P3.F.SG",
+      "traduccion": "oímos de ella"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "672",
+      "hebreo": "אֶפְרָתָה",
+      "transliteracion": "אֶפְרָ֑תָה",
+      "parsingLabel": "nombre propio femenino singular absoluto",
+      "parsing": "NMPR.F.SG.A",
+      "traduccion": "Efrata"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "מְ֝צָאנ֗וּהָ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido plural pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.PL.PRS.P3.F.SG",
+      "traduccion": "la hallamos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7704",
+      "hebreo": "שָׂדֶה",
+      "transliteracion": "שְׂדֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "los campos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3293",
+      "hebreo": "יַעַר",
+      "transliteracion": "יָֽעַר׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Yaar"
+    }
+  ]
+}

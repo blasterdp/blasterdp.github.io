@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 109:24 Reina Valera 1960",
+    "texto": "Mis rodillas están debilitadas a causa del ayuno, Y mi carne desfallece por falta de gordura."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1290",
+      "hebreo": "בֶּרֶךְ",
+      "transliteracion": "בִּ֭רְכַּי",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "mis rodillas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3782",
+      "hebreo": "כשׁל",
+      "transliteracion": "כָּשְׁל֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se tambalean"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6685",
+      "hebreo": "צֹום",
+      "transliteracion": "צֹּ֑ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "el ayuno"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1320",
+      "hebreo": "בָּשָׂר",
+      "transliteracion": "בְשָׂרִ֗י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi carne"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3584",
+      "hebreo": "כחשׁ",
+      "transliteracion": "כָּחַ֥שׁ",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "desfallece"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sin"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8081",
+      "hebreo": "שֶׁמֶן",
+      "transliteracion": "שָּֽׁמֶן׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "gordura"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 118:28 Reina Valera 1960",
+    "texto": "Mi Dios eres tú, y te alabaré; Dios mío, te exaltaré."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "410",
+      "hebreo": "אֵל",
+      "transliteracion": "אֵלִ֣י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi Dios"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֣ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3034",
+      "hebreo": "ידה",
+      "transliteracion": "אֹודֶ֑ךָּ",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "te alabo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱ֝לֹהַ֗י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mi Dios"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7311",
+      "hebreo": "רום",
+      "transliteracion": "אֲרֹומְמֶֽךָּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "yo te exalto"
+    }
+  ]
+}

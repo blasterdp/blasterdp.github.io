@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 20:20 Reina Valera 1960",
+    "texto": "Al que maldice a su padre o a su madre, Se le apagará su lámpara en oscuridad tenebrosa."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7043",
+      "hebreo": "קלל",
+      "transliteracion": "מְ֭קַלֵּל",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.PIEL.PTCA.U.M.SG.C",
+      "traduccion": "al que maldice"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אָבִ֣יו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "a su padre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "517",
+      "hebreo": "אֵם",
+      "transliteracion": "אִמֹּ֑ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "a su madre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1846",
+      "hebreo": "דעך",
+      "transliteracion": "יִֽדְעַ֥ךְ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se le apagará"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5216",
+      "hebreo": "נֵר",
+      "transliteracion": "נֵ֝רֹ֗ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su lámpara"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בֶּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "380",
+      "hebreo": "אֱשׁוּן",
+      "transliteracion": "אֱשׁ֥וּן",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "las más negras"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2822",
+      "hebreo": "חֹשֶׁךְ",
+      "transliteracion": "חֹֽשֶׁךְ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "tinieblas"
+    }
+  ]
+}

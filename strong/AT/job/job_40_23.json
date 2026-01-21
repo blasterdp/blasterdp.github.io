@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Job 40:23 Reina Valera 1960",
+    "texto": "He aquí, sale de madre el río, pero él no se inmuta; Tranquilo está, aunque todo un Jordán se estrelle contra su boca."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2005",
+      "hebreo": "הֵן",
+      "transliteracion": "הֵ֤ן",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6231",
+      "hebreo": "עשׁק",
+      "transliteracion": "יַעֲשֹׁ֣ק",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "ruge"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5104",
+      "hebreo": "נָהָר",
+      "transliteracion": "נָ֭הָר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "río"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2648",
+      "hebreo": "חפז",
+      "transliteracion": "יַחְפֹּ֑וז",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se alarma"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "982",
+      "hebreo": "בטח",
+      "transliteracion": "יִבְטַ֓ח׀",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "está tranquilo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "aunque"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1518",
+      "hebreo": "גיח",
+      "transliteracion": "יָגִ֖יחַ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se desborde"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3383",
+      "hebreo": "יַרְדֵּן",
+      "transliteracion": "יַרְדֵּ֣ן",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Jordán"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּֽיהוּ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su boca"
+    }
+  ]
+}

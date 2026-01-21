@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 29:13 Reina Valera 1960",
+    "texto": "La bendición del que se iba a perder venía sobre mí, Y al corazón de la viuda yo daba alegría."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1293",
+      "hebreo": "בְּרָכָה",
+      "transliteracion": "בִּרְכַּ֣ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "bendición"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6",
+      "hebreo": "אבד",
+      "transliteracion": "אֹ֭בֵד",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "del que perecía"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלַ֣י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre mí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "תָּבֹ֑א",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "venía"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לֵ֖ב",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "corazón"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "490",
+      "hebreo": "אַלְמָנָה",
+      "transliteracion": "אַלְמָנָ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de viuda"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7442",
+      "hebreo": "רנן",
+      "transliteracion": "אַרְנִֽן׃",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG",
+      "traduccion": "yo hacía cantar"
+    }
+  ]
+}

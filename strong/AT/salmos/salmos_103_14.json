@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 103:14 Reina Valera 1960",
+    "texto": "Porque él conoce nuestra condición; Se acuerda de que somos polvo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֖וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָדַ֣ע",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "conoce"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3336",
+      "hebreo": "יֵצֶר",
+      "transliteracion": "יִצְרֵ֑נוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.PL",
+      "traduccion": "nuestra forma"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2142",
+      "hebreo": "זָכוּר",
+      "transliteracion": "זָ֝כ֗וּר",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "se acuerda"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "de que"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6083",
+      "hebreo": "עָפָר",
+      "transliteracion": "עָפָ֥ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "polvo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "587",
+      "hebreo": "אֲנַחְנוּ",
+      "transliteracion": "אֲנָֽחְנוּ׃",
+      "parsingLabel": "pronombre personal 1ª persona desconocido plural",
+      "parsing": "PRPS.P1.U.PL",
+      "traduccion": "nosotros"
+    }
+  ]
+}

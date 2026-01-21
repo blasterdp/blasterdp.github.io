@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 23:32 Reina Valera 1960",
+    "texto": "Mas al fin como serpiente morderá, Y como áspid dará dolor."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "319",
+      "hebreo": "אַחֲרִית",
+      "transliteracion": "אַ֭חֲרִיתֹו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "al final"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5175",
+      "hebreo": "נָחָשׁ",
+      "transliteracion": "נָחָ֣שׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "serpiente"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5391",
+      "hebreo": "נשׁך",
+      "transliteracion": "יִשָּׁ֑ךְ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "muerde"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6848",
+      "hebreo": "צִפְעֹנִי",
+      "transliteracion": "צִפְעֹנִ֥י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "basilisco"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6567",
+      "hebreo": "פרשׁ",
+      "transliteracion": "יַפְרִֽשׁ׃",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "pica"
+    }
+  ]
+}

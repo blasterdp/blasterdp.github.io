@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 10:32 Reina Valera 1960",
+    "texto": "Los labios del justo saben hablar lo que agrada; Mas la boca de los impíos habla perversidades."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שִׂפְתֵ֣י",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "labios"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַ֭דִּיק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del justo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יֵדְע֣וּן",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "conocen"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7522",
+      "hebreo": "רָצֹון",
+      "transliteracion": "רָצֹ֑ון",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "agradable"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִ֥י",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "boca"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְ֝שָׁעִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de impíos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8419",
+      "hebreo": "תַּהְפֻּכֹות",
+      "transliteracion": "תַּהְפֻּכֹֽות׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "perversidades"
+    }
+  ]
+}

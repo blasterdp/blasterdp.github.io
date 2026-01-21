@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:92 Reina Valera 1960",
+    "texto": "Si tu ley no hubiese sido mi delicia, Ya en mi aflicción hubiera perecido."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3884",
+      "hebreo": "לוּלֵא",
+      "transliteracion": "לוּלֵ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8451",
+      "hebreo": "תֹּורָה",
+      "transliteracion": "תֹ֭ורָתְךָ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu ley"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8191",
+      "hebreo": "שַׁעֲשׁוּעִים",
+      "transliteracion": "שַׁעֲשֻׁעָ֑י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mi deleite"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "227",
+      "hebreo": "אָז",
+      "transliteracion": "אָ֝֗ז",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6",
+      "hebreo": "אבד",
+      "transliteracion": "אָבַ֥דְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "habría perecido"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6040",
+      "hebreo": "עֳנִי",
+      "transliteracion": "עָנְיִֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi aflicción"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 13:6 Reina Valera 1960",
+    "texto": "Oíd ahora mi razonamiento, Y estad atentos a los argumentos de mis labios."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שִׁמְעוּ־",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "oíd"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4994",
+      "hebreo": "נָא",
+      "transliteracion": "נָ֥א",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "ahora"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8433",
+      "hebreo": "תֹּוכַחַת",
+      "transliteracion": "תֹוכַחְתִּ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi razonamiento"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7379",
+      "hebreo": "רִיבָה",
+      "transliteracion": "רִבֹ֖ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "a las apelaciones"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שְׂפָתַ֣י",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "de mis labios"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7181",
+      "hebreo": "קשׁב",
+      "transliteracion": "הַקְשִֽׁיבוּ׃",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPV.P2.M.PL",
+      "traduccion": "atended"
+    }
+  ]
+}

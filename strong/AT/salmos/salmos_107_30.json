@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 107:30 Reina Valera 1960",
+    "texto": "Luego se alegran, porque se apaciguaron; Y así los guía al puerto que deseaban."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8055",
+      "hebreo": "שׂמח",
+      "transliteracion": "יִּשְׂמְח֥וּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "se alegraron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8367",
+      "hebreo": "שׁתק",
+      "transliteracion": "יִשְׁתֹּ֑קוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "se habían aquietado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5148",
+      "hebreo": "נחה",
+      "transliteracion": "יַּנְחֵ֗ם",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los guió"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4231",
+      "hebreo": "מָחֹוז",
+      "transliteracion": "מְחֹ֥וז",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "puerto"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2656",
+      "hebreo": "חֵפֶץ",
+      "transliteracion": "חֶפְצָֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "de su anhelo"
+    }
+  ]
+}

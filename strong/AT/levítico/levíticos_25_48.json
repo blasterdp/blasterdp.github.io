@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Levíticos 25:48 Reina Valera 1960",
+    "texto": "después que se hubiere vendido, podrá ser rescatado; uno de sus hermanos lo rescatará."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "310",
+      "hebreo": "אַחַר",
+      "transliteracion": "אַחֲרֵ֣י",
+      "parsingLabel": "conjunción masculino plural constructivo",
+      "parsing": "CONJ.M.PL.C",
+      "traduccion": "después que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4376",
+      "hebreo": "מכר",
+      "transliteracion": "נִמְכַּ֔ר",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "se vende"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1353",
+      "hebreo": "גְּאֻלָּה",
+      "transliteracion": "גְּאֻלָּ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "redención"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "תִּהְיֶה־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "será"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֹּ֑ו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "para él"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "259",
+      "hebreo": "אֶחָד",
+      "transliteracion": "אֶחָ֥ד",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "uno"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "251",
+      "hebreo": "אָח",
+      "transliteracion": "אֶחָ֖יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus parientes"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1350",
+      "hebreo": "גאל",
+      "transliteracion": "יִגְאָלֶֽנּוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "le redimirá"
+    }
+  ]
+}

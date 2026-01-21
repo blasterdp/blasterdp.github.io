@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 124:3 Reina Valera 1960",
+    "texto": "Vivos nos habrían tragado entonces, Cuando se encendió su furor contra nosotros."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "233",
+      "hebreo": "אֲזַי",
+      "transliteracion": "אֲ֭זַי",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2416",
+      "hebreo": "חַי",
+      "transliteracion": "חַיִּ֣ים",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "vivos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1104",
+      "hebreo": "בלע",
+      "transliteracion": "בְּלָע֑וּנוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P1.U.PL",
+      "traduccion": "nos habrían tragado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2734",
+      "hebreo": "חרה",
+      "transliteracion": "חֲרֹ֖ות",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "se encendió"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "639",
+      "hebreo": "אַף",
+      "transliteracion": "אַפָּ֣ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su ira"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּֽנוּ׃",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "PREP.PRS.P1.U.PL",
+      "traduccion": "contra nosotros"
+    }
+  ]
+}

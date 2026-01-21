@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Job 8:11 Reina Valera 1960",
+    "texto": "¿Crece el junco sin lodo? ¿Crece el prado sin agua?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1342",
+      "hebreo": "גאה",
+      "transliteracion": "יִֽגְאֶה־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "crecerá"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1573",
+      "hebreo": "גֹּמֶא",
+      "transliteracion": "גֹּ֭מֶא",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "papiro"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "sin"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1207",
+      "hebreo": "בִּצָּה",
+      "transliteracion": "בִצָּ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "pantanal?"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7685",
+      "hebreo": "שׂגה",
+      "transliteracion": "יִשְׂגֶּה־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "¿prosperará"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "260",
+      "hebreo": "אָחוּ",
+      "transliteracion": "אָ֥חוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "carrizo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1097",
+      "hebreo": "בְּלִי",
+      "transliteracion": "בְלִי־",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "sin"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מָֽיִם׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas?"
+    }
+  ]
+}

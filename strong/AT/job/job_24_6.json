@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 24:6 Reina Valera 1960",
+    "texto": "En el campo siegan su pasto, Y los impíos vendimian la viña ajena."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7704",
+      "hebreo": "שָׂדֶה",
+      "transliteracion": "שָּׂדֶה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "campo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1098",
+      "hebreo": "בְּלִיל",
+      "transliteracion": "בְּלִילֹ֣ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su forraje"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7114",
+      "hebreo": "קצר",
+      "transliteracion": "יִקְצֹ֑ורוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "cosechan"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3754",
+      "hebreo": "כֶּרֶם",
+      "transliteracion": "כֶ֖רֶם",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "viña"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רָשָׁ֣ע",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "del malvado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3953",
+      "hebreo": "לקשׁ",
+      "transliteracion": "יְלַקֵּֽשׁוּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "vendimian"
+    }
+  ]
+}

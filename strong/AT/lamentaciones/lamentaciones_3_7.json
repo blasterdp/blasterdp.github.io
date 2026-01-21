@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Lamentaciones 3:7 Reina Valera 1960",
+    "texto": "Me cercó por todos lados, y no puedo salir; ha hecho más pesadas mis cadenas;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1443",
+      "hebreo": "גדר",
+      "transliteracion": "גָּדַ֧ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "Hizo cerco"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1157",
+      "hebreo": "בַּעַד",
+      "transliteracion": "בַּעֲדִ֛י",
+      "parsingLabel": "preposición desconocido singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.U.SG.A.PRS.P1.U.SG",
+      "traduccion": "contra mi"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "אֵצֵ֖א",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "pude salir"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3513",
+      "hebreo": "כבד",
+      "transliteracion": "הִכְבִּ֥יד",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG",
+      "traduccion": "hizo pesadas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5178",
+      "hebreo": "נְחֹשֶׁת",
+      "transliteracion": "נְחָשְׁתִּֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mis cadenas"
+    }
+  ]
+}

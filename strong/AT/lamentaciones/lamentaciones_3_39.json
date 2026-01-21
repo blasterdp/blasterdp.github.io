@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Lamentaciones 3:39 Reina Valera 1960",
+    "texto": "¿Por qué se lamenta el hombre viviente? Laméntese el hombre en su pecado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מַה־",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "Por qué¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "596",
+      "hebreo": "אנן",
+      "transliteracion": "יִּתְאֹונֵן֙",
+      "parsingLabel": "verbo hitpa“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIT.IMPF.P3.M.SG",
+      "traduccion": "se queja"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָדָ֣ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "?hombre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2416",
+      "hebreo": "חַי",
+      "transliteracion": "חָ֔י",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "Vivo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1397",
+      "hebreo": "גֶּבֶר",
+      "transliteracion": "גֶּ֖בֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2399",
+      "hebreo": "חֵטְא",
+      "transliteracion": "חֲטָאָֽיו׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "su pecado"
+    }
+  ]
+}

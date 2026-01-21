@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Rut 1:10 Reina Valera 1960",
+    "texto": "y le dijeron: Ciertamente nosotras iremos contigo a tu pueblo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "תֹּאמַ֖רְנָה־",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona femenino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.F.PL",
+      "traduccion": "dijeron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָּ֑הּ",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona femenino singular",
+      "parsing": "PREP.PRS.P3.F.SG",
+      "traduccion": "a ella"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "ciertamente"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "854",
+      "hebreo": "אֵת",
+      "transliteracion": "אִתָּ֥ךְ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona femenino singular",
+      "parsing": "PREP.PRS.P2.F.SG",
+      "traduccion": "contigo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "נָשׁ֖וּב",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.IMPF.P1.U.PL",
+      "traduccion": "volveremos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמֵּֽךְ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.F.SG",
+      "traduccion": "tu pueblo."
+    }
+  ]
+}

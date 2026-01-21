@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 11:26 Reina Valera 1960",
+    "texto": "Al que acapara el grano, el pueblo lo maldecirá; Pero bendición será sobre la cabeza del que lo vende."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4513",
+      "hebreo": "מנע",
+      "transliteracion": "מֹ֣נֵֽעַ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular constructivo",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.C",
+      "traduccion": "al que retiene"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1250",
+      "hebreo": "בַּר",
+      "transliteracion": "בָּ֭ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "grano"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6895",
+      "hebreo": "קבב",
+      "transliteracion": "יִקְּבֻ֣הוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL.PRS.P3.M.SG",
+      "traduccion": "lo maldecirá"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3816",
+      "hebreo": "לְאֹם",
+      "transliteracion": "לְאֹ֑ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pueblo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1293",
+      "hebreo": "בְּרָכָה",
+      "transliteracion": "בְרָכָ֗ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "bendición"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7218",
+      "hebreo": "רֹאשׁ",
+      "transliteracion": "רֹ֣אשׁ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "cabeza"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7666",
+      "hebreo": "שׁבר",
+      "transliteracion": "מַשְׁבִּֽיר׃",
+      "parsingLabel": "sustantivo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.HIF.PTCA.U.M.SG.A",
+      "traduccion": "del que vende"
+    }
+  ]
+}

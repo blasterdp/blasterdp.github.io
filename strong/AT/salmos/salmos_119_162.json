@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:162 Reina Valera 1960",
+    "texto": "Me regocijo en tu palabra Como el que halla muchos despojos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7797",
+      "hebreo": "שׂושׂ",
+      "transliteracion": "שָׂ֣שׂ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "me regocijo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "595",
+      "hebreo": "אָנֹכִי",
+      "transliteracion": "אָ֭נֹכִֽי",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "565",
+      "hebreo": "אִמְרָה",
+      "transliteracion": "אִמְרָתֶ֑ךָ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu dicho"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "מֹוצֵ֗א",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "quien halla"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7998",
+      "hebreo": "שָׁלָל",
+      "transliteracion": "שָׁלָ֥ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "botín"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רָֽב׃",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "mucho"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Job 6:5 Reina Valera 1960",
+    "texto": "¿Acaso gime el asno montés junto a la hierba? ¿Muge el buey junto a su pasto?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5101",
+      "hebreo": "נהק",
+      "transliteracion": "יִֽנְהַק־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "rebuzna"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6501",
+      "hebreo": "פֶּרֶא",
+      "transliteracion": "פֶּ֥רֶא",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "el asno montés"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עֲלֵי־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1877",
+      "hebreo": "דֶּשֶׁא",
+      "transliteracion": "דֶ֑שֶׁא",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hierba?"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִ֥ם",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "¿acaso"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1600",
+      "hebreo": "געה",
+      "transliteracion": "יִגְעֶה־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "muge"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7794",
+      "hebreo": "שֹׁור",
+      "transliteracion": "שֹּׁ֝֗ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "buey"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1098",
+      "hebreo": "בְּלִיל",
+      "transliteracion": "בְּלִילֹֽו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su pienso?"
+    }
+  ]
+}

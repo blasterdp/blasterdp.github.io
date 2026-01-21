@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Job 38:24 Reina Valera 1960",
+    "texto": "¿Por qué camino se reparte la luz, Y se esparce el viento solano sobre la tierra?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "335",
+      "hebreo": "אֵי",
+      "transliteracion": "אֵי־",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿dónde"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶ֣ה",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "éste"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ֭",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דֶּרֶךְ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "camino"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2505",
+      "hebreo": "חלק",
+      "transliteracion": "יֵחָ֣לֶק",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "se distribuye"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "216",
+      "hebreo": "אֹור",
+      "transliteracion": "אֹ֑ור",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "luz"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6327",
+      "hebreo": "פוץ",
+      "transliteracion": "יָפֵ֖ץ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "se esparce"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6921",
+      "hebreo": "קָדִים",
+      "transliteracion": "קָדִ֣ים",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "viento solano"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עֲלֵי־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָֽרֶץ׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra?"
+    }
+  ]
+}

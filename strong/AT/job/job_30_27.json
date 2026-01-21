@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 30:27 Reina Valera 1960",
+    "texto": "Mis entrañas se agitan, y no reposan; Días de aflicción me han sobrecogido."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4578",
+      "hebreo": "מֵעִים",
+      "transliteracion": "מֵעַ֖י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis entrañas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7570",
+      "hebreo": "רתח",
+      "transliteracion": "רֻתְּח֥וּ",
+      "parsingLabel": "verbo pu“al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.PUAL.PERF.P3.U.PL",
+      "traduccion": "hierven"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1826",
+      "hebreo": "דמם",
+      "transliteracion": "דָ֗מּוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "descansan"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6923",
+      "hebreo": "קדם",
+      "transliteracion": "קִדְּמֻ֥נִי",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me vienen al encuentro"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יְמֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "días"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6040",
+      "hebreo": "עֳנִי",
+      "transliteracion": "עֹֽנִי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de mi aflicción"
+    }
+  ]
+}

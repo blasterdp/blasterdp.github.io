@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:50 Reina Valera 1960",
+    "texto": "Ella es mi consuelo en mi aflicción, Porque tu dicho me ha vivificado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2063",
+      "hebreo": "זֹאת",
+      "transliteracion": "זֹ֣את",
+      "parsingLabel": "demonstrative pronombre femenino singular",
+      "parsing": "PRDE.F.SG",
+      "traduccion": "este"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5165",
+      "hebreo": "נֶחָמָה",
+      "transliteracion": "נֶחָמָתִ֣י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi consuelo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6040",
+      "hebreo": "עֳנִי",
+      "transliteracion": "עָנְיִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi aflicción"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֖י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "565",
+      "hebreo": "אִמְרָה",
+      "transliteracion": "אִמְרָתְךָ֣",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu dicho"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2421",
+      "hebreo": "חיה",
+      "transliteracion": "חִיָּֽתְנִי׃",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "me ha vivificado"
+    }
+  ]
+}

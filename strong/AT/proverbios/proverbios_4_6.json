@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 4:6 Reina Valera 1960",
+    "texto": "No la dejes, y ella te guardará; Amala, y te conservará."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5800",
+      "hebreo": "עזב",
+      "transliteracion": "תַּעַזְבֶ֥הָ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P3.F.SG",
+      "traduccion": "la abandones"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "תִשְׁמְרֶ֑ךָּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG.PRS.P2.M.SG",
+      "traduccion": "te protegerá"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "אֱהָבֶ֥הָ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG.PRS.P3.F.SG",
+      "traduccion": "ámala"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5341",
+      "hebreo": "נצר",
+      "transliteracion": "תִצְּרֶֽךָּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG.PRS.P2.M.SG",
+      "traduccion": "te guardará"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "versiculo": {
+    "referencia": "Levíticos 25:3 Reina Valera 1960",
+    "texto": "Seis años sembrarás tu tierra, y seis años podarás tu viña y recogerás sus frutos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8337",
+      "hebreo": "שֵׁשׁ",
+      "transliteracion": "שֵׁ֤שׁ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "seis"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8141",
+      "hebreo": "שָׁנָה",
+      "transliteracion": "שָׁנִים֙",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "años"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2232",
+      "hebreo": "זרע",
+      "transliteracion": "תִּזְרַ֣ע",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "sembrarás"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7704",
+      "hebreo": "שָׂדֶה",
+      "transliteracion": "שָׂדֶ֔ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu campo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8337",
+      "hebreo": "שֵׁשׁ",
+      "transliteracion": "שֵׁ֥שׁ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "seis"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8141",
+      "hebreo": "שָׁנָה",
+      "transliteracion": "שָׁנִ֖ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "años"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2168",
+      "hebreo": "זמר",
+      "transliteracion": "תִּזְמֹ֣ר",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "podarás"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3754",
+      "hebreo": "כֶּרֶם",
+      "transliteracion": "כַּרְמֶ֑ךָ",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu viña"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "622",
+      "hebreo": "אסף",
+      "transliteracion": "אָסַפְתָּ֖",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "recogerás"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "8393",
+      "hebreo": "תְּבוּאָה",
+      "transliteracion": "תְּבוּאָתָֽהּ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.F.SG",
+      "traduccion": "su cosecha"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Job 24:3 Reina Valera 1960",
+    "texto": "Se llevan el asno de los huérfanos, Y toman en prenda el buey de la viuda."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2543",
+      "hebreo": "חֲמֹור",
+      "transliteracion": "חֲמֹ֣ור",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "asno"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3490",
+      "hebreo": "יָתֹום",
+      "transliteracion": "יְתֹומִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de huérfanos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5090",
+      "hebreo": "נהג",
+      "transliteracion": "יִנְהָ֑גוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "se llevan"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2254",
+      "hebreo": "חבל",
+      "transliteracion": "יַ֝חְבְּל֗וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "toman en prenda"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7794",
+      "hebreo": "שֹׁור",
+      "transliteracion": "שֹׁ֣ור",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "buey"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "490",
+      "hebreo": "אַלְמָנָה",
+      "transliteracion": "אַלְמָנָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de viuda"
+    }
+  ]
+}

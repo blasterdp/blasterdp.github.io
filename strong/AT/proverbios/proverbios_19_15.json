@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 19:15 Reina Valera 1960",
+    "texto": "La pereza hace caer en profundo sueño, Y el alma negligente padecerá hambre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6103",
+      "hebreo": "עַצְלָה",
+      "transliteracion": "עַ֭צְלָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "pereza"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "תַּפִּ֣יל",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.F.SG",
+      "traduccion": "hace caer"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8639",
+      "hebreo": "תַּרְדֵּמָה",
+      "transliteracion": "תַּרְדֵּמָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "profundo sueño"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נֶ֖פֶשׁ",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "alma"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7423",
+      "hebreo": "רְמִיָּה",
+      "transliteracion": "רְמִיָּ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ociosa"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7456",
+      "hebreo": "רעב",
+      "transliteracion": "תִרְעָֽב׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "sufrirá hambre"
+    }
+  ]
+}

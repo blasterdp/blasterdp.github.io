@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Isaías 35:5 Reina Valera 1960",
+    "texto": "Entonces los ojos de los ciegos serán abiertos, y los oídos de los sordos se abrirán."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "227",
+      "hebreo": "אָז",
+      "transliteracion": "אָ֥ז",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6491",
+      "hebreo": "פקח",
+      "transliteracion": "תִּפָּקַ֖חְנָה",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona femenino plural",
+      "parsing": "VERBO.NIF.IMPF.P3.F.PL",
+      "traduccion": "serán abiertos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינֵ֣י",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "ojos de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5787",
+      "hebreo": "עִוֵּר",
+      "transliteracion": "עִוְרִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "ciegos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אָזְנֵ֥י",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "oídos de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2795",
+      "hebreo": "חֵרֵשׁ",
+      "transliteracion": "חֵרְשִׁ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "sordos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6605",
+      "hebreo": "פתח",
+      "transliteracion": "תִּפָּתַֽחְנָה׃",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona femenino plural",
+      "parsing": "VERBO.NIF.IMPF.P3.F.PL",
+      "traduccion": "se destaparán"
+    }
+  ]
+}

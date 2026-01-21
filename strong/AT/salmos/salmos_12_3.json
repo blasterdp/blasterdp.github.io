@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 12:3 Reina Valera 1960",
+    "texto": "Jehová destruirá todos los labios lisonjeros, Y la lengua que habla jactanciosamente;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3772",
+      "hebreo": "כרת",
+      "transliteracion": "יַכְרֵ֣ת",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "corte"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שִׂפְתֵ֣י",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "labios"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2509",
+      "hebreo": "חָלָק",
+      "transliteracion": "חֲלָקֹ֑ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "de lisonjas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3956",
+      "hebreo": "לָשֹׁון",
+      "transliteracion": "לָ֝שֹׁ֗ון",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "lengua"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "מְדַבֶּ֥רֶת",
+      "parsingLabel": "verbo pi“el participio desconocido femenino singular absoluto",
+      "parsing": "VERBO.PIEL.PTCA.U.F.SG.A",
+      "traduccion": "que habla"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1419",
+      "hebreo": "גָּדֹול",
+      "transliteracion": "גְּדֹלֹֽות׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "altanerías"
+    }
+  ]
+}

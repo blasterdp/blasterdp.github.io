@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 31:13 Reina Valera 1960",
+    "texto": "Busca lana y lino, Y con voluntad trabaja con sus manos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1875",
+      "hebreo": "דרשׁ",
+      "transliteracion": "דָּ֭רְשָׁה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "busca"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6785",
+      "hebreo": "צֶמֶר",
+      "transliteracion": "צֶ֣מֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "lana"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6593",
+      "hebreo": "פֵּשֶׁת",
+      "transliteracion": "פִשְׁתִּ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "lino"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "תַּ֗עַשׂ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.F.SG",
+      "traduccion": "trabajo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2656",
+      "hebreo": "חֵפֶץ",
+      "transliteracion": "חֵ֣פֶץ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "agrado"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3709",
+      "hebreo": "כַּף",
+      "transliteracion": "כַּפֶּֽיהָ׃",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P3.F.SG",
+      "traduccion": "sus palmas"
+    }
+  ]
+}

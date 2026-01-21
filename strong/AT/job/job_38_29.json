@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Job 38:29 Reina Valera 1960",
+    "texto": "¿De qué vientre salió el hielo? Y la escarcha del cielo, ¿quién la engendró?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "¿del"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "990",
+      "hebreo": "בֶּטֶן",
+      "transliteracion": "בֶּ֣טֶן",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "vientre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִ֭י",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "de quién"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "יָצָ֣א",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "sale"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7140",
+      "hebreo": "קֶרַח",
+      "transliteracion": "קָּ֑רַח",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hielo?"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3713",
+      "hebreo": "כְּפֹור",
+      "transliteracion": "כְפֹ֥ר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "escarcha"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8064",
+      "hebreo": "שָׁמַיִם",
+      "transliteracion": "שָׁ֝מַיִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de cielos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִ֣י",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿quién"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3205",
+      "hebreo": "ילד",
+      "transliteracion": "יְלָדֹֽו׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "fue su padre?"
+    }
+  ]
+}

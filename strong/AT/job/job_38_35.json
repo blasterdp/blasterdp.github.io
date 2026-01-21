@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 38:35 Reina Valera 1960",
+    "texto": "¿Enviarás tú los relámpagos, para que ellos vayan? ¿Y te dirán ellos: Henos aquí?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הַֽ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "תְשַׁלַּ֣ח",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG",
+      "traduccion": "enviarás"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1300",
+      "hebreo": "בָּרָק",
+      "transliteracion": "בְּרָקִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "relámpagos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "-"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "יֵלֵ֑כוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "para que vayan"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹאמְר֖וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "digan"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְךָ֣",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "te"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנֵּֽנוּ׃",
+      "parsingLabel": "interjeción pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "INTJ.PRS.P1.U.PL",
+      "traduccion": "henos aquí?"
+    }
+  ]
+}

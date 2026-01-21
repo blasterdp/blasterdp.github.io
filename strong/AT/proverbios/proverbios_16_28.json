@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 16:28 Reina Valera 1960",
+    "texto": "El hombre perverso levanta contienda, Y el chismoso aparta a los mejores amigos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִ֣ישׁ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8419",
+      "hebreo": "תַּהְפֻּכֹות",
+      "transliteracion": "תַּ֭הְפֻּכֹות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "perverso"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "יְשַׁלַּ֣ח",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "esparce"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4066",
+      "hebreo": "מָדֹון",
+      "transliteracion": "מָדֹ֑ון",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "contienda"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7279",
+      "hebreo": "רגן",
+      "transliteracion": "נִרְגָּ֗ן",
+      "parsingLabel": "sustantivo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.NIF.PTCA.U.M.SG.A",
+      "traduccion": "chismoso"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6504",
+      "hebreo": "פרד",
+      "transliteracion": "מַפְרִ֥יד",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "separa"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "441",
+      "hebreo": "אַלּוּף",
+      "transliteracion": "אַלּֽוּף׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "a los mejores amigos"
+    }
+  ]
+}

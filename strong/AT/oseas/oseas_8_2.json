@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Oseas 8:2 Reina Valera 1960",
+    "texto": "A mí clamará Israel: Dios mío, te hemos conocido."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֖י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "A mi"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2199",
+      "hebreo": "זעק",
+      "transliteracion": "יִזְעָ֑קוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": ":clamará"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהַ֥י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios mío"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יְֽדַעֲנ֖וּךָ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido plural pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.PL.PRS.P2.M.SG",
+      "traduccion": "te conocemos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵֽל׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 114:4 Reina Valera 1960",
+    "texto": "Los montes saltaron como carneros, Los collados como corderitos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הֶֽ֭",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "las"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הָרִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "montañas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7540",
+      "hebreo": "רקד",
+      "transliteracion": "רָקְד֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "saltaron"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "352",
+      "hebreo": "אַיִל",
+      "transliteracion": "אֵילִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "carneros"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1389",
+      "hebreo": "גִּבְעָה",
+      "transliteracion": "גְּ֝בָעֹ֗ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "collados"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְנֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "corderitos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6629",
+      "hebreo": "צֹאן",
+      "transliteracion": "צֹֽאן׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "del rebaño"
+    }
+  ]
+}

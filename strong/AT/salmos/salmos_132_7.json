@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 132:7 Reina Valera 1960",
+    "texto": "Entraremos en su tabernáculo; Nos postraremos ante el estrado de sus pies."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "נָבֹ֥ואָה",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.IMPF.P1.U.PL",
+      "traduccion": "entremos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4908",
+      "hebreo": "מִשְׁכָּן",
+      "transliteracion": "מִשְׁכְּנֹותָ֑יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus moradas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7812",
+      "hebreo": "חוה",
+      "transliteracion": "נִ֝שְׁתַּחֲוֶ֗ה",
+      "parsingLabel": "verbo hishtaf‘al imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.HSHT.IMPF.P1.U.PL",
+      "traduccion": "postrémonos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "ante"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1916",
+      "hebreo": "הֲדֹם",
+      "transliteracion": "הֲדֹ֥ם",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "el estrado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7272",
+      "hebreo": "רֶגֶל",
+      "transliteracion": "רַגְלָֽיו׃",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.SG",
+      "traduccion": "de sus pies"
+    }
+  ]
+}

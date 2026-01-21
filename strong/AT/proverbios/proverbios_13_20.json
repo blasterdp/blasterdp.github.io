@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 13:20 Reina Valera 1960",
+    "texto": "El que anda con sabios, sabio será; Mas el que se junta con necios será quebrantado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "הֹלֵ֣ךְ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "el que anda"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "854",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חֲכָמִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "sabios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2449",
+      "hebreo": "חכם",
+      "transliteracion": "יֶחְכָּ֑ם",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "será sabio"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7462",
+      "hebreo": "רעה",
+      "transliteracion": "רֹעֶ֖ה",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "compañero"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3684",
+      "hebreo": "כְּסִיל",
+      "transliteracion": "כְסִילִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de necios"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7489",
+      "hebreo": "רעע",
+      "transliteracion": "יֵרֹֽועַ׃",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "sufrirá daño"
+    }
+  ]
+}

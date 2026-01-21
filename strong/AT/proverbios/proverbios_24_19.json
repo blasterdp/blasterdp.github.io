@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 24:19 Reina Valera 1960",
+    "texto": "No te entremetas con los malignos, Ni tengas envidia de los impíos;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2734",
+      "hebreo": "חרה",
+      "transliteracion": "תִּתְחַ֥ר",
+      "parsingLabel": "verbo hitpa“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIT.IMPF.P2.M.SG",
+      "traduccion": "te impacientes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7489",
+      "hebreo": "רעע",
+      "transliteracion": "מְּרֵעִ֑ים",
+      "parsingLabel": "sustantivo hif‘il participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.HIF.PTCA.U.M.PL.A",
+      "traduccion": "malhechores"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "ni"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7065",
+      "hebreo": "קנא",
+      "transliteracion": "תְּ֝קַנֵּ֗א",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG",
+      "traduccion": "tengas envidia"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "impíos"
+    }
+  ]
+}

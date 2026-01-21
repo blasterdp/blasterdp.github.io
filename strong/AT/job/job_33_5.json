@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 33:5 Reina Valera 1960",
+    "texto": "Respóndeme si puedes; Ordena tus palabras, ponte en pie."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3201",
+      "hebreo": "יכל",
+      "transliteracion": "תּוּכַ֥ל",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "puedes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "הֲשִׁיבֵ֑נִי",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "contradíceme"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6186",
+      "hebreo": "ערך",
+      "transliteracion": "עֶרְכָ֥ה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "colócate"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "delante"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָנַ֗י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3320",
+      "hebreo": "יצב",
+      "transliteracion": "הִתְיַצָּֽבָה׃",
+      "parsingLabel": "verbo hitpa“el imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIT.IMPV.P2.M.SG",
+      "traduccion": "tente en pie"
+    }
+  ]
+}

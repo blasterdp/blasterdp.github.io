@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Lamentaciones 5:8 Reina Valera 1960",
+    "texto": "Siervos se enseñorearon de nosotros; No hubo quien nos librase de su mano."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עֲבָדִים֙",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Esclavos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4910",
+      "hebreo": "משׁל",
+      "transliteracion": "מָ֣שְׁלוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "gobiernan"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָ֔נוּ",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "PREP.PRS.P1.U.PL",
+      "traduccion": "en nosotros"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6561",
+      "hebreo": "פרק",
+      "transliteracion": "פֹּרֵ֖ק",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "libre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵ֥ין",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "no hay"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָּדָֽם׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.PL",
+      "traduccion": "su mano"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 9:17 Reina Valera 1960",
+    "texto": "Las aguas hurtadas son dulces, Y el pan comido en oculto es sabroso."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַֽיִם־",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1589",
+      "hebreo": "גנב",
+      "transliteracion": "גְּנוּבִ֥ים",
+      "parsingLabel": "adjetivo qal participio (passive) desconocido masculino plural absoluto",
+      "parsing": "ADJV.QAL.PTCP.U.M.PL.A",
+      "traduccion": "robadas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4985",
+      "hebreo": "מתק",
+      "transliteracion": "יִמְתָּ֑קוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "son dulces"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3899",
+      "hebreo": "לֶחֶם",
+      "transliteracion": "לֶ֖חֶם",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "pan"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5643",
+      "hebreo": "סֵתֶר",
+      "transliteracion": "סְתָרִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "en secreto"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5276",
+      "hebreo": "נעם",
+      "transliteracion": "יִנְעָֽם׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "es sabroso"
+    }
+  ]
+}

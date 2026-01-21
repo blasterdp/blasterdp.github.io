@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Lamentaciones 5:22 Reina Valera 1960",
+    "texto": "Porque nos has desechado; Te has airado contra nosotros en gran manera."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֚י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Excepto"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3988",
+      "hebreo": "מאס",
+      "transliteracion": "מָאֹ֣ס",
+      "parsingLabel": "adverbio qal infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.QAL.INFA.U.U.U.A",
+      "traduccion": "rechazar"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3988",
+      "hebreo": "מאס",
+      "transliteracion": "מְאַסְתָּ֔נוּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG.PRS.P1.U.PL",
+      "traduccion": "nos rechazaste"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7107",
+      "hebreo": "קצף",
+      "transliteracion": "קָצַ֥פְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "te has airado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלֵ֖ינוּ",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "PREP.PRS.P1.U.PL",
+      "traduccion": "contra nosotros"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3966",
+      "hebreo": "מְאֹד",
+      "transliteracion": "מְאֹֽד׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "gran manera"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 27:12 Reina Valera 1960",
+    "texto": "He aquí que todos vosotros lo habéis visto; ¿Por qué, pues, os habéis hecho tan enteramente vanos?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2005",
+      "hebreo": "הֵן",
+      "transliteracion": "הֵן־",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "he aquí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "859",
+      "hebreo": "אַתֶּם",
+      "transliteracion": "אַתֶּ֣ם",
+      "parsingLabel": "pronombre personal 2ª persona masculino plural",
+      "parsing": "PRPS.P2.M.PL",
+      "traduccion": "vosotros"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֻּלְּכֶ֣ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "todos vosotros"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2372",
+      "hebreo": "חזה",
+      "transliteracion": "חֲזִיתֶ֑ם",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.PERF.P2.M.PL",
+      "traduccion": "habéis visto"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4100",
+      "hebreo": "לָמָה",
+      "transliteracion": "לָמָּה־",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "por qué pues"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶּ֝֗ה",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "esta"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1892",
+      "hebreo": "הֶבֶל",
+      "transliteracion": "הֶ֣בֶל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "vanidad"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1891",
+      "hebreo": "הבל",
+      "transliteracion": "תֶּהְבָּֽלוּ׃",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.PL",
+      "traduccion": "os hacéis vanos?"
+    }
+  ]
+}

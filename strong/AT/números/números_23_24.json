@@ -1,0 +1,170 @@
+{
+  "versiculo": {
+    "referencia": "Números 23:24 Reina Valera 1960",
+    "texto": "He aquí el pueblo que como león se levantará, Y como león se erguirá; No se echará hasta que devore la presa, Y beba la sangre de los muertos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2005",
+      "hebreo": "הֵן",
+      "transliteracion": "הֶן־",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "Mira"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עָם֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pueblo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3833",
+      "hebreo": "לָבִיא",
+      "transliteracion": "לָבִ֣יא",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "leona"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "יָק֔וּם",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se levanta"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "738",
+      "hebreo": "אֲרִי",
+      "transliteracion": "אֲרִ֖י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "león"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5375",
+      "hebreo": "נשׂא",
+      "transliteracion": "יִתְנַשָּׂ֑א",
+      "parsingLabel": "verbo hitpa“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIT.IMPF.P3.M.SG",
+      "traduccion": "se erguirá,"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֤א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7901",
+      "hebreo": "שׁכב",
+      "transliteracion": "יִשְׁכַּב֙",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "descansa"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "hasta que"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "יֹ֣אכַל",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "devora"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "2964",
+      "hebreo": "טֶרֶף",
+      "transliteracion": "טֶ֔רֶף",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "presa"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "1818",
+      "hebreo": "דָּם",
+      "transliteracion": "דַם־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "sangre de"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "2491",
+      "hebreo": "חָלָל",
+      "transliteracion": "חֲלָלִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "víctimas"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "8354",
+      "hebreo": "שׁתה",
+      "transliteracion": "יִשְׁתֶּֽה׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "bebé."
+    }
+  ]
+}

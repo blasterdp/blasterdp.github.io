@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 29:11 Reina Valera 1960",
+    "texto": "El necio da rienda suelta a toda su ira, Mas el sabio al fin la sosiega."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "a todo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֭וּחֹו",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su espíritu"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "יֹוצִ֣יא",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "da salida"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3684",
+      "hebreo": "כְּסִיל",
+      "transliteracion": "כְסִ֑יל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "necio"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חָכָ֗ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "sabio"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "268",
+      "hebreo": "אָחֹור",
+      "transliteracion": "אָחֹ֥ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "reteniendo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7623",
+      "hebreo": "שׁבח",
+      "transliteracion": "יְשַׁבְּחֶֽנָּה׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG.PRS.P3.F.SG",
+      "traduccion": "lo calma"
+    }
+  ]
+}

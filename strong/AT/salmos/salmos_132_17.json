@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 132:17 Reina Valera 1960",
+    "texto": "Allí haré retoñar el poder de David; He dispuesto lámpara a mi ungido."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8033",
+      "hebreo": "שָׁם",
+      "transliteracion": "שָׁ֤ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "allí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6779",
+      "hebreo": "צמח",
+      "transliteracion": "אַצְמִ֣יחַ",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG",
+      "traduccion": "haré surgir"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7161",
+      "hebreo": "קֶרֶן",
+      "transliteracion": "קֶ֣רֶן",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "cuerno"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1732",
+      "hebreo": "דָּוִד",
+      "transliteracion": "דָוִ֑ד",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "David"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6186",
+      "hebreo": "ערך",
+      "transliteracion": "עָרַ֥כְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "he dispuesto"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5216",
+      "hebreo": "נֵר",
+      "transliteracion": "נֵ֝֗ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "lámpara"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4899",
+      "hebreo": "מָשִׁיחַ",
+      "transliteracion": "מְשִׁיחִֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi ungido"
+    }
+  ]
+}

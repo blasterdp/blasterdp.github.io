@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 8:36 Reina Valera 1960",
+    "texto": "Mas el que peca contra mí, defrauda su alma; Todos los que me aborrecen aman la muerte."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2398",
+      "hebreo": "חטא",
+      "transliteracion": "חֹטְאִי",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "el que peca contra mí"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2554",
+      "hebreo": "חמס",
+      "transliteracion": "חֹמֵ֣ס",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "hace daño"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשֹׁ֑ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "a su alma"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "מְ֝שַׂנְאַ֗י",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.A",
+      "traduccion": "los que me odian"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "אָ֣הֲבוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "aman"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4194",
+      "hebreo": "מָוֶת",
+      "transliteracion": "מָֽוֶת׃ פ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "muerte"
+    }
+  ]
+}

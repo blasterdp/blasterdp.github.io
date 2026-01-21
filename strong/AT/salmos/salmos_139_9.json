@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 139:9 Reina Valera 1960",
+    "texto": "Si tomare las alas del alba Y habitare en el extremo del mar,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5375",
+      "hebreo": "נשׂא",
+      "transliteracion": "אֶשָּׂ֥א",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "tomo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3671",
+      "hebreo": "כָּנָף",
+      "transliteracion": "כַנְפֵי־",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "alas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7837",
+      "hebreo": "שַׁחַר",
+      "transliteracion": "שָׁ֑חַר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del alba"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7931",
+      "hebreo": "שׁכן",
+      "transliteracion": "אֶ֝שְׁכְּנָ֗ה",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "habito"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "319",
+      "hebreo": "אַחֲרִית",
+      "transliteracion": "אַחֲרִ֥ית",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "lo más remoto"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3220",
+      "hebreo": "יָם",
+      "transliteracion": "יָֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del mar"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:113 Reina Valera 1960",
+    "texto": "Aborrezco a los hombres hipócritas; Mas amo tu ley."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5588",
+      "hebreo": "סֵעֵף",
+      "transliteracion": "סֵעֲפִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "a los de mente dividida"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "שָׂנֵ֑אתִי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "odio"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8451",
+      "hebreo": "תֹּורָה",
+      "transliteracion": "תֹורָתְךָ֥",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu ley"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "אָהָֽבְתִּי׃",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "amo"
+    }
+  ]
+}

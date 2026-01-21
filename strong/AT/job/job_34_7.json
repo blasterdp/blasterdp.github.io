@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 34:7 Reina Valera 1960",
+    "texto": "¿Qué hombre hay como Job, Que bebe el escarnio como agua,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִי־",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿qué"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1397",
+      "hebreo": "גֶּבֶר",
+      "transliteracion": "גֶ֥בֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "347",
+      "hebreo": "אִיֹּוב",
+      "transliteracion": "אִיֹּ֑וב",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Job"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8354",
+      "hebreo": "שׁתה",
+      "transliteracion": "יִֽשְׁתֶּה־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "bebe"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3933",
+      "hebreo": "לַעַג",
+      "transliteracion": "לַּ֥עַג",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "burla"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מָּֽיִם׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas"
+    }
+  ]
+}

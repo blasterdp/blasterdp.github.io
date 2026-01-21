@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 17:13 Reina Valera 1960",
+    "texto": "El que da mal por bien, No se apartará el mal de su casa."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "מֵשִׁ֣יב",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "al que devuelve"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7451",
+      "hebreo": "רָעָה",
+      "transliteracion": "רָ֭עָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "mal"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּ֣חַת",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "por"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2896",
+      "hebreo": "טֹובָה",
+      "transliteracion": "טֹובָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "bien"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4185",
+      "hebreo": "מושׁ",
+      "transliteracion": "תָמ֥וּשׁ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "se apartará"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7451",
+      "hebreo": "רָעָה",
+      "transliteracion": "רָ֝עָ֗ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "mal"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּיתֹֽו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su casa"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:147 Reina Valera 1960",
+    "texto": "Me anticipé al alba, y clamé; Esperé en tu palabra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6923",
+      "hebreo": "קדם",
+      "transliteracion": "קִדַּ֣מְתִּי",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P1.U.SG",
+      "traduccion": "me anticipé"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5399",
+      "hebreo": "נֶשֶׁף",
+      "transliteracion": "נֶּשֶׁף",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "alba"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "e"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7768",
+      "hebreo": "שׁוע",
+      "transliteracion": "אֲשַׁוֵּ֑עָה",
+      "parsingLabel": "verbo pi“el wayyiqtol 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.WAYQ.P1.U.SG",
+      "traduccion": "imploré auxilio"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְבָרְךָ֥",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tus palabras"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3176",
+      "hebreo": "יחל",
+      "transliteracion": "יִחָֽלְתִּי׃",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular",
+      "parsing": "VERB.PIEL.PERF.P1.U.SG",
+      "traduccion": "he esperado"
+    }
+  ]
+}

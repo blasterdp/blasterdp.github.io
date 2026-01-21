@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:77 Reina Valera 1960",
+    "texto": "Vengan a mí tus misericordias, para que viva, Porque tu ley es mi delicia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "יְבֹא֣וּנִי",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL.PRS.P1.U.SG",
+      "traduccion": "vengan a mí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7356",
+      "hebreo": "רַחֲמִים",
+      "transliteracion": "רַחֲמֶ֣יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus compasiones"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "para que"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2421",
+      "hebreo": "חיה",
+      "transliteracion": "אֶֽחְיֶ֑ה",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "viva"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8451",
+      "hebreo": "תֹּורָה",
+      "transliteracion": "תֹֽ֝ורָתְךָ֗",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu ley"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8191",
+      "hebreo": "שַׁעֲשׁוּעִים",
+      "transliteracion": "שַֽׁעֲשֻׁעָֽי׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "es mi deleite"
+    }
+  ]
+}

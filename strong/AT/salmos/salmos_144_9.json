@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 144:9 Reina Valera 1960",
+    "texto": "Oh Dios, a ti cantaré cántico nuevo; Con salterio, con decacordio cantaré a ti."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱֽלֹהִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7892",
+      "hebreo": "שִׁיר",
+      "transliteracion": "שִׁ֣יר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "un cántico"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2319",
+      "hebreo": "חָדָשׁ",
+      "transliteracion": "חָ֭דָשׁ",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "nuevo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7891",
+      "hebreo": "שׁיר",
+      "transliteracion": "אָשִׁ֣ירָה",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "cantaré"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָּ֑ךְ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "te"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5035",
+      "hebreo": "נֵבֶל",
+      "transliteracion": "נֵ֥בֶל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "arpa"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6218",
+      "hebreo": "עָשֹׂור",
+      "transliteracion": "עָ֝שֹׂ֗ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de diez cuerdas"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2167",
+      "hebreo": "זמר",
+      "transliteracion": "אֲזַמְּרָה־",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "cantaré"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָּֽךְ׃",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "te"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 28:9 Reina Valera 1960",
+    "texto": "El que aparta su oído para no oír la ley, Su oración también es abominable."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5493",
+      "hebreo": "סור",
+      "transliteracion": "מֵסִ֣יר",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "quien aparta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אָ֭זְנֹו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su oído"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שְּׁמֹ֣עַ",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "oír"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8451",
+      "hebreo": "תֹּורָה",
+      "transliteracion": "תֹּורָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ley"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּֽם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "aun"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8605",
+      "hebreo": "תְּפִלָּה",
+      "transliteracion": "תְּ֝פִלָּתֹ֗ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su oración"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8441",
+      "hebreo": "תֹּועֵבָה",
+      "transliteracion": "תֹּועֵבָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "abominación"
+    }
+  ]
+}

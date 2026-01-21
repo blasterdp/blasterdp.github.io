@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 29:15 Reina Valera 1960",
+    "texto": "La vara y la corrección dan sabiduría; Mas el muchacho consentido avergonzará a su madre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7626",
+      "hebreo": "שֵׁבֶט",
+      "transliteracion": "שֵׁ֣בֶט",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "vara"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8433",
+      "hebreo": "תֹּוכַחַת",
+      "transliteracion": "תֹוכַחַת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "reprensión"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "יִתֵּ֣ן",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "da"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2451",
+      "hebreo": "חָכְמָה",
+      "transliteracion": "חָכְמָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "sabiduría"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5288",
+      "hebreo": "נַעַר",
+      "transliteracion": "נַ֥עַר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "niño"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "מְ֝שֻׁלָּ֗ח",
+      "parsingLabel": "adjetivo pu“al participio (passive) desconocido masculino singular absoluto",
+      "parsing": "ADJV.PUAL.PTCP.U.M.SG.A",
+      "traduccion": "suelto"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "954",
+      "hebreo": "בושׁ",
+      "transliteracion": "מֵבִ֥ישׁ",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "avergüenza"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "517",
+      "hebreo": "אֵם",
+      "transliteracion": "אִמֹּֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "a su madre"
+    }
+  ]
+}

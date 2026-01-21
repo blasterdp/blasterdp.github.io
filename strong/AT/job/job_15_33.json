@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 15:33 Reina Valera 1960",
+    "texto": "Perderá su agraz como la vid, Y derramará su flor como el olivo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2554",
+      "hebreo": "חמס",
+      "transliteracion": "יַחְמֹ֣ס",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "sacudirá"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1612",
+      "hebreo": "גֶּפֶן",
+      "transliteracion": "גֶּ֣פֶן",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "vid"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1155",
+      "hebreo": "בֹּסֶר",
+      "transliteracion": "בִּסְרֹ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su uvas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7993",
+      "hebreo": "שׁלך",
+      "transliteracion": "יַשְׁלֵ֥ךְ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "arrojará"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2132",
+      "hebreo": "זַיִת",
+      "transliteracion": "זַּ֗יִת",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "olivo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5328",
+      "hebreo": "נִצָּה",
+      "transliteracion": "נִצָּתֹֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su flor"
+    }
+  ]
+}

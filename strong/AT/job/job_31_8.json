@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 31:8 Reina Valera 1960",
+    "texto": "Siembre yo, y otro coma, Y sea arrancada mi siembra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2232",
+      "hebreo": "זרע",
+      "transliteracion": "אֶ֭זְרְעָה",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "que yo siempre"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "312",
+      "hebreo": "אַחֵר",
+      "transliteracion": "אַחֵ֣ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "otro"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "יֹאכֵ֑ל",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "coma"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6631",
+      "hebreo": "צֶאֱצָאִים",
+      "transliteracion": "צֶאֱצָאַ֥י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "lo que me nace"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8327",
+      "hebreo": "שׁרשׁ",
+      "transliteracion": "יְשֹׁרָֽשׁוּ׃",
+      "parsingLabel": "verbo po“al imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.POAL.IMPF.P3.M.PL",
+      "traduccion": "sea arrancado"
+    }
+  ]
+}

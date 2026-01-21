@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:8 Reina Valera 1960",
+    "texto": "Tus estatutos guardaré; No me dejes enteramente."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2706",
+      "hebreo": "חֹק",
+      "transliteracion": "חֻקֶּ֥יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus estatutos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "אֶשְׁמֹ֑ר",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "guardaré"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַֽל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5800",
+      "hebreo": "עזב",
+      "transliteracion": "תַּעַזְבֵ֥נִי",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me desampares"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3966",
+      "hebreo": "מְאֹד",
+      "transliteracion": "מְאֹֽד׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "completo"
+    }
+  ]
+}

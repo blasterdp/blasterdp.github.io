@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 21:7 Reina Valera 1960",
+    "texto": "¿Por qué viven los impíos, Y se envejecen, y aun crecen en riquezas?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4069",
+      "hebreo": "מַדּוּעַ",
+      "transliteracion": "מַדּ֣וּעַ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿por qué"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "malvados"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2421",
+      "hebreo": "חיה",
+      "transliteracion": "יִחְי֑וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "viven"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6275",
+      "hebreo": "עתק",
+      "transliteracion": "עָ֝תְק֗וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "llegan a viejos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1396",
+      "hebreo": "גבר",
+      "transliteracion": "גָּ֥בְרוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se hacen fuertes"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2428",
+      "hebreo": "חַיִל",
+      "transliteracion": "חָֽיִל׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "poder?"
+    }
+  ]
+}

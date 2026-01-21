@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 19:3 Reina Valera 1960",
+    "texto": "La insensatez del hombre tuerce su camino, Y luego contra Jehová se irrita su corazón."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "200",
+      "hebreo": "אִוֶּלֶת",
+      "transliteracion": "אִוֶּ֣לֶת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "necedad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָ֭דָם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del hombre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5557",
+      "hebreo": "סלף",
+      "transliteracion": "תְּסַלֵּ֣ף",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG",
+      "traduccion": "pervierte"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דַּרְכֹּ֑ו",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su camino"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֝הוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2196",
+      "hebreo": "זעף",
+      "transliteracion": "יִזְעַ֥ף",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se irrita"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִבֹּֽו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su corazón"
+    }
+  ]
+}

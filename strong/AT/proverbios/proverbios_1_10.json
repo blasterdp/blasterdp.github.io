@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 1:10 Reina Valera 1960",
+    "texto": "Hijo mío, si los pecadores te quisieren engañar, No consientas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנִ֡י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "hijo mío"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6601",
+      "hebreo": "פתה",
+      "transliteracion": "יְפַתּ֥וּךָ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL.PRS.P2.M.SG",
+      "traduccion": "te seducen"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2400",
+      "hebreo": "חַטָּא",
+      "transliteracion": "חַ֝טָּאִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "pecadores"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "14",
+      "hebreo": "אבה",
+      "transliteracion": "תֹּבֵֽא׃",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "consientas"
+    }
+  ]
+}

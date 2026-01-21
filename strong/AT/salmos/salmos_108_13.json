@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 108:13 Reina Valera 1960",
+    "texto": "En Dios haremos proezas, Y él hollará a nuestros enemigos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בֵּֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אלֹהִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "נַעֲשֶׂה־",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.IMPF.P1.U.PL",
+      "traduccion": "haremos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2428",
+      "hebreo": "חַיִל",
+      "transliteracion": "חָ֑יִל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "proezas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֗וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "947",
+      "hebreo": "בוס",
+      "transliteracion": "יָב֥וּס",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "hollará"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6862",
+      "hebreo": "צַר",
+      "transliteracion": "צָרֵֽינוּ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "a nuestros adversarios"
+    }
+  ]
+}

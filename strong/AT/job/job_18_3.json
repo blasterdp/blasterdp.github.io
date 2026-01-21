@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 18:3 Reina Valera 1960",
+    "texto": "¿Por qué somos tenidos por bestias, Y a vuestros ojos somos viles?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4069",
+      "hebreo": "מַדּוּעַ",
+      "transliteracion": "מַ֭דּוּעַ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿por qué"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2803",
+      "hebreo": "חשׁב",
+      "transliteracion": "נֶחְשַׁ֣בְנוּ",
+      "parsingLabel": "verbo nif‘al perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P1.U.PL",
+      "traduccion": "somos tenidos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "929",
+      "hebreo": "בְּהֵמָה",
+      "transliteracion": "בְּהֵמָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "animales"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2933",
+      "hebreo": "טמה",
+      "transliteracion": "נִ֝טְמִ֗ינוּ",
+      "parsingLabel": "verbo nif‘al perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P1.U.PL",
+      "traduccion": "somos estúpidos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינֵיכֶֽם׃",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.F.DU.A.PRS.P2.M.PL",
+      "traduccion": "vuestros ojos?"
+    }
+  ]
+}

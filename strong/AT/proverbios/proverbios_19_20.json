@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 19:20 Reina Valera 1960",
+    "texto": "Escucha el consejo, y recibe la corrección, Para que seas sabio en tu vejez."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שְׁמַ֣ע",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "escucha"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6098",
+      "hebreo": "עֵצָה",
+      "transliteracion": "עֵ֭צָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "consejo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6901",
+      "hebreo": "קבל",
+      "transliteracion": "קַבֵּ֣ל",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG",
+      "traduccion": "acepta"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4148",
+      "hebreo": "מוּסָר",
+      "transliteracion": "מוּסָ֑ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "corrección"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4616",
+      "hebreo": "לְמַעַן",
+      "transliteracion": "לְ֝מַ֗עַן",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "para que"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2449",
+      "hebreo": "חכם",
+      "transliteracion": "תֶּחְכַּ֥ם",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "seas sabio"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "319",
+      "hebreo": "אַחֲרִית",
+      "transliteracion": "אַחֲרִיתֶֽךָ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu final"
+    }
+  ]
+}

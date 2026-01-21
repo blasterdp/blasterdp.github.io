@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 13:9 Reina Valera 1960",
+    "texto": "La luz de los justos se alegrará; Mas se apagará la lámpara de los impíos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "216",
+      "hebreo": "אֹור",
+      "transliteracion": "אֹור־",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "luz"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַדִּיקִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de justos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8055",
+      "hebreo": "שׂמח",
+      "transliteracion": "יִשְׂמָ֑ח",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se alegra"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5216",
+      "hebreo": "נֵר",
+      "transliteracion": "נֵ֖ר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "lámpara"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de imíos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1846",
+      "hebreo": "דעך",
+      "transliteracion": "יִדְעָֽךְ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se apaga"
+    }
+  ]
+}

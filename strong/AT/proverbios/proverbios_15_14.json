@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 15:14 Reina Valera 1960",
+    "texto": "El corazón entendido busca la sabiduría; Mas la boca de los necios se alimenta de necedades."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לֵ֣ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "corazón"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "נָ֭בֹון",
+      "parsingLabel": "adjetivo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "ADJV.NIF.PTCA.U.M.SG.A",
+      "traduccion": "del que discierne"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1245",
+      "hebreo": "בקשׁ",
+      "transliteracion": "יְבַקֶּשׁ־",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "busca"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1847",
+      "hebreo": "דַּעַת",
+      "transliteracion": "דָּ֑עַת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "conocimiento"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִ֥י",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "boca"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3684",
+      "hebreo": "כְּסִיל",
+      "transliteracion": "כְ֝סִילִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de necios"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7462",
+      "hebreo": "רעה",
+      "transliteracion": "יִרְעֶ֥ה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se alimenta"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "200",
+      "hebreo": "אִוֶּלֶת",
+      "transliteracion": "אִוֶּֽלֶת׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de necedad"
+    }
+  ]
+}

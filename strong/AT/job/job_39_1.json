@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 39:1 Reina Valera 1960",
+    "texto": "¿Sabes tú el tiempo en que paren las cabras monteses? ¿O miraste tú las ciervas cuando están pariendo?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָדַ֗עְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "conoces"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6256",
+      "hebreo": "עֵת",
+      "transliteracion": "עֵ֭ת",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "tiempo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3205",
+      "hebreo": "ילד",
+      "transliteracion": "לֶ֣דֶת",
+      "parsingLabel": "sustantivo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "SUBS.QAL.INFC.U.U.U.C",
+      "traduccion": "de parir"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3277",
+      "hebreo": "יָעֵל",
+      "transliteracion": "יַעֲלֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "de cabras"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5553",
+      "hebreo": "סֶלַע",
+      "transliteracion": "סָ֑לַע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "monteses?"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2342",
+      "hebreo": "חיל",
+      "transliteracion": "חֹלֵ֖ל",
+      "parsingLabel": "verbo pi“el infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERB.PIEL.INFC.U.U.U.C",
+      "traduccion": "¿parto"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "355",
+      "hebreo": "אַיָּלָה",
+      "transliteracion": "אַיָּלֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "de ciervas"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "תִּשְׁמֹֽר׃",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "has observado?"
+    }
+  ]
+}

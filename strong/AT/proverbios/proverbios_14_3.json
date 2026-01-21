@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 14:3 Reina Valera 1960",
+    "texto": "En la boca del necio está la vara de la soberbia; Mas los labios de los sabios los guardarán."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִי־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "boca"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "191",
+      "hebreo": "אֱוִיל",
+      "transliteracion": "אֱ֭וִיל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del necio"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2415",
+      "hebreo": "חֹטֶר",
+      "transliteracion": "חֹ֣טֶר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "brote"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1346",
+      "hebreo": "גַּאֲוָה",
+      "transliteracion": "גַּאֲוָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de soberbia"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שִׂפְתֵ֥י",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "labios"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חֲ֝כָמִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de sabios"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "תִּשְׁמוּרֵֽם׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG.PRS.P3.M.PL",
+      "traduccion": "los protegerán"
+    }
+  ]
+}

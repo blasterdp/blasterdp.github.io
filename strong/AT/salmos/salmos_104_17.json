@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 104:17 Reina Valera 1960",
+    "texto": "Allí anidan las aves; En las hayas hace su casa la cigüeña."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8033",
+      "hebreo": "שָׁם",
+      "transliteracion": "שָׁ֭ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "allí"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6833",
+      "hebreo": "צִפֹּור",
+      "transliteracion": "צִפֳּרִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aves"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7077",
+      "hebreo": "קנן",
+      "transliteracion": "יְקַנֵּ֑נוּ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "hacen sus nidos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2624",
+      "hebreo": "חֲסִידָה",
+      "transliteracion": "חֲ֝סִידָ֗ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "cigüeña"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1265",
+      "hebreo": "בְּרֹושׁ",
+      "transliteracion": "בְּרֹושִׁ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cipreses"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּיתָֽהּ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "su casa"
+    }
+  ]
+}

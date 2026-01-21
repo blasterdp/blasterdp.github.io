@@ -1,0 +1,125 @@
+{
+  "versiculo": {
+    "referencia": "Isaías 1:3 Reina Valera 1960",
+    "texto": "El buey conoce a su dueño, y el asno el pesebre de su señor; Israel no entiende, mi pueblo no tiene conocimiento."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָדַ֥ע",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "conoce"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7794",
+      "hebreo": "שֹׁור",
+      "transliteracion": "שֹׁור֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "buey"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7069",
+      "hebreo": "קנה",
+      "transliteracion": "קֹנֵ֔הוּ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su amo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2543",
+      "hebreo": "חֲמֹור",
+      "transliteracion": "חֲמֹ֖ור",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "asno"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "18",
+      "hebreo": "אֵבוּס",
+      "transliteracion": "אֵב֣וּס",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "pesebre de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1167",
+      "hebreo": "בַּעַל",
+      "transliteracion": "בְּעָלָ֑יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus dueños"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵל֙",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָדַ֔ע",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "conoce"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמִּ֖י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi pueblo"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "הִתְבֹּונָֽן׃",
+      "parsingLabel": "verbo hitpa“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIT.PERF.P3.M.SG",
+      "traduccion": "comprende"
+    }
+  ]
+}

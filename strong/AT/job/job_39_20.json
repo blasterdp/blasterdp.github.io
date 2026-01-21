@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 39:20 Reina Valera 1960",
+    "texto": "¿Le intimidarás tú como a langosta? El resoplido de su nariz es formidable."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הְֽ֭",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7493",
+      "hebreo": "רעשׁ",
+      "transliteracion": "תַרְעִישֶׁנּוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "le haces brincar"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "697",
+      "hebreo": "אַרְבֶּה",
+      "transliteracion": "אַרְבֶּ֑ה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "langosta?"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1935",
+      "hebreo": "הֹוד",
+      "transliteracion": "הֹ֖וד",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "majestad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5170",
+      "hebreo": "נַחַר",
+      "transliteracion": "נַחְרֹ֣ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su relincho"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "367",
+      "hebreo": "אֵימָה",
+      "transliteracion": "אֵימָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "terror"
+    }
+  ]
+}

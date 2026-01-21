@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 23:10 Reina Valera 1960",
+    "texto": "Mas él conoce mi camino; Me probará, y saldré como oro."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָ֭דַע",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "concoce"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דֶּ֣רֶךְ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "camino"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5978",
+      "hebreo": "עִמָּד",
+      "transliteracion": "עִמָּדִ֑י",
+      "parsingLabel": "preposición masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "conmigo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "974",
+      "hebreo": "בחן",
+      "transliteracion": "בְּ֝חָנַ֗נִי",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "cuando me haya probado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2091",
+      "hebreo": "זָהָב",
+      "transliteracion": "זָּהָ֥ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "oro"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "אֵצֵֽא׃",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "saldré"
+    }
+  ]
+}

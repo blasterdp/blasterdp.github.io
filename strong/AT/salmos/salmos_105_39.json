@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 105:39 Reina Valera 1960",
+    "texto": "Extendió una nube por cubierta, Y fuego para alumbrar la noche."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6566",
+      "hebreo": "פרשׂ",
+      "transliteracion": "פָּרַ֣שׂ",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "extendió"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6051",
+      "hebreo": "עָנָן",
+      "transliteracion": "עָנָ֣ן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "nube"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4539",
+      "hebreo": "מָסָךְ",
+      "transliteracion": "מָסָ֑ךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "cubierta"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "784",
+      "hebreo": "אֵשׁ",
+      "transliteracion": "אֵ֗שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "fuego"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "215",
+      "hebreo": "אור",
+      "transliteracion": "הָאִ֥יר",
+      "parsingLabel": "verbo hif‘il infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.HIF.INFC.U.U.U.C",
+      "traduccion": "dar luz"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3915",
+      "hebreo": "לַיְלָה",
+      "transliteracion": "לָֽיְלָה׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "noche"
+    }
+  ]
+}

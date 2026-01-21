@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 20:4 Reina Valera 1960",
+    "texto": "El perezoso no ara a causa del invierno; Pedirá, pues, en la siega, y no hallará."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2779",
+      "hebreo": "חֹרֶף",
+      "transliteracion": "חֹרֶף",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "otoño"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6102",
+      "hebreo": "עָצֵל",
+      "transliteracion": "עָצֵ֣ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "perezoso"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2790",
+      "hebreo": "חרשׁ",
+      "transliteracion": "יַחֲרֹ֑שׁ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "ara"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7592",
+      "hebreo": "שׁאל",
+      "transliteracion": "שָׁאַ֖ל",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "pide pues"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7105",
+      "hebreo": "קָצִיר",
+      "transliteracion": "קָּצִ֣יר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "siega"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אָֽיִן׃",
+      "parsingLabel": "negativo partículo masculino singular absoluto",
+      "parsing": "NEGA.M.SG.A",
+      "traduccion": "no hay nada"
+    }
+  ]
+}

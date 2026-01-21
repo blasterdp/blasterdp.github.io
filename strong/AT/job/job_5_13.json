@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 5:13 Reina Valera 1960",
+    "texto": "Que prende a los sabios en la astucia de ellos, Y frustra los designios de los perversos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3920",
+      "hebreo": "לכד",
+      "transliteracion": "לֹכֵ֣ד",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "que prende"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חֲכָמִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "a los sabios"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6191",
+      "hebreo": "ערם",
+      "transliteracion": "עָרְמָ֑ם",
+      "parsingLabel": "sustantivo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.QAL.INFC.U.U.U.A.PRS.P3.M.PL",
+      "traduccion": "la astucia de ellos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6098",
+      "hebreo": "עֵצָה",
+      "transliteracion": "עֲצַ֖ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "el designio"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6617",
+      "hebreo": "פתל",
+      "transliteracion": "נִפְתָּלִ֣ים",
+      "parsingLabel": "sustantivo nif‘al participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.NIF.PTCA.U.M.PL.A",
+      "traduccion": "de los taimados"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4116",
+      "hebreo": "מהר",
+      "transliteracion": "נִמְהָֽרָה׃",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.NIF.PERF.P3.F.SG",
+      "traduccion": "es precipitado"
+    }
+  ]
+}

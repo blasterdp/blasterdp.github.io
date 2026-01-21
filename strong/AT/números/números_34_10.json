@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Números 34:10 Reina Valera 1960",
+    "texto": "Por límite al oriente trazaréis desde Hazar-enán hasta Sefam;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "183",
+      "hebreo": "אוה",
+      "transliteracion": "הִתְאַוִּיתֶ֥ם",
+      "parsingLabel": "verbo hitpa“el perfecto 2ª persona masculino plural",
+      "parsing": "VERBO.HIT.PERF.P2.M.PL",
+      "traduccion": "alinearéis"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָכֶ֖ם",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino plural",
+      "parsing": "PREP.PRS.P2.M.PL",
+      "traduccion": "para vosotros"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1366",
+      "hebreo": "גְּבוּל",
+      "transliteracion": "גְב֣וּל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "límite"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6924",
+      "hebreo": "קֶדֶם",
+      "transliteracion": "קֵ֑דְמָה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "al este"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2704",
+      "hebreo": "חֲצַר עֵינָן",
+      "transliteracion": "חֲצַ֥ר עֵינָ֖ן",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Hazar Enán"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8221",
+      "hebreo": "שְׁפָם",
+      "transliteracion": "שְׁפָֽמָה׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "a Sefam."
+    }
+  ]
+}

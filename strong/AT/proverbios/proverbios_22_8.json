@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 22:8 Reina Valera 1960",
+    "texto": "El que sembrare iniquidad, iniquidad segará, Y la vara de su insolencia se quebrará."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2232",
+      "hebreo": "זרע",
+      "transliteracion": "זֹורֵ֣עַ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.C",
+      "traduccion": "el que siembra"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5766",
+      "hebreo": "עַוְלָה",
+      "transliteracion": "עַ֭וְלָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "iniquidad"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7114",
+      "hebreo": "קצר",
+      "transliteracion": "יִקְצָר־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "segará"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "205",
+      "hebreo": "אָוֶן",
+      "transliteracion": "אָ֑וֶן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "vanidad"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7626",
+      "hebreo": "שֵׁבֶט",
+      "transliteracion": "שֵׁ֖בֶט",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "vara"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5678",
+      "hebreo": "עֶבְרָה",
+      "transliteracion": "עֶבְרָתֹ֣ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su furor"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3615",
+      "hebreo": "כלה",
+      "transliteracion": "יִכְלֶֽה׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "cesará"
+    }
+  ]
+}

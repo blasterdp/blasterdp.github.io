@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 104:6 Reina Valera 1960",
+    "texto": "Con el abismo, como con vestido, la cubriste; Sobre los montes estaban las aguas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8415",
+      "hebreo": "תְּהֹום",
+      "transliteracion": "תְּ֭הֹום",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "abismo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3830",
+      "hebreo": "לְבוּשׁ",
+      "transliteracion": "לְּב֣וּשׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "vestido"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3680",
+      "hebreo": "כסה",
+      "transliteracion": "כִּסִּיתֹ֑ו",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "la cubriste"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הָ֝רִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "montes"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5975",
+      "hebreo": "עמד",
+      "transliteracion": "יַֽעַמְדוּ־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "estaban"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מָֽיִם׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas"
+    }
+  ]
+}

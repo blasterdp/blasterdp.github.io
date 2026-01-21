@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 5:5 Reina Valera 1960",
+    "texto": "Sus pies descienden a la muerte; Sus pasos conducen al Seol."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7272",
+      "hebreo": "רֶגֶל",
+      "transliteracion": "רַ֭גְלֶיהָ",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P3.F.SG",
+      "traduccion": "sus pies"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3381",
+      "hebreo": "ירד",
+      "transliteracion": "יֹרְדֹ֣ות",
+      "parsingLabel": "verbo qal participio desconocido femenino plural absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.F.PL.A",
+      "traduccion": "descienden"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4194",
+      "hebreo": "מָוֶת",
+      "transliteracion": "מָ֑וֶת",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "muerte"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7585",
+      "hebreo": "שְׁאֹול",
+      "transliteracion": "שְׁ֝אֹ֗ול",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "del Seol"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6806",
+      "hebreo": "צַעַד",
+      "transliteracion": "צְעָדֶ֥יהָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus pasos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8551",
+      "hebreo": "תמך",
+      "transliteracion": "יִתְמֹֽכוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "echan mano"
+    }
+  ]
+}

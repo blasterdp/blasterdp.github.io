@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Lamentaciones 3:52 Reina Valera 1960",
+    "texto": "Mis enemigos me dieron caza como a ave, sin haber por qué;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6679",
+      "hebreo": "צוד",
+      "transliteracion": "צֹ֥וד",
+      "parsingLabel": "adverbio qal infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.QAL.INFA.U.U.U.A",
+      "traduccion": "Cazar"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6679",
+      "hebreo": "צוד",
+      "transliteracion": "צָד֛וּנִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me cazaron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6833",
+      "hebreo": "צִפֹּור",
+      "transliteracion": "צִּפֹּ֖ור",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "al pájaro"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹיְבַ֥י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "mis enemigos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2600",
+      "hebreo": "חִנָּם",
+      "transliteracion": "חִנָּֽם׃",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "sin causa"
+    }
+  ]
+}

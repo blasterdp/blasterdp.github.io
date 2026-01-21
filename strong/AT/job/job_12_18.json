@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 12:18 Reina Valera 1960",
+    "texto": "Él rompe las cadenas de los tiranos, Y les ata una soga a sus lomos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4148",
+      "hebreo": "מוּסָר",
+      "transliteracion": "מוּסַ֣ר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "la atadura"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מְלָכִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de reyes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6605",
+      "hebreo": "פתח",
+      "transliteracion": "פִּתֵּ֑חַ",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "suelta"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "631",
+      "hebreo": "אסר",
+      "transliteracion": "יֶּאְסֹ֥ר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "ata"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "232",
+      "hebreo": "אֵזֹור",
+      "transliteracion": "אֵ֝זֹ֗ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "cuerda"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4975",
+      "hebreo": "מָתְנַיִם",
+      "transliteracion": "מָתְנֵיהֶֽם׃",
+      "parsingLabel": "sustantivo masculino dual absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.DU.A.PRS.P3.M.PL",
+      "traduccion": "torno a sus lomos"
+    }
+  ]
+}

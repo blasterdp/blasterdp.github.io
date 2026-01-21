@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 22:25 Reina Valera 1960",
+    "texto": "No sea que aprendas sus maneras, Y tomes lazo para tu alma."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6435",
+      "hebreo": "פֶּן",
+      "transliteracion": "פֶּן־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "no sea que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "502",
+      "hebreo": "אלף",
+      "transliteracion": "תֶּאֱלַ֥ף",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "aprendas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "734",
+      "hebreo": "אֹרַח",
+      "transliteracion": "אֹֽרְחֹתָ֑יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus sendas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3947",
+      "hebreo": "לקח",
+      "transliteracion": "לָקַחְתָּ֖",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "tomes"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4170",
+      "hebreo": "מֹוקֵשׁ",
+      "transliteracion": "מֹוקֵ֣שׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "un lazo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשֶֽׁךָ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu alma"
+    }
+  ]
+}

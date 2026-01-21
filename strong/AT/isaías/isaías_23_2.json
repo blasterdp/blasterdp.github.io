@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Isaías 23:2 Reina Valera 1960",
+    "texto": "Callad, moradores de la costa, mercaderes de Sidón, que pasando el mar te abastecían."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1826",
+      "hebreo": "דמם",
+      "transliteracion": "דֹּ֖מּוּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "callad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3427",
+      "hebreo": "ישׁב",
+      "transliteracion": "יֹ֣שְׁבֵי",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "habitantes de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "339",
+      "hebreo": "אִי",
+      "transliteracion": "אִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "costa"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5503",
+      "hebreo": "סחר",
+      "transliteracion": "סֹחֵ֥ר",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.C",
+      "traduccion": "mercader de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6721",
+      "hebreo": "צִידֹון",
+      "transliteracion": "צִידֹ֛ון",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Sidón"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "עֹבֵ֥ר",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "pasa"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3220",
+      "hebreo": "יָם",
+      "transliteracion": "יָ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mar"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4390",
+      "hebreo": "מלא",
+      "transliteracion": "מִלְאֽוּךְ׃",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural pronominal sufijo 2ª persona femenino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL.PRS.P2.F.SG",
+      "traduccion": "te abastecían"
+    }
+  ]
+}

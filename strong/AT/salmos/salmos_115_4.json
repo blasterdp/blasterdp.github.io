@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 115:4 Reina Valera 1960",
+    "texto": "Los ídolos de ellos son plata y oro, Obra de manos de hombres."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6091",
+      "hebreo": "עָצָב",
+      "transliteracion": "עֲֽ֭צַבֵּיהֶם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "ídolos de ellos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3701",
+      "hebreo": "כֶּסֶף",
+      "transliteracion": "כֶּ֣סֶף",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "plata"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2091",
+      "hebreo": "זָהָב",
+      "transliteracion": "זָהָ֑ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "oro"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4639",
+      "hebreo": "מַעֲשֶׂה",
+      "transliteracion": "מַ֝עֲשֵׂ֗ה",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hechura"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יְדֵ֣י",
+      "parsingLabel": "sustantivo desconocido dual constructivo",
+      "parsing": "SUBS.U.DU.C",
+      "traduccion": "de manos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָדָֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de hombre"
+    }
+  ]
+}

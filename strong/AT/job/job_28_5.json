@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 28:5 Reina Valera 1960",
+    "texto": "De la tierra nace el pan, Y debajo de ella está como convertida en fuego."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֗רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִמֶּ֥נָּה",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona femenino singular",
+      "parsing": "PREP.PRS.P3.F.SG",
+      "traduccion": "de ella"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "יֵֽצֵא־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "sale"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3899",
+      "hebreo": "לֶחֶם",
+      "transliteracion": "לָ֑חֶם",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "pan"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַחְתֶּ֗יהָ",
+      "parsingLabel": "preposición masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "PREP.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "debajo de ella"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2015",
+      "hebreo": "הפך",
+      "transliteracion": "נֶהְפַּ֥ךְ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "está revuelto"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3644",
+      "hebreo": "כְּמֹו",
+      "transliteracion": "כְּמֹו־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "784",
+      "hebreo": "אֵשׁ",
+      "transliteracion": "אֵֽשׁ׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "fuego"
+    }
+  ]
+}

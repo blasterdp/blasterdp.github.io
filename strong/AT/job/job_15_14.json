@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 15:14 Reina Valera 1960",
+    "texto": "¿Qué cosa es el hombre para que sea limpio, Y para que se justifique el nacido de mujer?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מָֽה־",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿qué"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "582",
+      "hebreo": "אֱנֹושׁ",
+      "transliteracion": "אֱנֹ֥ושׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "para que"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2135",
+      "hebreo": "זכה",
+      "transliteracion": "יִזְכֶּ֑ה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "sea limpio"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "para que"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6663",
+      "hebreo": "צדק",
+      "transliteracion": "יִ֝צְדַּ֗ק",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "sea justo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3205",
+      "hebreo": "ילד",
+      "transliteracion": "יְל֣וּד",
+      "parsingLabel": "sustantivo qal participio (passive) desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCP.U.M.SG.C",
+      "traduccion": "un nacido de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "802",
+      "hebreo": "אִשָּׁה",
+      "transliteracion": "אִשָּֽׁה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "mujer?"
+    }
+  ]
+}

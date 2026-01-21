@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Oseas 13:6 Reina Valera 1960",
+    "texto": "En sus pastos se saciaron, y repletos, se ensoberbeció su corazón; por esta causa se olvidaron de mí."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "Cuando"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4830",
+      "hebreo": "מַרְעִית",
+      "transliteracion": "מַרְעִיתָם֙",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "fueron pastoreados"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7646",
+      "hebreo": "שׂבע",
+      "transliteracion": "יִּשְׂבָּ֔עוּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "se saciaron"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7646",
+      "hebreo": "שׂבע",
+      "transliteracion": "שָׂבְע֖וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se saciaron"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7311",
+      "hebreo": "רום",
+      "transliteracion": "יָּ֣רָם",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "se ensoberbeció"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִבָּ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": ";corazón de ellos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3651",
+      "hebreo": "כֵּן",
+      "transliteracion": "כֵּ֖ן",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "eso"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "שְׁכֵחֽוּנִי׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me olvidaron"
+    }
+  ]
+}

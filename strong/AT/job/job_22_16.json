@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 22:16 Reina Valera 1960",
+    "texto": "Los cuales fueron cortados antes de tiempo, Cuyo fundamento fue como un río derramado?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶֽׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7059",
+      "hebreo": "קמט",
+      "transliteracion": "קֻמְּט֥וּ",
+      "parsingLabel": "verbo pu“al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.PUAL.PERF.P3.U.PL",
+      "traduccion": "fueron arrebatados"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6256",
+      "hebreo": "עֵת",
+      "transliteracion": "עֵ֑ת",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tiempo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5104",
+      "hebreo": "נָהָר",
+      "transliteracion": "נָ֝הָ֗ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "río"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3332",
+      "hebreo": "יצק",
+      "transliteracion": "יוּצַ֥ק",
+      "parsingLabel": "verbo hof‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HOF.IMPF.P3.M.SG",
+      "traduccion": "fue arrasado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3247",
+      "hebreo": "יְסֹוד",
+      "transliteracion": "יְסֹודָֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su fundamento?"
+    }
+  ]
+}

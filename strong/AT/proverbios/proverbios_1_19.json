@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 1:19 Reina Valera 1960",
+    "texto": "Tales son las sendas de todo el que es dado a la codicia, La cual quita la vida de sus poseedores."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3651",
+      "hebreo": "כֵּן",
+      "transliteracion": "כֵּ֗ן",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "así"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "734",
+      "hebreo": "אֹרַח",
+      "transliteracion": "אָ֭רְחֹות",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "sendas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de todo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1214",
+      "hebreo": "בצע",
+      "transliteracion": "בֹּ֣צֵֽעַ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "que codiciando"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1215",
+      "hebreo": "בֶּצַע",
+      "transliteracion": "בָּ֑צַע",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "codicia"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נֶ֖פֶשׁ",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "alma"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1167",
+      "hebreo": "בַּעַל",
+      "transliteracion": "בְּעָלָ֣יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "de sus dueños"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3947",
+      "hebreo": "לקח",
+      "transliteracion": "יִקָּֽח׃ פ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "quita"
+    }
+  ]
+}

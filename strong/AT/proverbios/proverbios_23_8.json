@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 23:8 Reina Valera 1960",
+    "texto": "Vomitarás la parte que comiste, Y perderás tus suaves palabras."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6595",
+      "hebreo": "פַּת",
+      "transliteracion": "פִּֽתְּךָ־",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu bocado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "אָכַ֥לְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "comiste"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6958",
+      "hebreo": "קיא",
+      "transliteracion": "תְקִיאֶ֑נָּה",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG.PRS.P3.F.SG",
+      "traduccion": "lo vomitarás"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7843",
+      "hebreo": "שׁחת",
+      "transliteracion": "שִׁחַ֗תָּ",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG",
+      "traduccion": "malgastarás"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְּבָרֶ֥יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus palabras"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "-"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5273",
+      "hebreo": "נָעִים",
+      "transliteracion": "נְּעִימִֽים׃",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "agradables"
+    }
+  ]
+}

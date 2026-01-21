@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 13:25 Reina Valera 1960",
+    "texto": "¿A la hoja arrebatada has de quebrantar, Y a una paja seca has de perseguir?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֶ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5929",
+      "hebreo": "עָלֶה",
+      "transliteracion": "עָלֶ֣ה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "a una hoja"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5086",
+      "hebreo": "נדף",
+      "transliteracion": "נִדָּ֣ף",
+      "parsingLabel": "adjetivo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "ADJV.NIF.PTCA.U.M.SG.A",
+      "traduccion": "volandera"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6206",
+      "hebreo": "ערץ",
+      "transliteracion": "תַּעֲרֹ֑וץ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "harás temblar"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7179",
+      "hebreo": "קַשׁ",
+      "transliteracion": "קַ֖שׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "paja"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3002",
+      "hebreo": "יָבֵשׁ",
+      "transliteracion": "יָבֵ֣שׁ",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "seca"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7291",
+      "hebreo": "רדף",
+      "transliteracion": "תִּרְדֹּֽף׃",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "perseguirás?"
+    }
+  ]
+}

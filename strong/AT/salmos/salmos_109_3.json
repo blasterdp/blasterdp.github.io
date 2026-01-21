@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 109:3 Reina Valera 1960",
+    "texto": "Con palabras de odio me han rodeado, Y pelearon contra mí sin causa."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דִבְרֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "palabras"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8135",
+      "hebreo": "שִׂנְאָה",
+      "transliteracion": "שִׂנְאָ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de odio"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5437",
+      "hebreo": "סבב",
+      "transliteracion": "סְבָב֑וּנִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me han rodeado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3898",
+      "hebreo": "לחם",
+      "transliteracion": "יִּֽלָּחֲמ֥וּנִי",
+      "parsingLabel": "verbo nif‘al wayyiqtol 3ª persona masculino plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.NIF.WAYQ.P3.M.PL.PRS.P1.U.SG",
+      "traduccion": "han luchado contra mí"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2600",
+      "hebreo": "חִנָּם",
+      "transliteracion": "חִנָּֽם׃",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "si causa"
+    }
+  ]
+}

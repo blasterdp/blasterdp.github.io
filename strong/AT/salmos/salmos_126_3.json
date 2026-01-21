@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 126:3 Reina Valera 1960",
+    "texto": "Grandes cosas ha hecho Jehová con nosotros; Estaremos alegres."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1431",
+      "hebreo": "גדל",
+      "transliteracion": "הִגְדִּ֣יל",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG",
+      "traduccion": "grandes cosas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עֲשֹׂ֥ות",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A",
+      "traduccion": "ha hecho"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִמָּ֗נוּ",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "PREP.PRS.P1.U.PL",
+      "traduccion": "con nosotros"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָיִ֥ינוּ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P1.U.PL",
+      "traduccion": "estamos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8056",
+      "hebreo": "שָׂמֵחַ",
+      "transliteracion": "שְׂמֵחִֽים׃",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "alegres"
+    }
+  ]
+}

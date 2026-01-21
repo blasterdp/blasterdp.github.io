@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 18:16 Reina Valera 1960",
+    "texto": "Abajo se secarán sus raíces, Y arriba serán cortadas sus ramas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּחַת",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "abajo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8328",
+      "hebreo": "שֹׁרֶשׁ",
+      "transliteracion": "שָֽׁרָשָׁ֣יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus raíces"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3001",
+      "hebreo": "יבשׁ",
+      "transliteracion": "יִבָ֑שׁוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "se secan"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4605",
+      "hebreo": "מַעַל",
+      "transliteracion": "מַּ֗עַל",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "arriba"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5243",
+      "hebreo": "מלל",
+      "transliteracion": "יִמַּ֥ל",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se marchita"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7105",
+      "hebreo": "קָצִיר",
+      "transliteracion": "קְצִירֹֽו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su ramaje"
+    }
+  ]
+}

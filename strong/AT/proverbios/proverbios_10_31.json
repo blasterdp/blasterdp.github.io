@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 10:31 Reina Valera 1960",
+    "texto": "La boca del justo producirá sabiduría; Mas la lengua perversa será cortada."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּֽי־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "boca"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַ֭דִּיק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del justo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5107",
+      "hebreo": "נוב",
+      "transliteracion": "יָנ֣וּב",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "emite brotes"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2451",
+      "hebreo": "חָכְמָה",
+      "transliteracion": "חָכְמָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de sabiduría"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3956",
+      "hebreo": "לָשֹׁון",
+      "transliteracion": "לְשֹׁ֥ון",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "lengua"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8419",
+      "hebreo": "תַּהְפֻּכֹות",
+      "transliteracion": "תַּ֝הְפֻּכֹ֗ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "de perversidades"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3772",
+      "hebreo": "כרת",
+      "transliteracion": "תִּכָּרֵֽת׃",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.F.SG",
+      "traduccion": "será cortada"
+    }
+  ]
+}

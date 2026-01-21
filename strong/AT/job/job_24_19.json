@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 24:19 Reina Valera 1960",
+    "texto": "La sequía y el calor arrebatan las aguas de la nieve; Así también el Seol a los pecadores."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6723",
+      "hebreo": "צִיָּה",
+      "transliteracion": "צִיָּ֤ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "sequía"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2527",
+      "hebreo": "חֹם",
+      "transliteracion": "חֹ֗ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "calor"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1497",
+      "hebreo": "גזל",
+      "transliteracion": "יִגְזְל֥וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "arrebatan"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מֵֽימֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "aguas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7950",
+      "hebreo": "שֶׁלֶג",
+      "transliteracion": "שֶׁ֗לֶג",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de nieve"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7585",
+      "hebreo": "שְׁאֹול",
+      "transliteracion": "שְׁאֹ֣ול",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "Seol"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2398",
+      "hebreo": "חטא",
+      "transliteracion": "חָטָֽאוּ׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "a los que han pecado"
+    }
+  ]
+}

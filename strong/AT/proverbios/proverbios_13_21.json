@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 13:21 Reina Valera 1960",
+    "texto": "El mal perseguirá a los pecadores, Mas los justos serán premiados con el bien."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2400",
+      "hebreo": "חַטָּא",
+      "transliteracion": "חַ֭טָּאִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "a los pecadores"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7291",
+      "hebreo": "רדף",
+      "transliteracion": "תְּרַדֵּ֣ף",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG",
+      "traduccion": "persigue"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7451",
+      "hebreo": "רָעָה",
+      "transliteracion": "רָעָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "mal"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַ֝דִּיקִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "justos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7999",
+      "hebreo": "שׁלם",
+      "transliteracion": "יְשַׁלֶּם־",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "recompensará"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2896",
+      "hebreo": "טֹוב",
+      "transliteracion": "טֹֽוב׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "bien"
+    }
+  ]
+}

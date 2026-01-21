@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 19:2 Reina Valera 1960",
+    "texto": "¿Hasta cuándo angustiaréis mi alma, Y me moleréis con palabras?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "¿hasta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "575",
+      "hebreo": "אָן",
+      "transliteracion": "אָ֭נָה",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "cuándo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3013",
+      "hebreo": "יגה",
+      "transliteracion": "תֹּוגְי֣וּן",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P2.M.PL",
+      "traduccion": "angustiaréis"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשִׁ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi alma"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1792",
+      "hebreo": "דכא",
+      "transliteracion": "תְדַכְּאוּנַ֥נִי",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.PL.PRS.P1.U.SG",
+      "traduccion": "me aplastaréis"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4405",
+      "hebreo": "מִלָּה",
+      "transliteracion": "מִלִּֽים׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "palabras?"
+    }
+  ]
+}

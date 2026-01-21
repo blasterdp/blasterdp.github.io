@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 38:12 Reina Valera 1960",
+    "texto": "¿Has mandado tú a la mañana en tus días? ¿Has mostrado al alba su lugar,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הְֽ֭",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יָּמֶיךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "toda tu vida"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6680",
+      "hebreo": "צוה",
+      "transliteracion": "צִוִּ֣יתָ",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG",
+      "traduccion": "mandaste"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1242",
+      "hebreo": "בֹּקֶר",
+      "transliteracion": "בֹּ֑קֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "a mañana"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יִדַּ֖עְתָּ",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG",
+      "traduccion": "hiciste saber"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "al"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7837",
+      "hebreo": "שַׁחַר",
+      "transliteracion": "שַּׁ֣חַר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "alba"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4725",
+      "hebreo": "מָקֹום",
+      "transliteracion": "מְקֹמֹֽו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su lugar"
+    }
+  ]
+}

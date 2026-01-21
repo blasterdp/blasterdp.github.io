@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Job 19:14 Reina Valera 1960",
+    "texto": "Mis parientes se detuvieron, Y mis conocidos se olvidaron de mí."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2308",
+      "hebreo": "חדל",
+      "transliteracion": "חָדְל֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "me faltaron"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7138",
+      "hebreo": "קָרֹוב",
+      "transliteracion": "קְרֹובָ֑י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis parientes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "מְיֻדָּעַ֥י",
+      "parsingLabel": "sustantivo pu“al participio (passive) desconocido masculino plural absoluto",
+      "parsing": "SUBS.PUAL.PTCP.U.M.PL.A",
+      "traduccion": "mis íntimos amigos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "שְׁכֵחֽוּנִי׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me han olvidado"
+    }
+  ]
+}

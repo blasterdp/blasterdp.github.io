@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 4:4 Reina Valera 1960",
+    "texto": "Al que tropezaba enderezaban tus palabras, Y esforzabas las rodillas que decaían."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3782",
+      "hebreo": "כשׁל",
+      "transliteracion": "כֹּ֖ושֵׁל",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "al que vacilaba"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "יְקִימ֣וּן",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL",
+      "traduccion": "sostenían"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4405",
+      "hebreo": "מִלָּה",
+      "transliteracion": "מִלֶּ֑יךָ",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus palabras"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1290",
+      "hebreo": "בֶּרֶךְ",
+      "transliteracion": "בִרְכַּ֖יִם",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "rodillas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3766",
+      "hebreo": "כרע",
+      "transliteracion": "כֹּרְעֹ֣ות",
+      "parsingLabel": "adjetivo qal participio desconocido femenino plural absoluto",
+      "parsing": "ADJV.QAL.PTCA.U.F.PL.A",
+      "traduccion": "decaídas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "553",
+      "hebreo": "אמץ",
+      "transliteracion": "תְּאַמֵּֽץ׃",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG",
+      "traduccion": "reforzabas"
+    }
+  ]
+}

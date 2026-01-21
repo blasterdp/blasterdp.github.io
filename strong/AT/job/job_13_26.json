@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 13:26 Reina Valera 1960",
+    "texto": "¿Por qué escribes contra mí amarguras, Y me haces cargo de los pecados de mi juventud?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3789",
+      "hebreo": "כתב",
+      "transliteracion": "תִכְתֹּ֣ב",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "escribes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלַ֣י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra mí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4844",
+      "hebreo": "מָרֹר",
+      "transliteracion": "מְרֹרֹ֑ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "cosas amargas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3423",
+      "hebreo": "ירשׁ",
+      "transliteracion": "תֹורִישֵׁ֗נִי",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me haces heredar"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5771",
+      "hebreo": "עָוֹן",
+      "transliteracion": "עֲוֹנֹ֥ות",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "iniquidades"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5271",
+      "hebreo": "נְעוּרִים",
+      "transliteracion": "נְעוּרָֽי׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "de mi juventud"
+    }
+  ]
+}

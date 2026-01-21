@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Job 6:6 Reina Valera 1960",
+    "texto": "¿Se comerá lo desabrido sin sal? ¿Habrá gusto en la clara del huevo?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "יֵאָכֵ֣ל",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "se come"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8602",
+      "hebreo": "תָּפֵל",
+      "transliteracion": "תָּ֭פֵל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "lo insípido"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1097",
+      "hebreo": "בְּלִי",
+      "transliteracion": "בְּלִי־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "sin"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4417",
+      "hebreo": "מֶלַח",
+      "transliteracion": "מֶ֑לַח",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "sal?"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "¿acaso"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3426",
+      "hebreo": "יֵשׁ",
+      "transliteracion": "יֶשׁ־",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "hay"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2940",
+      "hebreo": "טַעַם",
+      "transliteracion": "טַ֝֗עַם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "sabor"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7388",
+      "hebreo": "רִיר",
+      "transliteracion": "רִ֣יר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "clara"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "2495",
+      "hebreo": "חַלָּמוּת",
+      "transliteracion": "חַלָּמֽוּת׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de un huevo?"
+    }
+  ]
+}

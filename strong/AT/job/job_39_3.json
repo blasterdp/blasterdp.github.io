@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Job 39:3 Reina Valera 1960",
+    "texto": "Se encorvan, hacen salir sus hijos, Pasan sus dolores."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3766",
+      "hebreo": "כרע",
+      "transliteracion": "תִּ֭כְרַעְנָה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.F.PL",
+      "traduccion": "se encorvan"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3206",
+      "hebreo": "יֶלֶד",
+      "transliteracion": "יַלְדֵיהֶ֣ן",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.PL",
+      "traduccion": "a sus crías"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6398",
+      "hebreo": "פלח",
+      "transliteracion": "תְּפַלַּ֑חְנָה",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.PL",
+      "traduccion": "dan a luz"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2256",
+      "hebreo": "חֵבֶל",
+      "transliteracion": "חֶבְלֵיהֶ֥ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus dolores de parto"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "תְּשַׁלַּֽחְנָה׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.PL",
+      "traduccion": "alejan de sí"
+    }
+  ]
+}

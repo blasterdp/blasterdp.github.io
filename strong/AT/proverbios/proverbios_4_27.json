@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 4:27 Reina Valera 1960",
+    "texto": "No te desvíes a la derecha ni a la izquierda; Aparta tu pie del mal."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַֽל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5186",
+      "hebreo": "נטה",
+      "transliteracion": "תֵּט־",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "te desvíes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3225",
+      "hebreo": "יָמִין",
+      "transliteracion": "יָמִ֥ין",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "a derecha"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8040",
+      "hebreo": "שְׂמֹאל",
+      "transliteracion": "שְׂמֹ֑אול",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "a izquierda"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5493",
+      "hebreo": "סור",
+      "transliteracion": "הָסֵ֖ר",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "aparta"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7272",
+      "hebreo": "רֶגֶל",
+      "transliteracion": "רַגְלְךָ֣",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu pie"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7451",
+      "hebreo": "רַע",
+      "transliteracion": "רָֽע׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mal"
+    }
+  ]
+}

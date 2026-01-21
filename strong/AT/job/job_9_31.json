@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 9:31 Reina Valera 1960",
+    "texto": "Aún me hundirás en el hoyo, Y mis propios vestidos me abominarán."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "227",
+      "hebreo": "אָז",
+      "transliteracion": "אָ֭ז",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "aun así"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7845",
+      "hebreo": "שַׁחַת",
+      "transliteracion": "שַּׁ֣חַת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "foso cenagoso"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2881",
+      "hebreo": "טבל",
+      "transliteracion": "תִּטְבְּלֵ֑נִי",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me hundirías"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8581",
+      "hebreo": "תעב",
+      "transliteracion": "תִֽעֲב֗וּנִי",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me detestarían"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8008",
+      "hebreo": "שַׂלְמָה",
+      "transliteracion": "שַׂלְמֹותָֽי׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mis vestidos"
+    }
+  ]
+}

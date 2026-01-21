@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 143:4 Reina Valera 1960",
+    "texto": "Y mi espíritu se angustió dentro de mí; Está desolado mi corazón."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5848",
+      "hebreo": "עטף",
+      "transliteracion": "תִּתְעַטֵּ֣ף",
+      "parsingLabel": "verbo hitpa“el wayyiqtol 3ª persona femenino singular",
+      "parsing": "VERBO.HIT.WAYQ.P3.F.SG",
+      "traduccion": "languidece"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלַ֣י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en mí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "רוּחִ֑י",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi espíritu"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8432",
+      "hebreo": "תָּוֶךְ",
+      "transliteracion": "תֹוכִ֗י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "dentro de mí"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8074",
+      "hebreo": "שׁמם",
+      "transliteracion": "יִשְׁתֹּומֵ֥ם",
+      "parsingLabel": "verbo hitpa“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIT.IMPF.P3.M.SG",
+      "traduccion": "está consternado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִבִּֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi corazón"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Oseas 10:2 Reina Valera 1960",
+    "texto": "Está dividido su corazón. Ahora serán hallados culpables; Jehová demolerá sus altares, destruirá sus ídolos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2505",
+      "hebreo": "חלק",
+      "transliteracion": "חָלַ֥ק",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "Está dividido"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִבָּ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": ";su corazón"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6258",
+      "hebreo": "עַתָּה",
+      "transliteracion": "עַתָּ֣ה",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "ahora"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "816",
+      "hebreo": "אשׁם",
+      "transliteracion": "יֶאְשָׁ֑מוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "serán hallados culpables"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֚וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "Él"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6202",
+      "hebreo": "ערף",
+      "transliteracion": "יַעֲרֹ֣ף",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "derribará"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4196",
+      "hebreo": "מִזְבֵּחַ",
+      "transliteracion": "מִזְבְּחֹותָ֔ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus altares"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7703",
+      "hebreo": "שׁדד",
+      "transliteracion": "יְשֹׁדֵ֖ד",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "destruirá"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4676",
+      "hebreo": "מַצֵּבָה",
+      "transliteracion": "מַצֵּבֹותָֽם׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus ídolos de piedra"
+    }
+  ]
+}

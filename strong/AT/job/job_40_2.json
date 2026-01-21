@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 40:2 Reina Valera 1960",
+    "texto": "¿Es sabiduría contender con el Omnipotente? El que disputa con Dios, responda a esto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ֭",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7378",
+      "hebreo": "ריב",
+      "transliteracion": "רֹב",
+      "parsingLabel": "verbo qal infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFA.U.U.U.A",
+      "traduccion": "contenderá"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7706",
+      "hebreo": "שַׁדַּי",
+      "transliteracion": "שַׁדַּ֣י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Todopoderoso"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3250",
+      "hebreo": "יִסֹּור",
+      "transliteracion": "יִסֹּ֑ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "censor?"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3198",
+      "hebreo": "יכח",
+      "transliteracion": "מֹוכִ֖יחַ",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "el que reprende"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "433",
+      "hebreo": "אֱלֹוהַּ",
+      "transliteracion": "אֱלֹ֣והַּ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "a Dios"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6030",
+      "hebreo": "ענה",
+      "transliteracion": "יַעֲנֶֽנָּה׃ פ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P3.F.SG",
+      "traduccion": "responda a esto"
+    }
+  ]
+}

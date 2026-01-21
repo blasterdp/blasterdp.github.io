@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 28:2 Reina Valera 1960",
+    "texto": "El hierro se saca del polvo, Y de la piedra se funde el cobre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1270",
+      "hebreo": "בַּרְזֶל",
+      "transliteracion": "בַּ֭רְזֶל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hierro"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6083",
+      "hebreo": "עָפָר",
+      "transliteracion": "עָפָ֣ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "polvo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3947",
+      "hebreo": "לקח",
+      "transliteracion": "יֻקָּ֑ח",
+      "parsingLabel": "verbo hof‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HOF.IMPF.P3.M.SG",
+      "traduccion": "se extrae"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "68",
+      "hebreo": "אֶבֶן",
+      "transliteracion": "אֶ֗בֶן",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de piedra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3332",
+      "hebreo": "יצק",
+      "transliteracion": "יָצ֥וּק",
+      "parsingLabel": "verbo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.M.SG.A",
+      "traduccion": "se funde"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5154",
+      "hebreo": "נְחוּשָׁה",
+      "transliteracion": "נְחוּשָֽׁה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "cobre"
+    }
+  ]
+}

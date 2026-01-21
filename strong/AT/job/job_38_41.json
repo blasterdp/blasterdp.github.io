@@ -1,0 +1,134 @@
+{
+  "versiculo": {
+    "referencia": "Job 38:41 Reina Valera 1960",
+    "texto": "¿Quién prepara al cuervo su alimento, Cuando sus polluelos claman a Dios, Y andan errantes por falta de comida?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִ֤י",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿quién"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3559",
+      "hebreo": "כון",
+      "transliteracion": "יָכִ֥ין",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "prepara"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6158",
+      "hebreo": "עֹרֵב",
+      "transliteracion": "עֹרֵ֗ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "cuervo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6718",
+      "hebreo": "צַיִד",
+      "transliteracion": "צֵ֫ידֹ֥ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su alimento"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3206",
+      "hebreo": "יֶלֶד",
+      "transliteracion": "יְ֭לָדָיו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus crías"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "410",
+      "hebreo": "אֵל",
+      "transliteracion": "אֵ֣ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7768",
+      "hebreo": "שׁוע",
+      "transliteracion": "יְשַׁוֵּ֑עוּ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "claman"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "8582",
+      "hebreo": "תעה",
+      "transliteracion": "יִ֝תְע֗וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "vagan"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "1097",
+      "hebreo": "בְּלִי",
+      "transliteracion": "בְלִי־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "falta"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "400",
+      "hebreo": "אֹכֶל",
+      "transliteracion": "אֹֽכֶל׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de comida?"
+    }
+  ]
+}

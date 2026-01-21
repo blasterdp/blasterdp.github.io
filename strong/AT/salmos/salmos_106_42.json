@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 106:42 Reina Valera 1960",
+    "texto": "Sus enemigos los oprimieron, Y fueron quebrantados debajo de su mano."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "también"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3905",
+      "hebreo": "לחץ",
+      "transliteracion": "יִּלְחָצ֥וּם",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL.PRS.P3.M.PL",
+      "traduccion": "les oprimieron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹויְבֵיהֶ֑ם",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus enemigos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3665",
+      "hebreo": "כנע",
+      "transliteracion": "יִּכָּנְע֗וּ",
+      "parsingLabel": "verbo nif‘al wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.NIF.WAYQ.P3.M.PL",
+      "traduccion": "fueron subyugados"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּ֣חַת",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "bajo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדָֽם׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.PL",
+      "traduccion": "su mano"
+    }
+  ]
+}

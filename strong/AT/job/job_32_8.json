@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 32:8 Reina Valera 1960",
+    "texto": "Ciertamente espíritu hay en el hombre, Y el soplo del Omnipotente le hace que entienda."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "403",
+      "hebreo": "אָכֵן",
+      "transliteracion": "אָ֭כֵן",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "ciertamente"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "רֽוּחַ־",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "espíritu"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1931",
+      "hebreo": "הִיא",
+      "transliteracion": "הִ֣יא",
+      "parsingLabel": "pronombre personal 3ª persona femenino singular",
+      "parsing": "PRPS.P3.F.SG",
+      "traduccion": "hay"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בֶ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "582",
+      "hebreo": "אֱנֹושׁ",
+      "transliteracion": "אֱנֹ֑ושׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5397",
+      "hebreo": "נְשָׁמָה",
+      "transliteracion": "נִשְׁמַ֖ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "soplo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7706",
+      "hebreo": "שַׁדַּי",
+      "transliteracion": "שַׁדַּ֣י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "del Todopoderoso"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "תְּבִינֵֽם׃",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.F.SG.PRS.P3.M.PL",
+      "traduccion": "les hace entender"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 105:45 Reina Valera 1960",
+    "texto": "Para que guardasen sus estatutos, Y cumpliesen sus leyes. Aleluya."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5668",
+      "hebreo": "עֲבוּר",
+      "transliteracion": "עֲב֤וּר׀",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "a fin de que"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "יִשְׁמְר֣וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "guardaran"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2706",
+      "hebreo": "חֹק",
+      "transliteracion": "חֻ֭קָּיו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus estatutos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8451",
+      "hebreo": "תֹּורָה",
+      "transliteracion": "תֹורֹתָ֥יו",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus leyes"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5341",
+      "hebreo": "נצר",
+      "transliteracion": "יִנְצֹ֗רוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "observasen"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "הַֽלְלוּ־",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.PL",
+      "traduccion": "alabad"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3050",
+      "hebreo": "יָהּ",
+      "transliteracion": "יָֽהּ׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    }
+  ]
+}

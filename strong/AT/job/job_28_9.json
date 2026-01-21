@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 28:9 Reina Valera 1960",
+    "texto": "En el pedernal puso su mano, Y trastornó de raíz los montes."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּֽ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2496",
+      "hebreo": "חַלָּמִישׁ",
+      "transliteracion": "חַלָּמִישׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pedernal"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "שָׁלַ֣ח",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "puso"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדֹ֑ו",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su mano"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2015",
+      "hebreo": "הפך",
+      "transliteracion": "הָפַ֖ךְ",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "trastornó"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8328",
+      "hebreo": "שֹׁרֶשׁ",
+      "transliteracion": "שֹּׁ֣רֶשׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "raíz"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הָרִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "montañas"
+    }
+  ]
+}

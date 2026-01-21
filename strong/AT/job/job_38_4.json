@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 38:4 Reina Valera 1960",
+    "texto": "¿Dónde estabas tú cuando yo fundaba la tierra? Házmelo saber, si tienes inteligencia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "375",
+      "hebreo": "אֵיפֹה",
+      "transliteracion": "אֵיפֹ֣ה",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿dónde"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָ֭יִיתָ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "estabas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3245",
+      "hebreo": "יסד",
+      "transliteracion": "יָסְדִי־",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A.PRS.P1.U.SG",
+      "traduccion": "fundaba yo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָ֑רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra?"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5046",
+      "hebreo": "נגד",
+      "transliteracion": "הַ֝גֵּ֗ד",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "¡decláralo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָדַ֥עְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "sabes"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "998",
+      "hebreo": "בִּינָה",
+      "transliteracion": "בִינָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "entendimiento!"
+    }
+  ]
+}

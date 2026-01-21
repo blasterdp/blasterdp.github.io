@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Lamentaciones 3:43 Reina Valera 1960",
+    "texto": "Desplegaste la ira y nos perseguiste; mataste, y no perdonaste;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5526",
+      "hebreo": "סכך",
+      "transliteracion": "סַכֹּ֤תָה",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "Te recubriste"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "639",
+      "hebreo": "אַף",
+      "transliteracion": "אַף֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "ira"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7291",
+      "hebreo": "רדף",
+      "transliteracion": "תִּרְדְּפֵ֔נוּ",
+      "parsingLabel": "verbo qal wayyiqtol 2ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.WAYQ.P2.M.SG.PRS.P1.U.PL",
+      "traduccion": "nos perseguiste"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2026",
+      "hebreo": "הרג",
+      "transliteracion": "הָרַ֖גְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "mataste"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2550",
+      "hebreo": "חמל",
+      "transliteracion": "חָמָֽלְתָּ׃",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "te apiadaste"
+    }
+  ]
+}

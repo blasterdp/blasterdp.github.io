@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Levíticos 24:18 Reina Valera 1960",
+    "texto": "El que hiere a algún animal ha de restituirlo, animal por animal."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5221",
+      "hebreo": "נכה",
+      "transliteracion": "מַכֵּ֥ה",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular constructivo",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.C",
+      "traduccion": "el que quite"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נֶֽפֶשׁ־",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "vida de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "929",
+      "hebreo": "בְּהֵמָה",
+      "transliteracion": "בְּהֵמָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "animal"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7999",
+      "hebreo": "שׁלם",
+      "transliteracion": "יְשַׁלְּמֶ֑נָּה",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG.PRS.P3.F.SG",
+      "traduccion": "la restituirá"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נֶ֖פֶשׁ",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "vida"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּ֥חַת",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "por"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נָֽפֶשׁ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "vida"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 122:2 Reina Valera 1960",
+    "texto": "Nuestros pies estuvieron Dentro de tus puertas, oh Jerusalén."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5975",
+      "hebreo": "עמד",
+      "transliteracion": "עֹ֭מְדֹות",
+      "parsingLabel": "verbo qal participio desconocido femenino plural absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.F.PL.A",
+      "traduccion": "plantados"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָי֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "están"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7272",
+      "hebreo": "רֶגֶל",
+      "transliteracion": "רַגְלֵ֑ינוּ",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.F.DU.A.PRS.P1.U.PL",
+      "traduccion": "nuestros pies"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "dentro"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8179",
+      "hebreo": "שַׁעַר",
+      "transliteracion": "שְׁעָרַ֗יִךְ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.F.SG",
+      "traduccion": "de tus puertas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3389",
+      "hebreo": "יְרוּשָׁלִַם",
+      "transliteracion": "יְרוּשָׁלִָֽם׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Jerusalén"
+    }
+  ]
+}

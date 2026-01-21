@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 106:18 Reina Valera 1960",
+    "texto": "Y se encendió fuego en su junta; La llama quemó a los impíos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1197",
+      "hebreo": "בער",
+      "transliteracion": "תִּבְעַר־",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.F.SG",
+      "traduccion": "se encendió"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "784",
+      "hebreo": "אֵשׁ",
+      "transliteracion": "אֵ֥שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "fuego"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5712",
+      "hebreo": "עֵדָה",
+      "transliteracion": "עֲדָתָ֑ם",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "compañía de ellos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3852",
+      "hebreo": "לֶהָבָה",
+      "transliteracion": "לֶ֝הָבָ֗ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "llama"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3857",
+      "hebreo": "להט",
+      "transliteracion": "תְּלַהֵ֥ט",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG",
+      "traduccion": "consumió"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "a impíos"
+    }
+  ]
+}

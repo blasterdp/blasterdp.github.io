@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 23:3 Reina Valera 1960",
+    "texto": "No codicies sus manjares delicados, Porque es pan engañoso."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "183",
+      "hebreo": "אוה",
+      "transliteracion": "תִּ֭תְאָיו",
+      "parsingLabel": "verbo hitpa“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIT.IMPF.P2.M.SG",
+      "traduccion": "desees"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4303",
+      "hebreo": "מַטְעַמִּים",
+      "transliteracion": "מַטְעַמֹּותָ֑יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus manjares"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֗וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "porque eso"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3899",
+      "hebreo": "לֶחֶם",
+      "transliteracion": "לֶ֣חֶם",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "pan"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3577",
+      "hebreo": "כָּזָב",
+      "transliteracion": "כְּזָבִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de engaño"
+    }
+  ]
+}

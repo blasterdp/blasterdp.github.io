@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 6:6 Reina Valera 1960",
+    "texto": "Ve a la hormiga, oh perezoso, Mira sus caminos, y sé sabio;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "לֵֽךְ־",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "anda"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5244",
+      "hebreo": "נְמָלָה",
+      "transliteracion": "נְמָלָ֥ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "hormiga"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6102",
+      "hebreo": "עָצֵל",
+      "transliteracion": "עָצֵ֑ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "perezoso"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רְאֵ֖ה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "mira"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דְרָכֶ֣יהָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus caminos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2449",
+      "hebreo": "חכם",
+      "transliteracion": "חֲכָֽם׃",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "sé sabio"
+    }
+  ]
+}

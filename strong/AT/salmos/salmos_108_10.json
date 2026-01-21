@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 108:10 Reina Valera 1960",
+    "texto": "¿Quién me guiará a la ciudad fortificada? ¿Quién me guiará hasta Edom?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִ֣י",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿quién"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2986",
+      "hebreo": "יבל",
+      "transliteracion": "יֹ֭בִלֵנִי",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me conducirá"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5892",
+      "hebreo": "עִיר",
+      "transliteracion": "עִ֣יר",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "ciudad"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4013",
+      "hebreo": "מִבְצָר",
+      "transliteracion": "מִבְצָ֑ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "amurallada?"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִ֖י",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿quién"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5148",
+      "hebreo": "נחה",
+      "transliteracion": "נָחַ֣נִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me guiará"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "123",
+      "hebreo": "אֱדֹום",
+      "transliteracion": "אֱדֹֽום׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Edom?"
+    }
+  ]
+}

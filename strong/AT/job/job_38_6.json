@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 38:6 Reina Valera 1960",
+    "texto": "¿Sobre qué están fundadas sus bases? ¿O quién puso su piedra angular,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "¿sobre"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מָ֭ה",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "qué"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "134",
+      "hebreo": "אֶדֶן",
+      "transliteracion": "אֲדָנֶ֣יהָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus basas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2883",
+      "hebreo": "טבע",
+      "transliteracion": "הָטְבָּ֑עוּ",
+      "parsingLabel": "verbo hof‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.HOF.PERF.P3.U.PL",
+      "traduccion": "fueron asentadas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "176",
+      "hebreo": "אֹו",
+      "transliteracion": "אֹ֥ו",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִֽי־",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "quién"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3384",
+      "hebreo": "ירה",
+      "transliteracion": "יָ֝רָ֗ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "puso"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "68",
+      "hebreo": "אֶבֶן",
+      "transliteracion": "אֶ֣בֶן",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "piedra"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6434",
+      "hebreo": "פִּנָּה",
+      "transliteracion": "פִּנָּתָֽהּ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.F.SG",
+      "traduccion": "de su ángulo"
+    }
+  ]
+}

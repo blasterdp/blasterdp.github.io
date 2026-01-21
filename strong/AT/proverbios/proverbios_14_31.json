@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 14:31 Reina Valera 1960",
+    "texto": "El que oprime al pobre afrenta a su Hacedor; Mas el que tiene misericordia del pobre, lo honra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6231",
+      "hebreo": "עשׁק",
+      "transliteracion": "עֹ֣שֵֽׁק־",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "el que oprime"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1800",
+      "hebreo": "דַּל",
+      "transliteracion": "דָּ֭ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pobre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2778",
+      "hebreo": "חרף",
+      "transliteracion": "חֵרֵ֣ף",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "afrenta"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עֹשֵׂ֑הוּ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "a su hacedor"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3513",
+      "hebreo": "כבד",
+      "transliteracion": "מְכַבְּדֹ֗ו",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.PIEL.PTCA.U.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "le honra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2603",
+      "hebreo": "חנן",
+      "transliteracion": "חֹנֵ֥ן",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "el que se apiada"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "34",
+      "hebreo": "אֶבְיֹון",
+      "transliteracion": "אֶבְיֹֽון׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del necesitado"
+    }
+  ]
+}

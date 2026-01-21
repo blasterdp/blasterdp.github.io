@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 10:27 Reina Valera 1960",
+    "texto": "El temor de Jehová aumentará los días; Mas los años de los impíos serán acortados."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3374",
+      "hebreo": "יִרְאָה",
+      "transliteracion": "יִרְאַ֣ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "temor"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3254",
+      "hebreo": "יסף",
+      "transliteracion": "תֹּוסִ֣יף",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.F.SG",
+      "traduccion": "añade"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יָמִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "días"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8141",
+      "hebreo": "שָׁנָה",
+      "transliteracion": "שְׁנֹ֖ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "días"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de impíos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7114",
+      "hebreo": "קצר",
+      "transliteracion": "תִּקְצֹֽרְנָה׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.F.PL",
+      "traduccion": "serán acortados"
+    }
+  ]
+}

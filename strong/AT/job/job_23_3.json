@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 23:3 Reina Valera 1960",
+    "texto": "¡Quién me diera el saber dónde hallar a Dios! Yo iría hasta su silla."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִֽי־",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "quién"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "יִתֵּ֣ן",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "diera"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָ֭דַעְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "saber"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "אֶמְצָאֵ֑הוּ",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG.PRS.P3.M.SG",
+      "traduccion": "cómo hallarle"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "אָ֝בֹ֗וא",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "e iría yo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8498",
+      "hebreo": "תְּכוּנָה",
+      "transliteracion": "תְּכוּנָתֹֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su trono"
+    }
+  ]
+}

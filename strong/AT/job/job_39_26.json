@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 39:26 Reina Valera 1960",
+    "texto": "¿Vuela el gavilán por tu sabiduría, Y extiende hacia el sur sus alas?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲֽ֭",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "998",
+      "hebreo": "בִּינָה",
+      "transliteracion": "בִּינָ֣תְךָ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu inteligencia"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "82",
+      "hebreo": "אבר",
+      "transliteracion": "יַֽאֲבֶר־",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "se eleva"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5322",
+      "hebreo": "נֵץ",
+      "transliteracion": "נֵ֑ץ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "gavilán"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6566",
+      "hebreo": "פרשׂ",
+      "transliteracion": "יִפְרֹ֖שׂ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "extiende"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3671",
+      "hebreo": "כָּנָף",
+      "transliteracion": "כְּנָפָ֣יו",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.SG",
+      "traduccion": "sus alas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hacia"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8486",
+      "hebreo": "תֵּימָן",
+      "transliteracion": "תֵימָֽן׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "sur?"
+    }
+  ]
+}

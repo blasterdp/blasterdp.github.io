@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Lamentaciones 5:14 Reina Valera 1960",
+    "texto": "Los ancianos no se ven más en la puerta, Los jóvenes dejaron sus canciones."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2205",
+      "hebreo": "זָקֵן",
+      "transliteracion": "זְקֵנִים֙",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "(Los) ancianos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8179",
+      "hebreo": "שַׁעַר",
+      "transliteracion": "שַּׁ֣עַר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "la puerta"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7673",
+      "hebreo": "שׁבת",
+      "transliteracion": "שָׁבָ֔תוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "desaparecieron"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "970",
+      "hebreo": "בָּחוּר",
+      "transliteracion": "בַּחוּרִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "(los) jóvenes"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5058",
+      "hebreo": "נְגִינָה",
+      "transliteracion": "נְּגִינָתָֽם׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "hacer sonar su música"
+    }
+  ]
+}

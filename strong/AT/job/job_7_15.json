@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 7:15 Reina Valera 1960",
+    "texto": "Y así mi alma tuvo por mejor la estrangulación, Y quiso la muerte más que mis huesos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "así que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "977",
+      "hebreo": "בחר",
+      "transliteracion": "תִּבְחַ֣ר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.F.SG",
+      "traduccion": "prefiere"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4267",
+      "hebreo": "מַחֲנָק",
+      "transliteracion": "מַחֲנָ֣ק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "estrangulación"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשִׁ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi alma"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4194",
+      "hebreo": "מָוֶת",
+      "transliteracion": "מָ֝֗וֶת",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "muerte"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "más"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6106",
+      "hebreo": "עַצְמָה",
+      "transliteracion": "עַצְמֹותָֽי׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "que mis huesos"
+    }
+  ]
+}

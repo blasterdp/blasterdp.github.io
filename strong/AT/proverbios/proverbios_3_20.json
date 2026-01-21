@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 3:20 Reina Valera 1960",
+    "texto": "Con su ciencia los abismos fueron divididos, Y destilan rocío los cielos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1847",
+      "hebreo": "דַּעַת",
+      "transliteracion": "דַעְתֹּו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su conocimiento"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8415",
+      "hebreo": "תְּהֹום",
+      "transliteracion": "תְּהֹומֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "abismos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1234",
+      "hebreo": "בקע",
+      "transliteracion": "נִבְקָ֑עוּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "fueron divididos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7834",
+      "hebreo": "שַׁחַק",
+      "transliteracion": "שְׁחָקִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cielos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7491",
+      "hebreo": "רעף",
+      "transliteracion": "יִרְעֲפוּ־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "destilan"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2919",
+      "hebreo": "טַל",
+      "transliteracion": "טָֽל׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "rocío"
+    }
+  ]
+}

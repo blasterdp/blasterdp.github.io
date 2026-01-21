@@ -1,0 +1,152 @@
+{
+  "versiculo": {
+    "referencia": "Job 42:3 Reina Valera 1960",
+    "texto": "¿Quién es el que oscurece el consejo sin entendimiento? Por tanto, yo hablaba lo que no entendía; Cosas demasiado maravillosas para mí, que yo no comprendía."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִ֤י",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿quién"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶ֨ה׀",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "ese"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5956",
+      "hebreo": "עלם",
+      "transliteracion": "מַעְלִ֥ים",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "que oculta"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6098",
+      "hebreo": "עֵצָה",
+      "transliteracion": "עֵצָ֗ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "consejo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1097",
+      "hebreo": "בְּלִי",
+      "transliteracion": "בְּֽלִ֫י",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "sin"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1847",
+      "hebreo": "דַּעַת",
+      "transliteracion": "דָ֥עַת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "conocimiento?"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3651",
+      "hebreo": "לָכֵן",
+      "transliteracion": "לָכֵ֣ן",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "por tanto"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5046",
+      "hebreo": "נגד",
+      "transliteracion": "הִ֭גַּדְתִּי",
+      "parsingLabel": "verbo hif‘il perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P1.U.SG",
+      "traduccion": "traté"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "אָבִ֑ין",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "entendía"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "6381",
+      "hebreo": "פלא",
+      "transliteracion": "נִפְלָאֹ֥ות",
+      "parsingLabel": "sustantivo nif‘al participio desconocido femenino plural absoluto",
+      "parsing": "SUBS.NIF.PTCA.U.F.PL.A",
+      "traduccion": "de maravillas"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ֝מֶּ֗נִּי",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "mayores que yo"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "אֵדָֽע׃",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "sabía"
+    }
+  ]
+}

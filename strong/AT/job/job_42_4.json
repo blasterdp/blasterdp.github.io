@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 42:4 Reina Valera 1960",
+    "texto": "Oye, te ruego, y hablaré; Te preguntaré, y tú me enseñarás."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שְֽׁמַֽע־",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "escucha"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4994",
+      "hebreo": "נָא",
+      "transliteracion": "נָ֭א",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "ahora"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "595",
+      "hebreo": "אָנֹכִי",
+      "transliteracion": "אָנֹכִ֣י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "אֲדַבֵּ֑ר",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "hablaré"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7592",
+      "hebreo": "שׁאל",
+      "transliteracion": "אֶ֝שְׁאָלְךָ֗",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "te preguntaré"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "הֹודִיעֵֽנִי׃",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me instruirás"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 32:7 Reina Valera 1960",
+    "texto": "Yo decía: Los días hablarán, Y la muchedumbre de años declarará sabiduría."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָ֭מַרְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "dije"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יָמִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "días"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "יְדַבֵּ֑רוּ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "hablarán"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7230",
+      "hebreo": "רֹב",
+      "transliteracion": "רֹ֥ב",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "muchos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8141",
+      "hebreo": "שָׁנָה",
+      "transliteracion": "שָׁ֝נִ֗ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "años"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יֹדִ֥יעוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL",
+      "traduccion": "darán a conocer"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2451",
+      "hebreo": "חָכְמָה",
+      "transliteracion": "חָכְמָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "sabiduría"
+    }
+  ]
+}

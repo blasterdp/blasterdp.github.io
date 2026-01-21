@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 139:5 Reina Valera 1960",
+    "texto": "Detrás y delante me rodeaste, Y sobre mí pusiste tu mano."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "268",
+      "hebreo": "אָחֹור",
+      "transliteracion": "אָחֹ֣ור",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "por detrás"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6924",
+      "hebreo": "קֶדֶם",
+      "transliteracion": "קֶ֣דֶם",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "por delante"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6696",
+      "hebreo": "צור",
+      "transliteracion": "צַרְתָּ֑נִי",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me has cercado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7896",
+      "hebreo": "שׁית",
+      "transliteracion": "תָּ֖שֶׁת",
+      "parsingLabel": "verbo qal wayyiqtol 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P2.M.SG",
+      "traduccion": "has puesto"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלַ֣י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre mí"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3709",
+      "hebreo": "כַּף",
+      "transliteracion": "כַּפֶּֽכָה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu palma"
+    }
+  ]
+}

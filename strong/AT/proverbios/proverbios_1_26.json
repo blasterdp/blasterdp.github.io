@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 1:26 Reina Valera 1960",
+    "texto": "También yo me reiré en vuestra calamidad, Y me burlaré cuando os viniere lo que teméis;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "también"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲ֭נִי",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "343",
+      "hebreo": "אֵיד",
+      "transliteracion": "אֵידְכֶ֣ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestra calamidad"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7832",
+      "hebreo": "שׂחק",
+      "transliteracion": "אֶשְׂחָ֑ק",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "me reiré"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3932",
+      "hebreo": "לעג",
+      "transliteracion": "אֶ֝לְעַ֗ג",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "me burlaré"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "בֹ֣א",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "venga"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6343",
+      "hebreo": "פַּחַד",
+      "transliteracion": "פַחְדְּכֶֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestro miedo"
+    }
+  ]
+}

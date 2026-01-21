@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 29:12 Reina Valera 1960",
+    "texto": "Si un gobernante atiende la palabra mentirosa, Todos sus servidores serán impíos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4910",
+      "hebreo": "משׁל",
+      "transliteracion": "מֹ֭שֵׁל",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "un gobernante"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7181",
+      "hebreo": "קשׁב",
+      "transliteracion": "מַקְשִׁ֣יב",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "presta atención"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְּבַר־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "palabra"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8267",
+      "hebreo": "שֶׁקֶר",
+      "transliteracion": "שָׁ֑קֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mentirosa"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּֽל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8334",
+      "hebreo": "שׁרת",
+      "transliteracion": "מְשָׁרְתָ֥יו",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus servidores"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִֽים׃",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "impíos"
+    }
+  ]
+}

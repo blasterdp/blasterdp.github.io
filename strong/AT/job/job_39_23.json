@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 39:23 Reina Valera 1960",
+    "texto": "Contra él suenan la aljaba, El hierro de la lanza y de la jabalina;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָ֭לָיו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "a su lado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7439",
+      "hebreo": "רנה",
+      "transliteracion": "תִּרְנֶ֣ה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "resuena"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "827",
+      "hebreo": "אַשְׁפָּה",
+      "transliteracion": "אַשְׁפָּ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "aljaba"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3851",
+      "hebreo": "לַהַב",
+      "transliteracion": "לַ֖הַב",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "centelleo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2595",
+      "hebreo": "חֲנִית",
+      "transliteracion": "חֲנִ֣ית",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de lanza"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3591",
+      "hebreo": "כִּידֹון",
+      "transliteracion": "כִידֹֽון׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "jabalina"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Job 19:20 Reina Valera 1960",
+    "texto": "Mi piel y mi carne se pegaron a mis huesos, Y he escapado con sólo la piel de mis dientes."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5785",
+      "hebreo": "עֹור",
+      "transliteracion": "עֹורִ֣י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi piel"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1320",
+      "hebreo": "בָּשָׂר",
+      "transliteracion": "בְשָׂרִי",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi carne"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1692",
+      "hebreo": "דבק",
+      "transliteracion": "דָּבְקָ֣ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERB.QAL.PERF.P3.F.SG",
+      "traduccion": "se pega"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6106",
+      "hebreo": "עֶצֶם",
+      "transliteracion": "עַצְמִ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi hueso"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4422",
+      "hebreo": "מלט",
+      "transliteracion": "אֶתְמַלְּטָ֗ה",
+      "parsingLabel": "verbo hitpa“el wayyiqtol 1ª persona desconocido singular",
+      "parsing": "VERBO.HIT.WAYQ.P1.U.SG",
+      "traduccion": "he escapado"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5785",
+      "hebreo": "עֹור",
+      "transliteracion": "עֹ֣ור",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "piel"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "8127",
+      "hebreo": "שֵׁן",
+      "transliteracion": "שִׁנָּֽי׃",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "de mis dientes"
+    }
+  ]
+}

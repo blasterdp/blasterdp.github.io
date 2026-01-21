@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 19:4 Reina Valera 1960",
+    "texto": "Las riquezas traen muchos amigos; Mas el pobre es apartado de su amigo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1952",
+      "hebreo": "הֹון",
+      "transliteracion": "הֹ֗ון",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "riqueza"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3254",
+      "hebreo": "יסף",
+      "transliteracion": "יֹ֭סִיף",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "añade"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7453",
+      "hebreo": "רֵעַ",
+      "transliteracion": "רֵעִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "amigos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַבִּ֑ים",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "muchos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1800",
+      "hebreo": "דַּל",
+      "transliteracion": "דָ֗ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pobre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7453",
+      "hebreo": "רֵעַ",
+      "transliteracion": "רֵ֥עהוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su amigo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6504",
+      "hebreo": "פרד",
+      "transliteracion": "יִפָּרֵֽד׃",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "es separado"
+    }
+  ]
+}

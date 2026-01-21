@@ -1,0 +1,44 @@
+{
+  "versiculo": {
+    "referencia": "Números 26:8 Reina Valera 1960",
+    "texto": "Los hijos de Falú: Eliab."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "E"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְנֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6396",
+      "hebreo": "פַּלּוּא",
+      "transliteracion": "פַלּ֖וּא",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Falú"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "446",
+      "hebreo": "אֱלִיאָב",
+      "transliteracion": "אֱלִיאָֽב׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Eliab."
+    }
+  ]
+}

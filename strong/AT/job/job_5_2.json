@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 5:2 Reina Valera 1960",
+    "texto": "Es cierto que al necio lo mata la ira, Y al codicioso lo consume la envidia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֶֽ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "191",
+      "hebreo": "אֱוִיל",
+      "transliteracion": "אֱוִיל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "necio"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2026",
+      "hebreo": "הרג",
+      "transliteracion": "יַהֲרָג־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "mata"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3708",
+      "hebreo": "כַּעַס",
+      "transliteracion": "כָּ֑עַשׂ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "enojo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6601",
+      "hebreo": "פתה",
+      "transliteracion": "פֹתֶ֗ה",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "al simple"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "תָּמִ֥ית",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.F.SG",
+      "traduccion": "hace morir"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7068",
+      "hebreo": "קִנְאָה",
+      "transliteracion": "קִנְאָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "despecho"
+    }
+  ]
+}

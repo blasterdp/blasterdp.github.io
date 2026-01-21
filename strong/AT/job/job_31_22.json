@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 31:22 Reina Valera 1960",
+    "texto": "Mi espalda se caiga de mi hombro, Y el hueso de mi brazo sea quebrado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3802",
+      "hebreo": "כָּתֵף",
+      "transliteracion": "כְּ֭תֵפִי",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "que mi hombro"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7926",
+      "hebreo": "שְׁכֶם",
+      "transliteracion": "שִּׁכְמָ֣ה",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "espalda"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "תִפֹּ֑ול",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "se caiga"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "248",
+      "hebreo": "אֶזְרֹעַ",
+      "transliteracion": "אֶזְרֹעִ֗י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi brazo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7070",
+      "hebreo": "קָנֶה",
+      "transliteracion": "קָּנָ֥ה",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "hueso"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7665",
+      "hebreo": "שׁבר",
+      "transliteracion": "תִשָּׁבֵֽר׃",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.F.SG",
+      "traduccion": "se quiebre"
+    }
+  ]
+}

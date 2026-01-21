@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 129:4 Reina Valera 1960",
+    "texto": "Jehová es justo; Cortó las coyundas de los impíos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֥ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַדִּ֑יק",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "justo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7112",
+      "hebreo": "קצץ",
+      "transliteracion": "קִ֝צֵּ֗ץ",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "ha cortado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5688",
+      "hebreo": "עֲבֹת",
+      "transliteracion": "עֲבֹ֣ות",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "coyundas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de impíos"
+    }
+  ]
+}

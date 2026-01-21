@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Números 1:11 Reina Valera 1960",
+    "texto": "De Benjamín, Abidán hijo de Gedeoni."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "De"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1144",
+      "hebreo": "בִּנְיָמִן",
+      "transliteracion": "בִ֨נְיָמִ֔ן",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Benjamín"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "27",
+      "hebreo": "אֲבִידָן",
+      "transliteracion": "אֲבִידָ֖ן",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Abidán"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶּן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hijo de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1441",
+      "hebreo": "גִּדְעֹנִי",
+      "transliteracion": "גִּדְעֹנִֽי׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Gedeoni."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 106:35 Reina Valera 1960",
+    "texto": "Antes se mezclaron con las naciones, Y aprendieron sus obras,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "sino"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6148",
+      "hebreo": "ערב",
+      "transliteracion": "יִּתְעָרְב֥וּ",
+      "parsingLabel": "verbo hitpa“el wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.HIT.WAYQ.P3.M.PL",
+      "traduccion": "que se mezclaron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּויִ֑ם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "naciones"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3925",
+      "hebreo": "למד",
+      "transliteracion": "יִּלְמְד֗וּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "aprendieron"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4639",
+      "hebreo": "מַעֲשֶׂה",
+      "transliteracion": "מַֽעֲשֵׂיהֶֽם׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus obras"
+    }
+  ]
+}

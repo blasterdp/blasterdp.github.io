@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 17:2 Reina Valera 1960",
+    "texto": "No hay conmigo sino escarnecedores, En cuya amargura se detienen mis ojos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "¡si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2049",
+      "hebreo": "הֲתֻלִים",
+      "transliteracion": "הֲ֭תֻלִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "escarnios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5978",
+      "hebreo": "עִמָּד",
+      "transliteracion": "עִמָּדִ֑י",
+      "parsingLabel": "preposición masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "conmigo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4784",
+      "hebreo": "מרה",
+      "transliteracion": "הַמְּרֹותָ֗ם",
+      "parsingLabel": "verbo hif‘il infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.INFC.U.U.U.A.PRS.P3.M.PL",
+      "traduccion": "sus insultos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3885",
+      "hebreo": "לין",
+      "transliteracion": "תָּלַ֥ן",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "se posa"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi ojo!"
+    }
+  ]
+}

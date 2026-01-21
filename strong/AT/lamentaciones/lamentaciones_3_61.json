@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Lamentaciones 3:61 Reina Valera 1960",
+    "texto": "Has oído el oprobio de ellos, oh Jehová, todas sus maquinaciones contra mí;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שָׁמַ֤עְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "Has oído"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2781",
+      "hebreo": "חֶרְפָּה",
+      "transliteracion": "חֶרְפָּתָם֙",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "su insulto"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֔ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4284",
+      "hebreo": "מַחֲשָׁבָה",
+      "transliteracion": "מַחְשְׁבֹתָ֖ם",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus pensamientos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלָֽי׃",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra mi"
+    }
+  ]
+}

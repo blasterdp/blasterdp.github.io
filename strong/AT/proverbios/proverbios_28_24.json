@@ -1,0 +1,125 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 28:24 Reina Valera 1960",
+    "texto": "El que roba a su padre o a su madre, y dice que no es maldad, Compañero es del hombre destruidor."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1497",
+      "hebreo": "גזל",
+      "transliteracion": "גֹּוזֵ֤ל׀",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "quien roba"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אָ֘בִ֤יו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "a su padre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "517",
+      "hebreo": "אֵם",
+      "transliteracion": "אִמֹּ֗ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "a su madre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אֹמֵ֥ר",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "dice"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵֽין־",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6588",
+      "hebreo": "פֶּשַׁע",
+      "transliteracion": "פָּ֑שַׁע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "transgresión"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2270",
+      "hebreo": "חָבֵר",
+      "transliteracion": "חָבֵ֥ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "compañero"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֝֗וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִ֣ישׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "7843",
+      "hebreo": "שׁחת",
+      "transliteracion": "מַשְׁחִֽית׃",
+      "parsingLabel": "adjetivo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "ADJV.HIF.PTCA.U.M.SG.A",
+      "traduccion": "que destruye"
+    }
+  ]
+}

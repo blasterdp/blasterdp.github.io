@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 14:1 Reina Valera 1960",
+    "texto": "La mujer sabia edifica su casa; Mas la necia con sus manos la derriba."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חַכְמֹ֣ות",
+      "parsingLabel": "adjetivo femenino plural constructivo",
+      "parsing": "ADJV.F.PL.C",
+      "traduccion": "sabias"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "802",
+      "hebreo": "אִשָּׁה",
+      "transliteracion": "נָ֭שִׁים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mujeres"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1129",
+      "hebreo": "בנה",
+      "transliteracion": "בָּנְתָ֣ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "edifica"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵיתָ֑הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "su casa"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "200",
+      "hebreo": "אִוֶּלֶת",
+      "transliteracion": "אִוֶּ֗לֶת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "necias"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדֶ֥יהָ",
+      "parsingLabel": "sustantivo desconocido dual absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.U.DU.A.PRS.P3.F.SG",
+      "traduccion": "sus manos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2040",
+      "hebreo": "הרס",
+      "transliteracion": "תֶהֶרְסֶֽנּוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG.PRS.P3.M.SG",
+      "traduccion": "la derriba"
+    }
+  ]
+}

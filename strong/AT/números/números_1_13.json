@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Números 1:13 Reina Valera 1960",
+    "texto": "De Aser, Pagiel hijo de Ocrán."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "De"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "836",
+      "hebreo": "אָשֵׁר",
+      "transliteracion": "אָשֵׁ֕ר",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Aser"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6295",
+      "hebreo": "פַּגְעִיאֵל",
+      "transliteracion": "פַּגְעִיאֵ֖ל",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Pagiel"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶּן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hijo de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5918",
+      "hebreo": "עָכְרָן",
+      "transliteracion": "עָכְרָֽן׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Ocrán."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Números 22:39 Reina Valera 1960",
+    "texto": "Y fue Balaam con Balac, y vinieron a Quiriat-huzot."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "יֵּ֥לֶךְ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "fue"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1109",
+      "hebreo": "בִּלְעָם",
+      "transliteracion": "בִּלְעָ֖ם",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Balaam"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1111",
+      "hebreo": "בָּלָק",
+      "transliteracion": "בָּלָ֑ק",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Balac"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "יָּבֹ֖אוּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "llegaron"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7155",
+      "hebreo": "קִרְיַת חֻצֹות",
+      "transliteracion": "קִרְיַ֥ת חֻצֹֽות׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Kiriat Huzot."
+    }
+  ]
+}

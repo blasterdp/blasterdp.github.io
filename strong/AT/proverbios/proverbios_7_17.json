@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 7:17 Reina Valera 1960",
+    "texto": "He perfumado mi cámara Con mirra, áloes y canela."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5130",
+      "hebreo": "נוף",
+      "transliteracion": "נַ֥פְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "he rociado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4904",
+      "hebreo": "מִשְׁכָּב",
+      "transliteracion": "מִשְׁכָּבִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi cama"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4753",
+      "hebreo": "מֹר",
+      "transliteracion": "מֹ֥ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mirra"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "174",
+      "hebreo": "אָהָל",
+      "transliteracion": "אֲ֝הָלִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "áloes"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7076",
+      "hebreo": "קִנָּמֹון",
+      "transliteracion": "קִנָּמֹֽון׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "canela"
+    }
+  ]
+}

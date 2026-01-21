@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 109:13 Reina Valera 1960",
+    "texto": "Su posteridad sea destruida; En la segunda generación sea borrado su nombre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "יְהִֽי־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "sea"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "319",
+      "hebreo": "אַחֲרִית",
+      "transliteracion": "אַחֲרִיתֹ֥ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su posteridad"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3772",
+      "hebreo": "כרת",
+      "transliteracion": "הַכְרִ֑ית",
+      "parsingLabel": "verbo hif‘il infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.HIF.INFC.U.U.U.A",
+      "traduccion": "exterminada"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1755",
+      "hebreo": "דֹּור",
+      "transliteracion": "דֹ֥ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Generación"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "312",
+      "hebreo": "אַחֵר",
+      "transliteracion": "אַ֝חֵ֗ר",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "siguiente"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4229",
+      "hebreo": "מחה",
+      "transliteracion": "יִמַּ֥ח",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "sea borrado"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שְׁמָֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su nombre"
+    }
+  ]
+}

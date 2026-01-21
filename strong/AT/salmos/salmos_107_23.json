@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 107:23 Reina Valera 1960",
+    "texto": "Los que descienden al mar en naves, Y hacen negocio en las muchas aguas,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3381",
+      "hebreo": "ירד",
+      "transliteracion": "יֹורְדֵ֣י",
+      "parsingLabel": "verbo qal participio desconocido masculino plural constructivo",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.C",
+      "traduccion": "los que descienden"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ֭",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3220",
+      "hebreo": "יָם",
+      "transliteracion": "יָּם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mar"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "591",
+      "hebreo": "אֳנִיָּה",
+      "transliteracion": "אֳנִיֹּ֑ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "naves"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עֹשֵׂ֥י",
+      "parsingLabel": "verbo qal participio desconocido masculino plural constructivo",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.C",
+      "traduccion": "hacen"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4399",
+      "hebreo": "מְלָאכָה",
+      "transliteracion": "מְ֝לָאכָ֗ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "negocio"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַ֣יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַבִּֽים׃ ׆",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "grandes"
+    }
+  ]
+}

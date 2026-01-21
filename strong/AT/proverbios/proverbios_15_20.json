@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 15:20 Reina Valera 1960",
+    "texto": "El hijo sabio alegra al padre; Mas el hombre necio menosprecia a su madre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֵּ֣ן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hijo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חָ֭כָם",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "sabio"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8055",
+      "hebreo": "שׂמח",
+      "transliteracion": "יְשַׂמַּח־",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "alegra"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אָ֑ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "padre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3684",
+      "hebreo": "כְּסִיל",
+      "transliteracion": "כְסִ֥יל",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "necio"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָ֝דָ֗ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "humano"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "959",
+      "hebreo": "בזה",
+      "transliteracion": "בֹּוזֶ֥ה",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "desprecia"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "517",
+      "hebreo": "אֵם",
+      "transliteracion": "אִמֹּֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su madre"
+    }
+  ]
+}

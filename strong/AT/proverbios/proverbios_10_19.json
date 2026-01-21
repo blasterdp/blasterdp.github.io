@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 10:19 Reina Valera 1960",
+    "texto": "En las muchas palabras no falta pecado; Mas el que refrena sus labios es prudente."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7230",
+      "hebreo": "רֹב",
+      "transliteracion": "רֹ֣ב",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "muchas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְּ֭בָרִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "palabras"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2308",
+      "hebreo": "חדל",
+      "transliteracion": "יֶחְדַּל־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "falta"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6588",
+      "hebreo": "פֶּשַׁע",
+      "transliteracion": "פָּ֑שַׁע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "transgresión"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2820",
+      "hebreo": "חשׂך",
+      "transliteracion": "חֹשֵׂ֖ךְ",
+      "parsingLabel": "adjetivo qal participio desconocido masculino singular constructivo",
+      "parsing": "ADJV.QAL.PTCA.U.M.SG.C",
+      "traduccion": "el que refrena"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שְׂפָתָ֣יו",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.SG",
+      "traduccion": "sus labios"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7919",
+      "hebreo": "שׂכל",
+      "transliteracion": "מַשְׂכִּֽיל׃",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "prudente"
+    }
+  ]
+}

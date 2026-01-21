@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 137:2 Reina Valera 1960",
+    "texto": "Sobre los sauces en medio de ella Colgamos nuestras arpas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַֽל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6155",
+      "hebreo": "עֲרָבָה",
+      "transliteracion": "עֲרָבִ֥ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "sauces"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8432",
+      "hebreo": "תָּוֶךְ",
+      "transliteracion": "תֹוכָ֑הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "medio de ella"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8518",
+      "hebreo": "תלה",
+      "transliteracion": "תָּ֝לִ֗ינוּ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P1.U.PL",
+      "traduccion": "colgamos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3658",
+      "hebreo": "כִּנֹּור",
+      "transliteracion": "כִּנֹּרֹותֵֽינוּ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestras arpas"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 29:23 Reina Valera 1960",
+    "texto": "La soberbia del hombre le abate; Pero al humilde de espíritu sustenta la honra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1346",
+      "hebreo": "גַּאֲוָה",
+      "transliteracion": "גַּאֲוַ֣ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "orgullo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָ֭דָם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del hombre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8213",
+      "hebreo": "שׁפל",
+      "transliteracion": "תַּשְׁפִּילֶ֑נּוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.F.SG.PRS.P3.M.SG",
+      "traduccion": "lo humillará"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8217",
+      "hebreo": "שָׁפָל",
+      "transliteracion": "שְׁפַל־",
+      "parsingLabel": "adjetivo masculino singular constructivo",
+      "parsing": "ADJV.M.SG.C",
+      "traduccion": "humilde"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֝֗וּחַ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de espíritu"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8551",
+      "hebreo": "תמך",
+      "transliteracion": "יִתְמֹ֥ךְ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "logra"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3519",
+      "hebreo": "כָּבֹוד",
+      "transliteracion": "כָּבֹֽוד׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "honor"
+    }
+  ]
+}

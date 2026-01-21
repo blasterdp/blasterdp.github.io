@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 41:26 Reina Valera 1960",
+    "texto": "Cuando alguno lo alcanzare, Ni espada, ni lanza, ni dardo, ni coselete durará."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5381",
+      "hebreo": "נשׂג",
+      "transliteracion": "מַשִּׂיגֵ֣הוּ",
+      "parsingLabel": "sustantivo hif‘il participio desconocido masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.HIF.PTCA.U.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "que lo alcance"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2719",
+      "hebreo": "חֶרֶב",
+      "transliteracion": "חֶ֭רֶב",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "espada"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1097",
+      "hebreo": "בְּלִי",
+      "transliteracion": "בְּלִ֣י",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "תָק֑וּם",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "se sostiene"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2595",
+      "hebreo": "חֲנִית",
+      "transliteracion": "חֲנִ֖ית",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "lanza"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4551",
+      "hebreo": "מַסָּע",
+      "transliteracion": "מַסָּ֣ע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "dardo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8302",
+      "hebreo": "שִׁרְיָה",
+      "transliteracion": "שִׁרְיָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "jabalina"
+    }
+  ]
+}

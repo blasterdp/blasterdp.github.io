@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 15:5 Reina Valera 1960",
+    "texto": "El necio menosprecia el consejo de su padre; Mas el que guarda la corrección vendrá a ser prudente."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "191",
+      "hebreo": "אֱוִיל",
+      "transliteracion": "אֱוִ֗יל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "necio"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5006",
+      "hebreo": "נאץ",
+      "transliteracion": "יִ֭נְאַץ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "desprecia"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4148",
+      "hebreo": "מוּסָר",
+      "transliteracion": "מוּסַ֣ר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "corrección"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אָבִ֑יו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su padre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "שֹׁמֵ֖ר",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "el que hace caso"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8433",
+      "hebreo": "תֹּוכַחַת",
+      "transliteracion": "תֹּוכַ֣חַת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de reprensión"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6191",
+      "hebreo": "ערם",
+      "transliteracion": "יַעְרִֽם׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "obra astutamente"
+    }
+  ]
+}

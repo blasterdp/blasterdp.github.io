@@ -1,0 +1,143 @@
+{
+  "versiculo": {
+    "referencia": "Números 12:12 Reina Valera 1960",
+    "texto": "No quede ella ahora como el que nace muerto, que al salir del vientre de su madre, tiene ya medio consumida su carne."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "No"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4994",
+      "hebreo": "נָא",
+      "transliteracion": "נָ֥א",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "ahora"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "תְהִ֖י",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "sea ella"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "מֵּ֑ת",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "aborto"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֤ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "su"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "צֵאתֹו֙",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A.PRS.P3.M.SG",
+      "traduccion": "salir"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "del"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7358",
+      "hebreo": "רֶחֶם",
+      "transliteracion": "רֶ֣חֶם",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "vientre de"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "517",
+      "hebreo": "אֵם",
+      "transliteracion": "אִמֹּ֔ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su madre"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "יֵּאָכֵ֖ל",
+      "parsingLabel": "verbo nif‘al wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.WAYQ.P3.M.SG",
+      "traduccion": "es devorada"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "2677",
+      "hebreo": "חֲצִי",
+      "transliteracion": "חֲצִ֥י",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "mitad de"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "1320",
+      "hebreo": "בָּשָׂר",
+      "transliteracion": "בְשָׂרֹֽו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su carne."
+    }
+  ]
+}

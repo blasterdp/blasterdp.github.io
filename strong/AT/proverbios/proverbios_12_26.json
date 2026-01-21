@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 12:26 Reina Valera 1960",
+    "texto": "El justo sirve de guía a su prójimo; Mas el camino de los impíos les hace errar."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8446",
+      "hebreo": "תור",
+      "transliteracion": "יָתֵ֣ר",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "se guía"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4828",
+      "hebreo": "מֵרֵעַ",
+      "transliteracion": "מֵרֵעֵ֣הוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "por su amigo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַדִּ֑יק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "justo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דֶ֖רֶךְ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "camino"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de impíos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8582",
+      "hebreo": "תעה",
+      "transliteracion": "תַּתְעֵֽם׃",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.F.SG.PRS.P3.M.PL",
+      "traduccion": "los extravía"
+    }
+  ]
+}

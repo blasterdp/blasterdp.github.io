@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:21 Reina Valera 1960",
+    "texto": "Reprendiste a los soberbios, los malditos, Que se desvían de tus mandamientos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1605",
+      "hebreo": "גער",
+      "transliteracion": "גָּ֭עַרְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "has reprendido"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2086",
+      "hebreo": "זֵד",
+      "transliteracion": "זֵדִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "a soberbios"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "779",
+      "hebreo": "ארר",
+      "transliteracion": "אֲרוּרִ֑ים",
+      "parsingLabel": "adjetivo qal participio (passive) desconocido masculino plural absoluto",
+      "parsing": "ADJV.QAL.PTCP.U.M.PL.A",
+      "traduccion": "malditos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "los"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7686",
+      "hebreo": "שׁגה",
+      "transliteracion": "שֹּׁגִים",
+      "parsingLabel": "verbo qal participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.A",
+      "traduccion": "que se desvían"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4687",
+      "hebreo": "מִצְוָה",
+      "transliteracion": "מִּצְוֹתֶֽיךָ׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus mandamientos"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 25:16 Reina Valera 1960",
+    "texto": "¿Hallaste miel? Come lo que te basta, No sea que hastiado de ella la vomites."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1706",
+      "hebreo": "דְּבַשׁ",
+      "transliteracion": "דְּבַ֣שׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "¿miel"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "מָ֭צָאתָ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "has hallado?"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "אֱכֹ֣ל",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "come"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1767",
+      "hebreo": "דַּי",
+      "transliteracion": "דַּיֶּ֑ךָּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "suficiente para ti"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6435",
+      "hebreo": "פֶּן",
+      "transliteracion": "פֶּן־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "no sea que"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7646",
+      "hebreo": "שׂבע",
+      "transliteracion": "תִּ֝שְׂבָּעֶ֗נּוּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "te hartes de ella"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6958",
+      "hebreo": "קיא",
+      "transliteracion": "הֲקֵֽאתֹֽו׃",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "la vomites"
+    }
+  ]
+}

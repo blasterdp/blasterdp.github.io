@@ -1,0 +1,314 @@
+{
+  "versiculo": {
+    "referencia": "Números 22:6 Reina Valera 1960",
+    "texto": "Ven pues, ahora, te ruego, maldíceme este pueblo, porque es más fuerte que yo; quizá yo pueda herirlo y echarlo de la tierra; pues yo sé que el que tú bendigas será bendito, y el que tú maldigas será maldito."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6258",
+      "hebreo": "עַתָּה",
+      "transliteracion": "עַתָּה֩",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "ahora"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "לְכָה־",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "ven"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4994",
+      "hebreo": "נָא",
+      "transliteracion": "נָּ֨א",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "por favor"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "779",
+      "hebreo": "ארר",
+      "transliteracion": "אָֽרָה־",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "maldice"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִּ֜י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "para mí"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "(objeto marcador)"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עָ֣ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pueblo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶּ֗ה",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "éste"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "6099",
+      "hebreo": "עָצוּם",
+      "transliteracion": "עָצ֥וּם",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "más poderoso"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "הוּא֙",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִמֶּ֔נִּי",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "que yo,"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "194",
+      "hebreo": "אוּלַי",
+      "transliteracion": "אוּלַ֤י",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "quizá"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "3201",
+      "hebreo": "יכל",
+      "transliteracion": "אוּכַל֙",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "podré"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "5221",
+      "hebreo": "נכה",
+      "transliteracion": "נַכֶּה־",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.HIF.IMPF.P1.U.PL",
+      "traduccion": "derrotar"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בֹּ֔ו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "contra él"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "1644",
+      "hebreo": "גרשׁ",
+      "transliteracion": "אֲגָרְשֶׁ֖נּוּ",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG.PRS.P3.M.SG",
+      "traduccion": "expulsar lo"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִן־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָ֑רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָדַ֗עְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "sé"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֵ֤ת",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "(objeto marcador)"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "a quien"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "תְּבָרֵךְ֙",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG",
+      "traduccion": "bendigas"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "מְבֹרָ֔ךְ",
+      "parsingLabel": "verbo pu“al participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.PUAL.PTCP.U.M.SG.A",
+      "traduccion": "bendecido"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֥ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "a quien"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "779",
+      "hebreo": "ארר",
+      "transliteracion": "תָּאֹ֖ר",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "maldigas"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "779",
+      "hebreo": "ארר",
+      "transliteracion": "יוּאָֽר׃",
+      "parsingLabel": "verbo hof‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HOF.IMPF.P3.M.SG",
+      "traduccion": "maldecido."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 9:33 Reina Valera 1960",
+    "texto": "No hay entre nosotros árbitro Que ponga su mano sobre nosotros dos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3426",
+      "hebreo": "יֵשׁ",
+      "transliteracion": "יֵשׁ־",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "hay"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "996",
+      "hebreo": "בַּיִן",
+      "transliteracion": "בֵּינֵ֣ינוּ",
+      "parsingLabel": "preposición masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "PREP.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "entre nosotros"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3198",
+      "hebreo": "יכח",
+      "transliteracion": "מֹוכִ֑יחַ",
+      "parsingLabel": "sustantivo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.HIF.PTCA.U.M.SG.A",
+      "traduccion": "árbitro"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7896",
+      "hebreo": "שׁית",
+      "transliteracion": "יָשֵׁ֖ת",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "que ponga"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדֹ֣ו",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su mano"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁנֵֽינוּ׃",
+      "parsingLabel": "sustantivo desconocido dual absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.U.DU.A.PRS.P1.U.PL",
+      "traduccion": "ambos"
+    }
+  ]
+}

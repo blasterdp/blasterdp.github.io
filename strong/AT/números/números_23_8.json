@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Números 23:8 Reina Valera 1960",
+    "texto": "¿Por qué maldeciré yo al que Dios no maldijo? ¿Y por qué he de execrar al que Jehová no ha execrado?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מָ֣ה",
+      "parsingLabel": "interrogativo partículo desconocido desconocido",
+      "parsing": "INRG.U.U",
+      "traduccion": "Cómo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6895",
+      "hebreo": "קבב",
+      "transliteracion": "אֶקֹּ֔ב",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "maldeciré"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6895",
+      "hebreo": "קבב",
+      "transliteracion": "קַבֹּ֖ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "maldijo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "410",
+      "hebreo": "אֵל",
+      "transliteracion": "אֵ֑ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מָ֣ה",
+      "parsingLabel": "interrogativo partículo desconocido desconocido",
+      "parsing": "INRG.U.U",
+      "traduccion": "cómo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2194",
+      "hebreo": "זעם",
+      "transliteracion": "אֶזְעֹ֔ם",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "execraré"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2194",
+      "hebreo": "זעם",
+      "transliteracion": "זָעַ֖ם",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "execró"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָֽה׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh."
+    }
+  ]
+}

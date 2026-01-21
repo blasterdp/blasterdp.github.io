@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 102:8 Reina Valera 1960",
+    "texto": "Cada día me afrentan mis enemigos; Los que contra mí se enfurecen, se han conjurado contra mí."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ֭",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹּום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2778",
+      "hebreo": "חרף",
+      "transliteracion": "חֵרְפ֣וּנִי",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "se burlan de mí"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹויְבָ֑י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "mis enemigos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "מְ֝הֹולָלַ֗י",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.A",
+      "traduccion": "los que se enrabian contra mí"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ֣י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "en mí"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7650",
+      "hebreo": "שׁבע",
+      "transliteracion": "נִשְׁבָּֽעוּ׃",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "maldicen"
+    }
+  ]
+}

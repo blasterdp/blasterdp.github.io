@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 10:17 Reina Valera 1960",
+    "texto": "El deseo de los humildes oíste, oh Jehová; Tú dispones su corazón, y haces atento tu oído,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8378",
+      "hebreo": "תַּאֲוָה",
+      "transliteracion": "תַּאֲוַ֬ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "deseo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6035",
+      "hebreo": "עָנָו",
+      "transliteracion": "עֲנָוִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de humildes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שָׁמַ֣עְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "has oído"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3559",
+      "hebreo": "כון",
+      "transliteracion": "תָּכִ֥ין",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG",
+      "traduccion": "fortalecerás"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִ֝בָּ֗ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su corazón"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7181",
+      "hebreo": "קשׁב",
+      "transliteracion": "תַּקְשִׁ֥יב",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG",
+      "traduccion": "harás atento"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אָזְנֶֽךָ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu oído"
+    }
+  ]
+}

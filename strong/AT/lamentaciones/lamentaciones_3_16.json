@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Lamentaciones 3:16 Reina Valera 1960",
+    "texto": "Mis dientes quebró con cascajo, me cubrió de ceniza;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1638",
+      "hebreo": "גרס",
+      "transliteracion": "יַּגְרֵ֤ס",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG",
+      "traduccion": "quebró"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בֶּֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2687",
+      "hebreo": "חָצָץ",
+      "transliteracion": "חָצָץ֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "un guijarro"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8127",
+      "hebreo": "שֵׁן",
+      "transliteracion": "שִׁנָּ֔י",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "mis dientes"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3728",
+      "hebreo": "כפשׁ",
+      "transliteracion": "הִכְפִּישַׁ֖נִי",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me pisoteó"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "665",
+      "hebreo": "אֵפֶר",
+      "transliteracion": "אֵֽפֶר׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "el polvo"
+    }
+  ]
+}

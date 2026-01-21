@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 10:1 Reina Valera 1960",
+    "texto": "Los proverbios de Salomón. El hijo sabio alegra al padre, Pero el hijo necio es tristeza de su madre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4912",
+      "hebreo": "מָשָׁל",
+      "transliteracion": "מִשְׁלֵ֗י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "proverbios"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8010",
+      "hebreo": "שְׁלֹמֹה",
+      "transliteracion": "שְׁלֹ֫מֹ֥ה פ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "de Salomón"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֵּ֣ן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hijo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חָ֭כָם",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "sabio"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8055",
+      "hebreo": "שׂמח",
+      "transliteracion": "יְשַׂמַּח־",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "alegra"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אָ֑ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "padre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֵ֥ן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hijo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3684",
+      "hebreo": "כְּסִיל",
+      "transliteracion": "כְּ֝סִ֗יל",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "necio"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "8424",
+      "hebreo": "תּוּגָה",
+      "transliteracion": "תּוּגַ֥ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "tristeza"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "517",
+      "hebreo": "אֵם",
+      "transliteracion": "אִמֹּֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su madre"
+    }
+  ]
+}

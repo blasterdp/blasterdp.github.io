@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 1:16 Reina Valera 1960",
+    "texto": "Porque sus pies corren hacia el mal, Y van presurosos a derramar sangre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7272",
+      "hebreo": "רֶגֶל",
+      "transliteracion": "רַ֭גְלֵיהֶם",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.PL",
+      "traduccion": "sus pies"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7451",
+      "hebreo": "רַע",
+      "transliteracion": "רַ֣ע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mal"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7323",
+      "hebreo": "רוץ",
+      "transliteracion": "יָר֑וּצוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "corren"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וִֽ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4116",
+      "hebreo": "מהר",
+      "transliteracion": "ימַהֲר֗וּ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "se apresuran"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8210",
+      "hebreo": "שׁפך",
+      "transliteracion": "שְׁפָּךְ־",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "derramar"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1818",
+      "hebreo": "דָּם",
+      "transliteracion": "דָּֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "sangre"
+    }
+  ]
+}

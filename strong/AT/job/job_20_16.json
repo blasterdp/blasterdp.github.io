@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Job 20:16 Reina Valera 1960",
+    "texto": "Veneno de áspides chupará; Lo matará lengua de víbora."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7219",
+      "hebreo": "רֹאשׁ",
+      "transliteracion": "רֹאשׁ־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "veneno"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6620",
+      "hebreo": "פֶּתֶן",
+      "transliteracion": "פְּתָנִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de áspides"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3243",
+      "hebreo": "ינק",
+      "transliteracion": "יִינָ֑ק",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "chupará"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2026",
+      "hebreo": "הרג",
+      "transliteracion": "תַּֽ֝הַרְגֵ֗הוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG.PRS.P3.M.SG",
+      "traduccion": "lo matará"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3956",
+      "hebreo": "לָשֹׁון",
+      "transliteracion": "לְשֹׁ֣ון",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "lengua"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "660",
+      "hebreo": "אֶפְעֶה",
+      "transliteracion": "אֶפְעֶֽה׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de víbora"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Jeremías 15:12 Reina Valera 1960",
+    "texto": "¿Puede alguno quebrar el hierro, el hierro del norte y el bronce?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7465",
+      "hebreo": "רעע",
+      "transliteracion": "יָרֹ֨עַ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se puede romper"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1270",
+      "hebreo": "בַּרְזֶל",
+      "transliteracion": "בַּרְזֶ֧ל׀",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hierro"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1270",
+      "hebreo": "בַּרְזֶל",
+      "transliteracion": "בַּרְזֶ֛ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hierro"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "del"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6828",
+      "hebreo": "צָפֹון",
+      "transliteracion": "צָּפֹ֖ון",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "norte"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5178",
+      "hebreo": "נְחֹשֶׁת",
+      "transliteracion": "נְחֹֽשֶׁת׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "bronce?"
+    }
+  ]
+}

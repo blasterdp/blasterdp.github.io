@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 23:21 Reina Valera 1960",
+    "texto": "Porque el bebedor y el comilón empobrecerán, Y el sueño hará vestir vestidos rotos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5433",
+      "hebreo": "סבא",
+      "transliteracion": "סֹבֵ֣א",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "borracho"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2151",
+      "hebreo": "זלל",
+      "transliteracion": "זֹולֵל",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "glotón"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3423",
+      "hebreo": "ירשׁ",
+      "transliteracion": "יִוָּרֵ֑שׁ",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "se empobrecerán"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7168",
+      "hebreo": "קְרָעִים",
+      "transliteracion": "קְרָעִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de harapos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3847",
+      "hebreo": "לבשׁ",
+      "transliteracion": "תַּלְבִּ֥ישׁ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.F.SG",
+      "traduccion": "se vestirá"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5124",
+      "hebreo": "נוּמָה",
+      "transliteracion": "נוּמָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "somnolencia"
+    }
+  ]
+}

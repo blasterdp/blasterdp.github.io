@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 27:12 Reina Valera 1960",
+    "texto": "El avisado ve el mal y se esconde; Mas los simples pasan y llevan el daño."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6175",
+      "hebreo": "עָרוּם",
+      "transliteracion": "עָר֤וּם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "cauto"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָאָ֣ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ve"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7451",
+      "hebreo": "רָעָה",
+      "transliteracion": "רָעָ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "mal"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5641",
+      "hebreo": "סתר",
+      "transliteracion": "נִסְתָּ֑ר",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "se esconde"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6612",
+      "hebreo": "פֶּתִי",
+      "transliteracion": "פְּ֝תָאיִ֗ם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "jóvenes"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "עָבְר֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "pasan adelante"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6064",
+      "hebreo": "ענשׁ",
+      "transliteracion": "נֶעֱנָֽשׁוּ׃",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "son castigados"
+    }
+  ]
+}

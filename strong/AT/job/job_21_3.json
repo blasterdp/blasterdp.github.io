@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 21:3 Reina Valera 1960",
+    "texto": "Toleradme, y yo hablaré; Y después que haya hablado, escarneced."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5375",
+      "hebreo": "נשׂא",
+      "transliteracion": "שָׂ֭אוּנִי",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL.PRS.P1.U.SG",
+      "traduccion": "toleradme"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "595",
+      "hebreo": "אָנֹכִי",
+      "transliteracion": "אָנֹכִ֣י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "אֲדַבֵּ֑ר",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "hablaré"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "310",
+      "hebreo": "אַחַר",
+      "transliteracion": "אַחַ֖ר",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "después"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "דַּבְּרִ֣י",
+      "parsingLabel": "sustantivo pi“el infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.PIEL.INFC.U.U.U.A.PRS.P1.U.SG",
+      "traduccion": "de hablar yo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3932",
+      "hebreo": "לעג",
+      "transliteracion": "תַלְעִֽיג׃",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG",
+      "traduccion": "te burlarás"
+    }
+  ]
+}

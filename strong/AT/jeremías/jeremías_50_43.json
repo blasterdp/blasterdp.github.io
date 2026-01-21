@@ -1,0 +1,125 @@
+{
+  "versiculo": {
+    "referencia": "Jeremías 50:43 Reina Valera 1960",
+    "texto": "Oyó la noticia el rey de Babilonia, y sus manos se debilitaron; angustia le tomó, dolor como de mujer de parto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שָׁמַ֧ע",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "escuchó"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מֶֽלֶךְ־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "rey de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "894",
+      "hebreo": "בָּבֶל",
+      "transliteracion": "בָּבֶ֛ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Babilonia"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8088",
+      "hebreo": "שֵׁמַע",
+      "transliteracion": "שִׁמְעָ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "informe de ellos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7503",
+      "hebreo": "רפה",
+      "transliteracion": "רָפ֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se debilitaron"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדָ֑יו",
+      "parsingLabel": "sustantivo desconocido dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.DU.A.PRS.P3.M.SG",
+      "traduccion": "sus manos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6869",
+      "hebreo": "צָרָה",
+      "transliteracion": "צָרָה֙",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "angustia"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2388",
+      "hebreo": "חזק",
+      "transliteracion": "הֶחֱזִיקַ֔תְהוּ",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.F.SG.PRS.P3.M.SG",
+      "traduccion": "le atenazó"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2427",
+      "hebreo": "חִיל",
+      "transliteracion": "חִ֖יל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "dolor"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3205",
+      "hebreo": "ילד",
+      "transliteracion": "יֹּולֵדָֽה׃",
+      "parsingLabel": "sustantivo qal participio desconocido femenino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.F.SG.A",
+      "traduccion": "parturienta"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 7:8 Reina Valera 1960",
+    "texto": "Los ojos de los que me ven, no me verán más; Fijarás en mí tus ojos, y dejaré de ser."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7789",
+      "hebreo": "שׁור",
+      "transliteracion": "תְ֭שׁוּרֵנִי",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "me mirará"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵ֣ין",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "el ojo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רֹ֑אִי",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "del que me ve"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינֶ֖יךָ",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P2.M.SG",
+      "traduccion": "tus ojos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ֣י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "en mí"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵינֶֽנִּי׃",
+      "parsingLabel": "negativo partículo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "NEGA.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "no existiré"
+    }
+  ]
+}

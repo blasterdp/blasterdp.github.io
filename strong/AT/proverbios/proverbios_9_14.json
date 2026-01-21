@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 9:14 Reina Valera 1960",
+    "texto": "Se sienta en una silla a la puerta de su casa, En los lugares altos de la ciudad,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3427",
+      "hebreo": "ישׁב",
+      "transliteracion": "יָשְׁבָה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "se sienta"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6607",
+      "hebreo": "פֶּתַח",
+      "transliteracion": "פֶ֣תַח",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "puerta"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּיתָ֑הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "de su casa"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3678",
+      "hebreo": "כִּסֵּא",
+      "transliteracion": "כִּ֝סֵּ֗א",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "asiento"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4791",
+      "hebreo": "מָרֹום",
+      "transliteracion": "מְרֹ֣מֵי",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "en lugares altos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7176",
+      "hebreo": "קֶרֶת",
+      "transliteracion": "קָֽרֶת׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de ciudad"
+    }
+  ]
+}

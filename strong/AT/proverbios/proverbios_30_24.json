@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 30:24 Reina Valera 1960",
+    "texto": "Cuatro cosas son de las más pequeñas de la tierra, Y las mismas son más sabias que los sabios:"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "702",
+      "hebreo": "אַרְבַּע",
+      "transliteracion": "אַרְבָּ֣עָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "cuatro"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1992",
+      "hebreo": "הֵם",
+      "transliteracion": "הֵ֭ם",
+      "parsingLabel": "pronombre personal 3ª persona masculino plural",
+      "parsing": "PRPS.P3.M.PL",
+      "traduccion": "ellas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6996",
+      "hebreo": "קָטָן",
+      "transliteracion": "קְטַנֵּי־",
+      "parsingLabel": "adjetivo masculino plural constructivo",
+      "parsing": "ADJV.M.PL.C",
+      "traduccion": "pequeñas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָ֑רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1992",
+      "hebreo": "הֵמָּה",
+      "transliteracion": "הֵ֗מָּה",
+      "parsingLabel": "pronombre personal 3ª persona masculino plural",
+      "parsing": "PRPS.P3.M.PL",
+      "traduccion": "ellas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חֲכָמִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "sabias"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2449",
+      "hebreo": "חכם",
+      "transliteracion": "מְחֻכָּמִֽים׃",
+      "parsingLabel": "adjetivo pu“al participio (passive) desconocido masculino plural absoluto",
+      "parsing": "ADJV.PUAL.PTCP.U.M.PL.A",
+      "traduccion": "más que los sabios consumados"
+    }
+  ]
+}

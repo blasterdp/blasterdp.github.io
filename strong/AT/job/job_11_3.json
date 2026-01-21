@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 11:3 Reina Valera 1960",
+    "texto": "¿Harán tus falacias callar a los hombres? ¿Harás escarnio y no habrá quien te avergüence?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "907",
+      "hebreo": "בַּד",
+      "transliteracion": "בַּ֭דֶּיךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "¿tus falacias"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4962",
+      "hebreo": "מַת",
+      "transliteracion": "מְתִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "a hombres"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2790",
+      "hebreo": "חרשׁ",
+      "transliteracion": "יַחֲרִ֑ישׁו",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL",
+      "traduccion": "harán callar?"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "¿y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3932",
+      "hebreo": "לעג",
+      "transliteracion": "תִּלְעַ֗ג",
+      "parsingLabel": "verbo qal wayyiqtol 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P2.M.SG",
+      "traduccion": "te burlarás"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵ֣ין",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "nadie"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3637",
+      "hebreo": "כלם",
+      "transliteracion": "מַכְלִֽם׃",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "que confunda?"
+    }
+  ]
+}

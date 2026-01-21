@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Josué 15:61 Reina Valera 1960",
+    "texto": "En el desierto, Bet-arabá, Midín, Secaca,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4057",
+      "hebreo": "מִדְבָּר",
+      "transliteracion": "מִּדְבָּ֑ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "desierto de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1026",
+      "hebreo": "בֵּית הָעֲרָבָה",
+      "transliteracion": "בֵּ֚ית הָעֲרָבָ֔ה",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Bet Arabá"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4081",
+      "hebreo": "מִדִּין",
+      "transliteracion": "מִדִּ֖ין",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Midín"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5527",
+      "hebreo": "סְכָכָה",
+      "transliteracion": "סְכָכָֽה׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Secaca"
+    }
+  ]
+}

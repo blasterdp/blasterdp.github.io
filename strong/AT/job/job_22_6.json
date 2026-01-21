@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 22:6 Reina Valera 1960",
+    "texto": "Porque sacaste prenda a tus hermanos sin causa, Y despojaste de sus ropas a los desnudos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2254",
+      "hebreo": "חבל",
+      "transliteracion": "תַחְבֹּ֣ל",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "exigías prenda"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "251",
+      "hebreo": "אָח",
+      "transliteracion": "אַחֶ֣יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "a tus hermanos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2600",
+      "hebreo": "חִנָּם",
+      "transliteracion": "חִנָּ֑ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "sin razón"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "899",
+      "hebreo": "בֶּגֶד",
+      "transliteracion": "בִגְדֵ֖י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "de ropas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6174",
+      "hebreo": "עָרֹום",
+      "transliteracion": "עֲרוּמִּ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "a desnudos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6584",
+      "hebreo": "פשׁט",
+      "transliteracion": "תַּפְשִֽׁיט׃",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG",
+      "traduccion": "despojaste"
+    }
+  ]
+}

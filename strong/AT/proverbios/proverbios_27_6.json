@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 27:6 Reina Valera 1960",
+    "texto": "Fieles son las heridas del que ama; Pero importunos los besos del que aborrece."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "539",
+      "hebreo": "אמן",
+      "transliteracion": "נֶ֭אֱמָנִים",
+      "parsingLabel": "verbo nif‘al participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.M.PL.A",
+      "traduccion": "fieles"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6482",
+      "hebreo": "פֶּצַע",
+      "transliteracion": "פִּצְעֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "heridas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "אֹוהֵ֑ב",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "del que ama"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6279",
+      "hebreo": "עתר",
+      "transliteracion": "נַעְתָּרֹ֗ות",
+      "parsingLabel": "verbo nif‘al participio desconocido femenino plural absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.F.PL.A",
+      "traduccion": "importunos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5390",
+      "hebreo": "נְשִׁיקָה",
+      "transliteracion": "נְשִׁיקֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "besos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "שֹׂונֵֽא׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "del que odia"
+    }
+  ]
+}

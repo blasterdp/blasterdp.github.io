@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Isaías 43:18 Reina Valera 1960",
+    "texto": "No os acordéis de las cosas pasadas, ni traigáis a memoria las cosas antiguas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַֽל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2142",
+      "hebreo": "זכר",
+      "transliteracion": "תִּזְכְּר֖וּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.PL",
+      "traduccion": "recordéis"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7223",
+      "hebreo": "רִאשֹׁון",
+      "transliteracion": "רִֽאשֹׁנֹ֑ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "primeras cosas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6931",
+      "hebreo": "קַדְמֹנִי",
+      "transliteracion": "קַדְמֹנִיֹּ֖ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "pasadas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "תִּתְבֹּנָֽנוּ׃",
+      "parsingLabel": "verbo hitpa“el imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.HIT.IMPF.P2.M.PL",
+      "traduccion": "sigáis pensando"
+    }
+  ]
+}

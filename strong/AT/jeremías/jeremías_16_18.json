@@ -1,0 +1,179 @@
+{
+  "versiculo": {
+    "referencia": "Jeremías 16:18 Reina Valera 1960",
+    "texto": "Pero primero pagaré al doble su iniquidad y su pecado; porque contaminaron mi tierra con los cadáveres de sus ídolos, y de sus abominaciones llenaron mi heredad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7999",
+      "hebreo": "שׁלם",
+      "transliteracion": "שִׁלַּמְתִּ֣י",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P1.U.SG",
+      "traduccion": "pagaré"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7223",
+      "hebreo": "רִאשֹׁון",
+      "transliteracion": "רִֽאשֹׁונָ֗ה",
+      "parsingLabel": "adverbio femenino singular absoluto",
+      "parsing": "ADVB.F.SG.A",
+      "traduccion": "primero"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4932",
+      "hebreo": "מִשְׁנֶה",
+      "transliteracion": "מִשְׁנֵ֤ה",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "doble de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5771",
+      "hebreo": "עָוֹן",
+      "transliteracion": "עֲוֹנָם֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su iniquidad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2403",
+      "hebreo": "חַטָּאת",
+      "transliteracion": "חַטָּאתָ֔ם",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "su pecado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַ֖ל",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2490",
+      "hebreo": "חלל",
+      "transliteracion": "חַלְּלָ֣ם",
+      "parsingLabel": "verbo pi“el infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.INFC.U.U.U.A.PRS.P3.M.PL",
+      "traduccion": "su contaminar"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אַרְצִ֑י",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi tierra"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "5038",
+      "hebreo": "נְבֵלָה",
+      "transliteracion": "נִבְלַ֤ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "cadáver de"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "8251",
+      "hebreo": "שִׁקּוּץ",
+      "transliteracion": "שִׁקּֽוּצֵיהֶם֙",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus ídolos"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "8441",
+      "hebreo": "תֹּועֵבָה",
+      "transliteracion": "תֹועֲבֹ֣ותֵיהֶ֔ם",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus abominaciones"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "4390",
+      "hebreo": "מלא",
+      "transliteracion": "מָלְא֖וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "llenaron"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "5159",
+      "hebreo": "נַחֲלָה",
+      "transliteracion": "נַחֲלָתִֽי׃ ס",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi heredad"
+    }
+  ]
+}

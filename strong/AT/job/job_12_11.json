@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Job 12:11 Reina Valera 1960",
+    "texto": "Ciertamente el oído distingue las palabras, Y el paladar gusta las viandas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אֹ֭זֶן",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "oído"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4405",
+      "hebreo": "מִלָּה",
+      "transliteracion": "מִלִּ֣ין",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "palabras"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "974",
+      "hebreo": "בחן",
+      "transliteracion": "תִּבְחָ֑ן",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "discierne"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "como"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2441",
+      "hebreo": "חֵךְ",
+      "transliteracion": "חֵ֗ךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "lengua"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "400",
+      "hebreo": "אֹכֶל",
+      "transliteracion": "אֹ֣כֶל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "alimento"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2938",
+      "hebreo": "טעם",
+      "transliteracion": "יִטְעַם־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "prueba"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֹֽו׃",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "para sí?"
+    }
+  ]
+}

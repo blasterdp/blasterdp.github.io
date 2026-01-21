@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 19:4 Reina Valera 1960",
+    "texto": "Aun siendo verdad que yo haya errado, Sobre mí recaería mi error."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "637",
+      "hebreo": "אַף",
+      "transliteracion": "אַף־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "si de cierto"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "551",
+      "hebreo": "אָמְנָם",
+      "transliteracion": "אָמְנָ֥ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "verdad"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7686",
+      "hebreo": "שׁגה",
+      "transliteracion": "שָׁגִ֑יתִי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "yo haya errado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "854",
+      "hebreo": "אֵת",
+      "transliteracion": "אִ֝תִּ֗י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "conmigo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3885",
+      "hebreo": "לין",
+      "transliteracion": "תָּלִ֥ין",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "queda"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4879",
+      "hebreo": "מְשׁוּגָה",
+      "transliteracion": "מְשׁוּגָתִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi error"
+    }
+  ]
+}

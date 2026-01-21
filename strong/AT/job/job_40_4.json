@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 40:4 Reina Valera 1960",
+    "texto": "He aquí que yo soy vil; ¿qué te responderé? Mi mano pongo sobre mi boca."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2005",
+      "hebreo": "הֵן",
+      "transliteracion": "הֵ֣ן",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "he aquí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7043",
+      "hebreo": "קלל",
+      "transliteracion": "קַ֭לֹּתִי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "soy vil"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מָ֣ה",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿qué"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "אֲשִׁיבֶ֑ךָּ",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "te replicaré?"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָ֝דִ֗י",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi mano"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7760",
+      "hebreo": "שׂים",
+      "transliteracion": "שַׂ֣מְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "pongo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3926",
+      "hebreo": "לְמֹו",
+      "transliteracion": "לְמֹו־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi boca"
+    }
+  ]
+}

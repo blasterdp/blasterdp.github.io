@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 3:12 Reina Valera 1960",
+    "texto": "¿Por qué me recibieron las rodillas? ¿Y a qué los pechos para que mamase?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4069",
+      "hebreo": "מַדּוּעַ",
+      "transliteracion": "מַ֭דּוּעַ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿por qué"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6923",
+      "hebreo": "קדם",
+      "transliteracion": "קִדְּמ֣וּנִי",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me recibieron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1290",
+      "hebreo": "בֶּרֶךְ",
+      "transliteracion": "בִרְכָּ֑יִם",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "rodillas?"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "¿y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מַה־",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "por qué"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7699",
+      "hebreo": "שַׁד",
+      "transliteracion": "שָּׁ֝דַ֗יִם",
+      "parsingLabel": "sustantivo masculino dual absoluto",
+      "parsing": "SUBS.M.DU.A",
+      "traduccion": "pechos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3243",
+      "hebreo": "ינק",
+      "transliteracion": "אִינָֽק׃",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "yo mamase?"
+    }
+  ]
+}

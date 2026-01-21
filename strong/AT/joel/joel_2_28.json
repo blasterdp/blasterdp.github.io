@@ -1,0 +1,197 @@
+{
+  "versiculo": {
+    "referencia": "Joel 2:28 Reina Valera 1960",
+    "texto": "Y después de esto derramaré mi Espíritu sobre toda carne, y profetizarán vuestros hijos y vuestras hijas; vuestros ancianos soñarán sueños, y vuestros jóvenes verán visiones."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָיָ֣ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "será"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "310",
+      "hebreo": "אַחַר",
+      "transliteracion": "אַֽחֲרֵי־",
+      "parsingLabel": "preposición masculino plural constructivo",
+      "parsing": "PREP.M.PL.C",
+      "traduccion": "después de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3651",
+      "hebreo": "כֵּן",
+      "transliteracion": "כֵ֗ן",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "esto"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8210",
+      "hebreo": "שׁפך",
+      "transliteracion": "אֶשְׁפֹּ֤וךְ",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "derramaré"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "רוּחִי֙",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi Espíritu"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "toda"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1320",
+      "hebreo": "בָּשָׂר",
+      "transliteracion": "בָּשָׂ֔ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "carne"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5012",
+      "hebreo": "נבא",
+      "transliteracion": "נִבְּא֖וּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "profetizarán"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵיכֶ֣ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.PL",
+      "traduccion": "vuestros hijos"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "1323",
+      "hebreo": "בַּת",
+      "transliteracion": "בְנֹֽותֵיכֶ֑ם",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.PL",
+      "traduccion": "vuestras hijas"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "2205",
+      "hebreo": "זָקֵן",
+      "transliteracion": "זִקְנֵיכֶם֙",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.PL",
+      "traduccion": "vuestros ancianos"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "2472",
+      "hebreo": "חֲלֹום",
+      "transliteracion": "חֲלֹמֹ֣ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "sueños"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "2492",
+      "hebreo": "חלם",
+      "transliteracion": "יַחֲלֹמ֔וּן",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "soñarán"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "970",
+      "hebreo": "בָּחוּר",
+      "transliteracion": "בַּח֣וּרֵיכֶ֔ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.PL",
+      "traduccion": "vuestros jóvenes"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "2384",
+      "hebreo": "חִזָּיֹון",
+      "transliteracion": "חֶזְיֹנֹ֖ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "visiones"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "יִרְאֽוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "verán"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:30 Reina Valera 1960",
+    "texto": "Escogí el camino de la verdad; He puesto tus juicios delante de mí."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דֶּֽרֶךְ־",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "camino"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "530",
+      "hebreo": "אֱמוּנָה",
+      "transliteracion": "אֱמוּנָ֥ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de fidelidad"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "977",
+      "hebreo": "בחר",
+      "transliteracion": "בָחָ֑רְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "he escogido"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4941",
+      "hebreo": "מִשְׁפָּט",
+      "transliteracion": "מִשְׁפָּטֶ֥יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus juicios"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7737",
+      "hebreo": "שׁוה",
+      "transliteracion": "שִׁוִּֽיתִי׃",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P1.U.SG",
+      "traduccion": "he puesto delante de mí"
+    }
+  ]
+}

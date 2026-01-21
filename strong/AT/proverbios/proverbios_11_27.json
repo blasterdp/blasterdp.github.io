@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 11:27 Reina Valera 1960",
+    "texto": "El que procura el bien buscará favor; Mas al que busca el mal, éste le vendrá."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7836",
+      "hebreo": "שׁחר",
+      "transliteracion": "שֹׁ֣חֵֽר",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "el que busca con diligencia"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2896",
+      "hebreo": "טֹוב",
+      "transliteracion": "טֹ֭וב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "bien"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1245",
+      "hebreo": "בקשׁ",
+      "transliteracion": "יְבַקֵּ֣שׁ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "busca"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7522",
+      "hebreo": "רָצֹון",
+      "transliteracion": "רָצֹ֑ון",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "favor"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1875",
+      "hebreo": "דרשׁ",
+      "transliteracion": "דֹרֵ֖שׁ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "el que recurre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7451",
+      "hebreo": "רָעָה",
+      "transliteracion": "רָעָ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "mal"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "תְבֹואֶֽנּוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG.PRS.P3.M.SG",
+      "traduccion": "le vendrá"
+    }
+  ]
+}

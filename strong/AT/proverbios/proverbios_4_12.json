@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 4:12 Reina Valera 1960",
+    "texto": "Cuando anduvieres, no se estrecharán tus pasos, Y si corrieres, no tropezarás."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּֽ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "לֶכְתְּךָ",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A.PRS.P2.M.SG",
+      "traduccion": "andes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3334",
+      "hebreo": "צרר",
+      "transliteracion": "יֵצַ֣ר",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERB.QAL.IMPF.P3.M.SG",
+      "traduccion": "serán estrechados"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6806",
+      "hebreo": "צַעַד",
+      "transliteracion": "צַעֲדֶ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tus pasos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7323",
+      "hebreo": "רוץ",
+      "transliteracion": "תָּ֝ר֗וּץ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "corres"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3782",
+      "hebreo": "כשׁל",
+      "transliteracion": "תִכָּשֵֽׁל׃",
+      "parsingLabel": "verbo nif‘al imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P2.M.SG",
+      "traduccion": "tropezarás"
+    }
+  ]
+}

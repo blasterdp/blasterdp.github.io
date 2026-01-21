@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 105:11 Reina Valera 1960",
+    "texto": "Diciendo: A ti te daré la tierra de Canaán Como porción de vuestra heredad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אמֹ֗ר",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A",
+      "traduccion": "diciendo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְךָ֗",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "a ti"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "אֶתֵּ֥ן",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "daré"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶֽרֶץ־",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3667",
+      "hebreo": "כְּנַעַן",
+      "transliteracion": "כְּנָ֑עַן",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Canaán"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2256",
+      "hebreo": "חֶבֶל",
+      "transliteracion": "חֶ֝֗בֶל",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "porción"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5159",
+      "hebreo": "נַחֲלָה",
+      "transliteracion": "נַחֲלַתְכֶֽם׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.PL",
+      "traduccion": "de tu heredad"
+    }
+  ]
+}

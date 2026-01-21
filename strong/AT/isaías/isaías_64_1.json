@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Isaías 64:1 Reina Valera 1960",
+    "texto": "¡Oh, si rompieses los cielos, y descendieras, y a tu presencia se escurriesen los montes,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3863",
+      "hebreo": "לוּ",
+      "transliteracion": "לוּא־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "¡oh si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7167",
+      "hebreo": "קרע",
+      "transliteracion": "קָרַ֤עְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "desgarraras"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8064",
+      "hebreo": "שָׁמַיִם",
+      "transliteracion": "שָׁמַ֨יִם֙",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cielos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3381",
+      "hebreo": "ירד",
+      "transliteracion": "יָרַ֔דְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "descendieras"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָּנֶ֖יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tu presencia"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הָרִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "montes"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2151",
+      "hebreo": "זלל",
+      "transliteracion": "נָזֹֽלּוּ׃",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "se estremecieran!"
+    }
+  ]
+}

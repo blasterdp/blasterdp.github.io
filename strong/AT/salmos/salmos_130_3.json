@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 130:3 Reina Valera 1960",
+    "texto": "JAH, si mirares a los pecados, ¿Quién, oh Señor, podrá mantenerse?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5771",
+      "hebreo": "עָוֹן",
+      "transliteracion": "עֲוֹנֹ֥ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "iniquidades"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "תִּשְׁמָר־",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "tuvieras en cuenta"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3050",
+      "hebreo": "יָהּ",
+      "transliteracion": "יָ֑הּ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "136",
+      "hebreo": "אֲדֹנָי",
+      "transliteracion": "אֲ֝דֹנָ֗י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Señor"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִ֣י",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿quién"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5975",
+      "hebreo": "עמד",
+      "transliteracion": "יַעֲמֹֽד׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "estaría en pie?"
+    }
+  ]
+}

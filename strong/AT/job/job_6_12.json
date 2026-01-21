@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 6:12 Reina Valera 1960",
+    "texto": "¿Es mi fuerza la de las piedras, O es mi carne de bronce?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "¿acaso"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3581",
+      "hebreo": "כֹּחַ",
+      "transliteracion": "כֹּ֣חַ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "fuerza de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "68",
+      "hebreo": "אֶבֶן",
+      "transliteracion": "אֲבָנִ֣ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "piedras"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3581",
+      "hebreo": "כֹּחַ",
+      "transliteracion": "כֹּחִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi fuerza?"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִֽם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "¿acaso"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1320",
+      "hebreo": "בָּשָׂר",
+      "transliteracion": "בְּשָׂרִ֥י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi carne"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5153",
+      "hebreo": "נָחוּשׁ",
+      "transliteracion": "נָחֽוּשׁ׃",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "de bronce?"
+    }
+  ]
+}

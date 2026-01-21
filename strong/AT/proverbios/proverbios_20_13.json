@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 20:13 Reina Valera 1960",
+    "texto": "No ames el sueño, para que no te empobrezcas; Abre tus ojos, y te saciarás de pan."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "תֶּֽאֱהַ֣ב",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "ames"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8142",
+      "hebreo": "שֵׁנָה",
+      "transliteracion": "שֵׁ֭נָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "sueño"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6435",
+      "hebreo": "פֶּן",
+      "transliteracion": "פֶּן־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "no sea que"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3423",
+      "hebreo": "ירשׁ",
+      "transliteracion": "תִּוָּרֵ֑שׁ",
+      "parsingLabel": "verbo nif‘al imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P2.M.SG",
+      "traduccion": "te empobrezcas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6491",
+      "hebreo": "פקח",
+      "transliteracion": "פְּקַ֖ח",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "abre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינֶ֣יךָ",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P2.M.SG",
+      "traduccion": "tus ojos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7646",
+      "hebreo": "שׂבע",
+      "transliteracion": "שְֽׂבַֽע־",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "sáciate"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3899",
+      "hebreo": "לֶחֶם",
+      "transliteracion": "לָֽחֶם׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de pan"
+    }
+  ]
+}

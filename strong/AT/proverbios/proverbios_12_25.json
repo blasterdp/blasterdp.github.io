@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 12:25 Reina Valera 1960",
+    "texto": "La congoja en el corazón del hombre lo abate; Mas la buena palabra lo alegra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1674",
+      "hebreo": "דְּאָגָה",
+      "transliteracion": "דְּאָגָ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ansiedad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לֶב־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "corazón"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִ֣ישׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7812",
+      "hebreo": "שׁחה",
+      "transliteracion": "יַשְׁחֶ֑נָּה",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P3.F.SG",
+      "traduccion": "lo deprime"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דָבָ֖ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "palabra"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2896",
+      "hebreo": "טֹוב",
+      "transliteracion": "טֹ֣וב",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "buena"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8055",
+      "hebreo": "שׂמח",
+      "transliteracion": "יְשַׂמְּחֶֽנָּה׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG.PRS.P3.F.SG",
+      "traduccion": "lo alegra"
+    }
+  ]
+}

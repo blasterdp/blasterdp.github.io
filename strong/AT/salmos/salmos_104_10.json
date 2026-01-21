@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 104:10 Reina Valera 1960",
+    "texto": "Tú eres el que envía las fuentes por los arroyos; Van entre los montes;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "el"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "מְשַׁלֵּ֣חַ",
+      "parsingLabel": "verbo pi“el participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.PIEL.PTCA.U.M.SG.A",
+      "traduccion": "que envía"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4599",
+      "hebreo": "מַעְיָן",
+      "transliteracion": "מַ֭עְיָנִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "fuentes"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5158",
+      "hebreo": "נַחַל",
+      "transliteracion": "נְּחָלִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "valles"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "996",
+      "hebreo": "בַּיִן",
+      "transliteracion": "בֵּ֥ין",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הָ֝רִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "montes"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "יְהַלֵּכֽוּן׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "coren"
+    }
+  ]
+}

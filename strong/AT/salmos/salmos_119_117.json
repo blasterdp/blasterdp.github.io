@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:117 Reina Valera 1960",
+    "texto": "Sosténme, y seré salvo, Y me regocijaré siempre en tus estatutos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5582",
+      "hebreo": "סעד",
+      "transliteracion": "סְעָדֵ֥נִי",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "sosténme"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "para"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3467",
+      "hebreo": "ישׁע",
+      "transliteracion": "אִוָּשֵׁ֑עָה",
+      "parsingLabel": "verbo nif‘al imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.NIF.IMPF.P1.U.SG",
+      "traduccion": "estar a salvo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8159",
+      "hebreo": "שׁעה",
+      "transliteracion": "אֶשְׁעָ֖ה",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "para contemplar"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2706",
+      "hebreo": "חֹק",
+      "transliteracion": "חֻקֶּ֣יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus estatutos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8548",
+      "hebreo": "תָּמִיד",
+      "transliteracion": "תָמִֽיד׃",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "siempre"
+    }
+  ]
+}

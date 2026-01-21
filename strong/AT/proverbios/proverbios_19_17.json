@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 19:17 Reina Valera 1960",
+    "texto": "A Jehová presta el que da al pobre, Y el bien que ha hecho, se lo volverá a pagar."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3867",
+      "hebreo": "לוה",
+      "transliteracion": "מַלְוֵ֣ה",
+      "parsingLabel": "sustantivo hif‘il participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.HIF.PTCA.U.M.SG.C",
+      "traduccion": "presta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2603",
+      "hebreo": "חנן",
+      "transliteracion": "חֹ֣ונֵֽן",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "el que se apiada"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1800",
+      "hebreo": "דַּל",
+      "transliteracion": "דָּ֑ל",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "del pobre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1576",
+      "hebreo": "גְּמוּל",
+      "transliteracion": "גְמֻלֹ֗ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su buena obra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7999",
+      "hebreo": "שׁלם",
+      "transliteracion": "יְשַׁלֶּם־",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "recompensará"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֹֽו׃",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "le"
+    }
+  ]
+}

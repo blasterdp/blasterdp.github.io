@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:139 Reina Valera 1960",
+    "texto": "Mi celo me ha consumido, Porque mis enemigos se olvidaron de tus palabras."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6789",
+      "hebreo": "צמת",
+      "transliteracion": "צִמְּתַ֥תְנִי",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "ma han consumido"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7068",
+      "hebreo": "קִנְאָה",
+      "transliteracion": "קִנְאָתִ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi celo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "שָׁכְח֖וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "han olvidado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְבָרֶ֣יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus palabras"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6862",
+      "hebreo": "צַר",
+      "transliteracion": "צָרָֽי׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis adversarios"
+    }
+  ]
+}

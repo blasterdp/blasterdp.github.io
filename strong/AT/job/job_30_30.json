@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 30:30 Reina Valera 1960",
+    "texto": "Mi piel se ha ennegrecido y se me cae, Y mis huesos arden de calor."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5785",
+      "hebreo": "עֹור",
+      "transliteracion": "עֹ֖ורִי",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi piel"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7835",
+      "hebreo": "שׁחר",
+      "transliteracion": "שָׁחַ֣ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "se ennegrece"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלָ֑י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre mí"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6106",
+      "hebreo": "עֶצֶם",
+      "transliteracion": "עַצְמִי־",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mis huesos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2787",
+      "hebreo": "חרר",
+      "transliteracion": "חָ֝֗רָה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "se queman"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִנִּי־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a causa"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2721",
+      "hebreo": "חֹרֶב",
+      "transliteracion": "חֹֽרֶב׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de calentura"
+    }
+  ]
+}

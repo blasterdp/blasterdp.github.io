@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 24:11 Reina Valera 1960",
+    "texto": "Dentro de sus paredes exprimen el aceite, Pisan los lagares, y mueren de sed."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "996",
+      "hebreo": "בַּיִן",
+      "transliteracion": "בֵּין־",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7791",
+      "hebreo": "שׁוּרָה",
+      "transliteracion": "שׁוּרֹתָ֥ם",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus paredes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6671",
+      "hebreo": "צהר",
+      "transliteracion": "יַצְהִ֑ירוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL",
+      "traduccion": "exprimen aceite"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3342",
+      "hebreo": "יֶקֶב",
+      "transliteracion": "יְקָבִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "lagares"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1869",
+      "hebreo": "דרך",
+      "transliteracion": "דָּ֝רְכ֗וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "pisan"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6770",
+      "hebreo": "צמא",
+      "transliteracion": "יִּצְמָֽאוּ׃",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "tienen sed"
+    }
+  ]
+}

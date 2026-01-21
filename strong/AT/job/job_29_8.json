@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 29:8 Reina Valera 1960",
+    "texto": "Los jóvenes me veían, y se escondían; Y los ancianos se levantaban, y estaban de pie."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָא֣וּנִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me veían"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5288",
+      "hebreo": "נַעַר",
+      "transliteracion": "נְעָרִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "jóvenes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2244",
+      "hebreo": "חבא",
+      "transliteracion": "נֶחְבָּ֑אוּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "se hacían a un lado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וִֽ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3453",
+      "hebreo": "יָשִׁישׁ",
+      "transliteracion": "ישִׁישִׁים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "ancianos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "קָ֣מוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se levantaban"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5975",
+      "hebreo": "עמד",
+      "transliteracion": "עָמָֽדוּ׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "permanecían en pie"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Job 32:18 Reina Valera 1960",
+    "texto": "Porque lleno estoy de palabras, Y me apremia el espíritu dentro de mí."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֭י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4390",
+      "hebreo": "מלא",
+      "transliteracion": "מָלֵ֣תִי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "estoy lleno"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4405",
+      "hebreo": "מִלָּה",
+      "transliteracion": "מִלִּ֑ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "de palabras"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6693",
+      "hebreo": "צוק",
+      "transliteracion": "הֱ֝צִיקַ֗תְנִי",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "me constriñe"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֣וּחַ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "espíritu"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "990",
+      "hebreo": "בֶּטֶן",
+      "transliteracion": "בִּטְנִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "dentro de mí"
+    }
+  ]
+}

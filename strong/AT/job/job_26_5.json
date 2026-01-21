@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 26:5 Reina Valera 1960",
+    "texto": "Las sombras tiemblan en lo profundo, Los mares y cuanto en ellos mora."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "las"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7496",
+      "hebreo": "רְפָאִים",
+      "transliteracion": "רְפָאִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "sombras"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2342",
+      "hebreo": "חיל",
+      "transliteracion": "יְחֹולָ֑לוּ",
+      "parsingLabel": "verbo pu“al imperfecto 3ª persona masculino plural",
+      "parsing": "VERB.PUAL.IMPF.P3.M.PL",
+      "traduccion": "se estremecen"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּ֥חַת",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "abajo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַ֝֗יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "se aguas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7931",
+      "hebreo": "שׁכן",
+      "transliteracion": "שֹׁכְנֵיהֶֽם׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "de sus habitantes"
+    }
+  ]
+}

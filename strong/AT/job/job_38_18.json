@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 38:18 Reina Valera 1960",
+    "texto": "¿Has considerado tú hasta las anchuras de la tierra? Declara si sabes todo esto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "הִ֭תְבֹּנַנְתָּ",
+      "parsingLabel": "verbo hitpa“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIT.PERF.P2.M.SG",
+      "traduccion": "¿has comprendido"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7338",
+      "hebreo": "רַחַב",
+      "transliteracion": "רַחֲבֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "anchuras"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָ֑רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de tierra?"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5046",
+      "hebreo": "נגד",
+      "transliteracion": "הַ֝גֵּ֗ד",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "¡di"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָדַ֥עְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "sabes"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֻלָּֽהּ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "todo esto!"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "versiculo": {
+    "referencia": "Números 23:25 Reina Valera 1960",
+    "texto": "Entonces Balac dijo a Balaam: Ya que no lo maldices, tampoco lo bendigas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּ֤אמֶר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1111",
+      "hebreo": "בָּלָק",
+      "transliteracion": "בָּלָק֙",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Balac"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1109",
+      "hebreo": "בִּלְעָם",
+      "transliteracion": "בִּלְעָ֔ם",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Balaam"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "ya que"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6895",
+      "hebreo": "קבב",
+      "transliteracion": "קֹ֖ב",
+      "parsingLabel": "adverbio qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "ADVB.QAL.INFC.U.U.U.C",
+      "traduccion": "maldecir"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6895",
+      "hebreo": "קבב",
+      "transliteracion": "תִקֳּבֶ֑נּוּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "le maldices"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "tampoco"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "בָּרֵ֖ךְ",
+      "parsingLabel": "adverbio pi“el infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.PIEL.INFA.U.U.U.A",
+      "traduccion": "bendecir"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "תְבָרֲכֶֽנּוּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "le bendigas."
+    }
+  ]
+}

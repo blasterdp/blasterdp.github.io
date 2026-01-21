@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Job 24:2 Reina Valera 1960",
+    "texto": "Traspasan los linderos, Roban los ganados, y los apacientan."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1367",
+      "hebreo": "גְּבוּלָה",
+      "transliteracion": "גְּבֻלֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "los linderos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5472",
+      "hebreo": "סוג",
+      "transliteracion": "יַשִּׂ֑יגוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL",
+      "traduccion": "remueven"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5739",
+      "hebreo": "עֵדֶר",
+      "transliteracion": "עֵ֥דֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "rebaño"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1497",
+      "hebreo": "גזל",
+      "transliteracion": "גָּ֝זְל֗וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "roban"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7462",
+      "hebreo": "רעה",
+      "transliteracion": "יִּרְעֽוּ׃",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "apacientan"
+    }
+  ]
+}

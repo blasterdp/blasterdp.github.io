@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 139:18 Reina Valera 1960",
+    "texto": "Si los enumero, se multiplican más que la arena; Despierto, y aún estoy contigo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5608",
+      "hebreo": "ספר",
+      "transliteracion": "אֶ֭סְפְּרֵם",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG.PRS.P3.M.PL",
+      "traduccion": "los contara"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "más"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2344",
+      "hebreo": "חֹול",
+      "transliteracion": "חֹ֣ול",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "que la arena"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7235",
+      "hebreo": "רבה",
+      "transliteracion": "יִרְבּ֑וּן",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "sería su número"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6972",
+      "hebreo": "קיץ",
+      "transliteracion": "הֱ֝קִיצֹ֗תִי",
+      "parsingLabel": "verbo hif‘il perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P1.U.SG",
+      "traduccion": "me despierto"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "aún"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5750",
+      "hebreo": "עֹוד",
+      "transliteracion": "עֹודִ֥י",
+      "parsingLabel": "adverbio masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "ADVB.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "estoy"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִמָּֽךְ׃",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "contigo"
+    }
+  ]
+}

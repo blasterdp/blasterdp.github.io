@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Jeremías 8:20 Reina Valera 1960",
+    "texto": "Pasó la siega, terminó el verano, y nosotros no hemos sido salvos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "עָבַ֥ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "pasó"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7105",
+      "hebreo": "קָצִיר",
+      "transliteracion": "קָצִ֖יר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "siega"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3615",
+      "hebreo": "כלה",
+      "transliteracion": "כָּ֣לָה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ha terminado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7019",
+      "hebreo": "קַיִץ",
+      "transliteracion": "קָ֑יִץ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "verano"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "587",
+      "hebreo": "אֲנַחְנוּ",
+      "transliteracion": "אֲנַ֖חְנוּ",
+      "parsingLabel": "pronombre personal 1ª persona desconocido plural",
+      "parsing": "PRPS.P1.U.PL",
+      "traduccion": "nosotros"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥וא",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3467",
+      "hebreo": "ישׁע",
+      "transliteracion": "נֹושָֽׁעְנוּ׃",
+      "parsingLabel": "verbo nif‘al perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P1.U.PL",
+      "traduccion": "somos salvados"
+    }
+  ]
+}

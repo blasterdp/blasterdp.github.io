@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:100 Reina Valera 1960",
+    "texto": "Más que los viejos he entendido, Porque he guardado tus mandamientos;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "más que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2205",
+      "hebreo": "זָקֵן",
+      "transliteracion": "זְּקֵנִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "los ancianos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "אֶתְבֹּונָ֑ן",
+      "parsingLabel": "verbo hitpa“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIT.IMPF.P1.U.SG",
+      "traduccion": "entiendo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֖י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6490",
+      "hebreo": "פִּקּוּדִים",
+      "transliteracion": "פִקּוּדֶ֣יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus preceptos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5341",
+      "hebreo": "נצר",
+      "transliteracion": "נָצָֽרְתִּי׃",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "he guardado"
+    }
+  ]
+}

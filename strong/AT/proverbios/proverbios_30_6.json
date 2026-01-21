@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 30:6 Reina Valera 1960",
+    "texto": "No añadas a sus palabras, para que no te reprenda, Y seas hallado mentiroso."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3254",
+      "hebreo": "יסף",
+      "transliteracion": "תֹּ֥וסְףְּ",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG",
+      "traduccion": "añadas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְּבָרָ֑יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus palabras"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6435",
+      "hebreo": "פֶּן",
+      "transliteracion": "פֶּן־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "no sea que"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3198",
+      "hebreo": "יכח",
+      "transliteracion": "יֹוכִ֖יחַ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "reprenda"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּךָ֣",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "te"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3576",
+      "hebreo": "כזב",
+      "transliteracion": "נִכְזָֽבְתָּ׃ פ",
+      "parsingLabel": "verbo nif‘al perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P2.M.SG",
+      "traduccion": "seas hallado mentiroso"
+    }
+  ]
+}

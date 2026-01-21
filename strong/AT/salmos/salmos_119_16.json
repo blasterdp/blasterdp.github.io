@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:16 Reina Valera 1960",
+    "texto": "Me regocijaré en tus estatutos; No me olvidaré de tus palabras."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2708",
+      "hebreo": "חֻקָּה",
+      "transliteracion": "חֻקֹּתֶ֥יךָ",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus estatutos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8173",
+      "hebreo": "שׁעע",
+      "transliteracion": "אֶֽשְׁתַּעֲשָׁ֑ע",
+      "parsingLabel": "verbo hitpa“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIT.IMPF.P1.U.SG",
+      "traduccion": "me deleitaré"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֭א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "אֶשְׁכַּ֣ח",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "olvidaré"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְּבָרֶֽךָ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu palabra"
+    }
+  ]
+}

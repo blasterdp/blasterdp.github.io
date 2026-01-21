@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 12:3 Reina Valera 1960",
+    "texto": "El hombre no se afirmará por medio de la impiedad; Mas la raíz de los justos no será removida."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3559",
+      "hebreo": "כון",
+      "transliteracion": "יִכֹּ֣ון",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "se afianzará"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָדָ֣ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "mediante"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7562",
+      "hebreo": "רֶשַׁע",
+      "transliteracion": "רֶ֑שַׁע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "impiedad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8328",
+      "hebreo": "שֹׁרֶשׁ",
+      "transliteracion": "שֹׁ֥רֶשׁ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "raíz"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַ֝דִּיקִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de justos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1077",
+      "hebreo": "בַּל",
+      "transliteracion": "בַּל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4131",
+      "hebreo": "מוט",
+      "transliteracion": "יִמֹּֽוט׃",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "será removida"
+    }
+  ]
+}

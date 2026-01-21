@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 20:16 Reina Valera 1960",
+    "texto": "Quítale su ropa al que salió por fiador del extraño, Y toma prenda del que sale fiador por los extraños."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3947",
+      "hebreo": "לקח",
+      "transliteracion": "לְֽקַח־",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "quita"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "899",
+      "hebreo": "בֶּגֶד",
+      "transliteracion": "בִּ֭גְדֹו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su ropa"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6148",
+      "hebreo": "ערב",
+      "transliteracion": "עָ֣רַב",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "salió fiador"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2214",
+      "hebreo": "זָר",
+      "transliteracion": "זָ֑ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "extraño"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1157",
+      "hebreo": "בַּעַד",
+      "transliteracion": "בְעַ֖ד",
+      "parsingLabel": "preposición desconocido singular constructivo",
+      "parsing": "PREP.U.SG.C",
+      "traduccion": "por"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5237",
+      "hebreo": "נָכְרִי",
+      "transliteracion": "נָכְרִיָּ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "extranjeros"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2254",
+      "hebreo": "חבל",
+      "transliteracion": "חַבְלֵֽהוּ׃",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "tómale prenda"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 140:9 Reina Valera 1960",
+    "texto": "En cuanto a los que por todas partes me rodean, La maldad de sus propios labios cubrirá su cabeza."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7218",
+      "hebreo": "רֹאשׁ",
+      "transliteracion": "רֹ֥אשׁ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "cabeza"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4524",
+      "hebreo": "מֵסַב",
+      "transliteracion": "מְסִבָּ֑י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de los que me rodean"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5999",
+      "hebreo": "עָמָל",
+      "transliteracion": "עֲמַ֖ל",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "que malicia"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שְׂפָתֵ֣ימֹו",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.PL",
+      "traduccion": "de sus labios"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3680",
+      "hebreo": "כסה",
+      "transliteracion": "יְכַסֵּֽימֹו׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los cubra"
+    }
+  ]
+}

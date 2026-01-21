@@ -1,0 +1,242 @@
+{
+  "versiculo": {
+    "referencia": "Números 9:22 Reina Valera 1960",
+    "texto": "O si dos días, o un mes, o un año, mientras la nube se detenía sobre el tabernáculo permaneciendo sobre él, los hijos de Israel seguían acampados, y no se movían; mas cuando ella se alzaba, ellos partían."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "176",
+      "hebreo": "אֹו",
+      "transliteracion": "אֹֽו־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "O"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹמַ֜יִם",
+      "parsingLabel": "sustantivo masculino dual absoluto",
+      "parsing": "SUBS.M.DU.A",
+      "traduccion": "dos días"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "176",
+      "hebreo": "אֹו",
+      "transliteracion": "אֹו־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2320",
+      "hebreo": "חֹדֶשׁ",
+      "transliteracion": "חֹ֣דֶשׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mes"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "176",
+      "hebreo": "אֹו",
+      "transliteracion": "אֹו־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יָמִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "días"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": ""
+    },
+    {
+      "numero": 8,
+      "strongNumber": "748",
+      "hebreo": "ארך",
+      "transliteracion": "הַאֲרִ֨יךְ",
+      "parsingLabel": "verbo hif‘il infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.HIF.INFC.U.U.U.C",
+      "traduccion": "mientras"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הֶ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6051",
+      "hebreo": "עָנָן",
+      "transliteracion": "עָנָ֤ן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "nube"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4908",
+      "hebreo": "מִשְׁכָּן",
+      "transliteracion": "מִּשְׁכָּן֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "tabernáculo"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": ""
+    },
+    {
+      "numero": 15,
+      "strongNumber": "7931",
+      "hebreo": "שׁכן",
+      "transliteracion": "שְׁכֹּ֣ן",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A",
+      "traduccion": "quedaba"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלָ֔יו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "sobre él"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "2583",
+      "hebreo": "חנה",
+      "transliteracion": "יַחֲנ֥וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "acampaban"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְנֵֽי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵ֖ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "5265",
+      "hebreo": "נסע",
+      "transliteracion": "יִסָּ֑עוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "marchaban"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "5927",
+      "hebreo": "עלה",
+      "transliteracion": "הֵעָלֹתֹ֖ו",
+      "parsingLabel": "verbo nif‘al infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.INFC.U.U.U.A.PRS.P3.M.SG",
+      "traduccion": "su alzarse"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "5265",
+      "hebreo": "נסע",
+      "transliteracion": "יִסָּֽעוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "marchaban."
+    }
+  ]
+}

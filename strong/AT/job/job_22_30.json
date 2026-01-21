@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 22:30 Reina Valera 1960",
+    "texto": "Él libertará al inocente, Y por la limpieza de tus manos éste será librado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4422",
+      "hebreo": "מלט",
+      "transliteracion": "יְֽמַלֵּ֥ט",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "Él librará"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "336",
+      "hebreo": "אִי",
+      "transliteracion": "אִֽי־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5355",
+      "hebreo": "נָקִי",
+      "transliteracion": "נָקִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "inocente"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4422",
+      "hebreo": "מלט",
+      "transliteracion": "נִמְלַ֗ט",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "será librado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1252",
+      "hebreo": "בֹּר",
+      "transliteracion": "בֹ֣ר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "pureza"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3709",
+      "hebreo": "כַּף",
+      "transliteracion": "כַּפֶּֽיךָ׃ פ",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P2.M.SG",
+      "traduccion": "de tus manos"
+    }
+  ]
+}

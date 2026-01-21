@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 4:15 Reina Valera 1960",
+    "texto": "Y al pasar un espíritu por delante de mí, Hizo que se erizara el pelo de mi cuerpo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "רוּחַ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "un espíritu"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָּנַ֣י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mi cara"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2498",
+      "hebreo": "חלף",
+      "transliteracion": "יַחֲלֹ֑ף",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se deslizó"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5568",
+      "hebreo": "סמר",
+      "transliteracion": "תְּ֝סַמֵּ֗ר",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG",
+      "traduccion": "se erizó"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8185",
+      "hebreo": "שַׂעֲרָה",
+      "transliteracion": "שַֽׂעֲרַ֥ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "pelo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1320",
+      "hebreo": "בָּשָׂר",
+      "transliteracion": "בְּשָׂרִֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "de mi carne"
+    }
+  ]
+}

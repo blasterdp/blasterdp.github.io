@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Números 23:20 Reina Valera 1960",
+    "texto": "He aquí, he recibido orden de bendecir; Él dio bendición, y no podré revocarla."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנֵּ֥ה",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "He aquí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "בָרֵ֖ךְ",
+      "parsingLabel": "verbo pi“el infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.PIEL.INFA.U.U.U.A",
+      "traduccion": "bendecir"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3947",
+      "hebreo": "לקח",
+      "transliteracion": "לָקָ֑חְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "tomé (orden)"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "בֵרֵ֖ךְ",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "bendijo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "אֲשִׁיבֶֽנָּה׃",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG.PRS.P3.F.SG",
+      "traduccion": "la puedo cambiar."
+    }
+  ]
+}

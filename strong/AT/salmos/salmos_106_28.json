@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 106:28 Reina Valera 1960",
+    "texto": "Se unieron asimismo a Baal-peor, Y comieron los sacrificios de los muertos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "también"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6775",
+      "hebreo": "צמד",
+      "transliteracion": "יִּצָּ֣מְדוּ",
+      "parsingLabel": "verbo nif‘al wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.NIF.WAYQ.P3.M.PL",
+      "traduccion": "se adhirieron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1187",
+      "hebreo": "בַּעַל פְּעֹור",
+      "transliteracion": "בַ֣עַל פְּעֹ֑ור",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Baal-peor"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "יֹּאכְל֗וּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "comieron"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2077",
+      "hebreo": "זֶבַח",
+      "transliteracion": "זִבְחֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "sacrificios"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "מֵתִֽים׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "a muertos"
+    }
+  ]
+}

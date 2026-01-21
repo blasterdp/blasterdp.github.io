@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 8:2 Reina Valera 1960",
+    "texto": "¿Hasta cuándo hablarás tales cosas, Y las palabras de tu boca serán como viento impetuoso?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "¿hasta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "575",
+      "hebreo": "אָן",
+      "transliteracion": "אָ֥ן",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "cuándo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4448",
+      "hebreo": "מלל",
+      "transliteracion": "תְּמַלֶּל־",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG",
+      "traduccion": "charlarás"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "428",
+      "hebreo": "אֵלֶּה",
+      "transliteracion": "אֵ֑לֶּה",
+      "parsingLabel": "demonstrative pronombre desconocido plural",
+      "parsing": "PRDE.U.PL",
+      "traduccion": "estas cosas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֥וּחַ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "viento"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3524",
+      "hebreo": "כַּבִּיר",
+      "transliteracion": "כַּ֝בִּיר",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "impetuoso"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "561",
+      "hebreo": "אֵמֶר",
+      "transliteracion": "אִמְרֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "dichos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִֽיךָ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu boca?"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Números 25:17 Reina Valera 1960",
+    "texto": "Hostigad a los madianitas, y heridlos,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3334",
+      "hebreo": "צרר",
+      "transliteracion": "צָרֹ֖ור",
+      "parsingLabel": "verbo qal infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFA.U.U.U.A",
+      "traduccion": "Hostigar"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4084",
+      "hebreo": "מִדְיָנִי",
+      "transliteracion": "מִּדְיָנִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "madianita"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5221",
+      "hebreo": "נכה",
+      "transliteracion": "הִכִּיתֶ֖ם",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino plural",
+      "parsing": "VERBO.HIF.PERF.P2.M.PL",
+      "traduccion": "destruid"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֹותָֽם׃",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "a ellos."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Rut 1:3 Reina Valera 1960",
+    "texto": "Y murió Elimelec, marido de Noemí, y quedó ella con sus dos hijos,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "יָּ֥מָת",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "murió"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "458",
+      "hebreo": "אֱלִימֶלֶךְ",
+      "transliteracion": "אֱלִימֶ֖לֶךְ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Elimelec"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִ֣ישׁ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "(el) marido de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5281",
+      "hebreo": "נָעֳמִי",
+      "transliteracion": "נָעֳמִ֑י",
+      "parsingLabel": "nombre propio femenino singular absoluto",
+      "parsing": "NMPR.F.SG.A",
+      "traduccion": "Noemí"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7604",
+      "hebreo": "שׁאר",
+      "transliteracion": "תִּשָּׁאֵ֥ר",
+      "parsingLabel": "verbo nif‘al wayyiqtol 3ª persona femenino singular",
+      "parsing": "VERBO.NIF.WAYQ.P3.F.SG",
+      "traduccion": "quedó"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1931",
+      "hebreo": "הִיא",
+      "transliteracion": "הִ֖יא",
+      "parsingLabel": "pronombre personal 3ª persona femenino singular",
+      "parsing": "PRPS.P3.F.SG",
+      "traduccion": "ella"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁנֵ֥י",
+      "parsingLabel": "sustantivo desconocido dual constructivo",
+      "parsing": "SUBS.U.DU.C",
+      "traduccion": "dos"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בָנֶֽיהָ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "hijos suyos"
+    }
+  ]
+}

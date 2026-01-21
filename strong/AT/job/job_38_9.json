@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 38:9 Reina Valera 1960",
+    "texto": "Cuando puse yo nubes por vestidura suya, Y por su faja oscuridad,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7760",
+      "hebreo": "שׂים",
+      "transliteracion": "שׂוּמִ֣י",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A.PRS.P1.U.SG",
+      "traduccion": "puse"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6051",
+      "hebreo": "עָנָן",
+      "transliteracion": "עָנָ֣ן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "nube"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3830",
+      "hebreo": "לְבוּשׁ",
+      "transliteracion": "לְבֻשֹׁ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "por su vestido"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6205",
+      "hebreo": "עֲרָפֶל",
+      "transliteracion": "עֲרָפֶ֗ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "oscuridad"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2854",
+      "hebreo": "חֲתֻלָּה",
+      "transliteracion": "חֲתֻלָּתֹֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "sus pañales"
+    }
+  ]
+}

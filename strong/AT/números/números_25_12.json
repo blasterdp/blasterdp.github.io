@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Números 25:12 Reina Valera 1960",
+    "texto": "Por tanto diles: He aquí yo establezco mi pacto de paz con él;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3651",
+      "hebreo": "לָכֵן",
+      "transliteracion": "לָכֵ֖ן",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "Por tanto"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אֱמֹ֑ר",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "di"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנְנִ֨י",
+      "parsingLabel": "interjeción pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "INTJ.PRS.P1.U.SG",
+      "traduccion": "he aquí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "נֹתֵ֥ן",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "dando"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֹ֛ו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "a él"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "(objeto marcador)"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1285",
+      "hebreo": "בְּרִית",
+      "transliteracion": "בְּרִיתִ֖י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi pacto de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7965",
+      "hebreo": "שָׁלֹום",
+      "transliteracion": "שָׁלֹֽום׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "paz."
+    }
+  ]
+}

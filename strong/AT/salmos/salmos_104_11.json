@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 104:11 Reina Valera 1960",
+    "texto": "Dan de beber a todas las bestias del campo; Mitigan su sed los asnos monteses."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8248",
+      "hebreo": "שׁקה",
+      "transliteracion": "יַ֭שְׁקוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL",
+      "traduccion": "dan de beber"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "a todas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2416",
+      "hebreo": "חַיָּה",
+      "transliteracion": "חַיְתֹ֣ו",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "bestias"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7704",
+      "hebreo": "שָׂדַי",
+      "transliteracion": "שָׂדָ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del campo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7665",
+      "hebreo": "שׁבר",
+      "transliteracion": "יִשְׁבְּר֖וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "mitigan"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6501",
+      "hebreo": "פֶּרֶא",
+      "transliteracion": "פְרָאִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "asnos monteses"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6772",
+      "hebreo": "צָמָא",
+      "transliteracion": "צְמָאָֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su sed"
+    }
+  ]
+}

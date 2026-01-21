@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 28:11 Reina Valera 1960",
+    "texto": "Detuvo los ríos en su nacimiento, E hizo salir a luz lo escondido."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1065",
+      "hebreo": "בְּכִי",
+      "transliteracion": "בְּכִי",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "que no corran"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5104",
+      "hebreo": "נָהָר",
+      "transliteracion": "נְהָרֹ֣ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "ríos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2280",
+      "hebreo": "חבשׁ",
+      "transliteracion": "חִבֵּ֑שׁ",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "detiene"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8587",
+      "hebreo": "תַּעֲלֻם",
+      "transliteracion": "תַעֲלֻמָ֗הּ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.F.SG",
+      "traduccion": "lo oculto de ella"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "יֹ֣צִא",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "saca"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "216",
+      "hebreo": "אֹור",
+      "transliteracion": "אֹֽור׃ פ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "a luz"
+    }
+  ]
+}

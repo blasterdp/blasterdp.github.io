@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 107:16 Reina Valera 1960",
+    "texto": "Porque quebrantó las puertas de bronce, Y desmenuzó los cerrojos de hierro."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7665",
+      "hebreo": "שׁבר",
+      "transliteracion": "שִׁ֭בַּר",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "rompió"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1817",
+      "hebreo": "דֶּלֶת",
+      "transliteracion": "דַּלְתֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "puertas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5178",
+      "hebreo": "נְחֹשֶׁת",
+      "transliteracion": "נְחֹ֑שֶׁת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de bronce"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1280",
+      "hebreo": "בְּרִיחַ",
+      "transliteracion": "בְרִיחֵ֖י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "barras"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1270",
+      "hebreo": "בַּרְזֶל",
+      "transliteracion": "בַרְזֶ֣ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de hierro"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1438",
+      "hebreo": "גדע",
+      "transliteracion": "גִּדֵּֽעַ׃",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "hizo pedazos"
+    }
+  ]
+}

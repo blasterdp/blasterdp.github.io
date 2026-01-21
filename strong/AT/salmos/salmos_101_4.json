@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 101:4 Reina Valera 1960",
+    "texto": "Corazón perverso se apartará de mí; No conoceré al malvado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3824",
+      "hebreo": "לֵבָב",
+      "transliteracion": "לֵבָ֣ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "corazón"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6141",
+      "hebreo": "עִקֵּשׁ",
+      "transliteracion": "עִ֭קֵּשׁ",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "perverso"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5493",
+      "hebreo": "סור",
+      "transliteracion": "יָס֣וּר",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se alejará"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִמֶּ֑נִּי",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7451",
+      "hebreo": "רַע",
+      "transliteracion": "רָ֝֗ע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mal"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "אֵדָֽע׃",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "conoceré"
+    }
+  ]
+}

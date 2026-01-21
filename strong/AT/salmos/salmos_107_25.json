@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 107:25 Reina Valera 1960",
+    "texto": "Porque habló, e hizo levantar un viento tempestuoso, Que encrespa sus ondas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּ֗אמֶר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5975",
+      "hebreo": "עמד",
+      "transliteracion": "יַּעֲמֵד",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG",
+      "traduccion": "levantó"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֣וּחַ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "viento"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5591",
+      "hebreo": "סְעָרָה",
+      "transliteracion": "סְעָרָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "tempestuoso"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7311",
+      "hebreo": "רום",
+      "transliteracion": "תְּרֹומֵ֥ם",
+      "parsingLabel": "verbo pi“el wayyiqtol 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.WAYQ.P3.F.SG",
+      "traduccion": "que encrespó"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1531",
+      "hebreo": "גַּל",
+      "transliteracion": "גַּלָּֽיו׃ ׆",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "olas de él"
+    }
+  ]
+}

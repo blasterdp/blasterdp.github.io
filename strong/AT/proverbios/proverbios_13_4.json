@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 13:4 Reina Valera 1960",
+    "texto": "El alma del perezoso desea, y nada alcanza; Mas el alma de los diligentes será prosperada."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "183",
+      "hebreo": "אוה",
+      "transliteracion": "מִתְאַוָּ֣ה",
+      "parsingLabel": "verbo hitpa“el participio desconocido femenino singular absoluto",
+      "parsing": "VERBO.HIT.PTCA.U.F.SG.A",
+      "traduccion": "desea"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אַיִן",
+      "parsingLabel": "negativo partículo masculino singular absoluto",
+      "parsing": "NEGA.M.SG.A",
+      "traduccion": "nada"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשֹׁ֣ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su alma"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6102",
+      "hebreo": "עָצֵל",
+      "transliteracion": "עָצֵ֑ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "perezoso"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נֶ֖פֶשׁ",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "alma"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2742",
+      "hebreo": "חָרוּץ",
+      "transliteracion": "חָרֻצִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de diligentes"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1878",
+      "hebreo": "דשׁן",
+      "transliteracion": "תְּדֻשָּֽׁן׃",
+      "parsingLabel": "verbo pu“al imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PUAL.IMPF.P3.F.SG",
+      "traduccion": "será engordad"
+    }
+  ]
+}

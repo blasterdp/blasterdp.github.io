@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 132:16 Reina Valera 1960",
+    "texto": "Asimismo vestiré de salvación a sus sacerdotes, Y sus santos darán voces de júbilo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3548",
+      "hebreo": "כֹּהֵן",
+      "transliteracion": "כֹהֲנֶיהָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "a sus sacerdotes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3847",
+      "hebreo": "לבשׁ",
+      "transliteracion": "אַלְבִּ֣ישׁ",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG",
+      "traduccion": "vestiré"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3468",
+      "hebreo": "יֵשַׁע",
+      "transliteracion": "יֶ֑שַׁע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de salvación"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2623",
+      "hebreo": "חָסִיד",
+      "transliteracion": "חֲסִידֶ֗יהָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "los piadosos de ella"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7442",
+      "hebreo": "רנן",
+      "transliteracion": "רַנֵּ֥ן",
+      "parsingLabel": "adverbio pi“el infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.PIEL.INFA.U.U.U.A",
+      "traduccion": "gritando de júbilo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7442",
+      "hebreo": "רנן",
+      "transliteracion": "יְרַנֵּֽנוּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "gritarán de júbilo"
+    }
+  ]
+}

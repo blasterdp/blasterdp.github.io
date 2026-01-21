@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 129:7 Reina Valera 1960",
+    "texto": "De la cual no llenó el segador su mano, Ni sus brazos el que hace gavillas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7945",
+      "hebreo": "שַׁ",
+      "transliteracion": "שֶׁ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹּ֤א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4390",
+      "hebreo": "מלא",
+      "transliteracion": "מִלֵּ֖א",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "llena"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3709",
+      "hebreo": "כַּף",
+      "transliteracion": "כַפֹּ֥ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su palma"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7114",
+      "hebreo": "קצר",
+      "transliteracion": "קֹוצֵ֗ר",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "segador"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "ni"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2684",
+      "hebreo": "חֹצֶן",
+      "transliteracion": "חִצְנֹ֥ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su regazo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6014",
+      "hebreo": "עמר",
+      "transliteracion": "מְעַמֵּֽר׃",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.PIEL.PTCA.U.M.SG.A",
+      "traduccion": "que ata las gavillas"
+    }
+  ]
+}

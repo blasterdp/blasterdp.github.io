@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Levíticos 16:31 Reina Valera 1960",
+    "texto": "Día de reposo es para vosotros, y afligiréis vuestras almas; es estatuto perpetuo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7676",
+      "hebreo": "שַׁבָּת",
+      "transliteracion": "שַׁבַּ֨ת",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "sábado de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7677",
+      "hebreo": "שַׁבָּתֹון",
+      "transliteracion": "שַׁבָּתֹ֥ון",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "reposo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1931",
+      "hebreo": "הִיא",
+      "transliteracion": "הִיא֙",
+      "parsingLabel": "pronombre personal 3ª persona femenino singular",
+      "parsing": "PRPS.P3.F.SG",
+      "traduccion": "ella"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָכֶ֔ם",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino plural",
+      "parsing": "PREP.PRS.P2.M.PL",
+      "traduccion": "para vosotros"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6031",
+      "hebreo": "ענה",
+      "transliteracion": "עִנִּיתֶ֖ם",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino plural",
+      "parsing": "VERBO.PIEL.PERF.P2.M.PL",
+      "traduccion": "afligiréis"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשֹׁתֵיכֶ֑ם",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.PL",
+      "traduccion": "vuestras almas"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2708",
+      "hebreo": "חֻקָּה",
+      "transliteracion": "חֻקַּ֖ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "estatuto"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5769",
+      "hebreo": "עֹולָם",
+      "transliteracion": "עֹולָֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "perpetuo"
+    }
+  ]
+}

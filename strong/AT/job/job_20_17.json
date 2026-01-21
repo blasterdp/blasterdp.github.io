@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 20:17 Reina Valera 1960",
+    "texto": "No verá los arroyos, los ríos, Los torrentes de miel y de leche."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "יֵ֥רֶא",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "verá"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6390",
+      "hebreo": "פְּלַגָּה",
+      "transliteracion": "פְלַגֹּ֑ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "arroyos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5104",
+      "hebreo": "נָהָר",
+      "transliteracion": "נַהֲרֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "ríos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5158",
+      "hebreo": "נַחַל",
+      "transliteracion": "נַ֝חֲלֵ֗י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "que fluyen"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1706",
+      "hebreo": "דְּבַשׁ",
+      "transliteracion": "דְּבַ֣שׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "miel"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2529",
+      "hebreo": "חֶמְאָה",
+      "transliteracion": "חֶמְאָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "cuajada"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:95 Reina Valera 1960",
+    "texto": "Los impíos me han aguardado para destruirme; Mas yo consideraré tus testimonios."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֤י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "me"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6960",
+      "hebreo": "קוה",
+      "transliteracion": "קִוּ֣וּ",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL",
+      "traduccion": "esperan"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "impíos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6",
+      "hebreo": "אבד",
+      "transliteracion": "אַבְּדֵ֑נִי",
+      "parsingLabel": "verbo pi“el infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.INFC.U.U.U.A.PRS.P1.U.SG",
+      "traduccion": "destruirme"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5715",
+      "hebreo": "עֵדוּת",
+      "transliteracion": "עֵ֝דֹתֶ֗יךָ",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus testimonios"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "אֶתְבֹּונָֽן׃",
+      "parsingLabel": "verbo hitpa“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIT.IMPF.P1.U.SG",
+      "traduccion": "consideraré"
+    }
+  ]
+}

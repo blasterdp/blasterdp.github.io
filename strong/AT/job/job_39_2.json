@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 39:2 Reina Valera 1960",
+    "texto": "¿Contaste tú los meses de su preñez, Y sabes el tiempo cuando han de parir?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5608",
+      "hebreo": "ספר",
+      "transliteracion": "תִּסְפֹּ֣ר",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "¿puedes contar"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3391",
+      "hebreo": "יֶרַח",
+      "transliteracion": "יְרָחִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "meses"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4390",
+      "hebreo": "מלא",
+      "transliteracion": "תְּמַלֶּ֑אנָה",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.PL",
+      "traduccion": "de su completa gestación"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָדַ֗עְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "sabes"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6256",
+      "hebreo": "עֵת",
+      "transliteracion": "עֵ֣ת",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "tiempo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3205",
+      "hebreo": "ילד",
+      "transliteracion": "לִדְתָּֽנָה׃",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona femenino plural",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A.PRS.P3.F.PL",
+      "traduccion": "de parir de ellas?"
+    }
+  ]
+}

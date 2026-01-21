@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 4:14 Reina Valera 1960",
+    "texto": "Me sobrevino un espanto y un temblor, Que estremeció todos mis huesos;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6343",
+      "hebreo": "פַּחַד",
+      "transliteracion": "פַּ֣חַד",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "miedo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7122",
+      "hebreo": "קרא",
+      "transliteracion": "קְ֭רָאַנִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me sobrevinieron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7461",
+      "hebreo": "רְעָדָה",
+      "transliteracion": "רְעָדָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "temblor"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7230",
+      "hebreo": "רֹב",
+      "transliteracion": "רֹ֖ב",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "muchos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6106",
+      "hebreo": "עֶצֶם",
+      "transliteracion": "עַצְמֹותַ֣י",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "huesos míos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6342",
+      "hebreo": "פחד",
+      "transliteracion": "הִפְחִֽיד׃",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG",
+      "traduccion": "hizo estremecer"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 137:5 Reina Valera 1960",
+    "texto": "Si me olvidare de ti, oh Jerusalén, Pierda mi diestra su destreza."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִֽם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "אֶשְׁכָּחֵ֥ךְ",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular pronominal sufijo 2ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG.PRS.P2.F.SG",
+      "traduccion": "me olvido de ti"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3389",
+      "hebreo": "יְרוּשָׁלִַם",
+      "transliteracion": "יְֽרוּשָׁלִָ֗ם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Jerusalén"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "תִּשְׁכַּ֥ח",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "olvide"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3225",
+      "hebreo": "יָמִין",
+      "transliteracion": "יְמִינִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi diestra"
+    }
+  ]
+}

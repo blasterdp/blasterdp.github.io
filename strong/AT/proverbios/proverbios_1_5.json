@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 1:5 Reina Valera 1960",
+    "texto": "Oirá el sabio, y aumentará el saber, Y el entendido adquirirá consejo,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "יִשְׁמַ֣ע",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "oirá"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חָ֭כָם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "sabio"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3254",
+      "hebreo": "יסף",
+      "transliteracion": "יֹ֣וסֶף",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "ampliará"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3948",
+      "hebreo": "לֶקַח",
+      "transliteracion": "לֶ֑קַח",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "doctrina"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "נָבֹ֗ון",
+      "parsingLabel": "sustantivo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.NIF.PTCA.U.M.SG.A",
+      "traduccion": "inteligente"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8458",
+      "hebreo": "תַּחְבֻּלֹות",
+      "transliteracion": "תַּחְבֻּלֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "habilidad"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7069",
+      "hebreo": "קנה",
+      "transliteracion": "יִקְנֶֽה׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "adquirirá"
+    }
+  ]
+}

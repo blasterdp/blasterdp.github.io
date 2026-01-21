@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 9:1 Reina Valera 1960",
+    "texto": "La sabiduría edificó su casa, Labró sus siete columnas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2454",
+      "hebreo": "חָכְמֹות",
+      "transliteracion": "חָ֭כְמֹות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "sabiduría"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1129",
+      "hebreo": "בנה",
+      "transliteracion": "בָּנְתָ֣ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "ha edificado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵיתָ֑הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "su casa"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2672",
+      "hebreo": "חצב",
+      "transliteracion": "חָצְבָ֖ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "ha labrado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5982",
+      "hebreo": "עַמּוּד",
+      "transliteracion": "עַמּוּדֶ֣יהָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus columnas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7651",
+      "hebreo": "שֶׁבַע",
+      "transliteracion": "שִׁבְעָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "siete"
+    }
+  ]
+}

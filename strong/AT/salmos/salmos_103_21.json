@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 103:21 Reina Valera 1960",
+    "texto": "Bendecid a Jehová, vosotros todos sus ejércitos, Ministros suyos, que hacéis su voluntad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "בָּרֲכ֣וּ",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.PL",
+      "traduccion": "bendecid"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6635",
+      "hebreo": "צָבָא",
+      "transliteracion": "צְבָאָ֑יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "De los ejércitos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8334",
+      "hebreo": "שׁרת",
+      "transliteracion": "מְ֝שָׁרְתָ֗יו",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus ministros"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עֹשֵׂ֥י",
+      "parsingLabel": "verbo qal participio desconocido masculino plural constructivo",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.C",
+      "traduccion": "que hacéis"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7522",
+      "hebreo": "רָצֹון",
+      "transliteracion": "רְצֹונֹֽו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su beneplácito"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 7:8 Reina Valera 1960",
+    "texto": "El cual pasaba por la calle, junto a la esquina, E iba camino a la casa de ella,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "עֹבֵ֣ר",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "pasando"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7784",
+      "hebreo": "שׁוּק",
+      "transliteracion": "שּׁוּק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "calle"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "681",
+      "hebreo": "אֵצֶל",
+      "transliteracion": "אֵ֣צֶל",
+      "parsingLabel": "preposición desconocido singular constructivo",
+      "parsing": "PREP.U.SG.C",
+      "traduccion": "cerca"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6434",
+      "hebreo": "פִּנָּה",
+      "transliteracion": "פִּנָּ֑הּ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.F.SG",
+      "traduccion": "de esquina de ella"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דֶ֖רֶךְ",
+      "parsingLabel": "preposición desconocido singular constructivo",
+      "parsing": "PREP.U.SG.C",
+      "traduccion": "camino"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּיתָ֣הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "de su casa"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6805",
+      "hebreo": "צעד",
+      "transliteracion": "יִצְעָֽד׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "daba pasos"
+    }
+  ]
+}

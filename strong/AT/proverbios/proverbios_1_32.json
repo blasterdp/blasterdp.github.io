@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 1:32 Reina Valera 1960",
+    "texto": "Porque el desvío de los ignorantes los matará, Y la prosperidad de los necios los echará a perder;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֤י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4878",
+      "hebreo": "מְשׁוּבָה",
+      "transliteracion": "מְשׁוּבַ֣ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "desvío"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6612",
+      "hebreo": "פֶּתִי",
+      "transliteracion": "פְּתָיִ֣ם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de jóvenes"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2026",
+      "hebreo": "הרג",
+      "transliteracion": "תַּֽהַרְגֵ֑ם",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG.PRS.P3.M.PL",
+      "traduccion": "los matará"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7962",
+      "hebreo": "שַׁלְוָה",
+      "transliteracion": "שַׁלְוַ֖ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "bienestar de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3684",
+      "hebreo": "כְּסִיל",
+      "transliteracion": "כְּסִילִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "necios"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6",
+      "hebreo": "אבד",
+      "transliteracion": "תְּאַבְּדֵֽם׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG.PRS.P3.M.PL",
+      "traduccion": "los destruirá"
+    }
+  ]
+}

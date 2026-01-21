@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 116:7 Reina Valera 1960",
+    "texto": "Vuelve, oh alma mía, a tu reposo, Porque Jehová te ha hecho bien."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "שׁוּבִ֣י",
+      "parsingLabel": "verbo qal imperativo 2ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.F.SG",
+      "traduccion": "vuelve"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַ֭פְשִׁי",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "alma mía"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4494",
+      "hebreo": "מָנֹוחַ",
+      "transliteracion": "מְנוּחָ֑יְכִי",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.F.SG",
+      "traduccion": "tu reposo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֝הוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1580",
+      "hebreo": "גמל",
+      "transliteracion": "גָּמַ֥ל",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "se ha portado muy bien"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלָֽיְכִי׃",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona femenino singular",
+      "parsing": "PREP.PRS.P2.F.SG",
+      "traduccion": "contigo"
+    }
+  ]
+}

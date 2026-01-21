@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 27:7 Reina Valera 1960",
+    "texto": "Sea como el impío mi enemigo, Y como el inicuo mi adversario."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "יְהִ֣י",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "sea"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רָשָׁע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "impío"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹ֣יְבִ֑י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi enemigo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "מִתְקֹומְמִ֥י",
+      "parsingLabel": "sustantivo hitpa“el participio desconocido masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.HIT.PTCA.U.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi adversario"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5767",
+      "hebreo": "עַוָּל",
+      "transliteracion": "עַוָּֽל׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "injusto"
+    }
+  ]
+}

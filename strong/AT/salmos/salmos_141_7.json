@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 141:7 Reina Valera 1960",
+    "texto": "Como quien hiende y rompe la tierra, Son esparcidos nuestros huesos a la boca del Seol."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3644",
+      "hebreo": "כְּמֹו",
+      "transliteracion": "כְּמֹ֤ו",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como cuando"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6398",
+      "hebreo": "פלח",
+      "transliteracion": "פֹלֵ֣חַ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "uno ara"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1234",
+      "hebreo": "בקע",
+      "transliteracion": "בֹקֵ֣עַ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "rompe"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָ֑רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6340",
+      "hebreo": "פזר",
+      "transliteracion": "נִפְזְר֥וּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "han sido esparcidos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6106",
+      "hebreo": "עֶצֶם",
+      "transliteracion": "עֲ֝צָמֵ֗ינוּ",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.F.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestros huesos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִ֣י",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "boca"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7585",
+      "hebreo": "שְׁאֹול",
+      "transliteracion": "שְׁאֹֽול׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de Seol"
+    }
+  ]
+}

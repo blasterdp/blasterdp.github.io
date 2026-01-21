@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 39:19 Reina Valera 1960",
+    "texto": "¿Diste tú al caballo la fuerza? ¿Vestiste tú su cuello de crines ondulantes?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "תִתֵּ֣ן",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "diste"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5483",
+      "hebreo": "סוּס",
+      "transliteracion": "סּ֣וּס",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "caballo?"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1369",
+      "hebreo": "גְּבוּרָה",
+      "transliteracion": "גְּבוּרָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "fuerza"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3847",
+      "hebreo": "לבשׁ",
+      "transliteracion": "תַלְבִּ֖ישׁ",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG",
+      "traduccion": "revistes"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6677",
+      "hebreo": "צַוָּאר",
+      "transliteracion": "צַוָּארֹ֣ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su cuello"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7483",
+      "hebreo": "רַעְמָה",
+      "transliteracion": "רַעְמָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "crin de caballo?"
+    }
+  ]
+}

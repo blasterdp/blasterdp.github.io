@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Isaías 23:14 Reina Valera 1960",
+    "texto": "Aullad, naves de Tarsis, porque destruida es vuestra fortaleza."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3213",
+      "hebreo": "ילל",
+      "transliteracion": "הֵילִ֖ילוּ",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPV.P2.M.PL",
+      "traduccion": "aullad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "591",
+      "hebreo": "אֳנִיָּה",
+      "transliteracion": "אֳנִיֹּ֣ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "naves de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8659",
+      "hebreo": "תַּרְשִׁישׁ",
+      "transliteracion": "תַּרְשִׁ֑ישׁ",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Tarsis"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֥י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7703",
+      "hebreo": "שׁדד",
+      "transliteracion": "שֻׁדַּ֖ד",
+      "parsingLabel": "verbo pu“al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PUAL.PERF.P3.M.SG",
+      "traduccion": "es destruida"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4581",
+      "hebreo": "מָעֹוז",
+      "transliteracion": "מָעֻזְּכֶֽן׃ ס",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona femenino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.F.PL",
+      "traduccion": "vuestra fortaleza"
+    }
+  ]
+}

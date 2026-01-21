@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 38:22 Reina Valera 1960",
+    "texto": "¿Has entrado tú en los tesoros de la nieve, O has visto los tesoros del granizo,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ֭",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "בָאתָ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "has entrado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "214",
+      "hebreo": "אֹוצָר",
+      "transliteracion": "אֹצְרֹ֣ות",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "depósitos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7950",
+      "hebreo": "שֶׁלֶג",
+      "transliteracion": "שָׁ֑לֶג",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de nieve"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "214",
+      "hebreo": "אֹוצָר",
+      "transliteracion": "אֹצְרֹ֖ות",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "depósitos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1259",
+      "hebreo": "בָּרָד",
+      "transliteracion": "בָּרָ֣ד",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del granizo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "תִּרְאֶֽה׃",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "has visto"
+    }
+  ]
+}

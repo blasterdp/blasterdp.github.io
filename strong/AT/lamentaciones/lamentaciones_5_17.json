@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Lamentaciones 5:17 Reina Valera 1960",
+    "texto": "Por esto fue entristecido nuestro corazón, Por esto se entenebrecieron nuestros ojos,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "Por"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶ֗ה",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "esto"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָיָ֤ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "fue"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1739",
+      "hebreo": "דָּוֶה",
+      "transliteracion": "דָוֶה֙",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "entristecido"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִבֵּ֔נוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.PL",
+      "traduccion": "nuestro corazón"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "428",
+      "hebreo": "אֵלֶּה",
+      "transliteracion": "אֵ֖לֶּה",
+      "parsingLabel": "demonstrative pronombre desconocido plural",
+      "parsing": "PRDE.U.PL",
+      "traduccion": "estas (cosas)"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2821",
+      "hebreo": "חשׁך",
+      "transliteracion": "חָשְׁכ֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se enturbian"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינֵֽינוּ׃",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.F.DU.A.PRS.P1.U.PL",
+      "traduccion": "nuestro ojos"
+    }
+  ]
+}

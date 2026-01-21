@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Josué 19:5 Reina Valera 1960",
+    "texto": "Siclag, Bet-marcabot, Hazar-susa,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6860",
+      "hebreo": "צִקְלַג",
+      "transliteracion": "צִֽקְלַ֥ג",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Siclag"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1024",
+      "hebreo": "בֵּית הַמַּרְכָּבֹות",
+      "transliteracion": "בֵית־הַמַּרְכָּבֹ֖ות",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Bet marcabot"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2701",
+      "hebreo": "חֲצַר סוּסָה",
+      "transliteracion": "חֲצַ֥ר סוּסָֽה׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Hazar Susa"
+    }
+  ]
+}

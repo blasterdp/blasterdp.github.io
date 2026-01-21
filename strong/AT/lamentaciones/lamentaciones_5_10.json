@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Lamentaciones 5:10 Reina Valera 1960",
+    "texto": "Nuestra piel se ennegreció como un horno A causa del ardor del hambre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5785",
+      "hebreo": "עֹור",
+      "transliteracion": "עֹורֵ֨נוּ֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.PL",
+      "traduccion": "Nuestra piel"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8574",
+      "hebreo": "תַּנּוּר",
+      "transliteracion": "תַנּ֣וּר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "horno"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3648",
+      "hebreo": "כמר",
+      "transliteracion": "נִכְמָ֔רוּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "caliente"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פְּנֵ֖י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "causa de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2152",
+      "hebreo": "זַלְעָפָה",
+      "transliteracion": "זַלְעֲפֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "ardor de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7458",
+      "hebreo": "רָעָב",
+      "transliteracion": "רָעָֽב׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hambre"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Levíticos 19:11 Reina Valera 1960",
+    "texto": "No hurtaréis, y no engañaréis ni mentiréis el uno al otro."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֖א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1589",
+      "hebreo": "גנב",
+      "transliteracion": "תִּגְנֹ֑בוּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.PL",
+      "traduccion": "hurtarás"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3584",
+      "hebreo": "כחשׁ",
+      "transliteracion": "תְכַחֲשׁ֥וּ",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.PL",
+      "traduccion": "mentiréis"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8266",
+      "hebreo": "שׁקר",
+      "transliteracion": "תְשַׁקְּר֖וּ",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.PL",
+      "traduccion": "engañaréis"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִ֥ישׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5997",
+      "hebreo": "עָמִית",
+      "transliteracion": "עֲמִיתֹֽו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su prójimo"
+    }
+  ]
+}

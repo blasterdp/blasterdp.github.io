@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 139:21 Reina Valera 1960",
+    "texto": "¿No odio, oh Jehová, a los que te aborrecen, Y me enardezco contra tus enemigos?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽוא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "מְשַׂנְאֶ֖יךָ",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "a que te odian"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֥ה׀",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "אֶשְׂנָ֑א",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "odio?"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "¿y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hacia"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8618",
+      "hebreo": "קום",
+      "transliteracion": "תְקֹומְמֶ֗יךָ",
+      "parsingLabel": "sustantivo hitpa“el participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.HIT.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "los que se levantan contra ti"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6962",
+      "hebreo": "קוט",
+      "transliteracion": "אֶתְקֹוטָֽט׃",
+      "parsingLabel": "verbo hitpa“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIT.IMPF.P1.U.SG",
+      "traduccion": "siento repugnancia?"
+    }
+  ]
+}

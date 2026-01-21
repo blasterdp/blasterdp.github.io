@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 4:3 Reina Valera 1960",
+    "texto": "He aquí, tú enseñabas a muchos, Y fortalecías las manos débiles;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִ֭נֵּה",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "he aquí que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3256",
+      "hebreo": "יסר",
+      "transliteracion": "יִסַּ֣רְתָּ",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG",
+      "traduccion": "instruías"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַבִּ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "a muchos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדַ֖יִם",
+      "parsingLabel": "sustantivo desconocido dual absoluto",
+      "parsing": "SUBS.U.DU.A",
+      "traduccion": "manos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7504",
+      "hebreo": "רָפֶה",
+      "transliteracion": "רָפֹ֣ות",
+      "parsingLabel": "adjetivo femenino plural absoluto",
+      "parsing": "ADJV.F.PL.A",
+      "traduccion": "débiles"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2388",
+      "hebreo": "חזק",
+      "transliteracion": "תְּחַזֵּֽק׃",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG",
+      "traduccion": "fortalecías"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 41:17 Reina Valera 1960",
+    "texto": "Pegado está el uno con el otro; Están trabados entre sí, que no se pueden apartar."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִישׁ־",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "cada uno"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "al"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "251",
+      "hebreo": "אָח",
+      "transliteracion": "אָחִ֥יהוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su lado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1692",
+      "hebreo": "דבק",
+      "transliteracion": "יְדֻבָּ֑קוּ",
+      "parsingLabel": "verbo pu“al imperfecto 3ª persona masculino plural",
+      "parsing": "VERB.PUAL.IMPF.P3.M.PL",
+      "traduccion": "están pegados"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3920",
+      "hebreo": "לכד",
+      "transliteracion": "יִ֝תְלַכְּד֗וּ",
+      "parsingLabel": "verbo hitpa“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIT.IMPF.P3.M.PL",
+      "traduccion": "se traban entre sí"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6504",
+      "hebreo": "פרד",
+      "transliteracion": "יִתְפָּרָֽדוּ׃",
+      "parsingLabel": "verbo hitpa“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIT.IMPF.P3.M.PL",
+      "traduccion": "pueden separarse"
+    }
+  ]
+}

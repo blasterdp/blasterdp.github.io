@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 16:2 Reina Valera 1960",
+    "texto": "Muchas veces he oído cosas como estas; Consoladores molestos sois todos vosotros."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שָׁמַ֣עְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "he oído"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "428",
+      "hebreo": "אֵלֶּה",
+      "transliteracion": "אֵ֣לֶּה",
+      "parsingLabel": "demonstrative pronombre desconocido plural",
+      "parsing": "PRDE.U.PL",
+      "traduccion": "éstas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַבֹּ֑ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "muchas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5162",
+      "hebreo": "נחם",
+      "transliteracion": "מְנַחֲמֵ֖י",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.C",
+      "traduccion": "consoladores"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5999",
+      "hebreo": "עָמָל",
+      "transliteracion": "עָמָ֣ל",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de miseria"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֻּלְּכֶֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "todos vosotros"
+    }
+  ]
+}

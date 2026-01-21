@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 102:20 Reina Valera 1960",
+    "texto": "Para oír el gemido de los presos, Para soltar a los sentenciados a muerte;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שְׁמֹעַ",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "oír"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "603",
+      "hebreo": "אֲנָקָה",
+      "transliteracion": "אֶנְקַ֣ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "gemido"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "615",
+      "hebreo": "אָסִיר",
+      "transliteracion": "אָסִ֑יר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del prisionero"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6605",
+      "hebreo": "פתח",
+      "transliteracion": "פַתֵּ֗חַ",
+      "parsingLabel": "verbo pi“el infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.PIEL.INFC.U.U.U.C",
+      "traduccion": "soltar"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "a hijos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8546",
+      "hebreo": "תְּמוּתָה",
+      "transliteracion": "תְמוּתָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de muerte"
+    }
+  ]
+}

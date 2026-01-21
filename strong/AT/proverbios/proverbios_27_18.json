@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 27:18 Reina Valera 1960",
+    "texto": "Quien cuida la higuera comerá su fruto, Y el que mira por los intereses de su señor, tendrá honra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5341",
+      "hebreo": "נצר",
+      "transliteracion": "נֹצֵ֣ר",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.C",
+      "traduccion": "que cuida"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8384",
+      "hebreo": "תְּאֵנָה",
+      "transliteracion": "תְּ֭אֵנָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "higuera"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "יֹאכַ֣ל",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "comerá"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6529",
+      "hebreo": "פְּרִי",
+      "transliteracion": "פִּרְיָ֑הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "su fruto"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "שֹׁמֵ֖ר",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.C",
+      "traduccion": "quien guarda"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "113",
+      "hebreo": "אָדֹון",
+      "transliteracion": "אֲדֹנָ֣יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "a su señor"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3513",
+      "hebreo": "כבד",
+      "transliteracion": "יְכֻבָּֽד׃",
+      "parsingLabel": "verbo pu“al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PUAL.IMPF.P3.M.SG",
+      "traduccion": "recibirá honores"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 22:20 Reina Valera 1960",
+    "texto": "Fueron destruidos nuestros adversarios, Y el fuego consumió lo que de ellos quedó."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "de verdad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "¿no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3582",
+      "hebreo": "כחד",
+      "transliteracion": "נִכְחַ֣ד",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "ha sido destruido"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7009",
+      "hebreo": "קִים",
+      "transliteracion": "קִימָ֑נוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.PL",
+      "traduccion": "nuestro adversario"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3499",
+      "hebreo": "יֶתֶר",
+      "transliteracion": "יִתְרָ֗ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "lo que les sobró"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "אָ֣כְלָה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "lo devoró"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "784",
+      "hebreo": "אֵשׁ",
+      "transliteracion": "אֵֽשׁ׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "fuego?"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 103:12 Reina Valera 1960",
+    "texto": "Cuanto está lejos el oriente del occidente, Hizo alejar de nosotros nuestras rebeliones."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "tan"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7368",
+      "hebreo": "רחק",
+      "transliteracion": "רְחֹ֣ק",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "lejos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4217",
+      "hebreo": "מִזְרָח",
+      "transliteracion": "מִ֭זְרָח",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "el este"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "del"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4628",
+      "hebreo": "מַעֲרָב",
+      "transliteracion": "מַּֽעֲרָ֑ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "oeste"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7368",
+      "hebreo": "רחק",
+      "transliteracion": "הִֽרְחִ֥יק",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG",
+      "traduccion": "ha hecho retirarse"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ֝מֶּ֗נּוּ",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "PREP.PRS.P1.U.PL",
+      "traduccion": "de nosotros"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6588",
+      "hebreo": "פֶּשַׁע",
+      "transliteracion": "פְּשָׁעֵֽינוּ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestras transgresiones"
+    }
+  ]
+}

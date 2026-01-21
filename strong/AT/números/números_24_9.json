@@ -1,0 +1,134 @@
+{
+  "versiculo": {
+    "referencia": "Números 24:9 Reina Valera 1960",
+    "texto": "Se encorvará para echarse como león, Y como leona; ¿quién lo despertará? Benditos los que te bendijeren, Y malditos los que te maldijeren."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3766",
+      "hebreo": "כרע",
+      "transliteracion": "כָּרַ֨ע",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "Se agazapa"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7901",
+      "hebreo": "שׁכב",
+      "transliteracion": "שָׁכַ֧ב",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "se echa"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "738",
+      "hebreo": "אֲרִי",
+      "transliteracion": "אֲרִ֛י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "león"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3833",
+      "hebreo": "לָבִיא",
+      "transliteracion": "לָבִ֖יא",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "leona"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִ֣י",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "quién ?"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "יְקִימֶ֑נּוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "le levantará"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "מְבָרֲכֶ֣יךָ",
+      "parsingLabel": "verbo pi“el participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "el que te bendiga"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "בָר֔וּךְ",
+      "parsingLabel": "verbo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.M.SG.A",
+      "traduccion": "bendito"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "779",
+      "hebreo": "ארר",
+      "transliteracion": "אֹרְרֶ֖יךָ",
+      "parsingLabel": "verbo qal participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "el que te maldiga"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "779",
+      "hebreo": "ארר",
+      "transliteracion": "אָרֽוּר׃",
+      "parsingLabel": "verbo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.M.SG.A",
+      "traduccion": "maldito."
+    }
+  ]
+}

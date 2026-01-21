@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 6:17 Reina Valera 1960",
+    "texto": "Que al tiempo del calor son deshechas, Y al calentarse, desaparecen de su lugar;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6256",
+      "hebreo": "עֵת",
+      "transliteracion": "עֵת",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "su tiempo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2215",
+      "hebreo": "זרב",
+      "transliteracion": "יְזֹרְב֣וּ",
+      "parsingLabel": "verbo pu“al imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PUAL.IMPF.P3.M.PL",
+      "traduccion": "se secan"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6789",
+      "hebreo": "צמת",
+      "transliteracion": "נִצְמָ֑תוּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "quedan silenciosos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2552",
+      "hebreo": "חמם",
+      "transliteracion": "חֻמֹּ֗ו",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A.PRS.P3.M.SG",
+      "traduccion": "su calor"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1846",
+      "hebreo": "דעך",
+      "transliteracion": "נִדְעֲכ֥וּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "desaparecen"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4725",
+      "hebreo": "מָקֹום",
+      "transliteracion": "מְּקֹומָֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su lugar"
+    }
+  ]
+}

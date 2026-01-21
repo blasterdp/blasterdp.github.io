@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Job 29:11 Reina Valera 1960",
+    "texto": "Los oídos que me oían me llamaban bienaventurado, Y los ojos que me veían me daban testimonio,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֤י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אֹ֣זֶן",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "oído"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שָׁ֭מְעָה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "que oía"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "833",
+      "hebreo": "אשׁר",
+      "transliteracion": "תְּאַשְּׁרֵ֑נִי",
+      "parsingLabel": "verbo pi“el wayyiqtol 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.WAYQ.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "me llamaba dichoso"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עַ֥יִן",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ojo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָ֝אֲתָ֗ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "que veía"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5749",
+      "hebreo": "עוד",
+      "transliteracion": "תְּעִידֵֽנִי׃",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERB.HIF.WAYQ.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "daba testimonio de mí"
+    }
+  ]
+}

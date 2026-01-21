@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 129:3 Reina Valera 1960",
+    "texto": "Sobre mis espaldas araron los aradores; Hicieron largos surcos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1354",
+      "hebreo": "גַּב",
+      "transliteracion": "גַּ֭בִּי",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi espalda"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2790",
+      "hebreo": "חרשׁ",
+      "transliteracion": "חָרְשׁ֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "araron"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2790",
+      "hebreo": "חרשׁ",
+      "transliteracion": "חֹרְשִׁ֑ים",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "obradores"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "748",
+      "hebreo": "ארך",
+      "transliteracion": "הֶ֝אֱרִ֗יכוּ",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.HIF.PERF.P3.U.PL",
+      "traduccion": "alargaron"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4618",
+      "hebreo": "מַעֲנִית",
+      "transliteracion": "מַעֲנִיתָֽם׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "sus surcos"
+    }
+  ]
+}

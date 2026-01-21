@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Jeremías 4:21 Reina Valera 1960",
+    "texto": "¿Hasta cuándo he de ver bandera, he de oír sonido de trompeta?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "¿hasta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4970",
+      "hebreo": "מָתַי",
+      "transliteracion": "מָתַ֖י",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "cuándo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "אֶרְאֶה־",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "he de ver"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5251",
+      "hebreo": "נֵס",
+      "transliteracion": "נֵּ֑ס",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "bandera"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "אֶשְׁמְעָ֖ה",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "he de oír"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6963",
+      "hebreo": "קֹול",
+      "transliteracion": "קֹ֥ול",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "sonido de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7782",
+      "hebreo": "שֹׁופָר",
+      "transliteracion": "שֹׁופָֽר׃ ס",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "trompeta?"
+    }
+  ]
+}

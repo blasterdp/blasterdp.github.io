@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:141 Reina Valera 1960",
+    "texto": "Pequeño soy yo, y desechado, Mas no me he olvidado de tus mandamientos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6810",
+      "hebreo": "צָעִיר",
+      "transliteracion": "צָעִ֣יר",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "pequeño"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "595",
+      "hebreo": "אָנֹכִי",
+      "transliteracion": "אָנֹכִ֣י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "959",
+      "hebreo": "בזה",
+      "transliteracion": "נִבְזֶ֑ה",
+      "parsingLabel": "adjetivo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "ADJV.NIF.PTCA.U.M.SG.A",
+      "traduccion": "despreciado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6490",
+      "hebreo": "פִּקּוּדִים",
+      "transliteracion": "פִּ֝קֻּדֶ֗יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus preceptos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "שָׁכָֽחְתִּי׃",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "he olvidado"
+    }
+  ]
+}

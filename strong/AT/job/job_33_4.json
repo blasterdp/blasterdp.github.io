@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 33:4 Reina Valera 1960",
+    "texto": "El espíritu de Dios me hizo, Y el soplo del Omnipotente me dio vida."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "רֽוּחַ־",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "espíritu"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "410",
+      "hebreo": "אֵל",
+      "transliteracion": "אֵ֥ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de Dios"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עָשָׂ֑תְנִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "me hizo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5397",
+      "hebreo": "נְשָׁמָה",
+      "transliteracion": "נִשְׁמַ֖ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "soplo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7706",
+      "hebreo": "שַׁדַּי",
+      "transliteracion": "שַׁדַּ֣י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "del Todopoderoso"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2421",
+      "hebreo": "חיה",
+      "transliteracion": "תְּחַיֵּֽנִי׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "me vivifica"
+    }
+  ]
+}

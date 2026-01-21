@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 7:27 Reina Valera 1960",
+    "texto": "Camino al Seol es su casa, Que conduce a las cámaras de la muerte."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דַּרְכֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "caminos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7585",
+      "hebreo": "שְׁאֹול",
+      "transliteracion": "שְׁאֹ֣ול",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de Seol"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּיתָ֑הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "su casa"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3381",
+      "hebreo": "ירד",
+      "transliteracion": "יֹ֝רְדֹ֗ות",
+      "parsingLabel": "verbo qal participio desconocido femenino plural absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.F.PL.A",
+      "traduccion": "que descienden"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2315",
+      "hebreo": "חֶדֶר",
+      "transliteracion": "חַדְרֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "cámaras"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4194",
+      "hebreo": "מָוֶת",
+      "transliteracion": "מָֽוֶת׃ פ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de muerte"
+    }
+  ]
+}

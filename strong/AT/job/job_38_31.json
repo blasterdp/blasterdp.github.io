@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 38:31 Reina Valera 1960",
+    "texto": "¿Podrás tú atar los lazos de las Pléyades, O desatarás las ligaduras de Orión?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הַֽ֭",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7194",
+      "hebreo": "קשׁר",
+      "transliteracion": "תְקַשֵּׁר",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG",
+      "traduccion": "puedes atar"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4575",
+      "hebreo": "מַעֲדַנֹּת",
+      "transliteracion": "מַעֲדַנֹּ֣ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "lazos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3598",
+      "hebreo": "כִּימָה",
+      "transliteracion": "כִּימָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de pléyades"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "176",
+      "hebreo": "אֹו",
+      "transliteracion": "אֹֽו־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4189",
+      "hebreo": "מֹשְׁכֹות",
+      "transliteracion": "מֹשְׁכֹ֖ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "cuerdas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3685",
+      "hebreo": "כְּסִיל",
+      "transliteracion": "כְּסִ֣יל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de Orión"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6605",
+      "hebreo": "פתח",
+      "transliteracion": "תְּפַתֵּֽחַ׃",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG",
+      "traduccion": "desatar?"
+    }
+  ]
+}

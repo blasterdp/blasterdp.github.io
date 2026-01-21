@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 145:10 Reina Valera 1960",
+    "texto": "Te alaben, oh Jehová, todas tus obras, Y tus santos te bendigan."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3034",
+      "hebreo": "ידה",
+      "transliteracion": "יֹוד֣וּךָ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL.PRS.P2.M.SG",
+      "traduccion": "te alabarán"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4639",
+      "hebreo": "מַעֲשֶׂה",
+      "transliteracion": "מַעֲשֶׂ֑יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus obras"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2623",
+      "hebreo": "חָסִיד",
+      "transliteracion": "חֲסִידֶ֗יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus piadosos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "יְבָרֲכֽוּכָה׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL.PRS.P2.M.SG",
+      "traduccion": "te bendecirán"
+    }
+  ]
+}

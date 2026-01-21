@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 130:1 Reina Valera 1960",
+    "texto": "De lo profundo, oh Jehová, a ti clamo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7892",
+      "hebreo": "שִׁיר",
+      "transliteracion": "שִׁ֥יר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "cántico"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "las"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4609",
+      "hebreo": "מַעֲלָה",
+      "transliteracion": "מַּעֲלֹ֑ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "subidas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4615",
+      "hebreo": "מַעֲמַקִּים",
+      "transliteracion": "מַּעֲמַקִּ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "las profundidades"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7121",
+      "hebreo": "קרא",
+      "transliteracion": "קְרָאתִ֣יךָ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "he clamado a ti"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָֽה׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    }
+  ]
+}

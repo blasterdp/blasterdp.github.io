@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 139:22 Reina Valera 1960",
+    "texto": "Los aborrezco por completo; Los tengo por enemigos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8503",
+      "hebreo": "תַּכְלִית",
+      "transliteracion": "תַּכְלִ֣ית",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "completo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8135",
+      "hebreo": "שִׂנְאָה",
+      "transliteracion": "שִׂנְאָ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "odio"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "שְׂנֵאתִ֑ים",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG.PRS.P3.M.PL",
+      "traduccion": "los aborrezco"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹויְבִ֗ים",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "enemigos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָ֣יוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se han convertido"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִֽי׃",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "míos"
+    }
+  ]
+}

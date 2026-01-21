@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 141:10 Reina Valera 1960",
+    "texto": "Caigan los impíos a una en sus redes, Mientras yo pasaré adelante."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "יִפְּל֣וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "caigan"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4364",
+      "hebreo": "מִכְמָר",
+      "transliteracion": "מַכְמֹרָ֣יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus redes"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "impíos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3162",
+      "hebreo": "יַחַד",
+      "transliteracion": "יַ֥חַד",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "a una"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "595",
+      "hebreo": "אָנֹכִי",
+      "transliteracion": "אָ֝נֹכִ֗י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַֽד־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "אֶעֱבֹֽור׃",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "pasaré"
+    }
+  ]
+}

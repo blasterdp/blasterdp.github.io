@@ -1,0 +1,197 @@
+{
+  "versiculo": {
+    "referencia": "Jeremías 10:9 Reina Valera 1960",
+    "texto": "Traerán plata batida de Tarsis y oro de Ufaz, obra del artífice, y de manos del fundidor; los vestirán de azul y de púrpura, obra de peritos es todo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3701",
+      "hebreo": "כֶּסֶף",
+      "transliteracion": "כֶּ֣סֶף",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "plata"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7554",
+      "hebreo": "רקע",
+      "transliteracion": "מְרֻקָּ֞ע",
+      "parsingLabel": "adjetivo pu“al participio (passive) desconocido masculino singular absoluto",
+      "parsing": "ADJV.PUAL.PTCP.U.M.SG.A",
+      "traduccion": "batida"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8659",
+      "hebreo": "תַּרְשִׁישׁ",
+      "transliteracion": "תַּרְשִׁ֣ישׁ",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Tarsis"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "יוּבָ֗א",
+      "parsingLabel": "verbo hof‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HOF.IMPF.P3.M.SG",
+      "traduccion": "es traída"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2091",
+      "hebreo": "זָהָב",
+      "transliteracion": "זָהָב֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "oro"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "210",
+      "hebreo": "אוּפָז",
+      "transliteracion": "אוּפָ֔ז",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Ufaz"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4639",
+      "hebreo": "מַעֲשֶׂה",
+      "transliteracion": "מַעֲשֵׂ֥ה",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "obra de"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2796",
+      "hebreo": "חָרָשׁ",
+      "transliteracion": "חָרָ֖שׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "artesano"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וִ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "ידֵ֣י",
+      "parsingLabel": "sustantivo desconocido dual constructivo",
+      "parsing": "SUBS.U.DU.C",
+      "traduccion": "manos de"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "6884",
+      "hebreo": "צרף",
+      "transliteracion": "צֹורֵ֑ף",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "orfebre"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "8504",
+      "hebreo": "תְּכֵלֶת",
+      "transliteracion": "תְּכֵ֤לֶת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "azul"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "713",
+      "hebreo": "אַרְגָּמָן",
+      "transliteracion": "אַרְגָּמָן֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "púrpura"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "3830",
+      "hebreo": "לְבוּשׁ",
+      "transliteracion": "לְבוּשָׁ֔ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su ropaje"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "4639",
+      "hebreo": "מַעֲשֶׂה",
+      "transliteracion": "מַעֲשֵׂ֥ה",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "obra de"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חֲכָמִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "expertos"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֻּלָּֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "todos ellos"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Job 9:15 Reina Valera 1960",
+    "texto": "Aunque fuese yo justo, no respondería; Antes habría de rogar a mi juez."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "aunque"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6663",
+      "hebreo": "צדק",
+      "transliteracion": "צָ֭דַקְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "yo fuese justo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6030",
+      "hebreo": "ענה",
+      "transliteracion": "אֶעֱנֶ֑ה",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "respondería"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8199",
+      "hebreo": "שׁפט",
+      "transliteracion": "מְשֹׁפְטִ֗י",
+      "parsingLabel": "sustantivo po“el participio desconocido masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.POEL.PTCA.U.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi juez"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2603",
+      "hebreo": "חנן",
+      "transliteracion": "אֶתְחַנָּֽן׃",
+      "parsingLabel": "verbo hitpa“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIT.IMPF.P1.U.SG",
+      "traduccion": "imploraría clemencia"
+    }
+  ]
+}

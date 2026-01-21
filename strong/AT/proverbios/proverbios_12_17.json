@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 12:17 Reina Valera 1960",
+    "texto": "El que habla verdad declara justicia; Mas el testigo mentiroso, engaño."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6315",
+      "hebreo": "פוח",
+      "transliteracion": "יָפִ֣יחַ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "el que respira"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "530",
+      "hebreo": "אֱמוּנָה",
+      "transliteracion": "אֱ֭מוּנָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "fidelidad"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5046",
+      "hebreo": "נגד",
+      "transliteracion": "יַגִּ֣יד",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "declara"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6664",
+      "hebreo": "צֶדֶק",
+      "transliteracion": "צֶ֑דֶק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "justo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5707",
+      "hebreo": "עֵד",
+      "transliteracion": "עֵ֖ד",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "testigo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8267",
+      "hebreo": "שֶׁקֶר",
+      "transliteracion": "שְׁקָרִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "FALSO"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4820",
+      "hebreo": "מִרְמָה",
+      "transliteracion": "מִרְמָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "engaño"
+    }
+  ]
+}

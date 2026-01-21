@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 103:5 Reina Valera 1960",
+    "texto": "El que sacia de bien tu boca De modo que te rejuvenezcas como el águila."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "el"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7646",
+      "hebreo": "שׂבע",
+      "transliteracion": "מַּשְׂבִּ֣יַע",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "que sacia"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2896",
+      "hebreo": "טֹוב",
+      "transliteracion": "טֹּ֣וב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "bien"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5716",
+      "hebreo": "עֲדִי",
+      "transliteracion": "עֶדְיֵ֑ךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.F.SG",
+      "traduccion": "tus deseos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2318",
+      "hebreo": "חדשׁ",
+      "transliteracion": "תִּתְחַדֵּ֖שׁ",
+      "parsingLabel": "verbo hitpa“el imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.HIT.IMPF.P3.F.SG",
+      "traduccion": "se renueva"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5404",
+      "hebreo": "נֶשֶׁר",
+      "transliteracion": "נֶּ֣שֶׁר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "águila"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5271",
+      "hebreo": "נְעוּרִים",
+      "transliteracion": "נְעוּרָֽיְכִי׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P2.F.SG",
+      "traduccion": "tu juventud"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Levíticos 21:13 Reina Valera 1960",
+    "texto": "Tomará por esposa a una mujer virgen."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֕וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "802",
+      "hebreo": "אִשָּׁה",
+      "transliteracion": "אִשָּׁ֥ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "mujer"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1331",
+      "hebreo": "בְּתוּלִים",
+      "transliteracion": "בְתוּלֶ֖יהָ",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P3.F.SG",
+      "traduccion": "su virginidad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3947",
+      "hebreo": "לקח",
+      "transliteracion": "יִקָּֽח׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "tomará"
+    }
+  ]
+}

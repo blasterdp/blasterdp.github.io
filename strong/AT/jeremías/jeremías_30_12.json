@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Jeremías 30:12 Reina Valera 1960",
+    "texto": "Porque así ha dicho Jehová: Incurable es tu quebrantamiento, y dolorosa tu llaga."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3541",
+      "hebreo": "כֹּה",
+      "transliteracion": "כֹ֥ה",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "así"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָמַ֛ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "dice"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֖ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "605",
+      "hebreo": "אָנוּשׁ",
+      "transliteracion": "אָנ֣וּשׁ",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "no hay curación"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7667",
+      "hebreo": "שֶׁבֶר",
+      "transliteracion": "שִׁבְרֵ֑ךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.F.SG",
+      "traduccion": "tu herida"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2470",
+      "hebreo": "חלה",
+      "transliteracion": "נַחְלָ֖ה",
+      "parsingLabel": "verbo nif‘al participio desconocido femenino singular absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.F.SG.A",
+      "traduccion": "sin sanidad"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4347",
+      "hebreo": "מַכָּה",
+      "transliteracion": "מַכָּתֵֽךְ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.F.SG",
+      "traduccion": "tu llaga"
+    }
+  ]
+}

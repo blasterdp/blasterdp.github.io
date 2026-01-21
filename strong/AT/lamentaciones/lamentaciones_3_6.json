@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Lamentaciones 3:6 Reina Valera 1960",
+    "texto": "Me dejó en oscuridad, como los ya muertos de mucho tiempo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "En"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4285",
+      "hebreo": "מַחְשָׁךְ",
+      "transliteracion": "מַחֲשַׁכִּ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "oscuridades"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3427",
+      "hebreo": "ישׁב",
+      "transliteracion": "הֹושִׁיבַ֖נִי",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me hizo habitar"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "מֵתֵ֥י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "muertos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5769",
+      "hebreo": "עֹולָם",
+      "transliteracion": "עֹולָֽם׃ ס",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mucho tiempo"
+    }
+  ]
+}

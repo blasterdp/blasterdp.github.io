@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 19:26 Reina Valera 1960",
+    "texto": "El que roba a su padre y ahuyenta a su madre, Es hijo que causa vergüenza y acarrea oprobio."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7703",
+      "hebreo": "שׁדד",
+      "transliteracion": "מְֽשַׁדֶּד־",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.PIEL.PTCA.U.M.SG.C",
+      "traduccion": "despoja"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אָ֭ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "a su padre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1272",
+      "hebreo": "ברח",
+      "transliteracion": "יַבְרִ֣יחַ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "echa fuera"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "517",
+      "hebreo": "אֵם",
+      "transliteracion": "אֵ֑ם",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "madre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֵּ֝֗ן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hijo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "954",
+      "hebreo": "בושׁ",
+      "transliteracion": "מֵבִ֥ישׁ",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "que avergüenza"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2659",
+      "hebreo": "חפר",
+      "transliteracion": "מַחְפִּֽיר׃",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "causa oprobio"
+    }
+  ]
+}

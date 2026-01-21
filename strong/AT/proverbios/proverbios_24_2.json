@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 24:2 Reina Valera 1960",
+    "texto": "Porque su corazón piensa en robar, E iniquidad hablan sus labios."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7701",
+      "hebreo": "שֹׁד",
+      "transliteracion": "שֹׁ֖ד",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "violencia"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1897",
+      "hebreo": "הגה",
+      "transliteracion": "יֶהְגֶּ֣ה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "trama"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִבָּ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su corazón"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5999",
+      "hebreo": "עָמָל",
+      "transliteracion": "עָמָ֗ל",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de el mal"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שִׂפְתֵיהֶ֥ם",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.PL",
+      "traduccion": "sus labios"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "תְּדַבֵּֽרְנָה׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.PL",
+      "traduccion": "hablan"
+    }
+  ]
+}

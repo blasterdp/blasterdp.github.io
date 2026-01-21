@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 31:28 Reina Valera 1960",
+    "texto": "Se levantan sus hijos y la llaman bienaventurada; Y su marido también la alaba:"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "קָ֣מוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se levantan"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בָ֭נֶיהָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus hijos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "833",
+      "hebreo": "אשׁר",
+      "transliteracion": "יְאַשְּׁר֑וּהָ",
+      "parsingLabel": "verbo pi“el wayyiqtol 3ª persona masculino plural pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.WAYQ.P3.M.PL.PRS.P3.F.SG",
+      "traduccion": "la felicitan"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1167",
+      "hebreo": "בַּעַל",
+      "transliteracion": "בַּ֝עְלָ֗הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "su marido"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "יְהַֽלְלָֽהּ׃",
+      "parsingLabel": "verbo pi“el wayyiqtol 3ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.WAYQ.P3.M.SG.PRS.P3.F.SG",
+      "traduccion": "la alaba diciendo"
+    }
+  ]
+}

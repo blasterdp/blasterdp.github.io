@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Números 21:12 Reina Valera 1960",
+    "texto": "Partieron de allí, y acamparon en el valle de Zered."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "De"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8033",
+      "hebreo": "שָׁם",
+      "transliteracion": "שָּׁ֖ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "allí"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5265",
+      "hebreo": "נסע",
+      "transliteracion": "נָסָ֑עוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "partieron"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2583",
+      "hebreo": "חנה",
+      "transliteracion": "יַּחֲנ֖וּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "acamparon"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5158",
+      "hebreo": "נַחַל",
+      "transliteracion": "נַ֥חַל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "valle de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2218",
+      "hebreo": "זֶרֶד",
+      "transliteracion": "זָֽרֶד׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Zered."
+    }
+  ]
+}

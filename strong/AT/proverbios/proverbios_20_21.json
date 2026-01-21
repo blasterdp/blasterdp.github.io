@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 20:21 Reina Valera 1960",
+    "texto": "Los bienes que se adquieren de prisa al principio, No serán al final bendecidos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5159",
+      "hebreo": "נַחֲלָה",
+      "transliteracion": "נַ֭חֲלָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "herencia"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "926",
+      "hebreo": "בהל",
+      "transliteracion": "מְבֹהֶ֣לֶת",
+      "parsingLabel": "verbo pu“al participio (passive) desconocido femenino singular absoluto",
+      "parsing": "VERBO.PUAL.PTCP.U.F.SG.A",
+      "traduccion": "adquirida de prisa"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7223",
+      "hebreo": "רִאשֹׁון",
+      "transliteracion": "רִאשֹׁנָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "principio"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "319",
+      "hebreo": "אַחֲרִית",
+      "transliteracion": "אַחֲרִיתָ֗הּ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.F.SG",
+      "traduccion": "final de ella"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "תְבֹרָֽךְ׃",
+      "parsingLabel": "verbo pu“al imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PUAL.IMPF.P3.F.SG",
+      "traduccion": "será bendecida"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 28:6 Reina Valera 1960",
+    "texto": "Lugar hay cuyas piedras son zafiro, Y sus polvos de oro."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4725",
+      "hebreo": "מָקֹום",
+      "transliteracion": "מְקֹום־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "lugar"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5601",
+      "hebreo": "סַפִּיר",
+      "transliteracion": "סַפִּ֥יר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de zafiro"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "68",
+      "hebreo": "אֶבֶן",
+      "transliteracion": "אֲבָנֶ֑יהָ",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus piedras"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6083",
+      "hebreo": "עָפָר",
+      "transliteracion": "עַפְרֹ֖ת",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "polvos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2091",
+      "hebreo": "זָהָב",
+      "transliteracion": "זָהָ֣ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de oro"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֹֽו׃",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "para él"
+    }
+  ]
+}

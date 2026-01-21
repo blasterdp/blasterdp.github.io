@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 41:20 Reina Valera 1960",
+    "texto": "De sus narices sale humo, Como de una olla o caldero que hierve."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5156",
+      "hebreo": "נְחִירַיִם",
+      "transliteracion": "נְּחִירָיו",
+      "parsingLabel": "sustantivo masculino dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.DU.A.PRS.P3.M.SG",
+      "traduccion": "sus narices"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "יֵצֵ֣א",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "sale"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6227",
+      "hebreo": "עָשָׁן",
+      "transliteracion": "עָשָׁ֑ן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "humo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1731",
+      "hebreo": "דּוּד",
+      "transliteracion": "ד֖וּד",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de olla"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5301",
+      "hebreo": "נפח",
+      "transliteracion": "נָפ֣וּחַ",
+      "parsingLabel": "adjetivo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "ADJV.QAL.PTCP.U.M.SG.A",
+      "traduccion": "que hierve"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "100",
+      "hebreo": "אַגְמֹון",
+      "transliteracion": "אַגְמֹֽן׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "juncos"
+    }
+  ]
+}

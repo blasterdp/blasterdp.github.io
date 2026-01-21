@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 38:15 Reina Valera 1960",
+    "texto": "Mas la luz de los impíos es quitada de ellos, Y el brazo enaltecido es quebrantado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4513",
+      "hebreo": "מנע",
+      "transliteracion": "יִמָּנַ֣ע",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "es quitada"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "impíos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "216",
+      "hebreo": "אֹור",
+      "transliteracion": "אֹורָ֑ם",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.PL",
+      "traduccion": "su luz"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2220",
+      "hebreo": "זְרֹועַ",
+      "transliteracion": "זְרֹ֥ועַ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "brazo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7311",
+      "hebreo": "רום",
+      "transliteracion": "רָ֝מָ֗ה",
+      "parsingLabel": "sustantivo qal participio desconocido femenino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.F.SG.A",
+      "traduccion": "levantado"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7665",
+      "hebreo": "שׁבר",
+      "transliteracion": "תִּשָּׁבֵֽר׃",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.F.SG",
+      "traduccion": "es quebrantado"
+    }
+  ]
+}

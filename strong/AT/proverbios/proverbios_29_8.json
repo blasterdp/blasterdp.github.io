@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 29:8 Reina Valera 1960",
+    "texto": "Los hombres escarnecedores ponen la ciudad en llamas; Mas los sabios apartan la ira."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אַנְשֵׁ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hombres"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3944",
+      "hebreo": "לָצֹון",
+      "transliteracion": "לָ֭צֹון",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de escarnio"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6315",
+      "hebreo": "פוח",
+      "transliteracion": "יָפִ֣יחוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "agitan"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7151",
+      "hebreo": "קִרְיָה",
+      "transliteracion": "קִרְיָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ciudad"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חֲכָמִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "sabios"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "יָשִׁ֥יבוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL",
+      "traduccion": "aplacan"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "639",
+      "hebreo": "אַף",
+      "transliteracion": "אָֽף׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "ira"
+    }
+  ]
+}

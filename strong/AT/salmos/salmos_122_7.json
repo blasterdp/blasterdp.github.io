@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 122:7 Reina Valera 1960",
+    "texto": "Sea la paz dentro de tus muros, Y el descanso dentro de tus palacios."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "יְהִֽי־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "haya"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7965",
+      "hebreo": "שָׁלֹום",
+      "transliteracion": "שָׁלֹ֥ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "paz"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "dentro"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2426",
+      "hebreo": "חֵיל",
+      "transliteracion": "חֵילֵ֑ךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.F.SG",
+      "traduccion": "de tus muros"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7962",
+      "hebreo": "שַׁלְוָה",
+      "transliteracion": "שַׁ֝לְוָ֗ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "prosperidad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "759",
+      "hebreo": "אַרְמֹון",
+      "transliteracion": "אַרְמְנֹותָֽיִךְ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.F.SG",
+      "traduccion": "tus palacios"
+    }
+  ]
+}

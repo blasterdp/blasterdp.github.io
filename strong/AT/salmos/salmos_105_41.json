@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 105:41 Reina Valera 1960",
+    "texto": "Abrió la peña, y fluyeron aguas; Corrieron por los sequedales como un río."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6605",
+      "hebreo": "פתח",
+      "transliteracion": "פָּ֣תַח",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "abrió"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6697",
+      "hebreo": "צוּר",
+      "transliteracion": "צ֭וּר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "roca"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2100",
+      "hebreo": "זוב",
+      "transliteracion": "יָּז֣וּבוּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "brotaron"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מָ֑יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "הָ֝לְכ֗וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "corrieron"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6723",
+      "hebreo": "צִיָּה",
+      "transliteracion": "צִּיֹּ֥ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "sequedales"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5104",
+      "hebreo": "נָהָר",
+      "transliteracion": "נָהָֽר׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "un río"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 24:10 Reina Valera 1960",
+    "texto": "Si fueres flojo en el día de trabajo, Tu fuerza será reducida."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7503",
+      "hebreo": "רפה",
+      "transliteracion": "הִ֭תְרַפִּיתָ",
+      "parsingLabel": "verbo hitpa“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIT.PERF.P2.M.SG",
+      "traduccion": "flaqueas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹ֥ום",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "día"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6869",
+      "hebreo": "צָרָה",
+      "transliteracion": "צָרָ֗ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de angustia"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6862",
+      "hebreo": "צַר",
+      "transliteracion": "צַ֣ר",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "pequeña"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3581",
+      "hebreo": "כֹּחַ",
+      "transliteracion": "כֹּחֶֽכָה׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu fuerza"
+    }
+  ]
+}

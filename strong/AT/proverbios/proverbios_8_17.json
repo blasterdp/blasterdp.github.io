@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 8:17 Reina Valera 1960",
+    "texto": "Yo amo a los que me aman, Y me hallan los que temprano me buscan."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲ֭נִי",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "אֹהֲבַ֣י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P1.U.SG",
+      "traduccion": "a que me aman"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "אֵהָ֑ב",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "amo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7836",
+      "hebreo": "שׁחר",
+      "transliteracion": "מְשַׁחֲרַ֗י",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.A",
+      "traduccion": "que me buscan con afán"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "יִמְצָאֻֽנְנִי׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL.PRS.P1.U.SG",
+      "traduccion": "me hallarán"
+    }
+  ]
+}

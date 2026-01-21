@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 15:2 Reina Valera 1960",
+    "texto": "¿Proferirá el sabio vana sabiduría, Y llenará su vientre de viento solano?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֶֽ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חָכָ֗ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "el sabio"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6030",
+      "hebreo": "ענה",
+      "transliteracion": "יַעֲנֶ֥ה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "responderá"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1847",
+      "hebreo": "דַּעַת",
+      "transliteracion": "דַֽעַת־",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "con conocimiento"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֑וּחַ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "vano"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וִֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4390",
+      "hebreo": "מלא",
+      "transliteracion": "ימַלֵּ֖א",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "llenará"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6921",
+      "hebreo": "קָדִים",
+      "transliteracion": "קָדִ֣ים",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de viento solano"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "990",
+      "hebreo": "בֶּטֶן",
+      "transliteracion": "בִּטְנֹֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su vientre?"
+    }
+  ]
+}

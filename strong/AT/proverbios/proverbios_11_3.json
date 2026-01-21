@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 11:3 Reina Valera 1960",
+    "texto": "La integridad de los rectos los encaminará; Pero destruirá a los pecadores la perversidad de ellos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8538",
+      "hebreo": "תֻּמָּה",
+      "transliteracion": "תֻּמַּ֣ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "integridad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3477",
+      "hebreo": "יָשָׁר",
+      "transliteracion": "יְשָׁרִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de rectos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5148",
+      "hebreo": "נחה",
+      "transliteracion": "תַּנְחֵ֑ם",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.F.SG.PRS.P3.M.PL",
+      "traduccion": "los guiará"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5558",
+      "hebreo": "סֶלֶף",
+      "transliteracion": "סֶ֖לֶף",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "perversidad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "898",
+      "hebreo": "בגד",
+      "transliteracion": "בֹּוגְדִ֣ים",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "de pérfidos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7703",
+      "hebreo": "שׁדד",
+      "transliteracion": "יְשָׁדֵּֽם׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los destruirá"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 4:9 Reina Valera 1960",
+    "texto": "Perecen por el aliento de Dios, Y por el soplo de su ira son consumidos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5397",
+      "hebreo": "נְשָׁמָה",
+      "transliteracion": "נִּשְׁמַ֣ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "aliento de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "433",
+      "hebreo": "אֱלֹוהַּ",
+      "transliteracion": "אֱלֹ֣והַ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6",
+      "hebreo": "אבד",
+      "transliteracion": "יֹאבֵ֑דוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "perecen"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֖וּחַ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "soplo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "639",
+      "hebreo": "אַף",
+      "transliteracion": "אַפֹּ֣ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su nariz"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3615",
+      "hebreo": "כלה",
+      "transliteracion": "יִכְלֽוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "son consumidos"
+    }
+  ]
+}

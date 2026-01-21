@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Levíticos 6:13 Reina Valera 1960",
+    "texto": "El fuego arderá continuamente en el altar; no se apagará."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "784",
+      "hebreo": "אֵשׁ",
+      "transliteracion": "אֵ֗שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "fuego"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8548",
+      "hebreo": "תָּמִיד",
+      "transliteracion": "תָּמִ֛יד",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "continuamente"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3344",
+      "hebreo": "יקד",
+      "transliteracion": "תּוּקַ֥ד",
+      "parsingLabel": "verbo hof‘al imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.HOF.IMPF.P3.F.SG",
+      "traduccion": "arderá"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4196",
+      "hebreo": "מִזְבֵּחַ",
+      "transliteracion": "מִּזְבֵּ֖חַ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "altar"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3518",
+      "hebreo": "כבה",
+      "transliteracion": "תִכְבֶֽה׃ ס",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "se apagará"
+    }
+  ]
+}

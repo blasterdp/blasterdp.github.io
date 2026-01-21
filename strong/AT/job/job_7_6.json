@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 7:6 Reina Valera 1960",
+    "texto": "Y mis días fueron más veloces que la lanzadera del tejedor, Y fenecieron sin esperanza."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יָמַ֣י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis días"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7043",
+      "hebreo": "קלל",
+      "transliteracion": "קַ֭לּוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "pasan veloces"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִנִּי־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "más que"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "708",
+      "hebreo": "אֶרֶג",
+      "transliteracion": "אָ֑רֶג",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "lanzadera"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3615",
+      "hebreo": "כלה",
+      "transliteracion": "יִּכְל֗וּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "se acaban"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "657",
+      "hebreo": "אֶפֶס",
+      "transliteracion": "אֶ֣פֶס",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "falta de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8615",
+      "hebreo": "תִּקְוָה",
+      "transliteracion": "תִּקְוָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "esperanza"
+    }
+  ]
+}

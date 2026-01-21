@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 105:5 Reina Valera 1960",
+    "texto": "Acordaos de las maravillas que él ha hecho, De sus prodigios y de los juicios de su boca,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2142",
+      "hebreo": "זכר",
+      "transliteracion": "זִכְר֗וּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "recordad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6381",
+      "hebreo": "פלא",
+      "transliteracion": "נִפְלְאֹותָ֥יו",
+      "parsingLabel": "sustantivo nif‘al participio desconocido femenino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.NIF.PTCA.U.F.PL.A.PRS.P3.M.SG",
+      "traduccion": "las maravillas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עָשָׂ֑ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ha hecho"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4159",
+      "hebreo": "מֹופֵת",
+      "transliteracion": "מֹ֝פְתָ֗יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus prodigios"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4941",
+      "hebreo": "מִשְׁפָּט",
+      "transliteracion": "מִשְׁפְּטֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "juicios"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִֽיו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su boca"
+    }
+  ]
+}

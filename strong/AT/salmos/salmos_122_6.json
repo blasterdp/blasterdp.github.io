@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 122:6 Reina Valera 1960",
+    "texto": "Pedid por la paz de Jerusalén; Sean prosperados los que te aman."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7592",
+      "hebreo": "שׁאל",
+      "transliteracion": "שַׁ֭אֲלוּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "orad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7965",
+      "hebreo": "שָׁלֹום",
+      "transliteracion": "שְׁלֹ֣ום",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "paz"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3389",
+      "hebreo": "יְרוּשָׁלִַם",
+      "transliteracion": "יְרוּשָׁלִָ֑ם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Jerusalén"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7951",
+      "hebreo": "שׁלה",
+      "transliteracion": "יִ֝שְׁלָ֗יוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "sean prosperados"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "אֹהֲבָֽיִךְ׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P2.F.SG",
+      "traduccion": "que te aman"
+    }
+  ]
+}

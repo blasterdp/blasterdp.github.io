@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Josué 15:33 Reina Valera 1960",
+    "texto": "En las llanuras, Estaol, Zora, Asena,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8219",
+      "hebreo": "שְׁפֵלָה",
+      "transliteracion": "שְּׁפֵלָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "llanura"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "847",
+      "hebreo": "אֶשְׁתָּאֹל",
+      "transliteracion": "אֶשְׁתָּאֹ֥ול",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Estaol"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6881",
+      "hebreo": "צָרְעָה",
+      "transliteracion": "צָרְעָ֖ה",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Zora"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "823",
+      "hebreo": "אַשְׁנָה",
+      "transliteracion": "אַשְׁנָֽה׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Asena"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:26 Reina Valera 1960",
+    "texto": "Te he manifestado mis caminos, y me has respondido; Enséñame tus estatutos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דְּרָכַ֣י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis caminos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5608",
+      "hebreo": "ספר",
+      "transliteracion": "סִ֭פַּרְתִּי",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P1.U.SG",
+      "traduccion": "conté"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6030",
+      "hebreo": "ענה",
+      "transliteracion": "תַּעֲנֵ֗נִי",
+      "parsingLabel": "verbo qal wayyiqtol 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.WAYQ.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me respondiste"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3925",
+      "hebreo": "למד",
+      "transliteracion": "לַמְּדֵ֥נִי",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "enséñame"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2706",
+      "hebreo": "חֹק",
+      "transliteracion": "חֻקֶּֽיךָ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus estatutos"
+    }
+  ]
+}

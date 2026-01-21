@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Job 35:16 Reina Valera 1960",
+    "texto": "Por eso Job abre su boca vanamente, Y multiplica palabras sin sabiduría."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "347",
+      "hebreo": "אִיֹּוב",
+      "transliteracion": "אִיֹּוב",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Job"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1892",
+      "hebreo": "הֶבֶל",
+      "transliteracion": "הֶ֣בֶל",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "vanamente"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6475",
+      "hebreo": "פצה",
+      "transliteracion": "יִפְצֶה־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "abre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּ֑יהוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su boca"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1097",
+      "hebreo": "בְּלִי",
+      "transliteracion": "בְלִי־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "sin"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1847",
+      "hebreo": "דַּעַת",
+      "transliteracion": "דַ֝֗עַת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "conocimiento"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4405",
+      "hebreo": "מִלָּה",
+      "transliteracion": "מִלִּ֥ין",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "palabras"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3527",
+      "hebreo": "כבר",
+      "transliteracion": "יַכְבִּֽר׃ פ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "multiplica"
+    }
+  ]
+}

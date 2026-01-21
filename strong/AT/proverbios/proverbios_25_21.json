@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 25:21 Reina Valera 1960",
+    "texto": "Si el que te aborrece tuviere hambre, dale de comer pan, Y si tuviere sed, dale de beber agua;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7457",
+      "hebreo": "רָעֵב",
+      "transliteracion": "רָעֵ֣ב",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "tiene hambre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "שֹׂ֭נַאֲךָ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "que te odia"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "הַאֲכִלֵ֣הוּ",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "dale de comer"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3899",
+      "hebreo": "לֶחֶם",
+      "transliteracion": "לָ֑חֶם",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "pan"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6771",
+      "hebreo": "צָמֵא",
+      "transliteracion": "צָ֝מֵ֗א",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "tiene sed"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8248",
+      "hebreo": "שׁקה",
+      "transliteracion": "הַשְׁקֵ֥הוּ",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "dale de beber"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מָֽיִם׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "agua"
+    }
+  ]
+}

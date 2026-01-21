@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 28:27 Reina Valera 1960",
+    "texto": "El que da al pobre no tendrá pobreza; Mas el que aparta sus ojos tendrá muchas maldiciones."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "נֹותֵ֣ן",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "quien da"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7326",
+      "hebreo": "רושׁ",
+      "transliteracion": "רָשׁ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "pobre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵ֣ין",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4270",
+      "hebreo": "מַחְסֹור",
+      "transliteracion": "מַחְסֹ֑ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pasará necesidad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5956",
+      "hebreo": "עלם",
+      "transliteracion": "מַעְלִ֥ים",
+      "parsingLabel": "sustantivo hif‘il participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.HIF.PTCA.U.M.SG.C",
+      "traduccion": "quien esconde"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵ֝ינָ֗יו",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.SG",
+      "traduccion": "sus ojos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַב־",
+      "parsingLabel": "adjetivo masculino singular constructivo",
+      "parsing": "ADJV.M.SG.C",
+      "traduccion": "muchas"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3994",
+      "hebreo": "מְאֵרָה",
+      "transliteracion": "מְאֵרֹֽות׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "maldiciones"
+    }
+  ]
+}

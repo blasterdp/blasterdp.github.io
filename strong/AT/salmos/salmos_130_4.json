@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 130:4 Reina Valera 1960",
+    "texto": "Pero en ti hay perdón, Para que seas reverenciado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִמְּךָ֥",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "contigo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5547",
+      "hebreo": "סְלִיחָה",
+      "transliteracion": "סְּלִיחָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "perdón"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4616",
+      "hebreo": "לְמַעַן",
+      "transliteracion": "לְ֝מַ֗עַן",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "para que"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3372",
+      "hebreo": "ירא",
+      "transliteracion": "תִּוָּרֵֽא׃",
+      "parsingLabel": "verbo nif‘al imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P2.M.SG",
+      "traduccion": "seas temido"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 124:4 Reina Valera 1960",
+    "texto": "Entonces nos habrían inundado las aguas; Sobre nuestra alma hubiera pasado el torrente;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "233",
+      "hebreo": "אֲזַי",
+      "transliteracion": "אֲ֭זַי",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "las"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַּ֣יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7857",
+      "hebreo": "שׁטף",
+      "transliteracion": "שְׁטָפ֑וּנוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P1.U.PL",
+      "traduccion": "nos habrían anegado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5158",
+      "hebreo": "נַחַל",
+      "transliteracion": "נַ֝֗חְלָה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "un torrente"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "עָבַ֥ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "habría pasado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשֵֽׁנוּ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.PL",
+      "traduccion": "nuestra alma"
+    }
+  ]
+}

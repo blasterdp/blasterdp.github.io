@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 10:10 Reina Valera 1960",
+    "texto": "Se encoge, se agacha, Y caen en sus fuertes garras muchos desdichados."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1794",
+      "hebreo": "דכה",
+      "transliteracion": "יִדְכֶּ֥ה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se agazapa"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7817",
+      "hebreo": "שׁחח",
+      "transliteracion": "יָשֹׁ֑חַ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se encoge"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "נָפַ֥ל",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "cae"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6099",
+      "hebreo": "עָצוּם",
+      "transliteracion": "עֲצוּמָ֗יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus fuertes garras"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2428",
+      "hebreo": "חַיִל",
+      "transliteracion": "חֵ֣יל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "muchos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2489",
+      "hebreo": "כָּאֶה",
+      "transliteracion": "כָּאִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "desvalidos"
+    }
+  ]
+}

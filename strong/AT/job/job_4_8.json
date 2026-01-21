@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Job 4:8 Reina Valera 1960",
+    "texto": "Como yo he visto, los que aran iniquidad Y siembran injuria, la siegan."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "según"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָ֭אִיתִי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "he visto"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2790",
+      "hebreo": "חרשׁ",
+      "transliteracion": "חֹ֣רְשֵׁי",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "los que aran"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "205",
+      "hebreo": "אָוֶן",
+      "transliteracion": "אָ֑וֶן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "iniquidad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2232",
+      "hebreo": "זרע",
+      "transliteracion": "זֹרְעֵ֖י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "los que siembran"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5999",
+      "hebreo": "עָמָל",
+      "transliteracion": "עָמָ֣ל",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "aflicción"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7114",
+      "hebreo": "קצר",
+      "transliteracion": "יִקְצְרֻֽהוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL.PRS.P3.M.SG",
+      "traduccion": "la cosechan"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 3:8 Reina Valera 1960",
+    "texto": "Maldíganla los que maldicen el día, Los que se aprestan para despertar a Leviatán."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6895",
+      "hebreo": "קבב",
+      "transliteracion": "יִקְּבֻ֥הוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL.PRS.P3.M.SG",
+      "traduccion": "maldíganla"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "779",
+      "hebreo": "ארר",
+      "transliteracion": "אֹרְרֵי־",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "los que maldicen"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹ֑ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "los"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6264",
+      "hebreo": "עָתִיד",
+      "transliteracion": "עֲתִידִ֗ים",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "que se aprestan"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5782",
+      "hebreo": "עור",
+      "transliteracion": "עֹרֵ֥ר",
+      "parsingLabel": "verbo pi“el infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.PIEL.INFC.U.U.U.C",
+      "traduccion": "a despertar"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3882",
+      "hebreo": "לִוְיָתָן",
+      "transliteracion": "לִוְיָתָֽן׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "a Leviatán"
+    }
+  ]
+}

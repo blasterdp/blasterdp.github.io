@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Job 3:3 Reina Valera 1960",
+    "texto": "Perezca el día en que yo nací, Y la noche en que se dijo: Varón es concebido."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6",
+      "hebreo": "אבד",
+      "transliteracion": "יֹ֣אבַד",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "perezca"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹ֖ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3205",
+      "hebreo": "ילד",
+      "transliteracion": "אִוָּ֣לֶד",
+      "parsingLabel": "verbo nif‘al imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.NIF.IMPF.P1.U.SG",
+      "traduccion": "nací"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בֹּ֑ו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "en él"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3915",
+      "hebreo": "לַיְלָה",
+      "transliteracion": "לַּ֥יְלָה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "noche"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָ֝מַ֗ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2029",
+      "hebreo": "הרה",
+      "transliteracion": "הֹ֣רָה",
+      "parsingLabel": "verbo pu“al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PUAL.PERF.P3.M.SG",
+      "traduccion": "fue concebido"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1397",
+      "hebreo": "גֶּבֶר",
+      "transliteracion": "גָֽבֶר׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "un varón"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Proverbios 21:22 Reina Valera 1960",
+    "texto": "Tomó el sabio la ciudad de los fuertes, Y derribó la fuerza en que ella confiaba."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5892",
+      "hebreo": "עִיר",
+      "transliteracion": "עִ֣יר",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "ciudad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1368",
+      "hebreo": "גִּבֹּור",
+      "transliteracion": "גִּ֭בֹּרִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de poderosos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5927",
+      "hebreo": "עלה",
+      "transliteracion": "עָלָ֣ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "escala"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חָכָ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "sabio"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3381",
+      "hebreo": "ירד",
+      "transliteracion": "יֹּ֗רֶד",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG",
+      "traduccion": "derriba"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5797",
+      "hebreo": "עֹז",
+      "transliteracion": "עֹ֣ז",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "fortaleza"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4009",
+      "hebreo": "מִבְטָח",
+      "transliteracion": "מִבְטֶחָֽה׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "de confianza"
+    }
+  ]
+}

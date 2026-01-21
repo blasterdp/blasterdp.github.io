@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 139:10 Reina Valera 1960",
+    "texto": "Aun allí me guiará tu mano, Y me asirá tu diestra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "aun"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8033",
+      "hebreo": "שָׁם",
+      "transliteracion": "שָׁ֭ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "allí"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדְךָ֣",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu mano"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5148",
+      "hebreo": "נחה",
+      "transliteracion": "תַנְחֵ֑נִי",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "me guiará"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "270",
+      "hebreo": "אחז",
+      "transliteracion": "תֹאחֲזֵ֥נִי",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "me asirá"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3225",
+      "hebreo": "יָמִין",
+      "transliteracion": "יְמִינֶֽךָ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu diestra"
+    }
+  ]
+}

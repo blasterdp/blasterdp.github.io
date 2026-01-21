@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 119:3 Reina Valera 1960",
+    "texto": "Pues no hacen iniquidad Los que andan en sus caminos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "637",
+      "hebreo": "אַף",
+      "transliteracion": "אַ֭ף",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6466",
+      "hebreo": "פעל",
+      "transliteracion": "פָעֲל֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "obran"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5766",
+      "hebreo": "עַוְלָה",
+      "transliteracion": "עַוְלָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "iniquidad"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דְרָכָ֥יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "los caminos de él"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "הָלָֽכוּ׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "andan"
+    }
+  ]
+}

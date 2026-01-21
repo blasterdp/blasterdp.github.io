@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Job 8:22 Reina Valera 1960",
+    "texto": "Los que te aborrecen serán vestidos de confusión; Y la habitación de los impíos perecerá."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "שֹׂנְאֶ֥יךָ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "los que te odian"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3847",
+      "hebreo": "לבשׁ",
+      "transliteracion": "יִלְבְּשׁוּ־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "serán vestidos de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1322",
+      "hebreo": "בֹּשֶׁת",
+      "transliteracion": "בֹ֑שֶׁת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "vergüenza"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "168",
+      "hebreo": "אֹהֶל",
+      "transliteracion": "אֹ֖הֶל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "la tienda"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de los impíos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵינֶֽנּוּ׃ פ",
+      "parsingLabel": "negativo partículo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "NEGA.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "no existirá más"
+    }
+  ]
+}
