@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 42:8 Reina Valera 1960",
+    "texto": "José, pues, conoció a sus hermanos; pero ellos no le conocieron."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5234",
+      "hebreo": "נכר",
+      "transliteracion": "יַּכֵּ֥ר",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG",
+      "traduccion": "reconoció"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3130",
+      "hebreo": "יֹוסֵף",
+      "transliteracion": "יֹוסֵ֖ף",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "José"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "251",
+      "hebreo": "אָח",
+      "transliteracion": "אֶחָ֑יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus hermanos;"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1992",
+      "hebreo": "הֵם",
+      "transliteracion": "הֵ֖ם",
+      "parsingLabel": "personal pronombre 3ª persona masculino plural",
+      "parsing": "PRPS.P3.M.PL",
+      "traduccion": "ellos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5234",
+      "hebreo": "נכר",
+      "transliteracion": "הִכִּרֻֽהוּ׃",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona desconocido plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.U.PL.PRS.P3.M.SG",
+      "traduccion": "le reconocieron."
+    }
+  ]
+}

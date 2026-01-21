@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Eclesiatés 10:12 Reina Valera 1960",
+    "texto": "Las palabras de la boca del sabio son llenas de gracia, mas los labios del necio causan su propia ruina."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דִּבְרֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "(Las) palabras"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִי־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "de (la) boca"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חָכָ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del sabio"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2580",
+      "hebreo": "חֵן",
+      "transliteracion": "חֵ֑ן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "(son) gracia"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שִׂפְתֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "(los) labios"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3684",
+      "hebreo": "כְּסִיל",
+      "transliteracion": "כְּסִ֖יל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del necio"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1104",
+      "hebreo": "בלע",
+      "transliteracion": "תְּבַלְּעֶֽנּוּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG.PRS.P3.M.SG",
+      "traduccion": "lo engullirán"
+    }
+  ]
+}

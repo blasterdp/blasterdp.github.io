@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 1:34 Reina Valera 1960",
+    "texto": "Abraham engendró a Isaac, y los hijos de Isaac fueron Esaú e Israel."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3205",
+      "hebreo": "ילד",
+      "transliteracion": "יֹּ֥ולֶד",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG",
+      "traduccion": "engendró"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "85",
+      "hebreo": "אַבְרָהָם",
+      "transliteracion": "אַבְרָהָ֖ם",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Abraham"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3327",
+      "hebreo": "יִצְחָק",
+      "transliteracion": "יִצְחָ֑ק ס",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Isaac"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "los hijos de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3327",
+      "hebreo": "יִצְחָק",
+      "transliteracion": "יִצְחָ֔ק",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Isaac"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6215",
+      "hebreo": "עֵשָׂו",
+      "transliteracion": "עֵשָׂ֖ו",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Esaú"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "e"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵֽל׃ ס",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    }
+  ]
+}

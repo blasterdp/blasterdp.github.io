@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Hageo 1:10 Reina Valera 1960",
+    "texto": "Por eso se detuvo de los cielos sobre vosotros la lluvia, y la tierra detuvo sus frutos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "Por"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3651",
+      "hebreo": "כֵּן",
+      "transliteracion": "כֵּ֣ן",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "tanto"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עֲלֵיכֶ֔ם",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino plural",
+      "parsing": "PREP.PRS.P2.M.PL",
+      "traduccion": "por vosotros"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3607",
+      "hebreo": "כלא",
+      "transliteracion": "כָּלְא֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se retuvieron"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8064",
+      "hebreo": "שָׁמַיִם",
+      "transliteracion": "שָׁמַ֖יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cielos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "del"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2919",
+      "hebreo": "טַל",
+      "transliteracion": "טָּ֑ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "rocío"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָ֖רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3607",
+      "hebreo": "כלא",
+      "transliteracion": "כָּלְאָ֥ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "retuvo"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "2981",
+      "hebreo": "יְבוּל",
+      "transliteracion": "יְבוּלָֽהּ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "su cosecha"
+    }
+  ]
+}

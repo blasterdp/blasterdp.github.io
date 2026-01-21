@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 10:6 Reina Valera 1960",
+    "texto": "Así murieron Saúl y sus tres hijos; y toda su casa murió juntamente con él."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "así"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "יָּ֤מָת",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "murió"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7586",
+      "hebreo": "שָׁאוּל",
+      "transliteracion": "שָׁאוּל֙",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Saúl"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7969",
+      "hebreo": "שָׁלֹשׁ",
+      "transliteracion": "שְׁלֹ֣שֶׁת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "tres de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בָּנָ֔יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus hijos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "toda"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּיתֹ֖ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su casa"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3162",
+      "hebreo": "יַחְדָּו",
+      "transliteracion": "יַחְדָּ֥ו",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "junto con él"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "מֵֽתוּ׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "murieron"
+    }
+  ]
+}

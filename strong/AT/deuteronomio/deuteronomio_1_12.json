@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 1:12 Reina Valera 1960",
+    "texto": "¿Cómo llevaré yo solo vuestras molestias, vuestras cargas y vuestros pleitos?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "349",
+      "hebreo": "אֵיכָה",
+      "transliteracion": "אֵיכָ֥ה",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿cómo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5375",
+      "hebreo": "נשׂא",
+      "transliteracion": "אֶשָּׂ֖א",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "llevaré"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "905",
+      "hebreo": "בַּד",
+      "transliteracion": "בַדִּ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "solo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2960",
+      "hebreo": "טֹרַח",
+      "transliteracion": "טָרְחֲכֶ֥ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestro problema"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4853",
+      "hebreo": "מַשָּׂא",
+      "transliteracion": "מַֽשַּׂאֲכֶ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestra carga"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7379",
+      "hebreo": "רִיב",
+      "transliteracion": "רִֽיבְכֶֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestra disputa"
+    }
+  ]
+}

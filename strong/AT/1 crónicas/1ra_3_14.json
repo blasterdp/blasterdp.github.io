@@ -1,0 +1,44 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 3:14 Reina Valera 1960",
+    "texto": "del cual fue hijo Amón, cuyo hijo fue Josías."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "526",
+      "hebreo": "אָמֹון",
+      "transliteracion": "אָמֹ֥ון",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Amon"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֹ֖ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su hijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2977",
+      "hebreo": "יֹאשִׁיָּהוּ",
+      "transliteracion": "יֹאשִׁיָּ֥הוּ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Josías"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְנֹֽו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su hijo"
+    }
+  ]
+}

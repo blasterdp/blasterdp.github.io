@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Ezequiel 22:8 Reina Valera 1960",
+    "texto": "Mis santuarios menospreciaste, y mis días de reposo has profanado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6944",
+      "hebreo": "קֹדֶשׁ",
+      "transliteracion": "קָדָשַׁ֖י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis cosas santas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "959",
+      "hebreo": "בזה",
+      "transliteracion": "בָּזִ֑ית",
+      "parsingLabel": "verbo qal perfecto 2ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P2.F.SG",
+      "traduccion": "despreciaste"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7676",
+      "hebreo": "שַׁבָּת",
+      "transliteracion": "שַׁבְּתֹתַ֖י",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mis sábados"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2490",
+      "hebreo": "חלל",
+      "transliteracion": "חִלָּֽלְתְּ׃",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona femenino singular",
+      "parsing": "VERBO.PIEL.PERF.P2.F.SG",
+      "traduccion": "profanaste"
+    }
+  ]
+}

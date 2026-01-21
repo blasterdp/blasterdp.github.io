@@ -1,0 +1,215 @@
+{
+  "versiculo": {
+    "referencia": "Esdras 4:13 Reina Valera 1960",
+    "texto": "Ahora sea notorio al rey, que si aquella ciudad fuere reedificada, y los muros fueren levantados, no pagarán tributo, impuesto y rentas, y el erario de los reyes será menoscabado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3705",
+      "hebreo": "כְּעַן",
+      "transliteracion": "כְּעַ֗ן",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "Ahora"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3046",
+      "hebreo": "ידע",
+      "transliteracion": "יְדִ֨יעַ֙",
+      "parsingLabel": "verbo pe‘al participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.PEAL.PTCP.U.M.SG.A",
+      "traduccion": "notorio"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1934",
+      "hebreo": "הוה",
+      "transliteracion": "לֶהֱוֵ֣א",
+      "parsingLabel": "verbo pe‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PEAL.IMPF.P3.M.SG",
+      "traduccion": "sea"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "al"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4430",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מַלְכָּ֔א",
+      "parsingLabel": "sustantivo masculino singular emphatic",
+      "parsing": "SUBS.M.SG.E",
+      "traduccion": "rey"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1768",
+      "hebreo": "דִּי",
+      "transliteracion": "דִּ֠י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2006",
+      "hebreo": "הֵן",
+      "transliteracion": "הֵ֣ן",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7149",
+      "hebreo": "קִרְיָה",
+      "transliteracion": "קִרְיְתָ֥א",
+      "parsingLabel": "sustantivo femenino singular emphatic",
+      "parsing": "SUBS.F.SG.E",
+      "traduccion": "la ciudad"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1791",
+      "hebreo": "דָּךְ",
+      "transliteracion": "דָךְ֙",
+      "parsingLabel": "demonstrative pronombre femenino singular",
+      "parsing": "PRDE.F.SG",
+      "traduccion": "esta"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1124",
+      "hebreo": "בנה",
+      "transliteracion": "תִּתְבְּנֵ֔א",
+      "parsingLabel": "verbo hitpe‘el imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.HTPE.IMPF.P3.F.SG",
+      "traduccion": "es reedificada"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "7792",
+      "hebreo": "שׁוּר",
+      "transliteracion": "שׁוּרַיָּ֖ה",
+      "parsingLabel": "sustantivo masculino plural emphatic",
+      "parsing": "SUBS.M.PL.E",
+      "traduccion": "los muros"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3635",
+      "hebreo": "כלל",
+      "transliteracion": "יִֽשְׁתַּכְלְל֑וּן",
+      "parsingLabel": "verbo hishtaf‘al imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HSHT.IMPF.P3.M.PL",
+      "traduccion": "son restaurados"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "4061",
+      "hebreo": "מִדָּה",
+      "transliteracion": "מִנְדָּֽה־",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "tributo"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "1093",
+      "hebreo": "בְּלֹו",
+      "transliteracion": "בְלֹ֤ו",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "impuesto"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "1983",
+      "hebreo": "הֲלָךְ",
+      "transliteracion": "הֲלָךְ֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "peaje"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "3809",
+      "hebreo": "לָא",
+      "transliteracion": "לָ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "5415",
+      "hebreo": "נתן",
+      "transliteracion": "יִנְתְּנ֔וּן",
+      "parsingLabel": "verbo pe‘al imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PEAL.IMPF.P3.M.PL",
+      "traduccion": "pagarán"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "674",
+      "hebreo": "אַפְּתֹם",
+      "transliteracion": "אַפְּתֹ֥ם",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "el erario de"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "4430",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מַלְכִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "los reyes"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "5142",
+      "hebreo": "נזק",
+      "transliteracion": "תְּהַנְזִֽק׃",
+      "parsingLabel": "verbo haf‘el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HAF.IMPF.P2.M.SG",
+      "traduccion": "será menoscabado"
+    }
+  ]
+}

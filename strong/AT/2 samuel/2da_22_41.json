@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "2da Samuel 22:41 Reina Valera 1960",
+    "texto": "Y has hecho que mis enemigos me vuelvan las espaldas, Para que yo destruyese a los que me aborrecen."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹ֣יְבַ֔י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "mis enemigos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "תַּ֥תָּה",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "pones"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִּ֖י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "a mí"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6203",
+      "hebreo": "עֹרֶף",
+      "transliteracion": "עֹ֑רֶף",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "espalda"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "מְשַׂנְאַ֖י",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.A",
+      "traduccion": "los que me odian"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6789",
+      "hebreo": "צמת",
+      "transliteracion": "אַצְמִיתֵֽם׃",
+      "parsingLabel": "verbo hif‘il wayyiqtol 1ª persona desconocido singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.WAYQ.P1.U.SG.PRS.P3.M.PL",
+      "traduccion": "también yo destruyo"
+    }
+  ]
+}

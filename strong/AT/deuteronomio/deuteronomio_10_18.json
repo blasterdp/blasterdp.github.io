@@ -1,0 +1,134 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 10:18 Reina Valera 1960",
+    "texto": "que hace justicia al huérfano y a la viuda; que ama también al extranjero dándole pan y vestido."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עֹשֶׂ֛ה",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "que hace"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4941",
+      "hebreo": "מִשְׁפָּט",
+      "transliteracion": "מִשְׁפַּ֥ט",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "justicia"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3490",
+      "hebreo": "יָתֹום",
+      "transliteracion": "יָתֹ֖ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "huérfano"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "490",
+      "hebreo": "אַלְמָנָה",
+      "transliteracion": "אַלְמָנָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "viuda"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "אֹהֵ֣ב",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "ama"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1616",
+      "hebreo": "גֵּר",
+      "transliteracion": "גֵּ֔ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "extranjero"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ֥",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "תֶת",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A",
+      "traduccion": "dar"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֹ֖ו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "a él"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3899",
+      "hebreo": "לֶחֶם",
+      "transliteracion": "לֶ֥חֶם",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "pan"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "8071",
+      "hebreo": "שִׂמְלָה",
+      "transliteracion": "שִׂמְלָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "vestido"
+    }
+  ]
+}

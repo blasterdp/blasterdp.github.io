@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 19:7 Reina Valera 1960",
+    "texto": "y dijo: Os ruego, hermanos míos, que no hagáis tal maldad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּאמַ֑ר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4994",
+      "hebreo": "נָא",
+      "transliteracion": "נָ֥א",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "ahora"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "251",
+      "hebreo": "אָח",
+      "transliteracion": "אַחַ֖י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "hermanos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7489",
+      "hebreo": "רעע",
+      "transliteracion": "תָּרֵֽעוּ׃",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P2.M.PL",
+      "traduccion": "hagáis mal"
+    }
+  ]
+}

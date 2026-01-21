@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 7:10 Reina Valera 1960",
+    "texto": "Yo soy de mi amado, Y conmigo tiene su contentamiento."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲנִ֣י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "Yo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "soy de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1730",
+      "hebreo": "דֹּוד",
+      "transliteracion": "דֹודִ֔י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi amado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלַ֖י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hacía mi"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8669",
+      "hebreo": "תְּשׁוּקָה",
+      "transliteracion": "תְּשׁוּקָתֹֽו׃ ס",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "(tiende) su deseo"
+    }
+  ]
+}

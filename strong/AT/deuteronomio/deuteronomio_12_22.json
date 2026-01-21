@@ -1,0 +1,188 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 12:22 Reina Valera 1960",
+    "texto": "Lo mismo que se come la gacela y el ciervo, así las podrás comer; el inmundo y el limpio podrán comer también de ellas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "389",
+      "hebreo": "אַךְ",
+      "transliteracion": "אַ֗ךְ",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "sólo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֨ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "יֵאָכֵ֤ל",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "se come"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶֽת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6643",
+      "hebreo": "צְבִי",
+      "transliteracion": "צְּבִי֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "gacela"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ֣",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "354",
+      "hebreo": "אַיָּל",
+      "transliteracion": "אַיָּ֔ל",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "ciervo"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3651",
+      "hebreo": "כֵּן",
+      "transliteracion": "כֵּ֖ן",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "así"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "תֹּאכְלֶ֑נּוּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "lo comerás"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "2931",
+      "hebreo": "טָמֵא",
+      "transliteracion": "טָּמֵא֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "inmundo"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "2889",
+      "hebreo": "טָהֹר",
+      "transliteracion": "טָּהֹ֔ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "limpio"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "3162",
+      "hebreo": "יַחְדָּו",
+      "transliteracion": "יַחְדָּ֖ו",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "ambos"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "יֹאכְלֶֽנּוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "lo comerá"
+    }
+  ]
+}

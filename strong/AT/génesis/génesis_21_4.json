@@ -1,0 +1,134 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 21:4 Reina Valera 1960",
+    "texto": "Y circuncidó Abraham a su hijo Isaac de ocho días, como Dios le había mandado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4135",
+      "hebreo": "מול",
+      "transliteracion": "יָּ֤מָל",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "circuncidó"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "85",
+      "hebreo": "אַבְרָהָם",
+      "transliteracion": "אַבְרָהָם֙",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Abraham"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[marcador de objeto]"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3327",
+      "hebreo": "יִצְחָק",
+      "transliteracion": "יִצְחָ֣ק",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Isaac"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֹ֔ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su hijo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶּן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "edad de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8083",
+      "hebreo": "שְׁמֹנֶה",
+      "transliteracion": "שְׁמֹנַ֖ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "ocho"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יָמִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "días"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֛ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "6680",
+      "hebreo": "צוה",
+      "transliteracion": "צִוָּ֥ה",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "ordenó"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֹתֹ֖ו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "a él"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    }
+  ]
+}

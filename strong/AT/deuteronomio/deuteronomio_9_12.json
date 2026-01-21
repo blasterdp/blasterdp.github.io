@@ -1,0 +1,242 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 9:12 Reina Valera 1960",
+    "texto": "Y me dijo Jehová: Levántate, desciende pronto de aquí, porque tu pueblo que sacaste de Egipto se ha corrompido; pronto se han apartado del camino que yo les mandé; se han hecho una imagen de fundición."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּ֨אמֶר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֜ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֵלַ֗י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a mí"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "ק֣וּם",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "levanta"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3381",
+      "hebreo": "ירד",
+      "transliteracion": "רֵ֤ד",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "desciende"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4116",
+      "hebreo": "מהר",
+      "transliteracion": "מַהֵר֙",
+      "parsingLabel": "adverbio pi“el infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.PIEL.INFA.U.U.U.A",
+      "traduccion": "rápido"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶּ֔ה",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "aquí"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֚י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7843",
+      "hebreo": "שׁחת",
+      "transliteracion": "שִׁחֵ֣ת",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "se corrompió"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמְּךָ֔",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu pueblo"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֥ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "הֹוצֵ֖אתָ",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG",
+      "traduccion": "sacaste"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "4714",
+      "hebreo": "מִצְרַיִם",
+      "transliteracion": "מִּצְרָ֑יִם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Egipto"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "5493",
+      "hebreo": "סור",
+      "transliteracion": "סָ֣רוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se apartaron"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "4116",
+      "hebreo": "מהר",
+      "transliteracion": "מַהֵ֗ר",
+      "parsingLabel": "adverbio pi“el infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.PIEL.INFA.U.U.U.A",
+      "traduccion": "rápido"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִן־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דֶּ֨רֶךְ֙",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "camino"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "6680",
+      "hebreo": "צוה",
+      "transliteracion": "צִוִּיתִ֔ם",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.PERF.P1.U.SG.PRS.P3.M.PL",
+      "traduccion": "les mandé"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עָשׂ֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "hicieron"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָהֶ֖ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "para ellos"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "4541",
+      "hebreo": "מַסֵּכָה",
+      "transliteracion": "מַסֵּכָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "imagen de fundición"
+    }
+  ]
+}

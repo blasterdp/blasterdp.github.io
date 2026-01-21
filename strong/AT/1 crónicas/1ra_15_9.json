@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 15:9 Reina Valera 1960",
+    "texto": "De los hijos de Hebrón, Eliel el principal, y sus hermanos, ochenta."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְנֵ֖י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2275",
+      "hebreo": "חֶבְרֹון",
+      "transliteracion": "חֶבְרֹ֑ון",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Hebrón"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "447",
+      "hebreo": "אֱלִיאֵל",
+      "transliteracion": "אֱלִיאֵ֥ל",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Eliel"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8269",
+      "hebreo": "שַׂר",
+      "transliteracion": "שָּׂ֖ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "principal"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "251",
+      "hebreo": "אָח",
+      "transliteracion": "אֶחָ֥יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus hermanos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8083",
+      "hebreo": "שְׁמֹנֶה",
+      "transliteracion": "שְׁמֹונִֽים׃ ס",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "ochenta"
+    }
+  ]
+}

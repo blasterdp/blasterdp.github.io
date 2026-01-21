@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 24:11 Reina Valera 1960",
+    "texto": "la novena a Jesúa, la décima a Secanías,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3442",
+      "hebreo": "יֵשׁוּעַ",
+      "transliteracion": "יֵשׁ֨וּעַ֙",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Jesúa"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8671",
+      "hebreo": "תְּשִׁיעִי",
+      "transliteracion": "תְּשִׁעִ֔י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "novena"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7935",
+      "hebreo": "שְׁכַנְיָהוּ",
+      "transliteracion": "שְׁכַנְיָ֖הוּ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Secanías"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6224",
+      "hebreo": "עֲשִׂירִי",
+      "transliteracion": "עֲשִׂרִֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "décima"
+    }
+  ]
+}

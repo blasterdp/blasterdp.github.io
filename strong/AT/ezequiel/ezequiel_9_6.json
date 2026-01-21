@@ -1,0 +1,332 @@
+{
+  "versiculo": {
+    "referencia": "Ezequiel 9:6 Reina Valera 1960",
+    "texto": "Matad a viejos, jóvenes y vírgenes, niños y mujeres, hasta que no quede ninguno; pero a todo aquel sobre el cual hubiere señal, no os acercaréis; y comenzaréis por mi santuario. Comenzaron, pues, desde los varones ancianos que estaban delante del templo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2205",
+      "hebreo": "זָקֵן",
+      "transliteracion": "זָקֵ֡ן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "anciano"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "970",
+      "hebreo": "בָּחוּר",
+      "transliteracion": "בָּח֣וּר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "joven"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1330",
+      "hebreo": "בְּתוּלָה",
+      "transliteracion": "בְתוּלָה֩",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "virgen"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2945",
+      "hebreo": "טַף",
+      "transliteracion": "טַ֨ף",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "niño"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "802",
+      "hebreo": "אִשָּׁה",
+      "transliteracion": "נָשִׁ֜ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mujeres"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2026",
+      "hebreo": "הרג",
+      "transliteracion": "תַּהַרְג֣וּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.PL",
+      "traduccion": "matad"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "4889",
+      "hebreo": "מַשְׁחִית",
+      "transliteracion": "מַשְׁחִ֗ית",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "exterminar"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִ֨ישׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "aquel"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלָ֤יו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "sobre él"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "8420",
+      "hebreo": "תָּו",
+      "transliteracion": "תָּו֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "marca"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "5066",
+      "hebreo": "נגשׁ",
+      "transliteracion": "תִּגַּ֔שׁוּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.PL",
+      "traduccion": "toquéis"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "4720",
+      "hebreo": "מִקְדָּשׁ",
+      "transliteracion": "מִּקְדָּשִׁ֖י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi santuario"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "2490",
+      "hebreo": "חלל",
+      "transliteracion": "תָּחֵ֑לּוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P2.M.PL",
+      "traduccion": "empezad"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "2490",
+      "hebreo": "חלל",
+      "transliteracion": "יָּחֵ֨לּוּ֙",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.PL",
+      "traduccion": "empezaron"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אֲנָשִׁ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "hombres"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "2205",
+      "hebreo": "זָקֵן",
+      "transliteracion": "זְּקֵנִ֔ים",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "ancianos"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֖ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פְנֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "delante de"
+    },
+    {
+      "numero": 35,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 36,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בָּֽיִת׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "templo"
+    }
+  ]
+}

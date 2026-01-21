@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "2da Crónicas 35:19 Reina Valera 1960",
+    "texto": "Esta pascua fue celebrada en el año dieciocho del rey Josías."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8083",
+      "hebreo": "שְׁמֹנֶה",
+      "transliteracion": "שְׁמֹונֶ֤ה",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "ocho"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6240",
+      "hebreo": "עֶשְׂרֵה",
+      "transliteracion": "עֶשְׂרֵה֙",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "diez"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8141",
+      "hebreo": "שָׁנָה",
+      "transliteracion": "שָׁנָ֔ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "año"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4438",
+      "hebreo": "מַלְכוּת",
+      "transliteracion": "מַלְכ֖וּת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "reinado de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2977",
+      "hebreo": "יֹאשִׁיָּהוּ",
+      "transliteracion": "יֹאשִׁיָּ֑הוּ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Josías"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "נַעֲשָׂ֖ה",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "fue celebrada"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6453",
+      "hebreo": "פֶּסַח",
+      "transliteracion": "פֶּ֥סַח",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Pascua"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶּֽה׃",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "esta"
+    }
+  ]
+}

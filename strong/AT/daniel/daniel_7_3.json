@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Daniel 7:3 Reina Valera 1960",
+    "texto": "Y cuatro bestias grandes, diferentes la una de la otra, subían del mar."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "703",
+      "hebreo": "אַרְבַּע",
+      "transliteracion": "אַרְבַּ֤ע",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "cuatro"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2423",
+      "hebreo": "חֵיוָה",
+      "transliteracion": "חֵיוָן֙",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "bestias"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7260",
+      "hebreo": "רַב",
+      "transliteracion": "רַבְרְבָ֔ן",
+      "parsingLabel": "adjetivo femenino plural absoluto",
+      "parsing": "ADJV.F.PL.A",
+      "traduccion": "grandes"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5559",
+      "hebreo": "סלק",
+      "transliteracion": "סָלְקָ֖ן",
+      "parsingLabel": "verbo pe‘al participio desconocido femenino plural absoluto",
+      "parsing": "VERBO.PEAL.PTCA.U.F.PL.A",
+      "traduccion": "subían"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4481",
+      "hebreo": "מִן",
+      "transliteracion": "מִן־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3221",
+      "hebreo": "יַם",
+      "transliteracion": "יַמָּ֑א",
+      "parsingLabel": "sustantivo masculino singular emphatic",
+      "parsing": "SUBS.M.SG.E",
+      "traduccion": "el mar"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8133",
+      "hebreo": "שׁנה",
+      "transliteracion": "שָׁנְיָ֖ן",
+      "parsingLabel": "verbo pe‘al participio desconocido femenino plural absoluto",
+      "parsing": "VERBO.PEAL.PTCA.U.F.PL.A",
+      "traduccion": "diferentes"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1668",
+      "hebreo": "דָּא",
+      "transliteracion": "דָּ֥א",
+      "parsingLabel": "demonstrative pronombre femenino singular",
+      "parsing": "PRDE.F.SG",
+      "traduccion": "cada una"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4481",
+      "hebreo": "מִן",
+      "transliteracion": "מִן־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1668",
+      "hebreo": "דָּא",
+      "transliteracion": "דָּֽא׃",
+      "parsingLabel": "demonstrative pronombre femenino singular",
+      "parsing": "PRDE.F.SG",
+      "traduccion": "la otra"
+    }
+  ]
+}

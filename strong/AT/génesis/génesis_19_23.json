@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 19:23 Reina Valera 1960",
+    "texto": "El sol salía sobre la tierra, cuando Lot llegó a Zoar."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8121",
+      "hebreo": "שֶׁמֶשׁ",
+      "transliteracion": "שֶּׁ֖מֶשׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "sol"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "יָצָ֣א",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "salió"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָ֑רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3876",
+      "hebreo": "לֹוט",
+      "transliteracion": "לֹ֖וט",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Lot"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "בָּ֥א",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "entró"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6820",
+      "hebreo": "צֹעַר",
+      "transliteracion": "צֹֽעֲרָה׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "en Zoar"
+    }
+  ]
+}

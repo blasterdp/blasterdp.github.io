@@ -1,0 +1,503 @@
+{
+  "versiculo": {
+    "referencia": "2da Crónicas 24:11 Reina Valera 1960",
+    "texto": "Y cuando venía el tiempo para llevar el arca al secretario del rey por mano de los levitas, cuando veían que había mucho dinero, venía el escriba del rey, y el que estaba puesto por el sumo sacerdote, y llevaban el arca, y la vaciában, y la volvían a su lugar. Así lo hacían de día en día, y recogían mucho dinero;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "יְהִ֡י",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "sucedía que"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6256",
+      "hebreo": "עֵת",
+      "transliteracion": "עֵת֩",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "el tiempo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "יָבִ֨יא",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "para llevar"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "727",
+      "hebreo": "אֲרֹון",
+      "transliteracion": "אָרֹ֜ון",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "cofre"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6486",
+      "hebreo": "פְּקֻדָּה",
+      "transliteracion": "פְּקֻדַּ֣ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "oficial de"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מֶּלֶךְ֮",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Rey"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יַ֣ד",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "mano de"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3881",
+      "hebreo": "לֵוִי",
+      "transliteracion": "לְוִיִּם֒",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "levitass"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רְאֹותָ֞ם",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A.PRS.P3.M.PL",
+      "traduccion": "veían"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַ֣ב",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "mucho"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "3701",
+      "hebreo": "כֶּסֶף",
+      "transliteracion": "כֶּ֗סֶף",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "dinero"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "בָ֨א",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "venía"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "5608",
+      "hebreo": "סֹפֵר",
+      "transliteracion": "סֹופֵ֤ר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "el escriba de"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מֶּ֨לֶךְ֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Rey"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "6496",
+      "hebreo": "פָּקִיד",
+      "transliteracion": "פְקִיד֙",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "el oficial de"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "3548",
+      "hebreo": "כֹּהֵן",
+      "transliteracion": "כֹּהֵ֣ן",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "sacerdote"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "7218",
+      "hebreo": "רֹאשׁ",
+      "transliteracion": "רֹ֔אשׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "sumo"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וִ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 35,
+      "strongNumber": "6168",
+      "hebreo": "ערה",
+      "transliteracion": "יעָ֨רוּ֙",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "vaciaban"
+    },
+    {
+      "numero": 36,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 37,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ֣",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 38,
+      "strongNumber": "727",
+      "hebreo": "אֲרֹון",
+      "transliteracion": "אָרֹ֔ון",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "cofre"
+    },
+    {
+      "numero": 39,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 40,
+      "strongNumber": "5375",
+      "hebreo": "נשׂא",
+      "transliteracion": "יִשָּׂאֻ֖הוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL.PRS.P3.M.SG",
+      "traduccion": "lo llevaban"
+    },
+    {
+      "numero": 41,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וִֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 42,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "ישִׁיבֻ֣הוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL.PRS.P3.M.SG",
+      "traduccion": "lo volvían"
+    },
+    {
+      "numero": 43,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 44,
+      "strongNumber": "4725",
+      "hebreo": "מָקֹום",
+      "transliteracion": "מְקֹמֹ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su lugar"
+    },
+    {
+      "numero": 45,
+      "strongNumber": "3541",
+      "hebreo": "כֹּה",
+      "transliteracion": "כֹּ֤ה",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "así"
+    },
+    {
+      "numero": 46,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עָשׂוּ֙",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "lo hacían"
+    },
+    {
+      "numero": 47,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 48,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹ֣ום׀",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    },
+    {
+      "numero": 49,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "tras"
+    },
+    {
+      "numero": 50,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹ֔ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    },
+    {
+      "numero": 51,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 52,
+      "strongNumber": "622",
+      "hebreo": "אסף",
+      "transliteracion": "יַּֽאַסְפוּ־",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "recogían"
+    },
+    {
+      "numero": 53,
+      "strongNumber": "3701",
+      "hebreo": "כֶּסֶף",
+      "transliteracion": "כֶ֖סֶף",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "dinero"
+    },
+    {
+      "numero": 54,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 55,
+      "strongNumber": "7230",
+      "hebreo": "רֹב",
+      "transliteracion": "רֹֽב׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "abundancia"
+    }
+  ]
+}

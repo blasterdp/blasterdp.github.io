@@ -1,0 +1,215 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 14:8 Reina Valera 1960",
+    "texto": "ni cerdo, porque tiene pezuña hendida, mas no rumia; os será inmundo. De la carne de éstos no comeréis, ni tocaréis sus cuerpos muertos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ֠",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2386",
+      "hebreo": "חֲזִיר",
+      "transliteracion": "חֲזִיר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "cerdo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6536",
+      "hebreo": "פרס",
+      "transliteracion": "מַפְרִ֨יס",
+      "parsingLabel": "adjetivo hif‘il participio desconocido masculino singular constructivo",
+      "parsing": "ADJV.HIF.PTCA.U.M.SG.C",
+      "traduccion": "hendida"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6541",
+      "hebreo": "פַּרְסָה",
+      "transliteracion": "פַּרְסָ֥ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "pezuña"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "הוּא֙",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1625",
+      "hebreo": "גֵּרָה",
+      "transliteracion": "גֵרָ֔ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "rumia"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "2931",
+      "hebreo": "טָמֵא",
+      "transliteracion": "טָמֵ֥א",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "inmundo"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֖וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָכֶ֑ם",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino plural",
+      "parsing": "PREP.PRS.P2.M.PL",
+      "traduccion": "para vosotros"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "1320",
+      "hebreo": "בָּשָׂר",
+      "transliteracion": "בְּשָׂרָם֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su carne"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "תֹאכֵ֔לוּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.PL",
+      "traduccion": "comeréis"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "5038",
+      "hebreo": "נְבֵלָה",
+      "transliteracion": "נִבְלָתָ֖ם",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "su cadáver"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "5060",
+      "hebreo": "נגע",
+      "transliteracion": "תִגָּֽעוּ׃ ס",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.PL",
+      "traduccion": "tocaréis"
+    }
+  ]
+}

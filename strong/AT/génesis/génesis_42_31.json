@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 42:31 Reina Valera 1960",
+    "texto": "Y nosotros le dijimos: Somos hombres honrados, nunca fuimos espías."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "נֹּ֥אמֶר",
+      "parsingLabel": "verbo qal wayyiqtol 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.WAYQ.P1.U.PL",
+      "traduccion": "dijimos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֵלָ֖יו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "a él"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3651",
+      "hebreo": "כֵּן",
+      "transliteracion": "כֵּנִ֣ים",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "honrados"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "587",
+      "hebreo": "אֲנַחְנוּ",
+      "transliteracion": "אֲנָ֑חְנוּ",
+      "parsingLabel": "personal pronombre 1ª persona desconocido plural",
+      "parsing": "PRPS.P1.U.PL",
+      "traduccion": "nosotros"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָיִ֖ינוּ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P1.U.PL",
+      "traduccion": "somos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7270",
+      "hebreo": "רגל",
+      "transliteracion": "מְרַגְּלִֽים׃",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.A",
+      "traduccion": "espías."
+    }
+  ]
+}

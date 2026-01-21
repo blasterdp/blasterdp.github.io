@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 1:4 Reina Valera 1960",
+    "texto": "Noé, Sem, Cam y Jafet."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5146",
+      "hebreo": "נֹחַ",
+      "transliteracion": "נֹ֥חַ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Noé"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8035",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שֵׁ֖ם",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Sem"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2526",
+      "hebreo": "חָם",
+      "transliteracion": "חָ֥ם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Cam"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3315",
+      "hebreo": "יֶפֶת",
+      "transliteracion": "יָֽפֶת׃ ס",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Jafet"
+    }
+  ]
+}

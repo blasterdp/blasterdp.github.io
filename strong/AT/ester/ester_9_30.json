@@ -1,0 +1,188 @@
+{
+  "versiculo": {
+    "referencia": "Ester 9:30 Reina Valera 1960",
+    "texto": "Y fueron enviadas cartas a todos los judíos, a las ciento veintisiete provincias del rey Asuero, con palabras de paz y de verdad,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "יִּשְׁלַ֨ח",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "envió"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5612",
+      "hebreo": "סֵפֶר",
+      "transliteracion": "סְפָרִ֜ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cartas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3064",
+      "hebreo": "יְהוּדִי",
+      "transliteracion": "יְּהוּדִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "judíos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7651",
+      "hebreo": "שֶׁבַע",
+      "transliteracion": "שֶׁ֨בַע",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "siete"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "6242",
+      "hebreo": "עֶשְׂרִים",
+      "transliteracion": "עֶשְׂרִ֤ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "veinte"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3967",
+      "hebreo": "מֵאָה",
+      "transliteracion": "מֵאָה֙",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ciento"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "4082",
+      "hebreo": "מְדִינָה",
+      "transliteracion": "מְדִינָ֔ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "provincias"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "4438",
+      "hebreo": "מַלְכוּת",
+      "transliteracion": "מַלְכ֖וּת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "del reino de"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "325",
+      "hebreo": "אֲחַשְׁוֵרֹושׁ",
+      "transliteracion": "אֲחַשְׁוֵרֹ֑ושׁ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Asuero"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דִּבְרֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "palabras de"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "7965",
+      "hebreo": "שָׁלֹום",
+      "transliteracion": "שָׁלֹ֖ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "paz"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וֶ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "571",
+      "hebreo": "אֶמֶת",
+      "transliteracion": "אֱמֶֽת׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "verdad"
+    }
+  ]
+}

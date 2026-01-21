@@ -1,0 +1,278 @@
+{
+  "versiculo": {
+    "referencia": "1ra Reyes 18:10 Reina Valera 1960",
+    "texto": "Vive Jehová tu Dios, que no ha habido nación ni reino adonde mi señor no haya enviado a buscarte, y todos han respondido: No está aquí; y a reinos y a naciones él ha hecho jurar que no te han hallado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2416",
+      "hebreo": "חַי",
+      "transliteracion": "חַ֣י׀",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "vive"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֶ֗יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tu Dios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3426",
+      "hebreo": "יֵשׁ",
+      "transliteracion": "יֶשׁ־",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "hay"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּ֤וי",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "nación"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4467",
+      "hebreo": "מַמְלָכָה",
+      "transliteracion": "מַמְלָכָה֙",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "reino"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲ֠שֶׁר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "שָׁלַ֨ח",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "haya enviado"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "113",
+      "hebreo": "אָדֹון",
+      "transliteracion": "אֲדֹנִ֥י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi señor"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "8033",
+      "hebreo": "שָׁם",
+      "transliteracion": "שָׁם֙",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "allí"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "1245",
+      "hebreo": "בקשׁ",
+      "transliteracion": "בַקֶּשְׁךָ֔",
+      "parsingLabel": "verbo pi“el infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.INFC.U.U.U.A.PRS.P2.M.SG",
+      "traduccion": "buscarte"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָמְר֖וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "decían"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אָ֑יִן",
+      "parsingLabel": "negativo partículo masculino singular absoluto",
+      "parsing": "NEGA.M.SG.A",
+      "traduccion": "no está"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "7650",
+      "hebreo": "שׁבע",
+      "transliteracion": "הִשְׁבִּ֤יעַ",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG",
+      "traduccion": "hacía jurar"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "4467",
+      "hebreo": "מַמְלָכָה",
+      "transliteracion": "מַּמְלָכָה֙",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "reino"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּ֔וי",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "nación"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֖י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "יִמְצָאֶֽכָּה׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P2.M.SG",
+      "traduccion": "te había encontrado"
+    }
+  ]
+}

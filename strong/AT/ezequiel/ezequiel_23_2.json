@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Ezequiel 23:2 Reina Valera 1960",
+    "texto": "Hijo de hombre, hubo dos mujeres, hijas de una madre,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶּן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hijo de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָדָ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁתַּ֣יִם",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "dos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "802",
+      "hebreo": "אִשָּׁה",
+      "transliteracion": "נָשִׁ֔ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mujeres"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1323",
+      "hebreo": "בַּת",
+      "transliteracion": "בְּנֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "hijas de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "517",
+      "hebreo": "אֵם",
+      "transliteracion": "אֵם־",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "madre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "259",
+      "hebreo": "אֶחָד",
+      "transliteracion": "אַחַ֖ת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "una"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָיֽוּ׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "fueron"
+    }
+  ]
+}

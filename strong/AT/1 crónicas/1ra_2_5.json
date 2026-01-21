@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 2:5 Reina Valera 1960",
+    "texto": "Los hijos de Fares: Hezrón y Hamul."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6557",
+      "hebreo": "פֶּרֶץ",
+      "transliteracion": "פֶ֖רֶץ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Peres"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2696",
+      "hebreo": "חֶצְרֹון",
+      "transliteracion": "חֶצְרֹ֥ון",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Hezrón"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2538",
+      "hebreo": "חָמוּל",
+      "transliteracion": "חָמֽוּל׃ ס",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Hamul"
+    }
+  ]
+}

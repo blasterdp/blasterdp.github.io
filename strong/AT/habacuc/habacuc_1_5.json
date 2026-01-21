@@ -1,0 +1,161 @@
+{
+  "versiculo": {
+    "referencia": "Habacuc 1:5 Reina Valera 1960",
+    "texto": "Mirad entre las naciones, y ved, y asombraos; porque haré una obra en vuestros días, que aun cuando se os contare, no la creeréis."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רְא֤וּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "Mirad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a las"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּויִם֙",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "naciones"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5027",
+      "hebreo": "נבט",
+      "transliteracion": "הַבִּ֔יטוּ",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPV.P2.M.PL",
+      "traduccion": "contemplad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8539",
+      "hebreo": "תָּמַהּ",
+      "transliteracion": "הִֽתַּמְּה֖וּ",
+      "parsingLabel": "verbo hitpa“el imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.HIT.IMPV.P2.M.PL",
+      "traduccion": "asombraos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8539",
+      "hebreo": "תָּמַהּ",
+      "transliteracion": "תְּמָ֑הוּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "asombraos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6467",
+      "hebreo": "פֹּעַל",
+      "transliteracion": "פֹ֨עַל֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "una obra"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "6466",
+      "hebreo": "פעל",
+      "transliteracion": "פֹּעֵ֣ל",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "hago"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "ימֵיכֶ֔ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.PL",
+      "traduccion": "vuestros días"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "539",
+      "hebreo": "אמן",
+      "transliteracion": "תַאֲמִ֖ינוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P2.M.PL",
+      "traduccion": "creeríais"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֥י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "5608",
+      "hebreo": "ספר",
+      "transliteracion": "יְסֻפָּֽר׃",
+      "parsingLabel": "verbo pu“al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PUAL.IMPF.P3.M.SG",
+      "traduccion": "fuese contado"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 45:17 Reina Valera 1960",
+    "texto": "Y dijo Faraón a José: Di a tus hermanos: Haced esto: cargad vuestras bestias, e id, volved a la tierra de Canaán;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּ֤אמֶר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6547",
+      "hebreo": "פַּרְעֹה",
+      "transliteracion": "פַּרְעֹה֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "faraón"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3130",
+      "hebreo": "יֹוסֵף",
+      "transliteracion": "יֹוסֵ֔ף",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "José:"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אֱמֹ֥ר",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "di"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "251",
+      "hebreo": "אָח",
+      "transliteracion": "אַחֶ֖יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus hermanos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2063",
+      "hebreo": "זֹאת",
+      "transliteracion": "זֹ֣את",
+      "parsingLabel": "demonstrative pronombre femenino singular",
+      "parsing": "PRDE.F.SG",
+      "traduccion": "esto"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עֲשׂ֑וּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "haced:"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2943",
+      "hebreo": "טען",
+      "transliteracion": "טַֽעֲנוּ֙",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "cargad"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "(objeto marcador)"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "1165",
+      "hebreo": "בְּעִיר",
+      "transliteracion": "בְּעִ֣ירְכֶ֔ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestra bestia"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "לְכוּ־",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "marchad"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "בֹ֖אוּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "regresad"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אַ֥רְצָה",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "tierra de"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "3667",
+      "hebreo": "כְּנַעַן",
+      "transliteracion": "כְּנָֽעַן׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Canaán."
+    }
+  ]
+}

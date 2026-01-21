@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 27:21 Reina Valera 1960",
+    "texto": "Maldito el que se ayuntare con cualquier bestia. Y dirá todo el pueblo: Amén."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "779",
+      "hebreo": "ארר",
+      "transliteracion": "אָר֕וּר",
+      "parsingLabel": "verbo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.M.SG.A",
+      "traduccion": "maldito"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7901",
+      "hebreo": "שׁכב",
+      "transliteracion": "שֹׁכֵ֖ב",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "el que yace"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "cualquier"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "929",
+      "hebreo": "בְּהֵמָה",
+      "transliteracion": "בְּהֵמָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "animal"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָמַ֥ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "dirá"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עָ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pueblo"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "543",
+      "hebreo": "אָמֵן",
+      "transliteracion": "אָמֵֽן׃ ס",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "amén"
+    }
+  ]
+}

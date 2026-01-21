@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "1ra Reyes 14:1 Reina Valera 1960",
+    "texto": "En aquel tiempo Abías hijo de Jeroboam cayó enfermo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6256",
+      "hebreo": "עֵת",
+      "transliteracion": "עֵ֣ת",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tiempo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1931",
+      "hebreo": "הִיא",
+      "transliteracion": "הִ֔יא",
+      "parsingLabel": "demonstrative pronombre 3ª persona femenino singular",
+      "parsing": "PRDE.P3.F.SG",
+      "traduccion": "aquel"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2470",
+      "hebreo": "חלה",
+      "transliteracion": "חָלָ֖ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "enfermó"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "29",
+      "hebreo": "אֲבִיָּה",
+      "transliteracion": "אֲבִיָּ֥ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Abías"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hijo de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3379",
+      "hebreo": "יָרָבְעָם",
+      "transliteracion": "יָרָבְעָֽם׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Jeroboam"
+    }
+  ]
+}

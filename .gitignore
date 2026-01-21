@@ -28,6 +28,14 @@
 !dia_biblico/**
 !dia_biblico/
 
+# Don't ignore strong files
+!strong/**
+!strong/
+
+# Don't ignore parejas files
+!parejas/**
+!parejas/
+
 # Don't ignore directories (so we can traverse them)
 !*/
 

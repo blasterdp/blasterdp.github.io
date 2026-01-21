@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 2:48 Reina Valera 1960",
+    "texto": "Maaca concubina de Caleb dio a luz a Seber y a Tirhana."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6370",
+      "hebreo": "פִּלֶגֶשׁ",
+      "transliteracion": "פִּלֶ֤גֶשׁ",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "concubina de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3612",
+      "hebreo": "כָּלֵב",
+      "transliteracion": "כָּלֵב֙",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Caleb"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4601",
+      "hebreo": "מַעֲכָה",
+      "transliteracion": "מַעֲכָ֔ה",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Maaca"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3205",
+      "hebreo": "ילד",
+      "transliteracion": "יָ֥לַד",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "parió a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7669",
+      "hebreo": "שֶׁבֶר",
+      "transliteracion": "שֶׁ֖בֶר",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Séber"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶֽת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8647",
+      "hebreo": "תִּרְחֲנָה",
+      "transliteracion": "תִּרְחֲנָֽה׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Tirhana"
+    }
+  ]
+}

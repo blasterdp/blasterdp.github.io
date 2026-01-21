@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 32:26 Reina Valera 1960",
+    "texto": "Yo había dicho que los esparciría lejos, Que haría cesar de entre los hombres la memoria de ellos,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָמַ֖רְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "dije"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6284",
+      "hebreo": "פאה",
+      "transliteracion": "אַפְאֵיהֶ֑ם",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG.PRS.P3.M.PL",
+      "traduccion": "los esparciría"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7673",
+      "hebreo": "שׁבת",
+      "transliteracion": "אַשְׁבִּ֥יתָה",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG",
+      "traduccion": "borraría"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "582",
+      "hebreo": "אֱנֹושׁ",
+      "transliteracion": "אֱנֹ֖ושׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "humanidad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2143",
+      "hebreo": "זֵכֶר",
+      "transliteracion": "זִכְרָֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "memoria de ellos"
+    }
+  ]
+}

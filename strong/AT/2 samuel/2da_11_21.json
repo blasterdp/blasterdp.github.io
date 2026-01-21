@@ -1,0 +1,314 @@
+{
+  "versiculo": {
+    "referencia": "2da Samuel 11:21 Reina Valera 1960",
+    "texto": "¿Quién hirió a Abimelec hijo de Jerobaal? ¿No echó una mujer del muro un pedazo de una rueda de molino, y murió en Tebes? ¿Por qué os acercasteis tanto al muro? Entonces tú le dirás: También tu siervo Urías heteo es muerto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִֽי־",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿quién"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5221",
+      "hebreo": "נכה",
+      "transliteracion": "הִכָּ֞ה",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG",
+      "traduccion": "hirió"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "40",
+      "hebreo": "אֲבִימֶלֶךְ",
+      "transliteracion": "אֲבִימֶ֣לֶךְ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Abimelec"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶּן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hijo de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3380",
+      "hebreo": "יְרֻבֶּשֶׁת",
+      "transliteracion": "יְרֻבֶּ֗שֶׁת",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Jerobaal?"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿acaso"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽוא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "802",
+      "hebreo": "אִשָּׁה",
+      "transliteracion": "אִשָּׁ֡ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "mujer"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7993",
+      "hebreo": "שׁלך",
+      "transliteracion": "הִשְׁלִ֣יכָה",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.HIF.PERF.P3.F.SG",
+      "traduccion": "echó"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלָיו֩",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "sobre él"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "6400",
+      "hebreo": "פֶּלַח",
+      "transliteracion": "פֶּ֨לַח",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "trozo de"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "7393",
+      "hebreo": "רֶכֶב",
+      "transliteracion": "רֶ֜כֶב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "rueda de molino"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַ֤ל",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "2346",
+      "hebreo": "חֹומָה",
+      "transliteracion": "חֹומָה֙",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "muralla"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "יָּ֣מָת",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "murió"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "8405",
+      "hebreo": "תֵּבֵץ",
+      "transliteracion": "תֵבֵ֔ץ",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Tebes?"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "4100",
+      "hebreo": "לָמָה",
+      "transliteracion": "לָ֥מָּה",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿por qué"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "5066",
+      "hebreo": "נגשׁ",
+      "transliteracion": "נִגַּשְׁתֶּ֖ם",
+      "parsingLabel": "verbo nif‘al perfecto 2ª persona masculino plural",
+      "parsing": "VERBO.NIF.PERF.P2.M.PL",
+      "traduccion": "os acercasteis"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "2346",
+      "hebreo": "חֹומָה",
+      "transliteracion": "חֹומָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "muralla?"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָ֣מַרְתָּ֔",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "tu dirás"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּ֗ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "también"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עַבְדְּךָ֛",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu siervo"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "223",
+      "hebreo": "אוּרִיָּה",
+      "transliteracion": "אוּרִיָּ֥ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Urías"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "2850",
+      "hebreo": "חִתִּי",
+      "transliteracion": "חִתִּ֖י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "heteo"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "מֵֽת׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ha muerto"
+    }
+  ]
+}

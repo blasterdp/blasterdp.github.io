@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Esdras 2:41 Reina Valera 1960",
+    "texto": "Los cantores: los hijos de Asaf, ciento veintiocho."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "Los"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7891",
+      "hebreo": "שׁיר",
+      "transliteracion": "מְשֹׁרְרִ֑ים",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.A",
+      "traduccion": "cantores"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "los hijos de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "623",
+      "hebreo": "אָסָף",
+      "transliteracion": "אָסָ֔ף",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Asaf"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3967",
+      "hebreo": "מֵאָה",
+      "transliteracion": "מֵאָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ciento"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6242",
+      "hebreo": "עֶשְׂרִים",
+      "transliteracion": "עֶשְׂרִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "veinte"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8083",
+      "hebreo": "שְׁמֹנֶה",
+      "transliteracion": "שְׁמֹנָֽה׃ פ",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ocho"
+    }
+  ]
+}

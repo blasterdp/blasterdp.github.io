@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 32:34 Reina Valera 1960",
+    "texto": "¿No tengo yo esto guardado conmigo, Sellado en mis tesoros?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿acaso"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֖וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "esto"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3647",
+      "hebreo": "כמס",
+      "transliteracion": "כָּמֻ֣ס",
+      "parsingLabel": "verbo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.M.SG.A",
+      "traduccion": "guardado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5978",
+      "hebreo": "עִמָּד",
+      "transliteracion": "עִמָּדִ֑י",
+      "parsingLabel": "preposición masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "conmigo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2856",
+      "hebreo": "חתם",
+      "transliteracion": "חָתֻ֖ם",
+      "parsingLabel": "verbo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.M.SG.A",
+      "traduccion": "sellado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "214",
+      "hebreo": "אֹוצָר",
+      "transliteracion": "אֹוצְרֹתָֽי׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis cofres?"
+    }
+  ]
+}

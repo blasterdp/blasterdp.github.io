@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "1ra Samuel 2:6 Reina Valera 1960",
+    "texto": "Jehová mata, y él da vida; Él hace descender al Seol, y hace subir."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֖ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "מֵמִ֣ית",
+      "parsingLabel": "sustantivo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.HIF.PTCA.U.M.SG.A",
+      "traduccion": "el que hace morir"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2421",
+      "hebreo": "חיה",
+      "transliteracion": "מְחַיֶּ֑ה",
+      "parsingLabel": "verbo pi“el participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.PIEL.PTCA.U.M.SG.A",
+      "traduccion": "el que hace vivir"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3381",
+      "hebreo": "ירד",
+      "transliteracion": "מֹורִ֥יד",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "el que hace descender"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7585",
+      "hebreo": "שְׁאֹול",
+      "transliteracion": "שְׁאֹ֖ול",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "Seol"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5927",
+      "hebreo": "עלה",
+      "transliteracion": "יָּֽעַל׃",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG",
+      "traduccion": "sube"
+    }
+  ]
+}

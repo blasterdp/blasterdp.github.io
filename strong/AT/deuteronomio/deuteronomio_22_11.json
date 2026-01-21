@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 22:11 Reina Valera 1960",
+    "texto": "No vestirás ropa de lana y lino juntamente."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֤א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3847",
+      "hebreo": "לבשׁ",
+      "transliteracion": "תִלְבַּשׁ֙",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "vestirás"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8162",
+      "hebreo": "שַׁעַטְנֵז",
+      "transliteracion": "שַֽׁעַטְנֵ֔ז",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "tejido de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6785",
+      "hebreo": "צֶמֶר",
+      "transliteracion": "צֶ֥מֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "lana"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6593",
+      "hebreo": "פֵּשֶׁת",
+      "transliteracion": "פִשְׁתִּ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "linos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3162",
+      "hebreo": "יַחְדָּו",
+      "transliteracion": "יַחְדָּֽו׃ ס",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "juntos"
+    }
+  ]
+}

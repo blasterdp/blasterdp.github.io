@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 28:18 Reina Valera 1960",
+    "texto": "Maldito el fruto de tu vientre, el fruto de tu tierra, la cría de tus vacas, y los rebaños de tus ovejas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "779",
+      "hebreo": "ארר",
+      "transliteracion": "אָר֥וּר",
+      "parsingLabel": "verbo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.M.SG.A",
+      "traduccion": "maldito"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6529",
+      "hebreo": "פְּרִי",
+      "transliteracion": "פְּרִֽי־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "fruto de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "990",
+      "hebreo": "בֶּטֶן",
+      "transliteracion": "בִטְנְךָ֖",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu vientre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6529",
+      "hebreo": "פְּרִי",
+      "transliteracion": "פְרִ֣י",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "fruto de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "127",
+      "hebreo": "אֲדָמָה",
+      "transliteracion": "אַדְמָתֶ֑ךָ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu tierra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7698",
+      "hebreo": "שֶׁגֶר",
+      "transliteracion": "שְׁגַ֥ר",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "cría de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "504",
+      "hebreo": "אֶלֶף",
+      "transliteracion": "אֲלָפֶ֖יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus vacas"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6251",
+      "hebreo": "עַשְׁתֶּרֶת",
+      "transliteracion": "עַשְׁתְּרֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "manada de"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "6629",
+      "hebreo": "צֹאן",
+      "transliteracion": "צֹאנֶֽךָ׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tus ovejas"
+    }
+  ]
+}

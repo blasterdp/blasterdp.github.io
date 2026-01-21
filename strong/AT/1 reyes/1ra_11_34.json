@@ -1,0 +1,242 @@
+{
+  "versiculo": {
+    "referencia": "1ra Reyes 11:34 Reina Valera 1960",
+    "texto": "Pero no quitaré nada del reino de sus manos, sino que lo retendré por rey todos los días de su vida, por amor a David mi siervo, al cual yo elegí, y quien guardó mis mandamientos y mis estatutos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3947",
+      "hebreo": "לקח",
+      "transliteracion": "אֶקַּ֥ח",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "tomará"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4467",
+      "hebreo": "מַמְלָכָה",
+      "transliteracion": "מַּמְלָכָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "reino"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָּדֹ֑ו",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su mano"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י׀",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5387",
+      "hebreo": "נָשִׂיא",
+      "transliteracion": "נָשִׂ֣יא",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "príncipe"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "7896",
+      "hebreo": "שׁית",
+      "transliteracion": "אֲשִׁתֶ֗נּוּ",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG.PRS.P3.M.SG",
+      "traduccion": "lo mantendré"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֹּ֚ל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יְמֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "(los)días de"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "2416",
+      "hebreo": "חַיִּים",
+      "transliteracion": "חַיָּ֔יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "su vida"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "4616",
+      "hebreo": "לְמַעַן",
+      "transliteracion": "לְמַ֨עַן",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a causa de"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "1732",
+      "hebreo": "דָּוִד",
+      "transliteracion": "דָּוִ֤ד",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "David"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עַבְדִּי֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi siervo"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "977",
+      "hebreo": "בחר",
+      "transliteracion": "בָּחַ֣רְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "escogí"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֹתֹ֔ו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "a él"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֥ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "שָׁמַ֖ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "guardó"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "4687",
+      "hebreo": "מִצְוָה",
+      "transliteracion": "מִצְוֹתַ֥י",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mis mandamientos"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "2708",
+      "hebreo": "חֻקָּה",
+      "transliteracion": "חֻקֹּתָֽי׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mis preceptos"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "versiculo": {
+    "referencia": "Amós 4:2 Reina Valera 1960",
+    "texto": "Jehová el Señor juró por su santidad: He aquí, vienen sobre vosotras días en que os llevarán con ganchos, y a vuestros descendientes con anzuelos de pescador;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7650",
+      "hebreo": "שׁבע",
+      "transliteracion": "נִשְׁבַּ֨ע",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "Juró"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "136",
+      "hebreo": "אֲדֹנָי",
+      "transliteracion": "אֲדֹנָ֤י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Señor"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוִה֙",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6944",
+      "hebreo": "קֹדֶשׁ",
+      "transliteracion": "קָדְשֹׁ֔ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": ":su santidad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֛י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "De cierto"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנֵּ֥ה",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "he aquí"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יָמִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "días"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "בָּאִ֣ים",
+      "parsingLabel": "verbo qal participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.A",
+      "traduccion": "vienen"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עֲלֵיכֶ֑ם",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino plural",
+      "parsing": "PREP.PRS.P2.M.PL",
+      "traduccion": "sobre vosotros"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5375",
+      "hebreo": "נשׂא",
+      "transliteracion": "נִשָּׂ֤א",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "llevará"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶתְכֶם֙",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino plural",
+      "parsing": "PREP.PRS.P2.M.PL",
+      "traduccion": "a vosotros"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "6791",
+      "hebreo": "צֵן",
+      "transliteracion": "צִנֹּ֔ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "ganchos"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "319",
+      "hebreo": "אַחֲרִית",
+      "transliteracion": "אַחֲרִיתְכֶ֖ן",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona femenino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P2.F.PL",
+      "traduccion": "último de vosotros"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "5518",
+      "hebreo": "סִירָה",
+      "transliteracion": "סִירֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "anzuelos de"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "1729",
+      "hebreo": "דּוּגָה",
+      "transliteracion": "דּוּגָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "pesca"
+    }
+  ]
+}

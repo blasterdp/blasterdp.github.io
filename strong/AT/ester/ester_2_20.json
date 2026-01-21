@@ -1,0 +1,224 @@
+{
+  "versiculo": {
+    "referencia": "Ester 2:20 Reina Valera 1960",
+    "texto": "Y Ester, según le había mandado Mardoqueo, no había declarado su nación ni su pueblo; porque Ester hacía lo que decía Mardoqueo, como cuando él la educaba."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵ֣ין",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "No había"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "635",
+      "hebreo": "אֶסְתֵּר",
+      "transliteracion": "אֶסְתֵּ֗ר",
+      "parsingLabel": "nombre propio femenino singular absoluto",
+      "parsing": "NMPR.F.SG.A",
+      "traduccion": "Ester"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5046",
+      "hebreo": "נגד",
+      "transliteracion": "מַגֶּ֤דֶת",
+      "parsingLabel": "verbo hif‘il participio desconocido femenino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.F.SG.A",
+      "traduccion": "declarado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4138",
+      "hebreo": "מֹולֶדֶת",
+      "transliteracion": "מֹֽולַדְתָּהּ֙",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.F.SG",
+      "traduccion": "su linaje"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "ni"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמָּ֔הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "su pueblo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "según"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֛ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6680",
+      "hebreo": "צוה",
+      "transliteracion": "צִוָּ֥ה",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "había mandado"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלֶ֖יהָ",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona femenino singular",
+      "parsing": "PREP.PRS.P3.F.SG",
+      "traduccion": "a ella"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "4782",
+      "hebreo": "מָרְדְּכַי",
+      "transliteracion": "מָרְדֳּכָ֑י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Mardoqueo"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "lo que"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "3982",
+      "hebreo": "מַאֲמָר",
+      "transliteracion": "מַאֲמַ֤ר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "decía"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "4782",
+      "hebreo": "מָרְדְּכַי",
+      "transliteracion": "מָרְדֳּכַי֙",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Mardoqueo"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "635",
+      "hebreo": "אֶסְתֵּר",
+      "transliteracion": "אֶסְתֵּ֣ר",
+      "parsingLabel": "nombre propio femenino singular absoluto",
+      "parsing": "NMPR.F.SG.A",
+      "traduccion": "Ester"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עֹשָׂ֔ה",
+      "parsingLabel": "verbo qal participio desconocido femenino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.F.SG.A",
+      "traduccion": "hacía"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֛ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָיְתָ֥ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "sucedía"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "545",
+      "hebreo": "אָמְנָה",
+      "transliteracion": "אָמְנָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "se educaba"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "854",
+      "hebreo": "אֵת",
+      "transliteracion": "אִתֹּֽו׃ ס",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "con él"
+    }
+  ]
+}

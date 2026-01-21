@@ -1,0 +1,170 @@
+{
+  "versiculo": {
+    "referencia": "Esdras 1:8 Reina Valera 1960",
+    "texto": "Los sacó, pues, Ciro rey de Persia, por mano de Mitrídates tesorero, el cual los dio por cuenta a Sesbasar príncipe de Judá."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "יֹּֽוצִיאֵ֗ם",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los sacó"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3566",
+      "hebreo": "כֹּורֶשׁ",
+      "transliteracion": "כֹּ֚ורֶשׁ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Ciro"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מֶ֣לֶךְ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "rey de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6539",
+      "hebreo": "פָּרַס",
+      "transliteracion": "פָּרַ֔ס",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Persia"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יַ֖ד",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "mano de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4990",
+      "hebreo": "מִתְרְדָת",
+      "transliteracion": "מִתְרְדָ֣ת",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Mitrídates"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1489",
+      "hebreo": "גִּזְבָּר",
+      "transliteracion": "גִּזְבָּ֑ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "tesorero"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5608",
+      "hebreo": "ספר",
+      "transliteracion": "יִּסְפְּרֵם֙",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los dio por cuenta"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "8339",
+      "hebreo": "שֵׁשְׁבַּצַּר",
+      "transliteracion": "שֵׁשְׁבַּצַּ֔ר",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Sesbasar"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "5387",
+      "hebreo": "נָשִׂיא",
+      "transliteracion": "נָּשִׂ֖יא",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "príncipe"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "3063",
+      "hebreo": "יְהוּדָה",
+      "transliteracion": "יהוּדָֽה׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Judá"
+    }
+  ]
+}

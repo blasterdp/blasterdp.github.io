@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 5:3 Reina Valera 1960",
+    "texto": "Me he desnudado de mi ropa; ¿cómo me he de vestir? He lavado mis pies; ¿cómo los he de ensuciar?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6584",
+      "hebreo": "פשׁט",
+      "transliteracion": "פָּשַׁ֨טְתִּי֙",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "Me he quitado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3801",
+      "hebreo": "כֻּתֹּנֶת",
+      "transliteracion": "כֻּתָּנְתִּ֔י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi túnica"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "349",
+      "hebreo": "אֵיכָכָה",
+      "transliteracion": "אֵיכָ֖כָה",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "cómo¿"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3847",
+      "hebreo": "לבשׁ",
+      "transliteracion": "אֶלְבָּשֶׁ֑נָּה",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG.PRS.P3.F.SG",
+      "traduccion": "?he de vestírmela"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7364",
+      "hebreo": "רחץ",
+      "transliteracion": "רָחַ֥צְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "He lavado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7272",
+      "hebreo": "רֶגֶל",
+      "transliteracion": "רַגְלַ֖י",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "mis pies"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "349",
+      "hebreo": "אֵיכָכָה",
+      "transliteracion": "אֵיכָ֥כָה",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "cómo¿"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2936",
+      "hebreo": "טנף",
+      "transliteracion": "אֲטַנְּפֵֽם׃",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG.PRS.P3.M.PL",
+      "traduccion": "?llos ensuciaré"
+    }
+  ]
+}

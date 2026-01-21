@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 32:9 Reina Valera 1960",
+    "texto": "Porque la porción de Jehová es su pueblo; Jacob la heredad que le tocó."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֛י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2506",
+      "hebreo": "חֵלֶק",
+      "transliteracion": "חֵ֥לֶק",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "porción de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהֹוָ֖ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמֹּ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su pueblo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3290",
+      "hebreo": "יַעֲקֹב",
+      "transliteracion": "יַעֲקֹ֖ב",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Jacob"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2256",
+      "hebreo": "חֶבֶל",
+      "transliteracion": "חֶ֥בֶל",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "parte de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5159",
+      "hebreo": "נַחֲלָה",
+      "transliteracion": "נַחֲלָתֹֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su heredad"
+    }
+  ]
+}

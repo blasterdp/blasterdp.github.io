@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 27:23 Reina Valera 1960",
+    "texto": "Maldito el que se acostare con su suegra. Y dirá todo el pueblo: Amén."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "779",
+      "hebreo": "ארר",
+      "transliteracion": "אָר֕וּר",
+      "parsingLabel": "verbo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.M.SG.A",
+      "traduccion": "maldito"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7901",
+      "hebreo": "שׁכב",
+      "transliteracion": "שֹׁכֵ֖ב",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "el que yaciere"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2859",
+      "hebreo": "חתן",
+      "transliteracion": "חֹֽתַנְתֹּ֑ו",
+      "parsingLabel": "sustantivo qal participio desconocido femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su suegra"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָמַ֥ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "dirá"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עָ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pueblo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "543",
+      "hebreo": "אָמֵן",
+      "transliteracion": "אָמֵֽן׃ ס",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "amén"
+    }
+  ]
+}

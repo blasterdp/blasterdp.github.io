@@ -1,0 +1,125 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 3:1 Reina Valera 1960",
+    "texto": "Por las noches busqué en mi lecho al que ama mi alma; Lo busqué, y no lo hallé."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "En"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4904",
+      "hebreo": "מִשְׁכָּב",
+      "transliteracion": "מִשְׁכָּבִי֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi lecho"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3915",
+      "hebreo": "לַיְלָה",
+      "transliteracion": "לֵּילֹ֔ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "las noches"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1245",
+      "hebreo": "בקשׁ",
+      "transliteracion": "בִּקַּ֕שְׁתִּי",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P1.U.SG",
+      "traduccion": "he buscado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֵ֥ת",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "al"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7945",
+      "hebreo": "שַׁ",
+      "transliteracion": "שֶׁ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "אָהֲבָ֖ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "ama"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשִׁ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": ";mi alma"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1245",
+      "hebreo": "בקשׁ",
+      "transliteracion": "בִּקַּשְׁתִּ֖יו",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P1.U.SG.PRS.P3.M.SG",
+      "traduccion": "lo busqué"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "מְצָאתִֽיו׃",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG.PRS.P3.M.SG",
+      "traduccion": "lo hallé"
+    }
+  ]
+}

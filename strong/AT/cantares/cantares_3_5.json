@@ -1,0 +1,206 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 3:5 Reina Valera 1960",
+    "texto": "Yo os conjuro, oh doncellas de Jerusalén, Por los corzos y por las ciervas del campo, Que no despertéis ni hagáis velar al amor, Hasta que quiera."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7650",
+      "hebreo": "שׁבע",
+      "transliteracion": "הִשְׁבַּ֨עְתִּי",
+      "parsingLabel": "verbo hif‘il perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P1.U.SG",
+      "traduccion": "Conjuro"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶתְכֶ֜ם",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino plural",
+      "parsing": "PREP.PRS.P2.M.PL",
+      "traduccion": "os"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1323",
+      "hebreo": "בַּת",
+      "transliteracion": "בְּנֹ֤ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "hijas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3389",
+      "hebreo": "יְרוּשָׁלִַם",
+      "transliteracion": "יְרוּשָׁלִַ֨ם֙",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Jerusalén"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6646",
+      "hebreo": "צְבָאָה",
+      "transliteracion": "צְבָאֹ֔ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "las gacelas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "176",
+      "hebreo": "אֹו",
+      "transliteracion": "אֹ֖ו",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "355",
+      "hebreo": "אַיָּלָה",
+      "transliteracion": "אַיְלֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "las ciervas"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "del"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7704",
+      "hebreo": "שָׂדֶה",
+      "transliteracion": "שָּׂדֶ֑ה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "campo"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que no"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "5782",
+      "hebreo": "עור",
+      "transliteracion": "תָּעִ֧ירוּ׀",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P2.M.PL",
+      "traduccion": "despertéis"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "ni"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "5782",
+      "hebreo": "עור",
+      "transliteracion": "תְּעֹֽורְר֛וּ",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.PL",
+      "traduccion": "desveléis"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "al"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "160",
+      "hebreo": "אֲהָבָה",
+      "transliteracion": "אַהֲבָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "amor"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַ֥ד",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "7945",
+      "hebreo": "שַׁ",
+      "transliteracion": "שֶׁ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "2654",
+      "hebreo": "חפץ",
+      "transliteracion": "תֶּחְפָּֽץ׃ ס",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "le plazca"
+    }
+  ]
+}

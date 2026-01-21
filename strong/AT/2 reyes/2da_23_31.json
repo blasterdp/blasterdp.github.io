@@ -1,0 +1,206 @@
+{
+  "versiculo": {
+    "referencia": "2da Reyes 23:31 Reina Valera 1960",
+    "texto": "De veintitrés años era Joacaz cuando comenzó a reinar, y reinó tres meses en Jerusalén. El nombre de su madre fue Hamutal hija de Jeremías, de Libna."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶּן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hijo de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6242",
+      "hebreo": "עֶשְׂרִים",
+      "transliteracion": "עֶשְׂרִ֨ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "veinte"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7969",
+      "hebreo": "שָׁלֹשׁ",
+      "transliteracion": "שָׁלֹ֤שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tres"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8141",
+      "hebreo": "שָׁנָה",
+      "transliteracion": "שָׁנָה֙",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "años"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3059",
+      "hebreo": "יְהֹואָחָז",
+      "transliteracion": "יְהֹואָחָ֣ז",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Joacaz"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4427",
+      "hebreo": "מלך",
+      "transliteracion": "מָלְכֹ֔ו",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A.PRS.P3.M.SG",
+      "traduccion": "su reinar"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7969",
+      "hebreo": "שָׁלֹשׁ",
+      "transliteracion": "שְׁלֹשָׁ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "tres"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2320",
+      "hebreo": "חֹדֶשׁ",
+      "transliteracion": "חֳדָשִׁ֔ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "meses"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "4427",
+      "hebreo": "מלך",
+      "transliteracion": "מָלַ֖ךְ",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "reinó"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3389",
+      "hebreo": "יְרוּשָׁלִַם",
+      "transliteracion": "ירוּשָׁלִָ֑ם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Jerusalén"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שֵׁ֣ם",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "el nombre de"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "517",
+      "hebreo": "אֵם",
+      "transliteracion": "אִמֹּ֔ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su madre"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "2537",
+      "hebreo": "חֲמוּטַל",
+      "transliteracion": "חֲמוּטַ֥ל",
+      "parsingLabel": "nombre propio femenino singular absoluto",
+      "parsing": "NMPR.F.SG.A",
+      "traduccion": "Hamutal"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "1323",
+      "hebreo": "בַּת",
+      "transliteracion": "בַּֽת־",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "hija de"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "3414",
+      "hebreo": "יִרְמְיָהוּ",
+      "transliteracion": "יִרְמְיָ֖הוּ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Jeremías"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "3841",
+      "hebreo": "לִבְנָה",
+      "transliteracion": "לִּבְנָֽה׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Libna"
+    }
+  ]
+}

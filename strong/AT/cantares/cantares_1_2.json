@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 1:2 Reina Valera 1960",
+    "texto": "¡Oh, si él me besara con besos de su boca! Porque mejores son tus amores que el vino."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5401",
+      "hebreo": "נשׁק",
+      "transliteracion": "יִשָּׁקֵ֨נִי֙",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "Béseme"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5390",
+      "hebreo": "נְשִׁיקָה",
+      "transliteracion": "נְּשִׁיקֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "besos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּ֔יהוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "de suboca"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2896",
+      "hebreo": "טֹוב",
+      "transliteracion": "טֹובִ֥ים",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "buenos (son)"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1730",
+      "hebreo": "דֹּוד",
+      "transliteracion": "דֹּדֶ֖יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus amores"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "más que"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3196",
+      "hebreo": "יַיִן",
+      "transliteracion": "יָּֽיִן׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "el vino"
+    }
+  ]
+}

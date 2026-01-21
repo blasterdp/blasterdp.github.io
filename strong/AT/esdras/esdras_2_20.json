@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Esdras 2:20 Reina Valera 1960",
+    "texto": "Los hijos de Gibar, noventa y cinco."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "Los hijos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1402",
+      "hebreo": "גִּבָּר",
+      "transliteracion": "גִבָּ֖ר",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Gibar"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8672",
+      "hebreo": "תֵּשַׁע",
+      "transliteracion": "תִּשְׁעִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "noventa"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2568",
+      "hebreo": "חָמֵשׁ",
+      "transliteracion": "חֲמִשָּֽׁה׃ ס",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "cinco"
+    }
+  ]
+}

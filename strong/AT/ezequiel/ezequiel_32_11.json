@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Ezequiel 32:11 Reina Valera 1960",
+    "texto": "Porque así ha dicho Jehová el Señor: La espada del rey de Babilonia vendrá sobre ti."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֛י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3541",
+      "hebreo": "כֹּה",
+      "transliteracion": "כֹּ֥ה",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "así"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָמַ֖ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "dice"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "136",
+      "hebreo": "אֲדֹנָי",
+      "transliteracion": "אֲדֹנָ֣י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Señor"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוִ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2719",
+      "hebreo": "חֶרֶב",
+      "transliteracion": "חֶ֥רֶב",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "espada de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מֶֽלֶךְ־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "rey de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "894",
+      "hebreo": "בָּבֶל",
+      "transliteracion": "בָּבֶ֖ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Babilonia"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "תְּבֹואֶֽךָ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG.PRS.P2.M.SG",
+      "traduccion": "vendrá contra ti"
+    }
+  ]
+}

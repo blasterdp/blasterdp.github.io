@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 35:24 Reina Valera 1960",
+    "texto": "Los hijos de Raquel: José y Benjamín."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "Hijos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7354",
+      "hebreo": "רָחֵל",
+      "transliteracion": "רָחֵ֔ל",
+      "parsingLabel": "nombre propio femenino singular absoluto",
+      "parsing": "NMPR.F.SG.A",
+      "traduccion": "Raquel"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3130",
+      "hebreo": "יֹוסֵף",
+      "transliteracion": "יֹוסֵ֖ף",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "José"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1144",
+      "hebreo": "בִּנְיָמִן",
+      "transliteracion": "בִנְיָמִֽן׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Benjamín."
+    }
+  ]
+}

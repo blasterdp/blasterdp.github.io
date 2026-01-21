@@ -1,0 +1,188 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 4:6 Reina Valera 1960",
+    "texto": "Hasta que apunte el día y huyan las sombras, Me iré al monte de la mirra, Y al collado del incienso."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַ֤ד",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "Hasta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7945",
+      "hebreo": "שַׁ",
+      "transliteracion": "שֶׁ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6315",
+      "hebreo": "פוח",
+      "transliteracion": "יָּפ֨וּחַ֙",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "sople"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "(la brisa) del"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹּ֔ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5127",
+      "hebreo": "נוס",
+      "transliteracion": "נָ֖סוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "huyan"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "las"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6738",
+      "hebreo": "צֵל",
+      "transliteracion": "צְּלָלִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "sombras"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "אֵ֤לֶךְ",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "iré"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִי֙",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "me"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "al"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הַ֣ר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "monte"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "de la"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "4753",
+      "hebreo": "מֹר",
+      "transliteracion": "מֹּ֔ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mirra"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "al"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "1389",
+      "hebreo": "גִּבְעָה",
+      "transliteracion": "גִּבְעַ֖ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "collado"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "del"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "3828",
+      "hebreo": "לְבֹנָה",
+      "transliteracion": "לְּבֹונָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "incienso"
+    }
+  ]
+}

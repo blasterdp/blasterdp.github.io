@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 2:4 Reina Valera 1960",
+    "texto": "Me llevó a la casa del banquete, Y su bandera sobre mí fue amor."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "הֱבִיאַ֨נִי֙",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "Me ha traído"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּ֣ית",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "(la) casa"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "del"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3196",
+      "hebreo": "יַיִן",
+      "transliteracion": "יָּ֔יִן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "vino"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1714",
+      "hebreo": "דֶּגֶל",
+      "transliteracion": "דִגְלֹ֥ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su estandarte"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלַ֖י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre mi (es)"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "160",
+      "hebreo": "אֲהָבָה",
+      "transliteracion": "אַהֲבָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "(el) amor"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "versiculo": {
+    "referencia": "Esdras 4:23 Reina Valera 1960",
+    "texto": "Entonces, cuando la copia de la carta del rey Artajerjes fue leída delante de Rehum, y de Simsai secretario y sus compañeros, fueron apresuradamente a Jerusalén a los judíos, y les hicieron cesar con poder y violencia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "116",
+      "hebreo": "אֱדַיִן",
+      "transliteracion": "אֱדַ֗יִן",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "Entonces"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4481",
+      "hebreo": "מִן",
+      "transliteracion": "מִן־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1768",
+      "hebreo": "דִּי",
+      "transliteracion": "דִּ֞י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6573",
+      "hebreo": "פַּרְשֶׁגֶן",
+      "transliteracion": "פַּרְשֶׁ֤גֶן",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "la copia de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5407",
+      "hebreo": "נִשְׁתְּוָן",
+      "transliteracion": "נִשְׁתְּוָנָא֙",
+      "parsingLabel": "sustantivo masculino singular emphatic",
+      "parsing": "SUBS.M.SG.E",
+      "traduccion": "la carta"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1768",
+      "hebreo": "דִּי",
+      "transliteracion": "דִּ֚י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "783",
+      "hebreo": "אַרְתַּחְשַׁשְׂתְּא",
+      "transliteracion": "אַרְתַּחְשַׁ֣שְׂתְּ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Artajerjes"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4430",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מַלְכָּ֔א",
+      "parsingLabel": "sustantivo masculino singular emphatic",
+      "parsing": "SUBS.M.SG.E",
+      "traduccion": "el rey"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7123",
+      "hebreo": "קרא",
+      "transliteracion": "קֱרִ֧י",
+      "parsingLabel": "verbo pe‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PEIL.PERF.P3.M.SG",
+      "traduccion": "fue leída"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6925",
+      "hebreo": "קֳדָם",
+      "transliteracion": "קֳדָם־",
+      "parsingLabel": "preposición desconocido singular absoluto",
+      "parsing": "PREP.U.SG.A",
+      "traduccion": "delante de"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7348",
+      "hebreo": "רְחוּם",
+      "transliteracion": "רְח֛וּם",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Rehum"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "8124",
+      "hebreo": "שִׁמְשַׁי",
+      "transliteracion": "שִׁמְשַׁ֥י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "de Simsai"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "5613",
+      "hebreo": "סָפַר",
+      "transliteracion": "סָפְרָ֖א",
+      "parsingLabel": "sustantivo masculino singular emphatic",
+      "parsing": "SUBS.M.SG.E",
+      "traduccion": "el secretario"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3675",
+      "hebreo": "כְּנָת",
+      "transliteracion": "כְנָוָתְהֹ֑ון",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus compañeros"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "236",
+      "hebreo": "אזל",
+      "transliteracion": "אֲזַ֨לוּ",
+      "parsingLabel": "verbo pe‘al perfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PEAL.PERF.P3.M.PL",
+      "traduccion": "fueron"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "924",
+      "hebreo": "בְּהִילוּ",
+      "transliteracion": "בְהִיל֤וּ",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "inmediato"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "3390",
+      "hebreo": "יְרוּשְׁלֶם",
+      "transliteracion": "ירֽוּשְׁלֶם֙",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Jerusalén"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "5922",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "3062",
+      "hebreo": "יְהוּדָי",
+      "transliteracion": "יְה֣וּדָיֵ֔א",
+      "parsingLabel": "sustantivo masculino plural emphatic",
+      "parsing": "SUBS.M.PL.E",
+      "traduccion": "los judíos"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "e"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "989",
+      "hebreo": "בטל",
+      "transliteracion": "בַטִּ֥לוּ",
+      "parsingLabel": "verbo pa“el perfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PAEL.PERF.P3.M.PL",
+      "traduccion": "hicieron cesar"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "1994",
+      "hebreo": "הִמֹּו",
+      "transliteracion": "הִמֹּ֖ו",
+      "parsingLabel": "pronombre personal 3ª persona masculino plural",
+      "parsing": "PRPS.P3.M.PL",
+      "traduccion": "a ellos"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "153",
+      "hebreo": "אֶדְרָע",
+      "transliteracion": "אֶדְרָ֥ע",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "poder"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "2429",
+      "hebreo": "חַיִל",
+      "transliteracion": "חָֽיִל׃ ס",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "fuerza"
+    }
+  ]
+}

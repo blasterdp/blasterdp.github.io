@@ -1,0 +1,323 @@
+{
+  "versiculo": {
+    "referencia": "Eclesiatés 9:12 Reina Valera 1960",
+    "texto": "Porque el hombre tampoco conoce su tiempo; como los peces que son presos en la mala red, y como las aves que se enredan en lazo, así son enlazados los hijos de los hombres en el tiempo malo, cuando cae de repente sobre ellos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֡י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּם֩",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "además"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יֵדַ֨ע",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "conoce"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָדָ֜ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6256",
+      "hebreo": "עֵת",
+      "transliteracion": "עִתֹּ֗ו",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": ";su tiempo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1709",
+      "hebreo": "דָּג",
+      "transliteracion": "דָּגִים֙",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "los peces"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7945",
+      "hebreo": "שַׁ",
+      "transliteracion": "שֶׁ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "270",
+      "hebreo": "אחז",
+      "transliteracion": "נֶּֽאֱחָזִים֙",
+      "parsingLabel": "verbo nif‘al participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.M.PL.A",
+      "traduccion": "son atrapados"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "4685",
+      "hebreo": "מְצֹודָה",
+      "transliteracion": "מְצֹודָ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "red"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "7451",
+      "hebreo": "רַע",
+      "transliteracion": "רָעָ֔ה",
+      "parsingLabel": "adjetivo femenino singular absoluto",
+      "parsing": "ADJV.F.SG.A",
+      "traduccion": "malvada"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַ֨",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "6833",
+      "hebreo": "צִפֹּור",
+      "transliteracion": "צִּפֳּרִ֔ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "las aves"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "las"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "270",
+      "hebreo": "אחז",
+      "transliteracion": "אֲחֻזֹ֖ות",
+      "parsingLabel": "verbo qal participio (passive) desconocido femenino plural absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.F.PL.A",
+      "traduccion": "apresadas"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "6341",
+      "hebreo": "פַּח",
+      "transliteracion": "פָּ֑ח",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "la trampa"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כָּהֵ֗ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "así ellos"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "3369",
+      "hebreo": "יקשׁ",
+      "transliteracion": "יֽוּקָשִׁים֙",
+      "parsingLabel": "verbo qal participio (passive) desconocido masculino plural absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.M.PL.A",
+      "traduccion": "son atrapados"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "(los) hijos"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "de los"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָדָ֔ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombres"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "6256",
+      "hebreo": "עֵת",
+      "transliteracion": "עֵ֣ת",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "el tiempo"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "7451",
+      "hebreo": "רָעָה",
+      "transliteracion": "רָעָ֔ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "malo"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "7945",
+      "hebreo": "שַׁ",
+      "transliteracion": "שֶׁ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "תִּפֹּ֥ול",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "cae"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עֲלֵיהֶ֖ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "sobre ellos"
+    },
+    {
+      "numero": 35,
+      "strongNumber": "6597",
+      "hebreo": "פִּתְאֹם",
+      "transliteracion": "פִּתְאֹֽם׃",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "de repente"
+    }
+  ]
+}

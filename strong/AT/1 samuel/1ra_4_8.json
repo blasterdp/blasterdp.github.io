@@ -1,0 +1,233 @@
+{
+  "versiculo": {
+    "referencia": "1ra Samuel 4:8 Reina Valera 1960",
+    "texto": "¡Ay de nosotros! ¿Quién nos librará de la mano de estos dioses poderosos? Estos son los dioses que hirieron a Egipto con toda plaga en el desierto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "188",
+      "hebreo": "אֹוי",
+      "transliteracion": "אֹ֣וי",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "ay"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ֔נוּ",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "PREP.PRS.P1.U.PL",
+      "traduccion": "de nosotros"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִ֣י",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "quién?"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "יַצִּילֵ֔נוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P1.U.PL",
+      "traduccion": "nos librará"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יַּ֛ד",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "mano de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "dioses"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "117",
+      "hebreo": "אַדִּיר",
+      "transliteracion": "אַדִּירִ֖ים",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "poderosos"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "428",
+      "hebreo": "אֵלֶּה",
+      "transliteracion": "אֵ֑לֶּה",
+      "parsingLabel": "demonstrative pronombre desconocido plural",
+      "parsing": "PRDE.U.PL",
+      "traduccion": "estos?"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "428",
+      "hebreo": "אֵלֶּה",
+      "transliteracion": "אֵ֧לֶּה",
+      "parsingLabel": "demonstrative pronombre desconocido plural",
+      "parsing": "PRDE.U.PL",
+      "traduccion": "estos"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "1992",
+      "hebreo": "הֵם",
+      "transliteracion": "הֵ֣ם",
+      "parsingLabel": "pronombre personal 3ª persona masculino plural",
+      "parsing": "PRPS.P3.M.PL",
+      "traduccion": "ellos"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "dioses"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "-"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "5221",
+      "hebreo": "נכה",
+      "transliteracion": "מַּכִּ֧ים",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.PL.A",
+      "traduccion": "golpearon"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "4714",
+      "hebreo": "מִצְרַיִם",
+      "transliteracion": "מִצְרַ֛יִם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Egipto"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "toda"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "4347",
+      "hebreo": "מַכָּה",
+      "transliteracion": "מַכָּ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "plaga"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "4057",
+      "hebreo": "מִדְבָּר",
+      "transliteracion": "מִּדְבָּֽר׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "desierto"
+    }
+  ]
+}

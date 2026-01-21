@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 32:18 Reina Valera 1960",
+    "texto": "De la Roca que te creó te olvidaste; Te has olvidado de Dios tu creador."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6697",
+      "hebreo": "צוּר",
+      "transliteracion": "צ֥וּר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "roca"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3205",
+      "hebreo": "ילד",
+      "transliteracion": "יְלָדְךָ֖",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P2.M.SG",
+      "traduccion": "te engendró"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7876",
+      "hebreo": "שׁיה",
+      "transliteracion": "תֶּ֑שִׁי",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "abandonaste"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "תִּשְׁכַּ֖ח",
+      "parsingLabel": "verbo qal wayyiqtol 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P2.M.SG",
+      "traduccion": "olvidaste"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "410",
+      "hebreo": "אֵל",
+      "transliteracion": "אֵ֥ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2342",
+      "hebreo": "חיל",
+      "transliteracion": "מְחֹלְלֶֽךָ׃",
+      "parsingLabel": "verbo pi“el participio desconocido masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERB.PIEL.PTCA.U.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu creación"
+    }
+  ]
+}

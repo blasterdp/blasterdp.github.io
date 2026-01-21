@@ -1,0 +1,161 @@
+{
+  "versiculo": {
+    "referencia": "1ra Reyes 11:1 Reina Valera 1960",
+    "texto": "Pero el rey Salomón amó, además de la hija de Faraón, a muchas mujeres extranjeras; a las de Moab, a las de Amón, a las de Edom, a las de Sidón, y a las heteas;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מֶּ֣לֶךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "rey"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8010",
+      "hebreo": "שְׁלֹמֹה",
+      "transliteracion": "שְׁלֹמֹ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Salomón"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "אָהַ֞ב",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "amó"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "802",
+      "hebreo": "אִשָּׁה",
+      "transliteracion": "נָשִׁ֧ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mujeres"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5237",
+      "hebreo": "נָכְרִי",
+      "transliteracion": "נָכְרִיֹּ֛ות",
+      "parsingLabel": "adjetivo femenino plural absoluto",
+      "parsing": "ADJV.F.PL.A",
+      "traduccion": "extranjeras"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַבֹּ֖ות",
+      "parsingLabel": "adjetivo femenino plural absoluto",
+      "parsing": "ADJV.F.PL.A",
+      "traduccion": "muchas"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1323",
+      "hebreo": "בַּת",
+      "transliteracion": "בַּת־",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "hija de"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "6547",
+      "hebreo": "פַּרְעֹה",
+      "transliteracion": "פַּרְעֹ֑ה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Faraón"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4125",
+      "hebreo": "מֹואָבִי",
+      "transliteracion": "מֹואֲבִיֹּ֤ות",
+      "parsingLabel": "adjetivo femenino plural absoluto",
+      "parsing": "ADJV.F.PL.A",
+      "traduccion": "moabitas"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "5984",
+      "hebreo": "עַמֹּונִי",
+      "transliteracion": "עַמֳּנִיֹּות֙",
+      "parsingLabel": "adjetivo femenino plural absoluto",
+      "parsing": "ADJV.F.PL.A",
+      "traduccion": "amonitas"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "130",
+      "hebreo": "אֲדֹמִי",
+      "transliteracion": "אֲדֹ֣מִיֹּ֔ת",
+      "parsingLabel": "adjetivo femenino plural absoluto",
+      "parsing": "ADJV.F.PL.A",
+      "traduccion": "edomitas"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "6722",
+      "hebreo": "צִידֹנִי",
+      "transliteracion": "צֵדְנִיֹּ֖ת",
+      "parsingLabel": "adjetivo femenino plural absoluto",
+      "parsing": "ADJV.F.PL.A",
+      "traduccion": "sidonias"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "2850",
+      "hebreo": "חִתִּי",
+      "transliteracion": "חִתִּיֹּֽת׃",
+      "parsingLabel": "adjetivo femenino plural absoluto",
+      "parsing": "ADJV.F.PL.A",
+      "traduccion": "heteas"
+    }
+  ]
+}

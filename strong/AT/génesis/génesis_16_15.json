@@ -1,0 +1,143 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 16:15 Reina Valera 1960",
+    "texto": "Y Agar dio a luz un hijo a Abram, y llamó Abram el nombre del hijo que le dio Agar, Ismael."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3205",
+      "hebreo": "ילד",
+      "transliteracion": "תֵּ֧לֶד",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.F.SG",
+      "traduccion": "dio a luz"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1904",
+      "hebreo": "הָגָר",
+      "transliteracion": "הָגָ֛ר",
+      "parsingLabel": "nombre propio femenino singular absoluto",
+      "parsing": "NMPR.F.SG.A",
+      "traduccion": "Hagar"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "87",
+      "hebreo": "אַבְרָם",
+      "transliteracion": "אַבְרָ֖ם",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Abram"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֵּ֑ן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hijo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7121",
+      "hebreo": "קרא",
+      "transliteracion": "יִּקְרָ֨א",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "llamó"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "87",
+      "hebreo": "אַבְרָם",
+      "transliteracion": "אַבְרָ֧ם",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Abram"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שֶׁם־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "nombre de"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֹ֛ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su hijo"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3205",
+      "hebreo": "ילד",
+      "transliteracion": "יָלְדָ֥ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "dio a luz"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "1904",
+      "hebreo": "הָגָר",
+      "transliteracion": "הָגָ֖ר",
+      "parsingLabel": "nombre propio femenino singular absoluto",
+      "parsing": "NMPR.F.SG.A",
+      "traduccion": "Hagar"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "3458",
+      "hebreo": "יִשְׁמָעֵאל",
+      "transliteracion": "יִשְׁמָעֵֽאל׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Ismael"
+    }
+  ]
+}

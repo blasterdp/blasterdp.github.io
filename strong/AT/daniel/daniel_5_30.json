@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Daniel 5:30 Reina Valera 1960",
+    "texto": "La misma noche fue muerto Belsasar rey de los caldeos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בֵּ֚הּ",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona femenino singular",
+      "parsing": "PREP.PRS.P3.F.SG",
+      "traduccion": "En aquella"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3916",
+      "hebreo": "לֵילֵי",
+      "transliteracion": "לֵ֣ילְיָ֔א",
+      "parsingLabel": "sustantivo masculino singular emphatic",
+      "parsing": "SUBS.M.SG.E",
+      "traduccion": "noche"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6992",
+      "hebreo": "קטל",
+      "transliteracion": "קְטִ֕יל",
+      "parsingLabel": "verbo pe‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PEIL.PERF.P3.M.SG",
+      "traduccion": "fue matado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1113",
+      "hebreo": "בֵּלְשַׁאצַּר",
+      "transliteracion": "בֵּלְאשַׁצַּ֖ר",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Belsasar"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4430",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מַלְכָּ֥א",
+      "parsingLabel": "sustantivo masculino singular emphatic",
+      "parsing": "SUBS.M.SG.E",
+      "traduccion": "el rey"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3779",
+      "hebreo": "כַּשְׂדָּי",
+      "transliteracion": "כַשְׂדָּאָֽה׃",
+      "parsingLabel": "sustantivo masculino singular emphatic",
+      "parsing": "SUBS.M.SG.E",
+      "traduccion": "los caldeos"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 7:6 Reina Valera 1960",
+    "texto": "¡Qué hermosa eres, y cuán suave, Oh amor deleitoso!"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מַה־",
+      "parsingLabel": "interrogativo partículo desconocido desconocido",
+      "parsing": "INRG.U.U",
+      "traduccion": "Qué¡"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3302",
+      "hebreo": "יפה",
+      "transliteracion": "יָּפִית֙",
+      "parsingLabel": "verbo qal perfecto 2ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P2.F.SG",
+      "traduccion": "hermosa"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מַה־",
+      "parsingLabel": "interrogativo partículo desconocido desconocido",
+      "parsing": "INRG.U.U",
+      "traduccion": "qué"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5276",
+      "hebreo": "נעם",
+      "transliteracion": "נָּעַ֔מְתְּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P2.F.SG",
+      "traduccion": "encantadora (eres)"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "160",
+      "hebreo": "אֲהָבָה",
+      "transliteracion": "אַהֲבָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "amor (mío)"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8588",
+      "hebreo": "תַּעֲנוּג",
+      "transliteracion": "תַּֽעֲנוּגִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "!(tus) encantos"
+    }
+  ]
+}

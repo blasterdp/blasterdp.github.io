@@ -1,0 +1,350 @@
+{
+  "versiculo": {
+    "referencia": "Daniel 1:10 Reina Valera 1960",
+    "texto": "y dijo el jefe de los eunucos a Daniel: Temo a mi señor el rey, que señaló vuestra comida y vuestra bebida; pues luego que él vea vuestros rostros más pálidos que los de los muchachos que son semejantes a vosotros, condenaréis para con el rey mi cabeza."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Pero"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּ֜אמֶר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8269",
+      "hebreo": "שַׂר",
+      "transliteracion": "שַׂ֤ר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "jefe de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5631",
+      "hebreo": "סָרִיס",
+      "transliteracion": "סָּרִיסִים֙",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "oficiales"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1840",
+      "hebreo": "דָּנִיֵּאל",
+      "transliteracion": "דָ֣נִיֵּ֔אל",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": ":Daniel"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3372",
+      "hebreo": "ירא",
+      "transliteracion": "יָרֵ֤א",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "Temo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲנִי֙",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "113",
+      "hebreo": "אָדֹון",
+      "transliteracion": "אֲדֹנִ֣י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi señor"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מֶּ֔לֶךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "rey"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "4487",
+      "hebreo": "מנה",
+      "transliteracion": "מִנָּ֔ה",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "asignó"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "3978",
+      "hebreo": "מַאֲכָל",
+      "transliteracion": "מַאֲכַלְכֶ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestra comida"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "4960",
+      "hebreo": "מִשְׁתֶּה",
+      "transliteracion": "מִשְׁתֵּיכֶ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestra bebida"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֡ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "4100",
+      "hebreo": "לָמָה",
+      "transliteracion": "לָמָּה֩",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "por qué¿"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "יִרְאֶ֨ה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "verá"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פְּנֵיכֶ֜ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.PL",
+      "traduccion": "vuestros rostros"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "2196",
+      "hebreo": "זעף",
+      "transliteracion": "זֹֽעֲפִ֗ים",
+      "parsingLabel": "adjetivo qal participio desconocido masculino plural absoluto",
+      "parsing": "ADJV.QAL.PTCA.U.M.PL.A",
+      "traduccion": "más deteriorados"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִן־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "que"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "3206",
+      "hebreo": "יֶלֶד",
+      "transliteracion": "יְלָדִים֙",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "jóvenes"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "1524",
+      "hebreo": "גִּיל",
+      "transliteracion": "גִֽילְכֶ֔ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestra edad"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "2325",
+      "hebreo": "חוב",
+      "transliteracion": "חִיַּבְתֶּ֥ם",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino plural",
+      "parsing": "VERBO.PIEL.PERF.P2.M.PL",
+      "traduccion": "seréis responsables"
+    },
+    {
+      "numero": 35,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 36,
+      "strongNumber": "7218",
+      "hebreo": "רֹאשׁ",
+      "transliteracion": "רֹאשִׁ֖י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi cabeza"
+    },
+    {
+      "numero": 37,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "al"
+    },
+    {
+      "numero": 38,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מֶּֽלֶךְ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "?rey"
+    }
+  ]
+}

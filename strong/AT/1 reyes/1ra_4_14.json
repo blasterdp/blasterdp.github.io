@@ -1,0 +1,44 @@
+{
+  "versiculo": {
+    "referencia": "1ra Reyes 4:14 Reina Valera 1960",
+    "texto": "Ahinadab hijo de Iddo en Mahanaim;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "292",
+      "hebreo": "אֲחִינָדָב",
+      "transliteracion": "אֲחִֽינָדָ֥ב",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Ahinadab"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶּן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hijo de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5714",
+      "hebreo": "עִדֹּוא",
+      "transliteracion": "עִדֹּ֖א",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Iddó"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4266",
+      "hebreo": "מַחֲנַיִם",
+      "transliteracion": "מַחֲנָֽיְמָה׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "en Mahanáyim"
+    }
+  ]
+}

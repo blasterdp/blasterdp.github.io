@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "1ra Reyes 6:4 Reina Valera 1960",
+    "texto": "E hizo a la casa ventanas anchas por dentro y estrechas por fuera."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "E"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "יַּ֣עַשׂ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "hizo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בָּ֔יִת",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "templo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2474",
+      "hebreo": "חַלֹּון",
+      "transliteracion": "חַלֹּונֵ֖י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "ventanas de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8261",
+      "hebreo": "שְׁקֻפִים",
+      "transliteracion": "שְׁקֻפִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "celosías"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "331",
+      "hebreo": "אטם",
+      "transliteracion": "אֲטֻמִֽים׃",
+      "parsingLabel": "adjetivo qal participio (passive) desconocido masculino plural absoluto",
+      "parsing": "ADJV.QAL.PTCP.U.M.PL.A",
+      "traduccion": "cerradas"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Amós 1:4 Reina Valera 1960",
+    "texto": "Prenderé fuego en la casa de Hazael, y consumirá los palacios de Ben-adad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "שִׁלַּ֥חְתִּי",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P1.U.SG",
+      "traduccion": "enviaré"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "784",
+      "hebreo": "אֵשׁ",
+      "transliteracion": "אֵ֖שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "fuego"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵ֣ית",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "casa de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2371",
+      "hebreo": "חֲזָאֵל",
+      "transliteracion": "חֲזָאֵ֑ל",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Hazael"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "אָכְלָ֖ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "consumirá"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "759",
+      "hebreo": "אַרְמֹון",
+      "transliteracion": "אַרְמְנֹ֥ות",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "fortaleza de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1130",
+      "hebreo": "בֶּן הֲדַד",
+      "transliteracion": "בֶּן־הֲדָֽד׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Ben-adad"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 4:7 Reina Valera 1960",
+    "texto": "Toda tú eres hermosa, amiga mía, Y en ti no hay mancha."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֻּלָּ֤ךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.F.SG",
+      "traduccion": "Toda tú"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3303",
+      "hebreo": "יָפֶה",
+      "transliteracion": "יָפָה֙",
+      "parsingLabel": "adjetivo femenino singular absoluto",
+      "parsing": "ADJV.F.SG.A",
+      "traduccion": "(eres) hermosa"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7474",
+      "hebreo": "רַעְיָה",
+      "transliteracion": "רַעְיָתִ֔י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "amiga mía"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3971",
+      "hebreo": "מאוּם",
+      "transliteracion": "מ֖וּם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "defecto"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵ֥ין",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "no hay"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּֽךְ׃ ס",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona femenino singular",
+      "parsing": "PREP.PRS.P2.F.SG",
+      "traduccion": "en ti"
+    }
+  ]
+}

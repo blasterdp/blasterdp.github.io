@@ -1,0 +1,188 @@
+{
+  "versiculo": {
+    "referencia": "Amós 6:1 Reina Valera 1960",
+    "texto": "¡Ay de los reposados en Sion, y de los confiados en el monte de Samaria, los notables y principales entre las naciones, a los cuales acude la casa de Israel!"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1945",
+      "hebreo": "הֹוי",
+      "transliteracion": "הֹ֚וי",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "Ay de¡"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7600",
+      "hebreo": "שַׁאֲנָן",
+      "transliteracion": "שַּׁאֲנַנִּ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "tranquilos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6726",
+      "hebreo": "צִיֹּון",
+      "transliteracion": "צִיֹּ֔ון",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Sión"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "982",
+      "hebreo": "בטח",
+      "transliteracion": "בֹּטְחִ֖ים",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "confiados"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הַ֣ר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "monte de"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "8111",
+      "hebreo": "שֹׁמְרֹון",
+      "transliteracion": "שֹׁמְרֹ֑ון",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Samaria"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5344",
+      "hebreo": "נקב",
+      "transliteracion": "נְקֻבֵי֙",
+      "parsingLabel": "sustantivo qal participio (passive) desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCP.U.M.PL.C",
+      "traduccion": "notables de"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "7225",
+      "hebreo": "רֵאשִׁית",
+      "transliteracion": "רֵאשִׁ֣ית",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "principal de"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "las"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּויִ֔ם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "naciones"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "בָ֥אוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "van"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָהֶ֖ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "a ellos"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּ֥ית",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "casa de"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵֽל׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "!Israel"
+    }
+  ]
+}

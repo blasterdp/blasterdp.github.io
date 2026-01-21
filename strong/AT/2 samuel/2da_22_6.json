@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "2da Samuel 22:6 Reina Valera 1960",
+    "texto": "Ligaduras del Seol me rodearon; Tendieron sobre mí lazos de muerte."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2256",
+      "hebreo": "חֶבֶל",
+      "transliteracion": "חֶבְלֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "ligaduras de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7585",
+      "hebreo": "שְׁאֹול",
+      "transliteracion": "שְׁאֹ֖ול",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "Seol"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5437",
+      "hebreo": "סבב",
+      "transliteracion": "סַבֻּ֑נִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me rodearon"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6923",
+      "hebreo": "קדם",
+      "transliteracion": "קִדְּמֻ֖נִי",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me tendieron"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4170",
+      "hebreo": "מֹוקֵשׁ",
+      "transliteracion": "מֹֽקְשֵׁי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "lazos de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4194",
+      "hebreo": "מָוֶת",
+      "transliteracion": "מָֽוֶת׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "muerte"
+    }
+  ]
+}

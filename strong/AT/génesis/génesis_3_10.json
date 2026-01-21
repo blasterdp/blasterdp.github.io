@@ -1,0 +1,134 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 3:10 Reina Valera 1960",
+    "texto": "Y él respondió: Oí tu voz en el huerto, y tuve miedo, porque estaba desnudo; y me escondí."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּ֕אמֶר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[marcador de objeto]"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6963",
+      "hebreo": "קֹול",
+      "transliteracion": "קֹלְךָ֥",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu voz"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שָׁמַ֖עְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "oí"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1588",
+      "hebreo": "גַּן",
+      "transliteracion": "גָּ֑ן",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "huerto"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3372",
+      "hebreo": "ירא",
+      "transliteracion": "אִירָ֛א",
+      "parsingLabel": "verbo qal wayyiqtol 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.WAYQ.P1.U.SG",
+      "traduccion": "tuve miedo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5903",
+      "hebreo": "עֵירֹם",
+      "transliteracion": "עֵירֹ֥ם",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "desnudo"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "595",
+      "hebreo": "אָנֹכִי",
+      "transliteracion": "אָנֹ֖כִי",
+      "parsingLabel": "personal pronombre 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "2244",
+      "hebreo": "חבא",
+      "transliteracion": "אֵחָבֵֽא׃",
+      "parsingLabel": "verbo nif‘al wayyiqtol 1ª persona desconocido singular",
+      "parsing": "VERBO.NIF.WAYQ.P1.U.SG",
+      "traduccion": "me esdondí"
+    }
+  ]
+}

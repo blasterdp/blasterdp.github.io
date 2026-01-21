@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 12:19 Reina Valera 1960",
+    "texto": "Ten cuidado de no desamparar al levita en todos tus días sobre la tierra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "הִשָּׁ֣מֶר",
+      "parsingLabel": "verbo nif‘al imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPV.P2.M.SG",
+      "traduccion": "cuida"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְךָ֔",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "a ti"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6435",
+      "hebreo": "פֶּן",
+      "transliteracion": "פֶּֽן־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5800",
+      "hebreo": "עזב",
+      "transliteracion": "תַּעֲזֹ֖ב",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "desampares"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3881",
+      "hebreo": "לֵוִי",
+      "transliteracion": "לֵּוִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "levita"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יָמֶ֖יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus días"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "127",
+      "hebreo": "אֲדָמָה",
+      "transliteracion": "אַדְמָתֶֽךָ׃ ס",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu tierra"
+    }
+  ]
+}

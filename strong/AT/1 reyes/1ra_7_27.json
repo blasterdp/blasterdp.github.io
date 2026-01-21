@@ -1,0 +1,233 @@
+{
+  "versiculo": {
+    "referencia": "1ra Reyes 7:27 Reina Valera 1960",
+    "texto": "Hizo también diez basas de bronce, siendo la longitud de cada basa de cuatro codos, y la anchura de cuatro codos, y de tres codos la altura."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "e"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "יַּ֧עַשׂ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "hizo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "las"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4350",
+      "hebreo": "מְכֹונָה",
+      "transliteracion": "מְּכֹנֹ֛ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "basas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6235",
+      "hebreo": "עֶשֶׂר",
+      "transliteracion": "עֶ֖שֶׂר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "diez"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5178",
+      "hebreo": "נְחֹשֶׁת",
+      "transliteracion": "נְחֹ֑שֶׁת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "bronce"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "702",
+      "hebreo": "אַרְבַּע",
+      "transliteracion": "אַרְבַּ֣ע",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "cuatro"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "520",
+      "hebreo": "אַמָּה",
+      "transliteracion": "אַמָּ֗ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "codo"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "753",
+      "hebreo": "אֹרֶךְ",
+      "transliteracion": "אֹ֚רֶךְ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "la longitud de"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4350",
+      "hebreo": "מְכֹונָה",
+      "transliteracion": "מְּכֹונָ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "basa"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "259",
+      "hebreo": "אֶחָד",
+      "transliteracion": "אֶחָ֔ת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "una"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "702",
+      "hebreo": "אַרְבַּע",
+      "transliteracion": "אַרְבַּ֤ע",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "cuatro"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "520",
+      "hebreo": "אַמָּה",
+      "transliteracion": "אַמָּה֙",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "codo"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "7341",
+      "hebreo": "רֹחַב",
+      "transliteracion": "רָחְבָּ֔הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "su anchura"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "7969",
+      "hebreo": "שָׁלֹשׁ",
+      "transliteracion": "שָׁלֹ֥שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tres"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "520",
+      "hebreo": "אַמָּה",
+      "transliteracion": "אַמָּ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "codo"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "6967",
+      "hebreo": "קֹומָה",
+      "transliteracion": "קֹומָתָֽהּ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.F.SG",
+      "traduccion": "su altura"
+    }
+  ]
+}

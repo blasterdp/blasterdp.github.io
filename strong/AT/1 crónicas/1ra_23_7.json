@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 23:7 Reina Valera 1960",
+    "texto": "Los hijos de Gersón: Laadán y Simei."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1649",
+      "hebreo": "גֵּרְשֻׁנִּי",
+      "transliteracion": "גֵּרְשֻׁנִּ֖י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de Gersón"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3936",
+      "hebreo": "לַעְדָּן",
+      "transliteracion": "לַעְדָּ֥ן",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Laadán"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8096",
+      "hebreo": "שִׁמְעִי",
+      "transliteracion": "שִׁמְעִֽי׃ ס",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Simei"
+    }
+  ]
+}

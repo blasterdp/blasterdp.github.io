@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 4:5 Reina Valera 1960",
+    "texto": "Asur padre de Tecoa tuvo dos mujeres, Hela y Naara."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "806",
+      "hebreo": "אַשְׁחוּר",
+      "transliteracion": "אַשְׁחוּר֙",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Asur"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אֲבִ֣י",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "padre de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8620",
+      "hebreo": "תְּקֹועַ",
+      "transliteracion": "תְקֹ֔ועַ",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Tecoa"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָי֖וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "fueron"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁתֵּ֣י",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "dos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "802",
+      "hebreo": "אִשָּׁה",
+      "transliteracion": "נָשִׁ֑ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "esposas"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2458",
+      "hebreo": "חֶלְאָה",
+      "transliteracion": "חֶלְאָ֖ה",
+      "parsingLabel": "nombre propio femenino singular absoluto",
+      "parsing": "NMPR.F.SG.A",
+      "traduccion": "Hela"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5292",
+      "hebreo": "נַעֲרָה",
+      "transliteracion": "נַעֲרָֽה׃",
+      "parsingLabel": "nombre propio femenino singular absoluto",
+      "parsing": "NMPR.F.SG.A",
+      "traduccion": "Naara"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 1:6 Reina Valera 1960",
+    "texto": "Los hijos de Gomer: Askenaz, Rifat y Togarma."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְנֵ֖י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "los hijos de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1586",
+      "hebreo": "גֹּמֶר",
+      "transliteracion": "גֹּ֑מֶר",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Gomer"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "813",
+      "hebreo": "אַשְׁכֲּנַז",
+      "transliteracion": "אַשְׁכֲּנַ֥ז",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Askenaz"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7384",
+      "hebreo": "דִּיפַת",
+      "transliteracion": "דִיפַ֖ת",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Rifat"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8425",
+      "hebreo": "תֹּוגַרְמָה",
+      "transliteracion": "תֹוגַרְמָֽה׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Togarmá"
+    }
+  ]
+}

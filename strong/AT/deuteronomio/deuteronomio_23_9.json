@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 23:9 Reina Valera 1960",
+    "texto": "Cuando salieres a campaña contra tus enemigos, te guardarás de toda cosa mala."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "תֵצֵ֥א",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "salgas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4264",
+      "hebreo": "מַחֲנֶה",
+      "transliteracion": "מַחֲנֶ֖ה",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "campaña"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹיְבֶ֑יךָ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus enemigos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "נִ֨שְׁמַרְתָּ֔",
+      "parsingLabel": "verbo nif‘al perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P2.M.SG",
+      "traduccion": "te guardarás"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֹּ֖ל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "toda"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דָּבָ֥ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "cosa"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7451",
+      "hebreo": "רַע",
+      "transliteracion": "רָֽע׃",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "mala"
+    }
+  ]
+}

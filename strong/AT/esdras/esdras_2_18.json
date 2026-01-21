@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Esdras 2:18 Reina Valera 1960",
+    "texto": "Los hijos de Jora, ciento doce."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "Los hijos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3139",
+      "hebreo": "יֹורָה",
+      "transliteracion": "יֹורָ֔ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Jora"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3967",
+      "hebreo": "מֵאָה",
+      "transliteracion": "מֵאָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ciento"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁנֵ֥ים",
+      "parsingLabel": "sustantivo desconocido dual absoluto",
+      "parsing": "SUBS.U.DU.A",
+      "traduccion": "dos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6240",
+      "hebreo": "עָשָׂר",
+      "transliteracion": "עָשָֽׂר׃ ס",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "diez"
+    }
+  ]
+}

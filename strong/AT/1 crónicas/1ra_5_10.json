@@ -1,0 +1,215 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 5:10 Reina Valera 1960",
+    "texto": "Y en los días de Saúl hicieron guerra contra los agarenos, los cuales cayeron en su mano; y ellos habitaron en sus tiendas en toda la región oriental de Galaad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "ימֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "días de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7586",
+      "hebreo": "שָׁאוּל",
+      "transliteracion": "שָׁא֗וּל",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Saúl"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עָשׂ֤וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "hicieron"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4421",
+      "hebreo": "מִלְחָמָה",
+      "transliteracion": "מִלְחָמָה֙",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "guerra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1905",
+      "hebreo": "הַגְרִי",
+      "transliteracion": "הַגְרִאִ֔ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "agarenos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "יִּפְּל֖וּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "cayeron"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדָ֑ם",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.PL",
+      "traduccion": "sus manos"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "3427",
+      "hebreo": "ישׁב",
+      "transliteracion": "יֵּשְׁבוּ֙",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "habitaron"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "168",
+      "hebreo": "אֹהֶל",
+      "transliteracion": "אָ֣הֳלֵיהֶ֔ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus tabernáculos"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַֽל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "toda"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פְּנֵ֖י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "la faz"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "4217",
+      "hebreo": "מִזְרָח",
+      "transliteracion": "מִזְרָ֥ח",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "oriental"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "1568",
+      "hebreo": "גִּלְעָד",
+      "transliteracion": "גִּלְעָֽד׃ פ",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Galaad"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 23:18 Reina Valera 1960",
+    "texto": "Hijo de Izhar fue Selomit el jefe."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3324",
+      "hebreo": "יִצְהָר",
+      "transliteracion": "יִצְהָ֖ר",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Izhar"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8019",
+      "hebreo": "שְׁלֹמִית",
+      "transliteracion": "שְׁלֹמִ֥ית",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Selomit"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7218",
+      "hebreo": "רֹאשׁ",
+      "transliteracion": "רֹֽאשׁ׃ ס",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "jefe"
+    }
+  ]
+}

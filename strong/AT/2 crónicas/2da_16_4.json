@@ -1,0 +1,314 @@
+{
+  "versiculo": {
+    "referencia": "2da Crónicas 16:4 Reina Valera 1960",
+    "texto": "Y consintió Ben-adad con el rey Asa, y envió los capitanes de sus ejércitos contra las ciudades de Israel: y conquistaron Ijón, Dan, Abel-maim, y las ciudades de aprovisionamiento de Neftalí."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "יִּשְׁמַ֨ע",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "escuchó"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1130",
+      "hebreo": "בֶּן הֲדַד",
+      "transliteracion": "בֶּן הֲדַ֜ד",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Ben-Hadad"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מֶּ֣לֶךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Rey"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "609",
+      "hebreo": "אָסָא",
+      "transliteracion": "אָסָ֗א",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Asa"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֠",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "יִּשְׁלַח",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "envió"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "8269",
+      "hebreo": "שַׂר",
+      "transliteracion": "שָׂרֵ֨י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "capitanes de"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "2428",
+      "hebreo": "חַיִל",
+      "transliteracion": "חֲיָלִ֤ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "ejércitos"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֹו֙",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "de él"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "5892",
+      "hebreo": "עִיר",
+      "transliteracion": "עָרֵ֣י",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "ciudades de"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵ֔ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "e"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "5221",
+      "hebreo": "נכה",
+      "transliteracion": "יַּכּוּ֙",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.PL",
+      "traduccion": "hirieron"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "5859",
+      "hebreo": "עִיֹּון",
+      "transliteracion": "עִיֹּ֣ון",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Ijón"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "1835",
+      "hebreo": "דָּן",
+      "transliteracion": "דָּ֔ן",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Dan"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֵ֖ת",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "66",
+      "hebreo": "אָבֵל מָיִם",
+      "transliteracion": "אָבֵ֣ל מָ֑יִם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Abel Maim"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֵ֥ת",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּֽל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "4543",
+      "hebreo": "מִסְכְּנֹות",
+      "transliteracion": "מִסְכְּנֹ֖ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "almacenes de"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "5892",
+      "hebreo": "עִיר",
+      "transliteracion": "עָרֵ֥י",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "ciudades de"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "5321",
+      "hebreo": "נַפְתָּלִי",
+      "transliteracion": "נַפְתָּלִֽי׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Neftalí"
+    }
+  ]
+}

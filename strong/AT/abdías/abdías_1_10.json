@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Abdías 1:10 Reina Valera 1960",
+    "texto": "Por la injuria a tu hermano Jacob te cubrirá vergüenza, y serás cortado para siempre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "Por la"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2555",
+      "hebreo": "חָמָס",
+      "transliteracion": "חֲמַ֛ס",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "violencia de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "251",
+      "hebreo": "אָח",
+      "transliteracion": "אָחִ֥יךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu hermano"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3290",
+      "hebreo": "יַעֲקֹב",
+      "transliteracion": "יַעֲקֹ֖ב",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Jacob"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3680",
+      "hebreo": "כסה",
+      "transliteracion": "תְּכַסְּךָ֣",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG.PRS.P2.M.SG",
+      "traduccion": "te cubrirá"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "955",
+      "hebreo": "בּוּשָׁה",
+      "transliteracion": "בוּשָׁ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "vergüenza"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3772",
+      "hebreo": "כרת",
+      "transliteracion": "נִכְרַ֖תָּ",
+      "parsingLabel": "verbo nif‘al perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P2.M.SG",
+      "traduccion": "serás cortado"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5769",
+      "hebreo": "עֹולָם",
+      "transliteracion": "עֹולָֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": ".siempre"
+    }
+  ]
+}

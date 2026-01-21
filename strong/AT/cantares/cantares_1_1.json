@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 1:1 Reina Valera 1960",
+    "texto": "Cantar de los cantares, el cual es de Salomón."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7892",
+      "hebreo": "שִׁיר",
+      "transliteracion": "שִׁ֥יר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "(El)cantar"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "de los"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7892",
+      "hebreo": "שִׁיר",
+      "transliteracion": "שִּׁירִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cantares"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֥ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que es"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8010",
+      "hebreo": "שְׁלֹמֹה",
+      "transliteracion": "שְׁלֹמֹֽה׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Salomón"
+    }
+  ]
+}

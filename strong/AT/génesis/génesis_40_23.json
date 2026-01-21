@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 40:23 Reina Valera 1960",
+    "texto": "Y el jefe de los coperos no se acordó de José, sino que le olvidó."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2142",
+      "hebreo": "זכר",
+      "transliteracion": "זָכַ֧ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "recordó"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8269",
+      "hebreo": "שַׂר",
+      "transliteracion": "שַֽׂר־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "jefe de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8248",
+      "hebreo": "שׁקה",
+      "transliteracion": "מַּשְׁקִ֛ים",
+      "parsingLabel": "sustantivo hif‘il participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.HIF.PTCA.U.M.PL.A",
+      "traduccion": "coperos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3130",
+      "hebreo": "יֹוסֵף",
+      "transliteracion": "יֹוסֵ֖ף",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "José"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "יִּשְׁכָּחֵֽהוּ׃ פ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "le olvidó."
+    }
+  ]
+}

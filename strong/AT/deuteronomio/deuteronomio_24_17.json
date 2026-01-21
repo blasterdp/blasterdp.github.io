@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 24:17 Reina Valera 1960",
+    "texto": "No torcerás el derecho del extranjero ni del huérfano, ni tomarás en prenda la ropa de la viuda,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5186",
+      "hebreo": "נטה",
+      "transliteracion": "תַטֶּ֔ה",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG",
+      "traduccion": "torcerás"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4941",
+      "hebreo": "מִשְׁפָּט",
+      "transliteracion": "מִשְׁפַּ֖ט",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "derecho"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1616",
+      "hebreo": "גֵּר",
+      "transliteracion": "גֵּ֣ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "extranjero"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3490",
+      "hebreo": "יָתֹום",
+      "transliteracion": "יָתֹ֑ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "huérfano"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2254",
+      "hebreo": "חבל",
+      "transliteracion": "תַחֲבֹ֔ל",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "tomarás en garantía"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "899",
+      "hebreo": "בֶּגֶד",
+      "transliteracion": "בֶּ֖גֶד",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "túnica de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "490",
+      "hebreo": "אַלְמָנָה",
+      "transliteracion": "אַלְמָנָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "viuda"
+    }
+  ]
+}

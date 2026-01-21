@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Ezequiel 27:4 Reina Valera 1960",
+    "texto": "En el corazón de los mares están tus confines; los que te edificaron completaron tu belleza."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לֵ֥ב",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "corazón de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3220",
+      "hebreo": "יָם",
+      "transliteracion": "יַמִּ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mares"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1366",
+      "hebreo": "גְּבוּל",
+      "transliteracion": "גְּבוּלָ֑יִךְ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.F.SG",
+      "traduccion": "tus dominios"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1129",
+      "hebreo": "בנה",
+      "transliteracion": "בֹּנַ֕יִךְ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P2.F.SG",
+      "traduccion": "tus edificadores"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3634",
+      "hebreo": "כלל",
+      "transliteracion": "כָּלְל֖וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "perfeccionaron"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3308",
+      "hebreo": "יֳפִי",
+      "transliteracion": "יָפְיֵֽךְ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.F.SG",
+      "traduccion": "belleza"
+    }
+  ]
+}

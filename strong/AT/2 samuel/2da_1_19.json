@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "2da Samuel 1:19 Reina Valera 1960",
+    "texto": "¡Ha perecido la gloria de Israel sobre tus alturas! ¡Cómo han caído los valientes!"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6643",
+      "hebreo": "צְבִי",
+      "transliteracion": "צְּבִי֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "gloria de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵ֔ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1116",
+      "hebreo": "בָּמָה",
+      "transliteracion": "בָּמֹותֶ֖יךָ",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus alturas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2491",
+      "hebreo": "חָלָל",
+      "transliteracion": "חָלָ֑ל",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "ha perecido"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "349",
+      "hebreo": "אֵיךְ",
+      "transliteracion": "אֵ֖יךְ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "cómo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "נָפְל֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "han perecido"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1368",
+      "hebreo": "גִּבֹּור",
+      "transliteracion": "גִבֹּורִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "héroes"
+    }
+  ]
+}

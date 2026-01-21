@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Eclesiatés 10:9 Reina Valera 1960",
+    "texto": "Quien corta piedras, se hiere con ellas; el que parte leña, en ello peligra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5265",
+      "hebreo": "נסע",
+      "transliteracion": "מַסִּ֣יעַ",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "Quien extrae"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "68",
+      "hebreo": "אֶבֶן",
+      "transliteracion": "אֲבָנִ֔ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "piedras"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6087",
+      "hebreo": "עצב",
+      "transliteracion": "יֵעָצֵ֖ב",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "se lastimará"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּהֶ֑ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": ";con ellas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1234",
+      "hebreo": "בקע",
+      "transliteracion": "בֹּוקֵ֥עַ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "quien raja"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6086",
+      "hebreo": "עֵץ",
+      "transliteracion": "עֵצִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "leños"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5532",
+      "hebreo": "סכן",
+      "transliteracion": "יִסָּ֥כֶן",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "peligrará"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּֽם׃",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "con ellos"
+    }
+  ]
+}

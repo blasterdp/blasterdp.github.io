@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 32:33 Reina Valera 1960",
+    "texto": "Veneno de serpientes es su vino, Y ponzoña cruel de áspides."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2534",
+      "hebreo": "חֵמָה",
+      "transliteracion": "חֲמַ֥ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "veneno de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8577",
+      "hebreo": "תַּנִּין",
+      "transliteracion": "תַּנִּינִ֖ם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "serpientes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3196",
+      "hebreo": "יַיִן",
+      "transliteracion": "יֵינָ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su vino"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7219",
+      "hebreo": "רֹאשׁ",
+      "transliteracion": "רֹ֥אשׁ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "ponzoña de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6620",
+      "hebreo": "פֶּתֶן",
+      "transliteracion": "פְּתָנִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "áspides"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "393",
+      "hebreo": "אַכְזָר",
+      "transliteracion": "אַכְזָֽר׃",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "mortal"
+    }
+  ]
+}

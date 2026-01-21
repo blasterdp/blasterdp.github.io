@@ -1,0 +1,278 @@
+{
+  "versiculo": {
+    "referencia": "Ester 4:4 Reina Valera 1960",
+    "texto": "Y vinieron las doncellas de Ester, y sus eunucos, y se lo dijeron. Entonces la reina tuvo gran dolor, y envió vestidos para hacer vestir a Mardoqueo, y hacerle quitar el cilicio; mas él no los aceptó."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֠",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "תָּבֹואנָה",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona femenino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.F.PL",
+      "traduccion": "vinieron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5291",
+      "hebreo": "נַעֲרָה",
+      "transliteracion": "נַעֲרֹ֨ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "las jóvenes de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "635",
+      "hebreo": "אֶסְתֵּר",
+      "transliteracion": "אֶסְתֵּ֤ר",
+      "parsingLabel": "nombre propio femenino singular absoluto",
+      "parsing": "NMPR.F.SG.A",
+      "traduccion": "Ester"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5631",
+      "hebreo": "סָרִיס",
+      "transliteracion": "סָרִיסֶ֨יהָ֙",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus eunucos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5046",
+      "hebreo": "נגד",
+      "transliteracion": "יַּגִּ֣ידוּ",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.PL",
+      "traduccion": "lo contaron"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ֔הּ",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona femenino singular",
+      "parsing": "PREP.PRS.P3.F.SG",
+      "traduccion": "a ella"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2342",
+      "hebreo": "חיל",
+      "transliteracion": "תִּתְחַלְחַ֥ל",
+      "parsingLabel": "verbo hitpa“el wayyiqtol 3ª persona femenino singular",
+      "parsing": "VERB.HIT.WAYQ.P3.F.SG",
+      "traduccion": "tuvo dolor"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4436",
+      "hebreo": "מַלְכָּה",
+      "transliteracion": "מַּלְכָּ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "reina"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3966",
+      "hebreo": "מְאֹד",
+      "transliteracion": "מְאֹ֑ד",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "en gran manero"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "תִּשְׁלַ֨ח",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.F.SG",
+      "traduccion": "envió"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "899",
+      "hebreo": "בֶּגֶד",
+      "transliteracion": "בְּגָדִ֜ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "ropas"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "3847",
+      "hebreo": "לבשׁ",
+      "transliteracion": "הַלְבִּ֣ישׁ",
+      "parsingLabel": "verbo hif‘il infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.HIF.INFC.U.U.U.A",
+      "traduccion": "hacer vestir"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶֽת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "4782",
+      "hebreo": "מָרְדְּכַי",
+      "transliteracion": "מָרְדֳּכַ֗י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Mardoqueo"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "5493",
+      "hebreo": "סור",
+      "transliteracion": "הָסִ֥יר",
+      "parsingLabel": "verbo hif‘il infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.HIF.INFC.U.U.U.C",
+      "traduccion": "hacerle quitar"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "8242",
+      "hebreo": "שַׂק",
+      "transliteracion": "שַׂקֹּ֛ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su saco"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלָ֖יו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "sobre él"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "6901",
+      "hebreo": "קבל",
+      "transliteracion": "קִבֵּֽל׃",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "aceptó"
+    }
+  ]
+}

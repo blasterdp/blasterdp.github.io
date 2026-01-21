@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 1:13 Reina Valera 1960",
+    "texto": "Mi amado es para mí un manojito de mirra, Que reposa entre mis pechos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6872",
+      "hebreo": "צְרֹור",
+      "transliteracion": "צְרֹ֨ור",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "Bolsita"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4753",
+      "hebreo": "מֹר",
+      "transliteracion": "מֹּ֤ר׀",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mirra (es)"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1730",
+      "hebreo": "דֹּוד",
+      "transliteracion": "דֹּודִי֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi amado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֔י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": ";para mi"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "996",
+      "hebreo": "בַּיִן",
+      "transliteracion": "בֵּ֥ין",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7699",
+      "hebreo": "שַׁד",
+      "transliteracion": "שָׁדַ֖י",
+      "parsingLabel": "sustantivo masculino dual absoluto",
+      "parsing": "SUBS.M.DU.A",
+      "traduccion": "mis pechos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3885",
+      "hebreo": "לין",
+      "transliteracion": "יָלִֽין׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "descansa"
+    }
+  ]
+}

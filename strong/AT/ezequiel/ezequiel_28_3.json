@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Ezequiel 28:3 Reina Valera 1960",
+    "texto": "he aquí que tú eres más sabio que Daniel; no hay secreto que te sea oculto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנֵּ֥ה",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "He aquí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2450",
+      "hebreo": "חָכָם",
+      "transliteracion": "חָכָ֛ם",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "más sabio"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֖ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "que"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1840",
+      "hebreo": "דָּנִיֵּאל",
+      "transliteracion": "דָּֽנִיאֵ֑ל",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Daniel"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "ningún"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5640",
+      "hebreo": "סתם",
+      "transliteracion": "סָת֖וּם",
+      "parsingLabel": "adjetivo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "ADJV.QAL.PTCP.U.M.SG.A",
+      "traduccion": "secreto"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6004",
+      "hebreo": "עמם",
+      "transliteracion": "עֲמָמֽוּךָ׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P2.M.SG",
+      "traduccion": "se te ocultó"
+    }
+  ]
+}

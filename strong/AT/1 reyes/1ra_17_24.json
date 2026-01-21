@@ -1,0 +1,179 @@
+{
+  "versiculo": {
+    "referencia": "1ra Reyes 17:24 Reina Valera 1960",
+    "texto": "Entonces la mujer dijo a Elías: Ahora conozco que tú eres varón de Dios, y que la palabra de Jehová es verdad en tu boca."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "תֹּ֤אמֶר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.F.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "802",
+      "hebreo": "אִשָּׁה",
+      "transliteracion": "אִשָּׁה֙",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "mujer"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "452",
+      "hebreo": "אֵלִיָּהוּ",
+      "transliteracion": "אֵ֣לִיָּ֔הוּ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Elías"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6258",
+      "hebreo": "עַתָּה",
+      "transliteracion": "עַתָּה֙",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "ahora"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶ֣ה",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "esto"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָדַ֔עְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "sé"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֛י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִ֥ישׁ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hombre de"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אָ֑תָּה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְבַר־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "(la)palabra de"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֥ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִ֖יךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu boca"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "571",
+      "hebreo": "אֶמֶת",
+      "transliteracion": "אֱמֶֽת׃ פ",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "verdad"
+    }
+  ]
+}

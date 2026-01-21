@@ -1,0 +1,350 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 21:15 Reina Valera 1960",
+    "texto": "Y envió Jehová el ángel a Jerusalén para destruirla; pero cuando él estaba destruyendo, miró Jehová y se arrepintió de aquel mal, y dijo al ángel que destruía: Basta ya; detén tu mano. El ángel de Jehová estaba junto a la era de Ornán jebuseo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "יִּשְׁלַח֩",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "envió"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֨ים׀",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4397",
+      "hebreo": "מַלְאָךְ",
+      "transliteracion": "מַלְאָ֥ךְ׀",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "un ángel"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3389",
+      "hebreo": "יְרוּשָׁלִַם",
+      "transliteracion": "ירוּשָׁלִַם֮",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Jerusalén"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7843",
+      "hebreo": "שׁחת",
+      "transliteracion": "הַשְׁחִיתָהּ֒",
+      "parsingLabel": "verbo hif‘il infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.HIF.INFC.U.U.U.A.PRS.P3.F.SG",
+      "traduccion": "destruirla"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "mientras"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "7843",
+      "hebreo": "שׁחת",
+      "transliteracion": "הַשְׁחִ֗ית",
+      "parsingLabel": "verbo hif‘il infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.HIF.INFC.U.U.U.A",
+      "traduccion": "destruir"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָאָ֤ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "miró"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָה֙",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "5162",
+      "hebreo": "נחם",
+      "transliteracion": "יִּנָּ֣חֶם",
+      "parsingLabel": "verbo nif‘al wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERB.NIF.WAYQ.P3.M.SG",
+      "traduccion": "se arrepintió"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "acerca de"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "7451",
+      "hebreo": "רָעָה",
+      "transliteracion": "רָעָ֔ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "mal"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּ֨אמֶר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "4397",
+      "hebreo": "מַלְאָךְ",
+      "transliteracion": "מַּלְאָ֤ךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "ángel"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "que"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "7843",
+      "hebreo": "שׁחת",
+      "transliteracion": "מַּשְׁחִית֙",
+      "parsingLabel": "adjetivo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "ADJV.HIF.PTCA.U.M.SG.A",
+      "traduccion": "destruía"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַ֔ב",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "basta"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "6258",
+      "hebreo": "עַתָּה",
+      "transliteracion": "עַתָּ֖ה",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "ya"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "7503",
+      "hebreo": "רפה",
+      "transliteracion": "הֶ֣רֶף",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "detén"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדֶ֑ךָ",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu mano"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "4397",
+      "hebreo": "מַלְאָךְ",
+      "transliteracion": "מַלְאַ֤ךְ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "el ángel de"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָה֙",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "5975",
+      "hebreo": "עמד",
+      "transliteracion": "עֹמֵ֔ד",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "estaba"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "junto a"
+    },
+    {
+      "numero": 35,
+      "strongNumber": "1637",
+      "hebreo": "גֹּרֶן",
+      "transliteracion": "גֹּ֖רֶן",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "la era de"
+    },
+    {
+      "numero": 36,
+      "strongNumber": "771",
+      "hebreo": "אָרְנָן",
+      "transliteracion": "אָרְנָ֥ן",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Ornán"
+    },
+    {
+      "numero": 37,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 38,
+      "strongNumber": "2983",
+      "hebreo": "יְבוּסִי",
+      "transliteracion": "יְבוּסִֽי׃ ס",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "jebuseo"
+    }
+  ]
+}

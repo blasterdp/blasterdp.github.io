@@ -1,0 +1,143 @@
+{
+  "versiculo": {
+    "referencia": "2da Reyes 16:1 Reina Valera 1960",
+    "texto": "En el año diecisiete de Peka hijo de Remalías, comenzó a reinar Acaz hijo de Jotam rey de Judá."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8141",
+      "hebreo": "שָׁנָה",
+      "transliteracion": "שְׁנַת֙",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "año de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7651",
+      "hebreo": "שֶׁבַע",
+      "transliteracion": "שְׁבַֽע־",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "siete"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6240",
+      "hebreo": "עֶשְׂרֵה",
+      "transliteracion": "עֶשְׂרֵ֣ה",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "diez"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8141",
+      "hebreo": "שָׁנָה",
+      "transliteracion": "שָׁנָ֔ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "años"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6492",
+      "hebreo": "פֶּקַח",
+      "transliteracion": "פֶ֖קַח",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Peka"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶּן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hijo de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7425",
+      "hebreo": "רְמַלְיָהוּ",
+      "transliteracion": "רְמַלְיָ֑הוּ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Remalías"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4427",
+      "hebreo": "מלך",
+      "transliteracion": "מָלַ֛ךְ",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "reinó"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "271",
+      "hebreo": "אָחָז",
+      "transliteracion": "אָחָ֥ז",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Acaz"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶּן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hijo de"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3147",
+      "hebreo": "יֹותָם",
+      "transliteracion": "יֹותָ֖ם",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Jotam"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מֶ֥לֶךְ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "rey de"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "3063",
+      "hebreo": "יְהוּדָה",
+      "transliteracion": "יְהוּדָֽה׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Judá"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 1:28 Reina Valera 1960",
+    "texto": "Los hijos de Abraham: Isaac e Ismael."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵי֙",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "los hijos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "85",
+      "hebreo": "אַבְרָהָם",
+      "transliteracion": "אַבְרָהָ֔ם",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Abraham"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3327",
+      "hebreo": "יִצְחָק",
+      "transliteracion": "יִצְחָ֖ק",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Isaac"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "e"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3458",
+      "hebreo": "יִשְׁמָעֵאל",
+      "transliteracion": "יִשְׁמָעֵֽאל׃ ס",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Ismael"
+    }
+  ]
+}

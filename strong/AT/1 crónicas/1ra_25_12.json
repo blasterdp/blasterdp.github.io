@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 25:12 Reina Valera 1960",
+    "texto": "la quinta para Netanías, con sus hijos y sus hermanos, doce;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2549",
+      "hebreo": "חֲמִישִׁי",
+      "transliteracion": "חֲמִישִׁ֣י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "quinta"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5418",
+      "hebreo": "נְתַנְיָהוּ",
+      "transliteracion": "נְתַנְיָ֔הוּ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Natanías"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בָּנָ֥יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "con sus hijos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "251",
+      "hebreo": "אָח",
+      "transliteracion": "אֶחָ֖יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus hermanos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁנֵ֥ים",
+      "parsingLabel": "sustantivo desconocido dual absoluto",
+      "parsing": "SUBS.U.DU.A",
+      "traduccion": "dos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6240",
+      "hebreo": "עָשָׂר",
+      "transliteracion": "עָשָֽׂר׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "diez"
+    }
+  ]
+}

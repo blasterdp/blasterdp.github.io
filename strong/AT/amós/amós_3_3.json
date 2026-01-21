@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Amós 3:3 Reina Valera 1960",
+    "texto": "¿Andarán dos juntos, si no estuvieren de acuerdo?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "Acaso¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "יֵלְכ֥וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "andan"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁנַ֖יִם",
+      "parsingLabel": "sustantivo desconocido dual absoluto",
+      "parsing": "SUBS.U.DU.A",
+      "traduccion": "dos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3162",
+      "hebreo": "יַחְדָּו",
+      "transliteracion": "יַחְדָּ֑ו",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "juntos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1115",
+      "hebreo": "בֵּלֶת",
+      "transliteracion": "בִּלְתִּ֖י",
+      "parsingLabel": "preposición desconocido singular constructivo",
+      "parsing": "PREP.U.SG.C",
+      "traduccion": "excepto"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3259",
+      "hebreo": "יעד",
+      "transliteracion": "נֹועָֽדוּ׃",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "?estén de acuerdo"
+    }
+  ]
+}

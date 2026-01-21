@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Esdras 2:38 Reina Valera 1960",
+    "texto": "Los hijos de Pasur, mil doscientos cuarenta y siete."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "Los hijos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6583",
+      "hebreo": "פַּשְׁחוּר",
+      "transliteracion": "פַשְׁח֔וּר",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Pasur"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "505",
+      "hebreo": "אֶלֶף",
+      "transliteracion": "אֶ֕לֶף",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "mil"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3967",
+      "hebreo": "מֵאָה",
+      "transliteracion": "מָאתַ֖יִם",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "doscientos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "702",
+      "hebreo": "אַרְבַּע",
+      "transliteracion": "אַרְבָּעִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cuarenta"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7651",
+      "hebreo": "שֶׁבַע",
+      "transliteracion": "שִׁבְעָֽה׃ ס",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "siete"
+    }
+  ]
+}

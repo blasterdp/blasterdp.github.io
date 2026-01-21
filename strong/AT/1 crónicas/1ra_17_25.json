@@ -1,0 +1,179 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 17:25 Reina Valera 1960",
+    "texto": "Porque tú, Dios mío, revelaste al oído a tu siervo que le has de edificar casa; por eso ha hallado tu siervo motivo para orar delante de ti."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י׀",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֣ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהַ֗י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios mío"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1540",
+      "hebreo": "גלה",
+      "transliteracion": "גָּלִ֨יתָ֙",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "revelaste"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אֹ֣זֶן",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "al oído de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עַבְדְּךָ֔",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu siervo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "que"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1129",
+      "hebreo": "בנה",
+      "transliteracion": "בְנֹ֥ות",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A",
+      "traduccion": "has de edificar"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֹ֖ו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "a él"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בָּ֑יִת",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "casa"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3651",
+      "hebreo": "כֵּן",
+      "transliteracion": "כֵּן֙",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "eso"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "מָצָ֣א",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ha hallado"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עַבְדְּךָ֔",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu siervo"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "6419",
+      "hebreo": "פלל",
+      "transliteracion": "הִתְפַּלֵּ֖ל",
+      "parsingLabel": "verbo hitpa“el infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.HIT.INFC.U.U.U.A",
+      "traduccion": "valor para orar"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָנֶֽיךָ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "delante de ti"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "2da Reyes 10:26 Reina Valera 1960",
+    "texto": "y sacaron las estatuas del templo de Baal, y las quemaron."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "יֹּצִ֛אוּ",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.PL",
+      "traduccion": "sacaron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4676",
+      "hebreo": "מַצֵּבָה",
+      "transliteracion": "מַצְּבֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "las estelas de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּית־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "el templo de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1167",
+      "hebreo": "בַּעַל",
+      "transliteracion": "בַּ֖עַל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Baal"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8313",
+      "hebreo": "שׂרף",
+      "transliteracion": "יִּשְׂרְפֽוּהָ׃",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL.PRS.P3.F.SG",
+      "traduccion": "las quemaron"
+    }
+  ]
+}

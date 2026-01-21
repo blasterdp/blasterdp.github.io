@@ -1,0 +1,152 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 12:25 Reina Valera 1960",
+    "texto": "No comerás de ella, para que te vaya bien a ti y a tus hijos después de ti, cuando hicieres lo recto ante los ojos de Jehová."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֖א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "תֹּאכְלֶ֑נּוּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "la comeréis"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4616",
+      "hebreo": "לְמַעַן",
+      "transliteracion": "לְמַ֨עַן",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "para que"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3190",
+      "hebreo": "יטב",
+      "transliteracion": "יִיטַ֤ב",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "vaya bien"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְךָ֙",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "a ti"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בָנֶ֣יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus hijos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "310",
+      "hebreo": "אַחַר",
+      "transliteracion": "אַחֲרֶ֔יךָ",
+      "parsingLabel": "preposición masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "después de ti"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "תַעֲשֶׂ֥ה",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "hicieres"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "lo"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3477",
+      "hebreo": "יָשָׁר",
+      "transliteracion": "יָּשָׁ֖ר",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "recto"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינֵ֥י",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "ojos de"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָֽה׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    }
+  ]
+}

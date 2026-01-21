@@ -1,0 +1,44 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 14:3 Reina Valera 1960",
+    "texto": "Nada abominable comerás."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "תֹאכַ֖ל",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "comerás"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "ninguna"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8441",
+      "hebreo": "תֹּועֵבָה",
+      "transliteracion": "תֹּועֵבָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "abominación"
+    }
+  ]
+}

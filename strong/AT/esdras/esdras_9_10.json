@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Esdras 9:10 Reina Valera 1960",
+    "texto": "Pero ahora, ¿qué diremos, oh Dios nuestro, después de esto? Porque nosotros hemos dejado tus mandamientos,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Pero"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6258",
+      "hebreo": "עַתָּה",
+      "transliteracion": "עַתָּ֛ה",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "ahora"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מַה־",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "qué¿"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "נֹּאמַ֥ר",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.IMPF.P1.U.PL",
+      "traduccion": "diremos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֵ֖ינוּ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "oh Dios mío"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "310",
+      "hebreo": "אַחַר",
+      "transliteracion": "אַֽחֲרֵי־",
+      "parsingLabel": "preposición masculino plural constructivo",
+      "parsing": "PREP.M.PL.C",
+      "traduccion": "después de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2063",
+      "hebreo": "זֹאת",
+      "transliteracion": "זֹ֑את",
+      "parsingLabel": "demonstrative pronombre femenino singular",
+      "parsing": "PRDE.F.SG",
+      "traduccion": "?esto"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֥י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5800",
+      "hebreo": "עזב",
+      "transliteracion": "עָזַ֖בְנוּ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P1.U.PL",
+      "traduccion": "hemos dejado"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4687",
+      "hebreo": "מִצְוָה",
+      "transliteracion": "מִצְוֹתֶֽיךָ׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus mandamientos"
+    }
+  ]
+}

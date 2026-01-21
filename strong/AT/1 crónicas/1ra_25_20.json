@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 25:20 Reina Valera 1960",
+    "texto": "la decimatercera para Subael, con sus hijos y sus hermanos, doce;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "la"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7969",
+      "hebreo": "שָׁלֹשׁ",
+      "transliteracion": "שְׁלֹשָׁ֤ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "tres"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6240",
+      "hebreo": "עָשָׂר",
+      "transliteracion": "עָשָׂר֙",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "diez"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7619",
+      "hebreo": "שׁוּבָאֵל",
+      "transliteracion": "שֽׁוּבָאֵ֔ל",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Subael"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בָּנָ֥יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "con sus hijos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "251",
+      "hebreo": "אָח",
+      "transliteracion": "אֶחָ֖יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus hermanos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁנֵ֥ים",
+      "parsingLabel": "sustantivo desconocido dual absoluto",
+      "parsing": "SUBS.U.DU.A",
+      "traduccion": "dos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6240",
+      "hebreo": "עָשָׂר",
+      "transliteracion": "עָשָֽׂר׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "diez"
+    }
+  ]
+}

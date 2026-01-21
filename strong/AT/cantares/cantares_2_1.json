@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 2:1 Reina Valera 1960",
+    "texto": "Yo soy la rosa de Sarón, Y el lirio de los valles."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲנִי֙",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "Yo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2261",
+      "hebreo": "חֲבַצֶּלֶת",
+      "transliteracion": "חֲבַצֶּ֣לֶת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "(soy la)rosa"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8289",
+      "hebreo": "שָׁרֹון",
+      "transliteracion": "שָּׁרֹ֔ון",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Sarón"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7799",
+      "hebreo": "שׁוּשַׁן",
+      "transliteracion": "שֹֽׁושַׁנַּ֖ת",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "(el)lirio"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6010",
+      "hebreo": "עֵמֶק",
+      "transliteracion": "עֲמָקִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "los valles"
+    }
+  ]
+}

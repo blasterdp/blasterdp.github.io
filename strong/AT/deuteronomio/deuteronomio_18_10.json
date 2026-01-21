@@ -1,0 +1,152 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 18:10 Reina Valera 1960",
+    "texto": "No sea hallado en ti quien haga pasar a su hijo o a su hija por el fuego, ni quien practique adivinación, ni agorero, ni sortílego, ni hechicero,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "יִמָּצֵ֣א",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "se hallará"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְךָ֔",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "en ti"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "מַעֲבִ֥יר",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "el que ofrezca"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֹֽו־",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su hijo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1323",
+      "hebreo": "בַּת",
+      "transliteracion": "בִתֹּ֖ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su hija"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "784",
+      "hebreo": "אֵשׁ",
+      "transliteracion": "אֵ֑שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "fuego"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7080",
+      "hebreo": "קסם",
+      "transliteracion": "קֹסֵ֣ם",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "adivinador de"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7081",
+      "hebreo": "קֶסֶם",
+      "transliteracion": "קְסָמִ֔ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "adivinación"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "6049",
+      "hebreo": "ענן",
+      "transliteracion": "מְעֹונֵ֥ן",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.PIEL.PTCA.U.M.SG.A",
+      "traduccion": "brujo"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "ni"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "5172",
+      "hebreo": "נחשׁ",
+      "transliteracion": "מְנַחֵ֖שׁ",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.PIEL.PTCA.U.M.SG.A",
+      "traduccion": "sortílego"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "ni"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3784",
+      "hebreo": "כשׁף",
+      "transliteracion": "מְכַשֵּֽׁף׃",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.PIEL.PTCA.U.M.SG.A",
+      "traduccion": "hechicero"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 28:34 Reina Valera 1960",
+    "texto": "Y enloquecerás a causa de lo que verás con tus ojos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָיִ֖יתָ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "serás"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7696",
+      "hebreo": "שׁגע",
+      "transliteracion": "מְשֻׁגָּ֑ע",
+      "parsingLabel": "adjetivo pu“al participio (passive) desconocido masculino singular absoluto",
+      "parsing": "ADJV.PUAL.PTCP.U.M.SG.A",
+      "traduccion": "enloquecido"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4758",
+      "hebreo": "מַרְאֶה",
+      "transliteracion": "מַּרְאֵ֥ה",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "visión de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינֶ֖יךָ",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P2.M.SG",
+      "traduccion": "tus ojos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֥ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "תִּרְאֶֽה׃",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "verás"
+    }
+  ]
+}

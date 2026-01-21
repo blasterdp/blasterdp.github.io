@@ -1,0 +1,233 @@
+{
+  "versiculo": {
+    "referencia": "2da Reyes 3:17 Reina Valera 1960",
+    "texto": "Porque Jehová ha dicho así: No veréis viento, ni veréis lluvia; pero este valle será lleno de agua, y beberéis vosotros, y vuestras bestias y vuestros ganados."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3541",
+      "hebreo": "כֹּה",
+      "transliteracion": "כֹ֣ה׀",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "así"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָמַ֣ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "dice"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "תִרְא֥וּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.PL",
+      "traduccion": "veréis"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֨וּחַ֙",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "viento"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "תִרְא֣וּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.PL",
+      "traduccion": "veréis"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1653",
+      "hebreo": "גֶּשֶׁם",
+      "transliteracion": "גֶ֔שֶׁם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "lluvia"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "5158",
+      "hebreo": "נַחַל",
+      "transliteracion": "נַּ֥חַל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "valle"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֖וּא",
+      "parsingLabel": "demonstrative pronombre 3ª persona masculino singular",
+      "parsing": "PRDE.P3.M.SG",
+      "traduccion": "este"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "4390",
+      "hebreo": "מלא",
+      "transliteracion": "יִמָּ֣לֵא",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "se llenará"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מָ֑יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de agua"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "8354",
+      "hebreo": "שׁתה",
+      "transliteracion": "שְׁתִיתֶ֛ם",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.PERF.P2.M.PL",
+      "traduccion": "beberéis"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "859",
+      "hebreo": "אַתֶּם",
+      "transliteracion": "אַתֶּ֥ם",
+      "parsingLabel": "pronombre personal 2ª persona masculino plural",
+      "parsing": "PRPS.P2.M.PL",
+      "traduccion": "vosotros"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "4735",
+      "hebreo": "מִקְנֶה",
+      "transliteracion": "מִקְנֵיכֶ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestros ganados"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "929",
+      "hebreo": "בְּהֵמָה",
+      "transliteracion": "בְהֶמְתְּכֶֽם׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestros animales"
+    }
+  ]
+}

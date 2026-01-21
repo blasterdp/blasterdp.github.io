@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "1ra Samuel 2:4 Reina Valera 1960",
+    "texto": "Los arcos de los fuertes fueron quebrados, Y los débiles se ciñeron de poder."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7198",
+      "hebreo": "קֶשֶׁת",
+      "transliteracion": "קֶ֥שֶׁת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "arcos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1368",
+      "hebreo": "גִּבֹּור",
+      "transliteracion": "גִּבֹּרִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "héroes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2844",
+      "hebreo": "חַת",
+      "transliteracion": "חַתִּ֑ים",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "hechos añicos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3782",
+      "hebreo": "כשׁל",
+      "transliteracion": "נִכְשָׁלִ֖ים",
+      "parsingLabel": "sustantivo nif‘al participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.NIF.PTCA.U.M.PL.A",
+      "traduccion": "los que vacilan"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "247",
+      "hebreo": "אזר",
+      "transliteracion": "אָ֥זְרוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se han ceñido"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2428",
+      "hebreo": "חַיִל",
+      "transliteracion": "חָֽיִל׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "fuerza"
+    }
+  ]
+}

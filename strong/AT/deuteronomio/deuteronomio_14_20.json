@@ -1,0 +1,44 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 14:20 Reina Valera 1960",
+    "texto": "Toda ave limpia podréis comer."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "toda"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5775",
+      "hebreo": "עֹוף",
+      "transliteracion": "עֹ֥וף",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "ave"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2889",
+      "hebreo": "טָהֹר",
+      "transliteracion": "טָהֹ֖ור",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "limpia"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "תֹּאכֵֽלוּ׃",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.PL",
+      "traduccion": "comeréis"
+    }
+  ]
+}

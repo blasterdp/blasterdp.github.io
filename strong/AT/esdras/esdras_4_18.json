@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Esdras 4:18 Reina Valera 1960",
+    "texto": "La carta que nos enviasteis fue leída claramente delante de mí."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5407",
+      "hebreo": "נִשְׁתְּוָן",
+      "transliteracion": "נִשְׁתְּוָנָ֕א",
+      "parsingLabel": "sustantivo masculino singular emphatic",
+      "parsing": "SUBS.M.SG.E",
+      "traduccion": "la carta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1768",
+      "hebreo": "דִּי",
+      "transliteracion": "דִּ֥י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7972",
+      "hebreo": "שׁלח",
+      "transliteracion": "שְׁלַחְתּ֖וּן",
+      "parsingLabel": "verbo pe‘al perfecto 2ª persona masculino plural",
+      "parsing": "VERBO.PEAL.PERF.P2.M.PL",
+      "traduccion": "enviasteis"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5922",
+      "hebreo": "עַל",
+      "transliteracion": "עֲלֶ֑ינָא",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "PREP.PRS.P1.U.PL",
+      "traduccion": "a nosotros"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6568",
+      "hebreo": "פרשׁ",
+      "transliteracion": "מְפָרַ֥שׁ",
+      "parsingLabel": "adjetivo pa“el participio (passive) desconocido masculino singular absoluto",
+      "parsing": "ADJV.PAEL.PTCP.U.M.SG.A",
+      "traduccion": "traducida"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7123",
+      "hebreo": "קרא",
+      "transliteracion": "קֱרִ֖י",
+      "parsingLabel": "verbo pe‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PEIL.PERF.P3.M.SG",
+      "traduccion": "fue leída"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6925",
+      "hebreo": "קֳדָם",
+      "transliteracion": "קָדָמָֽי׃",
+      "parsingLabel": "preposición masculino plural absoluto",
+      "parsing": "PREP.M.PL.A",
+      "traduccion": "delante de mi"
+    }
+  ]
+}

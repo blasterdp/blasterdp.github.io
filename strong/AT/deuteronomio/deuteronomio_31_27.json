@@ -1,0 +1,242 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 31:27 Reina Valera 1960",
+    "texto": "Porque yo conozco tu rebelión, y tu dura cerviz; he aquí que aun viviendo yo con vosotros hoy, sois rebeldes a Jehová; ¿cuánto más después que yo haya muerto?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "595",
+      "hebreo": "אָנֹכִי",
+      "transliteracion": "אָנֹכִ֤י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָדַ֨עְתִּי֙",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "conozco"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶֽת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4805",
+      "hebreo": "מְרִי",
+      "transliteracion": "מֶרְיְךָ֔",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu rebelión"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶֽת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6203",
+      "hebreo": "עֹרֶף",
+      "transliteracion": "עָרְפְּךָ֖",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu cerviz"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7186",
+      "hebreo": "קָשֶׁה",
+      "transliteracion": "קָּשֶׁ֑ה",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "dura"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2005",
+      "hebreo": "הֵן",
+      "transliteracion": "הֵ֣ן",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "he aquí"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "si"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "5750",
+      "hebreo": "עֹוד",
+      "transliteracion": "עֹודֶנִּי֩",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "aún yo"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "2416",
+      "hebreo": "חַי",
+      "transliteracion": "חַ֨י",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "vivo"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִמָּכֶ֜ם",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino plural",
+      "parsing": "PREP.PRS.P2.M.PL",
+      "traduccion": "con vosotros"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "-"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹּ֗ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hoy"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "4784",
+      "hebreo": "מרה",
+      "transliteracion": "מַמְרִ֤ים",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.PL.A",
+      "traduccion": "rebeldes"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הֱיִתֶם֙",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.PERF.P2.M.PL",
+      "traduccion": "sois"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cotra"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהֹוָ֔ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "¿entonces"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "637",
+      "hebreo": "אַף",
+      "transliteracion": "אַ֖ף",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "cuando más"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "310",
+      "hebreo": "אַחַר",
+      "transliteracion": "אַחֲרֵ֥י",
+      "parsingLabel": "preposición masculino plural constructivo",
+      "parsing": "PREP.M.PL.C",
+      "traduccion": "tras"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "4194",
+      "hebreo": "מָוֶת",
+      "transliteracion": "מֹותִֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi muerte?"
+    }
+  ]
+}

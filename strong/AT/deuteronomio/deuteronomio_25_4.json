@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 25:4 Reina Valera 1960",
+    "texto": "No pondrás bozal al buey cuando trillare."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2629",
+      "hebreo": "חסם",
+      "transliteracion": "תַחְסֹ֥ם",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "pondrás bozal"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7794",
+      "hebreo": "שֹׁור",
+      "transliteracion": "שֹׁ֖ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "buey"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1758",
+      "hebreo": "דושׁ",
+      "transliteracion": "דִישֹֽׁו׃ ס",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A.PRS.P3.M.SG",
+      "traduccion": "lo trilla"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 24:26 Reina Valera 1960",
+    "texto": "Los hijos de Merari: Mahli y Musi; hijo de Jaazías, Beno."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֤י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4847",
+      "hebreo": "מְרָרִי",
+      "transliteracion": "מְרָרִי֙",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Merari"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4249",
+      "hebreo": "מַחְלִי",
+      "transliteracion": "מַחְלִ֣י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Mahli"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4187",
+      "hebreo": "מוּשִׁי",
+      "transliteracion": "מוּשִׁ֔י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Musi"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֖י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3269",
+      "hebreo": "יַעֲזִיָּהוּ",
+      "transliteracion": "יַעֲזִיָּ֥הֽוּ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Jaazías"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְנֹֽו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "Beno"
+    }
+  ]
+}

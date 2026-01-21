@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 1:15 Reina Valera 1960",
+    "texto": "He aquí que tú eres hermosa, amiga mía; He aquí eres bella; tus ojos son como palomas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנָּ֤ךְ",
+      "parsingLabel": "interjeción pronominal sufijo 2ª persona femenino singular",
+      "parsing": "INTJ.PRS.P2.F.SG",
+      "traduccion": "He aquí tú"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3303",
+      "hebreo": "יָפֶה",
+      "transliteracion": "יָפָה֙",
+      "parsingLabel": "adjetivo femenino singular absoluto",
+      "parsing": "ADJV.F.SG.A",
+      "traduccion": "(eres) hermosa"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7474",
+      "hebreo": "רַעְיָה",
+      "transliteracion": "רַעְיָתִ֔י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": ";amiga mía"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנָּ֥ךְ",
+      "parsingLabel": "interjeción pronominal sufijo 2ª persona femenino singular",
+      "parsing": "INTJ.PRS.P2.F.SG",
+      "traduccion": "he aquí tú"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3303",
+      "hebreo": "יָפֶה",
+      "transliteracion": "יָפָ֖ה",
+      "parsingLabel": "adjetivo femenino singular absoluto",
+      "parsing": "ADJV.F.SG.A",
+      "traduccion": "(eres) hermosa"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינַ֥יִךְ",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P2.F.SG",
+      "traduccion": "tus ojos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3123",
+      "hebreo": "יֹונָה",
+      "transliteracion": "יֹונִֽים׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "(son como) palomas"
+    }
+  ]
+}

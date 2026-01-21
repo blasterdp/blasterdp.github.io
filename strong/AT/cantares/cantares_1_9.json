@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 1:9 Reina Valera 1960",
+    "texto": "A yegua de los carros de Faraón Te he comparado, amiga mía."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "A"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5484",
+      "hebreo": "סוּסָה",
+      "transliteracion": "סֻסָתִי֙",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi yegua"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7393",
+      "hebreo": "רֶכֶב",
+      "transliteracion": "רִכְבֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "los carros"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6547",
+      "hebreo": "פַּרְעֹה",
+      "transliteracion": "פַרְעֹ֔ה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de Faraón"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1819",
+      "hebreo": "דמה",
+      "transliteracion": "דִּמִּיתִ֖יךְ",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular pronominal sufijo 2ª persona femenino singular",
+      "parsing": "VERBO.PIEL.PERF.P1.U.SG.PRS.P2.F.SG",
+      "traduccion": "te comparo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7474",
+      "hebreo": "רַעְיָה",
+      "transliteracion": "רַעְיָתִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "amiga mía"
+    }
+  ]
+}

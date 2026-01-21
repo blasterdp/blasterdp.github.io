@@ -1,0 +1,152 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 32:15 Reina Valera 1960",
+    "texto": "Pero engordó Jesurún, y tiró coces (Engordaste, te cubriste de grasa); Entonces abandonó al Dios que lo hizo, Y menospreció la Roca de su salvación."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8080",
+      "hebreo": "שׁמן",
+      "transliteracion": "יִּשְׁמַ֤ן",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "engordó"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3484",
+      "hebreo": "יְשֻׁרוּן",
+      "transliteracion": "יְשֻׁרוּן֙",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Jesurún"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1163",
+      "hebreo": "בעט",
+      "transliteracion": "יִּבְעָ֔ט",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dio coces"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8080",
+      "hebreo": "שׁמן",
+      "transliteracion": "שָׁמַ֖נְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "te llenaste"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5666",
+      "hebreo": "עבה",
+      "transliteracion": "עָבִ֣יתָ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "te hiciste pesado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3780",
+      "hebreo": "כשׂה",
+      "transliteracion": "כָּשִׂ֑יתָ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "te hiciste suave"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5203",
+      "hebreo": "נטשׁ",
+      "transliteracion": "יִּטֹּשׁ֙",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "abandonó a"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "433",
+      "hebreo": "אֱלֹוהַּ",
+      "transliteracion": "אֱלֹ֣והַ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עָשָׂ֔הוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "le hizo"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "5034",
+      "hebreo": "נבל",
+      "transliteracion": "יְנַבֵּ֖ל",
+      "parsingLabel": "verbo pi“el wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.WAYQ.P3.M.SG",
+      "traduccion": "rechazó"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "6697",
+      "hebreo": "צוּר",
+      "transliteracion": "צ֥וּר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "roca de"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3444",
+      "hebreo": "יְשׁוּעָה",
+      "transliteracion": "יְשֻׁעָתֹֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su salvación"
+    }
+  ]
+}

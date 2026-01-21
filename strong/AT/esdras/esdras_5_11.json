@@ -1,0 +1,305 @@
+{
+  "versiculo": {
+    "referencia": "Esdras 5:11 Reina Valera 1960",
+    "texto": "Y nos respondieron diciendo así: Nosotros somos siervos del Dios del cielo y de la tierra, y reedificamos la casa que ya muchos años antes había sido edificada, la cual edificó y terminó el gran rey de Israel."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3660",
+      "hebreo": "כְּנֵמָא",
+      "transliteracion": "כְנֵ֥מָא",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "así"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6600",
+      "hebreo": "פִּתְגָם",
+      "transliteracion": "פִתְגָמָ֖א",
+      "parsingLabel": "sustantivo masculino singular emphatic",
+      "parsing": "SUBS.M.SG.E",
+      "traduccion": "la respuesta"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8421",
+      "hebreo": "תוב",
+      "transliteracion": "הֲתִיב֣וּנָא",
+      "parsingLabel": "verbo haf‘el perfecto 3ª persona masculino plural pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.HAF.PERF.P3.M.PL.PRS.P1.U.PL",
+      "traduccion": "que nos dieron"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "560",
+      "hebreo": "אמר",
+      "transliteracion": "מֵמַ֑ר",
+      "parsingLabel": "verbo pe‘al infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.PEAL.INFC.U.U.U.A",
+      "traduccion": "diciendo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "586",
+      "hebreo": "אֲנַחְנָא",
+      "transliteracion": "אֲנַ֣חְנָא",
+      "parsingLabel": "pronombre personal 1ª persona desconocido plural",
+      "parsing": "PRPS.P1.U.PL",
+      "traduccion": "nosotros"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1994",
+      "hebreo": "הִמֹּו",
+      "transliteracion": "הִמֹּ֡ו",
+      "parsingLabel": "pronombre personal 3ª persona masculino plural",
+      "parsing": "PRPS.P3.M.PL",
+      "traduccion": "somos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5649",
+      "hebreo": "עֲבֵד",
+      "transliteracion": "עַבְדֹוהִי֩",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "siervos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1768",
+      "hebreo": "דִּי",
+      "transliteracion": "דִֽי־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "426",
+      "hebreo": "אֱלָהּ",
+      "transliteracion": "אֱלָ֨הּ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "el Dios de"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "8065",
+      "hebreo": "שְׁמַיִן",
+      "transliteracion": "שְׁמַיָּ֜א",
+      "parsingLabel": "sustantivo masculino plural emphatic",
+      "parsing": "SUBS.M.PL.E",
+      "traduccion": "el cielo"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "772",
+      "hebreo": "אֲרַע",
+      "transliteracion": "אַרְעָ֗א",
+      "parsingLabel": "sustantivo femenino singular emphatic",
+      "parsing": "SUBS.F.SG.E",
+      "traduccion": "de la tierra"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "1124",
+      "hebreo": "בנה",
+      "transliteracion": "בָנַ֤יִן",
+      "parsingLabel": "verbo pe‘al participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.PEAL.PTCA.U.M.PL.A",
+      "traduccion": "reedificamos"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "1005",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בַּיְתָא֙",
+      "parsingLabel": "sustantivo masculino singular emphatic",
+      "parsing": "SUBS.M.SG.E",
+      "traduccion": "la casa"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "1768",
+      "hebreo": "דִּי",
+      "transliteracion": "דִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "1934",
+      "hebreo": "הוה",
+      "transliteracion": "הֲוָ֨א",
+      "parsingLabel": "verbo pe‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PEAL.PERF.P3.M.SG",
+      "traduccion": "había sido"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "1124",
+      "hebreo": "בנה",
+      "transliteracion": "בְנֵ֜ה",
+      "parsingLabel": "verbo pe‘al participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.PEAL.PTCP.U.M.SG.A",
+      "traduccion": "edificada"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "4481",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "6928",
+      "hebreo": "קַדְמָה",
+      "transliteracion": "קַּדְמַ֤ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "antes de"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "1836",
+      "hebreo": "דְּנָה",
+      "transliteracion": "דְּנָה֙",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "esto"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "8140",
+      "hebreo": "שְׁנָה",
+      "transliteracion": "שְׁנִ֣ין",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "años"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "7690",
+      "hebreo": "שַׂגִּיא",
+      "transliteracion": "שַׂגִּיאָ֔ן",
+      "parsingLabel": "adjetivo femenino plural absoluto",
+      "parsing": "ADJV.F.PL.A",
+      "traduccion": "muchos"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "4430",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מֶ֤לֶךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "un rey"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "3479",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵל֙",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "7260",
+      "hebreo": "רַב",
+      "transliteracion": "רַ֔ב",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "grande"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "1124",
+      "hebreo": "בנה",
+      "transliteracion": "בְּנָ֖הִי",
+      "parsingLabel": "verbo pe‘al perfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PEAL.PERF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "la edificó"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "3635",
+      "hebreo": "כלל",
+      "transliteracion": "שַׁכְלְלֵֽהּ׃",
+      "parsingLabel": "verbo shaf‘el perfecto 3ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.SHAF.PERF.P3.M.SG.PRS.P3.F.SG",
+      "traduccion": "terminó"
+    }
+  ]
+}

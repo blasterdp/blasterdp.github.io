@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 49:5 Reina Valera 1960",
+    "texto": "Simeón y Leví son hermanos; Armas de iniquidad sus armas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8095",
+      "hebreo": "שִׁמְעֹון",
+      "transliteracion": "שִׁמְעֹ֥ון",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Simeón"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3878",
+      "hebreo": "לֵוִי",
+      "transliteracion": "לֵוִ֖י",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Leví"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "251",
+      "hebreo": "אָח",
+      "transliteracion": "אַחִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "hermanos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3627",
+      "hebreo": "כְּלִי",
+      "transliteracion": "כְּלֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "armas de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2555",
+      "hebreo": "חָמָס",
+      "transliteracion": "חָמָ֖ס",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "violencia"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4380",
+      "hebreo": "מְכֵרָה",
+      "transliteracion": "מְכֵרֹתֵיהֶֽם׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus espadas."
+    }
+  ]
+}

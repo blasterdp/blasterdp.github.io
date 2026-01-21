@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 44:25 Reina Valera 1960",
+    "texto": "Y dijo nuestro padre: Volved a comprarnos un poco de alimento."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּ֖אמֶר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אָבִ֑ינוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.PL",
+      "traduccion": "nuestro padre:"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "שֻׁ֖בוּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "volved"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7666",
+      "hebreo": "שׁבר",
+      "transliteracion": "שִׁבְרוּ־",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "comprad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ֥נוּ",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "PREP.PRS.P1.U.PL",
+      "traduccion": "para nosotros"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4592",
+      "hebreo": "מְעַט",
+      "transliteracion": "מְעַט־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "poco de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "400",
+      "hebreo": "אֹכֶל",
+      "transliteracion": "אֹֽכֶל׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "comida."
+    }
+  ]
+}

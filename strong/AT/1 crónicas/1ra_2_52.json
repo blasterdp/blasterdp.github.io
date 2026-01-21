@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 2:52 Reina Valera 1960",
+    "texto": "Y los hijos de Sobal padre de Quiriat-jearim fueron Haroe, la mitad de los manahetitas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "יִּהְי֤וּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "fueron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בָנִים֙",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "hijos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7732",
+      "hebreo": "שֹׁובָל",
+      "transliteracion": "שֹׁובָ֔ל",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Sobal"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אֲבִ֖י",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "padre de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7157",
+      "hebreo": "קִרְיַת יְעָרִים",
+      "transliteracion": "קִרְיַ֣ת יְעָרִ֑ים",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Quiriat-jearim"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7204",
+      "hebreo": "הָרֹאֶה",
+      "transliteracion": "הָרֹאֶ֖ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Haroe"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2677",
+      "hebreo": "חֲצִי הַמְּנֻחֹות",
+      "transliteracion": "חֲצִ֥י הַמְּנֻחֹֽות׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "mitad de los manahetitas"
+    }
+  ]
+}

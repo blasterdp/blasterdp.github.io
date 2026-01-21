@@ -1,0 +1,233 @@
+{
+  "versiculo": {
+    "referencia": "Eclesiatés 12:6 Reina Valera 1960",
+    "texto": "antes que la cadena de plata se quiebre, y se rompa el cuenco de oro, y el cántaro se quiebre junto a la fuente, y la rueda sea rota sobre el pozo;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַ֣ד",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "Mientras"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֤ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7576",
+      "hebreo": "רתק",
+      "transliteracion": "יֵרָתֵק֙",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "sea roto"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2256",
+      "hebreo": "חֶבֶל",
+      "transliteracion": "חֶ֣בֶל",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "(el) cordón"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "de la"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3701",
+      "hebreo": "כֶּסֶף",
+      "transliteracion": "כֶּ֔סֶף",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "plata"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7323",
+      "hebreo": "רוץ",
+      "transliteracion": "תָרֻ֖ץ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "se quiebre"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1543",
+      "hebreo": "גֻּלָּה",
+      "transliteracion": "גֻּלַּ֣ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "(el) cuenco"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "del"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "2091",
+      "hebreo": "זָהָב",
+      "transliteracion": "זָּהָ֑ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "oro"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "7665",
+      "hebreo": "שׁבר",
+      "transliteracion": "תִשָּׁ֤בֶר",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.F.SG",
+      "traduccion": "se rompa"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "3537",
+      "hebreo": "כַּד",
+      "transliteracion": "כַּד֙",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "(el) cántaro"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "junto"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "a la"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "4002",
+      "hebreo": "מַבּוּעַ",
+      "transliteracion": "מַּבּ֔וּעַ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "fuente"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "7533",
+      "hebreo": "רצץ",
+      "transliteracion": "נָרֹ֥ץ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "se haga pedazos"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "1534",
+      "hebreo": "גַּלְגַּל",
+      "transliteracion": "גַּלְגַּ֖ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "rueda"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "953",
+      "hebreo": "בֹּור",
+      "transliteracion": "בֹּֽור׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pozo"
+    }
+  ]
+}

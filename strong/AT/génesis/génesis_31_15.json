@@ -1,0 +1,125 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 31:15 Reina Valera 1960",
+    "texto": "¿No nos tiene ya como por extrañas, pues que nos vendió, y aun se ha comido del todo nuestro precio?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "Acaso?"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֧וא",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5237",
+      "hebreo": "נָכְרִי",
+      "transliteracion": "נָכְרִיֹּ֛ות",
+      "parsingLabel": "adjetivo femenino plural absoluto",
+      "parsing": "ADJV.F.PL.A",
+      "traduccion": "extranjeras"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2803",
+      "hebreo": "חשׁב",
+      "transliteracion": "נֶחְשַׁ֥בְנוּ",
+      "parsingLabel": "verbo nif‘al perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P1.U.PL",
+      "traduccion": "consideradas somos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֹ֖ו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "por él"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4376",
+      "hebreo": "מכר",
+      "transliteracion": "מְכָרָ֑נוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P1.U.PL",
+      "traduccion": "nos vendió"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "יֹּ֥אכַל",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "se comió"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "cierto"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "אָכֹ֖ול",
+      "parsingLabel": "adverbio qal infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.QAL.INFA.U.U.U.A",
+      "traduccion": "comer"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "(objeto marcador)"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3701",
+      "hebreo": "כֶּסֶף",
+      "transliteracion": "כַּסְפֵּֽנוּ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.PL",
+      "traduccion": "nuestro precio."
+    }
+  ]
+}

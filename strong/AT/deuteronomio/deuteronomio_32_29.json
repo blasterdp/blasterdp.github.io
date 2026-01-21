@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 32:29 Reina Valera 1960",
+    "texto": "¡Ojalá fueran sabios, que comprendieran esto, Y se dieran cuenta del fin que les espera!"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3863",
+      "hebreo": "לוּ",
+      "transliteracion": "ל֥וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2449",
+      "hebreo": "חכם",
+      "transliteracion": "חָכְמ֖וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "fuesen sabios"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7919",
+      "hebreo": "שׂכל",
+      "transliteracion": "יַשְׂכִּ֣ילוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL",
+      "traduccion": "entenderían"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2063",
+      "hebreo": "זֹאת",
+      "transliteracion": "זֹ֑את",
+      "parsingLabel": "demonstrative pronombre femenino singular",
+      "parsing": "PRDE.F.SG",
+      "traduccion": "esto"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "יָבִ֖ינוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "discernirían"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "319",
+      "hebreo": "אַחֲרִית",
+      "transliteracion": "אַחֲרִיתָֽם׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "su fin"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 32:31 Reina Valera 1960",
+    "texto": "Porque la roca de ellos no es como nuestra Roca, Y aun nuestros enemigos son de ello jueces."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֛י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6697",
+      "hebreo": "צוּר",
+      "transliteracion": "צוּרֵ֖נוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.PL",
+      "traduccion": "nuestra roca"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6697",
+      "hebreo": "צוּר",
+      "transliteracion": "צוּרָ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su roca"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹיְבֵ֖ינוּ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestros enemigos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6414",
+      "hebreo": "פָּלִיל",
+      "transliteracion": "פְּלִילִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "admiten"
+    }
+  ]
+}

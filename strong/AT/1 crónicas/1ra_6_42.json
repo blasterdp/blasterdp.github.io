@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 6:42 Reina Valera 1960",
+    "texto": "hijo de Etán, hijo de Zima, hijo de Simei,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶּן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hijo de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "387",
+      "hebreo": "אֵיתָן",
+      "transliteracion": "אֵיתָ֥ן",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Etán"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶּן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hijo de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2155",
+      "hebreo": "זִמָּה",
+      "transliteracion": "זִמָּ֖ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Zima"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶּן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hijo de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8096",
+      "hebreo": "שִׁמְעִי",
+      "transliteracion": "שִׁמְעִֽי׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Simei"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 18:13 Reina Valera 1960",
+    "texto": "Perfecto serás delante de Jehová tu Dios."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8549",
+      "hebreo": "תָּמִים",
+      "transliteracion": "תָּמִ֣ים",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "perfecto"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "תִּֽהְיֶ֔ה",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "serás"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִ֖ם",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֥ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֶֽיךָ׃ ס",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tu Dios"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 22:1 Reina Valera 1960",
+    "texto": "Si vieres extraviado el buey de tu hermano, o su cordero, no le negarás tu ayuda; lo volverás a tu hermano."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "תִרְאֶה֩",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "verás"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7794",
+      "hebreo": "שֹׁור",
+      "transliteracion": "שֹׁ֨ור",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "buey de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "251",
+      "hebreo": "אָח",
+      "transliteracion": "אָחִ֜יךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu hermano"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "176",
+      "hebreo": "אֹו",
+      "transliteracion": "אֹ֤ו",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7716",
+      "hebreo": "שֶׂה",
+      "transliteracion": "שֵׂיֹו֙",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su oveja"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5080",
+      "hebreo": "נדח",
+      "transliteracion": "נִדָּחִ֔ים",
+      "parsingLabel": "verbo nif‘al participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.M.PL.A",
+      "traduccion": "perdidos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5956",
+      "hebreo": "עלם",
+      "transliteracion": "הִתְעַלַּמְתָּ֖",
+      "parsingLabel": "verbo hitpa“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIT.PERF.P2.M.SG",
+      "traduccion": "te inhibirás"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵהֶ֑ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "de ellos"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "הָשֵׁ֥ב",
+      "parsingLabel": "adverbio hif‘il infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.HIF.INFA.U.U.U.A",
+      "traduccion": "devolver"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "תְּשִׁיבֵ֖ם",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG.PRS.P3.M.PL",
+      "traduccion": "los devolverás"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "251",
+      "hebreo": "אָח",
+      "transliteracion": "אָחִֽיךָ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu hermano"
+    }
+  ]
+}

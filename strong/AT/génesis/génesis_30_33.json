@@ -1,0 +1,260 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 30:33 Reina Valera 1960",
+    "texto": "Así responderá por mí mi honradez mañana, cuando vengas a reconocer mi salario; toda la que no fuere pintada ni manchada en las cabras, y de color oscuro entre mis ovejas, se me ha de tener como de hurto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6030",
+      "hebreo": "ענה",
+      "transliteracion": "עָֽנְתָה־",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "responderá"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ֤י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "por mí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6666",
+      "hebreo": "צְדָקָה",
+      "transliteracion": "צִדְקָתִי֙",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi integridad"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹ֣ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4279",
+      "hebreo": "מָחָר",
+      "transliteracion": "מָחָ֔ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "futuro"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "תָבֹ֥וא",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "compruebes"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7939",
+      "hebreo": "שָׂכָר",
+      "transliteracion": "שְׂכָרִ֖י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi salario"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de ti"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָנֶ֑יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "delante;"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֹּ֣ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "lo que"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵינֶנּוּ֩",
+      "parsingLabel": "negativo partículo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "NEGA.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "no es"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "5348",
+      "hebreo": "נָקֹד",
+      "transliteracion": "נָקֹ֨ד",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "el manchado"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "2921",
+      "hebreo": "טלא",
+      "transliteracion": "טָל֜וּא",
+      "parsingLabel": "adjetivo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "ADJV.QAL.PTCP.U.M.SG.A",
+      "traduccion": "moteado"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "5795",
+      "hebreo": "עֵז",
+      "transliteracion": "עִזִּ֗ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "cabras"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "2345",
+      "hebreo": "חוּם",
+      "transliteracion": "חוּם֙",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "oscuro"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "3775",
+      "hebreo": "כֶּשֶׂב",
+      "transliteracion": "כְּשָׂבִ֔ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "corderos,"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "1589",
+      "hebreo": "גנב",
+      "transliteracion": "גָּנ֥וּב",
+      "parsingLabel": "verbo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.M.SG.A",
+      "traduccion": "robado"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֖וּא",
+      "parsingLabel": "personal pronombre 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "854",
+      "hebreo": "אֵת",
+      "transliteracion": "אִתִּֽי׃",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "a mi."
+    }
+  ]
+}

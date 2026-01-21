@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Esdras 2:29 Reina Valera 1960",
+    "texto": "Los hijos de Nebo, cincuenta y dos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "Los hijos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5015",
+      "hebreo": "נְבֹו",
+      "transliteracion": "נְבֹ֖ו",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Nebo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2568",
+      "hebreo": "חָמֵשׁ",
+      "transliteracion": "חֲמִשִּׁ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cincuenta"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁנָֽיִם׃ ס",
+      "parsingLabel": "sustantivo desconocido dual absoluto",
+      "parsing": "SUBS.U.DU.A",
+      "traduccion": "dos"
+    }
+  ]
+}

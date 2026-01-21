@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "1ra Reyes 6:37 Reina Valera 1960",
+    "texto": "En el cuarto año, en el mes de Zif, se echaron los cimientos de la casa de Jehová."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8141",
+      "hebreo": "שָׁנָה",
+      "transliteracion": "שָּׁנָה֙",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "año"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7243",
+      "hebreo": "רְבִיעִי",
+      "transliteracion": "רְבִיעִ֔ית",
+      "parsingLabel": "adjetivo femenino singular absoluto",
+      "parsing": "ADJV.F.SG.A",
+      "traduccion": "cuarto"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3245",
+      "hebreo": "יסד",
+      "transliteracion": "יֻסַּ֖ד",
+      "parsingLabel": "verbo pu“al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PUAL.PERF.P3.M.SG",
+      "traduccion": "fue cimentado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּ֣ית",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "el templo de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3391",
+      "hebreo": "יֶרַח",
+      "transliteracion": "יֶ֖רַח",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "el mes de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2099",
+      "hebreo": "זִו",
+      "transliteracion": "זִֽו׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Zif"
+    }
+  ]
+}

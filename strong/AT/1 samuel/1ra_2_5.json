@@ -1,0 +1,143 @@
+{
+  "versiculo": {
+    "referencia": "1ra Samuel 2:5 Reina Valera 1960",
+    "texto": "Los saciados se alquilaron por pan, Y los hambrientos dejaron de tener hambre; Hasta la estéril ha dado a luz siete, Y la que tenía muchos hijos languidece."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7649",
+      "hebreo": "שָׂבֵעַ",
+      "transliteracion": "שְׂבֵעִ֤ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "saciados"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3899",
+      "hebreo": "לֶחֶם",
+      "transliteracion": "לֶּ֨חֶם֙",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "pan"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7939",
+      "hebreo": "שׂכר",
+      "transliteracion": "נִשְׂכָּ֔רוּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "se han alquilado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7457",
+      "hebreo": "רָעֵב",
+      "transliteracion": "רְעֵבִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "hambrientos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2308",
+      "hebreo": "חדל",
+      "transliteracion": "חָדֵ֑לּוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "ha cesado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6135",
+      "hebreo": "עָקָר",
+      "transliteracion": "עֲקָרָה֙",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "estéril"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3205",
+      "hebreo": "ילד",
+      "transliteracion": "יָלְדָ֣ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "pare"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7651",
+      "hebreo": "שֶׁבַע",
+      "transliteracion": "שִׁבְעָ֔ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "siete"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַבַּ֥ת",
+      "parsingLabel": "adjetivo femenino singular constructivo",
+      "parsing": "ADJV.F.SG.C",
+      "traduccion": "numerosa de"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בָּנִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "hijos"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "535",
+      "hebreo": "אמל",
+      "transliteracion": "אֻמְלָֽלָה׃",
+      "parsingLabel": "verbo pu“al perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PUAL.PERF.P3.F.SG",
+      "traduccion": "se ha marchitado"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 24:6 Reina Valera 1960",
+    "texto": "No tomarás en prenda la muela del molino, ni la de abajo ni la de arriba; porque sería tomar en prenda la vida del hombre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2254",
+      "hebreo": "חבל",
+      "transliteracion": "יַחֲבֹ֥ל",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "tomarás en prenda"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7347",
+      "hebreo": "רֵחַיִם",
+      "transliteracion": "רֵחַ֖יִם",
+      "parsingLabel": "sustantivo masculino dual absoluto",
+      "parsing": "SUBS.M.DU.A",
+      "traduccion": "dos piedras de molino"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "ni"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7393",
+      "hebreo": "רֶכֶב",
+      "transliteracion": "רָ֑כֶב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "la superior"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נֶ֖פֶשׁ",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "vida"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֥וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "esa"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2254",
+      "hebreo": "חבל",
+      "transliteracion": "חֹבֵֽל׃ ס",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "prenda"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 32:30 Reina Valera 1960",
+    "texto": "¿Cómo podría perseguir uno a mil, Y dos hacer huir a diez mil, Si su Roca no los hubiese vendido, Y Jehová no los hubiera entregado?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "349",
+      "hebreo": "אֵיכָה",
+      "transliteracion": "אֵיכָ֞ה",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿cómo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7291",
+      "hebreo": "רדף",
+      "transliteracion": "יִרְדֹּ֤ף",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "perseguirá"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "259",
+      "hebreo": "אֶחָד",
+      "transliteracion": "אֶחָד֙",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "uno"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "505",
+      "hebreo": "אֶלֶף",
+      "transliteracion": "אֶ֔לֶף",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "mil"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁנַ֖יִם",
+      "parsingLabel": "sustantivo desconocido dual absoluto",
+      "parsing": "SUBS.U.DU.A",
+      "traduccion": "dos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5127",
+      "hebreo": "נוס",
+      "transliteracion": "יָנִ֣יסוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL",
+      "traduccion": "harán huir"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7233",
+      "hebreo": "רְבָבָה",
+      "transliteracion": "רְבָבָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "diez mil"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא֙",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "6697",
+      "hebreo": "צוּר",
+      "transliteracion": "צוּרָ֣ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su roca"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4376",
+      "hebreo": "מכר",
+      "transliteracion": "מְכָרָ֔ם",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los vendió"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יהוָ֖ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "5462",
+      "hebreo": "סגר",
+      "transliteracion": "הִסְגִּירָֽם׃",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los entregó?"
+    }
+  ]
+}

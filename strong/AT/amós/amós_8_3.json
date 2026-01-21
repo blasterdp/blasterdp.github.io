@@ -1,0 +1,179 @@
+{
+  "versiculo": {
+    "referencia": "Amós 8:3 Reina Valera 1960",
+    "texto": "Y los cantores del templo gemirán en aquel día, dice Jehová el Señor; muchos serán los cuerpos muertos; en todo lugar los echarán fuera en silencio."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3213",
+      "hebreo": "ילל",
+      "transliteracion": "הֵילִ֜ילוּ",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.HIF.PERF.P3.U.PL",
+      "traduccion": "serán lamentaciones"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7892",
+      "hebreo": "שִׁירָה",
+      "transliteracion": "שִׁירֹ֤ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "cánticos de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1964",
+      "hebreo": "הֵיכָל",
+      "transliteracion": "הֵיכָל֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "templo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹּ֣ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "el día"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֔וּא",
+      "parsingLabel": "demonstrative pronombre 3ª persona masculino singular",
+      "parsing": "PRDE.P3.M.SG",
+      "traduccion": "aquel"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5002",
+      "hebreo": "נְאֻם",
+      "transliteracion": "נְאֻ֖ם",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "declaración de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "136",
+      "hebreo": "אֲדֹנָי",
+      "transliteracion": "אֲדֹנָ֣י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Señor"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוִ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": ";Yahweh"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַ֣ב",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "mucho"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "6297",
+      "hebreo": "פֶּגֶר",
+      "transliteracion": "פֶּ֔גֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "cadáver"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "4725",
+      "hebreo": "מָקֹום",
+      "transliteracion": "מָקֹ֖ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "lugar"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "7993",
+      "hebreo": "שׁלך",
+      "transliteracion": "הִשְׁלִ֥יךְ",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG",
+      "traduccion": "se amontonará"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "2013",
+      "hebreo": "הסה",
+      "transliteracion": "הָֽס׃ פ",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG",
+      "traduccion": "en silencio"
+    }
+  ]
+}

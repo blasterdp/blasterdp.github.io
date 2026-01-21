@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Esdras 2:24 Reina Valera 1960",
+    "texto": "Los hijos de Azmavet, cuarenta y dos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "Los hijos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5820",
+      "hebreo": "עַזְמָוֶת",
+      "transliteracion": "עַזְמָ֖וֶת",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Azmavet"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "702",
+      "hebreo": "אַרְבַּע",
+      "transliteracion": "אַרְבָּעִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cuarenta"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁנָֽיִם׃ ס",
+      "parsingLabel": "sustantivo desconocido dual absoluto",
+      "parsing": "SUBS.U.DU.A",
+      "traduccion": "dos"
+    }
+  ]
+}

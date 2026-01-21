@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Habacuc 3:15 Reina Valera 1960",
+    "texto": "Caminaste en el mar con tus caballos, Sobre la mole de las grandes aguas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1869",
+      "hebreo": "דרך",
+      "transliteracion": "דָּרַ֥כְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "Caminaste"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en el"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3220",
+      "hebreo": "יָם",
+      "transliteracion": "יָּ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mar"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5483",
+      "hebreo": "סוּס",
+      "transliteracion": "סוּסֶ֑יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus caballos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2563",
+      "hebreo": "חֹמֶר",
+      "transliteracion": "חֹ֖מֶר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "montón de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַ֥יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַבִּֽים׃",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "muchas"
+    }
+  ]
+}

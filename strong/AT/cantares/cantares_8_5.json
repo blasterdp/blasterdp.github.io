@@ -1,0 +1,179 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 8:5 Reina Valera 1960",
+    "texto": "¿Quién es ésta que sube del desierto, Recostada sobre su amado? Debajo de un manzano te desperté; Allí tuvo tu madre dolores, Allí tuvo dolores la que te dio a luz."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִ֣י",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "Quién¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2063",
+      "hebreo": "זֹאת",
+      "transliteracion": "זֹ֗את",
+      "parsingLabel": "demonstrative pronombre femenino singular",
+      "parsing": "PRDE.F.SG",
+      "traduccion": "(es) esa"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5927",
+      "hebreo": "עלה",
+      "transliteracion": "עֹלָה֙",
+      "parsingLabel": "verbo qal participio desconocido femenino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.F.SG.A",
+      "traduccion": "que sube"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִן־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4057",
+      "hebreo": "מִדְבָּר",
+      "transliteracion": "מִּדְבָּ֔ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "desierto"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7514",
+      "hebreo": "רפק",
+      "transliteracion": "מִתְרַפֶּ֖קֶת",
+      "parsingLabel": "verbo hitpa“el participio desconocido femenino singular absoluto",
+      "parsing": "VERBO.HIT.PTCA.U.F.SG.A",
+      "traduccion": "apoyada"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1730",
+      "hebreo": "דֹּוד",
+      "transliteracion": "דֹּודָ֑הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "?su amado"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּ֤חַת",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "Bajo"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "8598",
+      "hebreo": "תַּפּוּחַ",
+      "transliteracion": "תַּפּ֨וּחַ֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "manzano"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "5782",
+      "hebreo": "עור",
+      "transliteracion": "עֹֽורַרְתִּ֔יךָ",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": ";te he despertado"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "8033",
+      "hebreo": "שָׁם",
+      "transliteracion": "שָׁ֚מָּה",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "allí"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "2254",
+      "hebreo": "חבל",
+      "transliteracion": "חִבְּלַ֣תְךָ",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona femenino singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.F.SG.PRS.P2.M.SG",
+      "traduccion": "tuvo dolores de parto por ti"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "517",
+      "hebreo": "אֵם",
+      "transliteracion": "אִמֶּ֔ךָ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu madre"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "8033",
+      "hebreo": "שָׁם",
+      "transliteracion": "שָׁ֖מָּה",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "allí"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "2254",
+      "hebreo": "חבל",
+      "transliteracion": "חִבְּלָ֥ה",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.F.SG",
+      "traduccion": "tuvo dolores de parto"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "3205",
+      "hebreo": "ילד",
+      "transliteracion": "יְלָדַֽתְךָ׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG.PRS.P2.M.SG",
+      "traduccion": "(y) te dio a luz"
+    }
+  ]
+}

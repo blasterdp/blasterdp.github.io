@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 6:16 Reina Valera 1960",
+    "texto": "Los hijos de Leví: Gersón, Coat y Merari."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֖י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3878",
+      "hebreo": "לֵוִי",
+      "transliteracion": "לֵוִ֑י",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Levi"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1647",
+      "hebreo": "גֵּרְשֹׁם",
+      "transliteracion": "גֵּרְשֹׁ֕ם",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Gersón"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6955",
+      "hebreo": "קְהָת",
+      "transliteracion": "קְהָ֖ת",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Coat"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4847",
+      "hebreo": "מְרָרִי",
+      "transliteracion": "מְרָרִֽי׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Merari"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 1:12 Reina Valera 1960",
+    "texto": "Mientras el rey estaba en su reclinatorio, Mi nardo dio su olor."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "Mientras"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7945",
+      "hebreo": "שַׁ",
+      "transliteracion": "שֶׁ֤",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מֶּ֨לֶךְ֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Rey"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4524",
+      "hebreo": "מֵסַב",
+      "transliteracion": "מְסִבֹּ֔ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su diván"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5373",
+      "hebreo": "נֵרְדְּ",
+      "transliteracion": "נִרְדִּ֖י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi nardo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "נָתַ֥ן",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "dio"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7381",
+      "hebreo": "רֵיחַ",
+      "transliteracion": "רֵיחֹֽו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su fragancia"
+    }
+  ]
+}

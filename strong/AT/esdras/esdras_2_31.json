@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Esdras 2:31 Reina Valera 1960",
+    "texto": "Los hijos del otro Elam, mil doscientos cincuenta y cuatro."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵי֙",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "Los hijos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5867",
+      "hebreo": "עֵילָם",
+      "transliteracion": "עֵילָ֣ם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Elam"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "312",
+      "hebreo": "אַחֵר",
+      "transliteracion": "אַחֵ֔ר",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "el otro"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "505",
+      "hebreo": "אֶלֶף",
+      "transliteracion": "אֶ֕לֶף",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "mil"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3967",
+      "hebreo": "מֵאָה",
+      "transliteracion": "מָאתַ֖יִם",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "doscientos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2568",
+      "hebreo": "חָמֵשׁ",
+      "transliteracion": "חֲמִשִּׁ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cincuenta"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "702",
+      "hebreo": "אַרְבַּע",
+      "transliteracion": "אַרְבָּעָֽה׃ ס",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "cuatro"
+    }
+  ]
+}

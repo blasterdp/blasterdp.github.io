@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 2:45 Reina Valera 1960",
+    "texto": "Maón fue hijo de Samai, y Maón padre de Bet-sur."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "e"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hijo de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8060",
+      "hebreo": "שַׁמַּי",
+      "transliteracion": "שַׁמַּ֖י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Samai"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4584",
+      "hebreo": "מָעֹון",
+      "transliteracion": "מָעֹ֑ון",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Maón"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4584",
+      "hebreo": "מָעֹון",
+      "transliteracion": "מָעֹ֖ון",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Maón"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אֲבִ֥י",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "padre de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1049",
+      "hebreo": "בֵּית צוּר",
+      "transliteracion": "בֵֽית־צֽוּר׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Bet-sur"
+    }
+  ]
+}

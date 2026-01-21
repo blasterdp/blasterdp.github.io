@@ -1,0 +1,242 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 8:15 Reina Valera 1960",
+    "texto": "que te hizo caminar por un desierto grande y espantoso, lleno de serpientes ardientes, y de escorpiones, y de sed, donde no había agua, y él te sacó agua de la roca del pedernal;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "el"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "מֹּולִ֨יכֲךָ֜",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "que te hizo marchar"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4057",
+      "hebreo": "מִדְבָּר",
+      "transliteracion": "מִּדְבָּ֣ר׀",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "desierto"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1419",
+      "hebreo": "גָּדֹול",
+      "transliteracion": "גָּדֹ֣ל",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "grande"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3372",
+      "hebreo": "ירא",
+      "transliteracion": "נֹּורָ֗א",
+      "parsingLabel": "adjetivo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "ADJV.NIF.PTCA.U.M.SG.A",
+      "traduccion": "terrible"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5175",
+      "hebreo": "נָחָשׁ",
+      "transliteracion": "נָחָ֤שׁ׀",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "serpiente"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "8314",
+      "hebreo": "שָׂרָף",
+      "transliteracion": "שָׂרָף֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "venenosa"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "6137",
+      "hebreo": "עַקְרָב",
+      "transliteracion": "עַקְרָ֔ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "escorpión"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "6774",
+      "hebreo": "צִמָּאֹון",
+      "transliteracion": "צִמָּאֹ֖ון",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "sequedal"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵֽין־",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "no hay"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מָ֑יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "agua"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "el"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "מֹּוצִ֤יא",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "que sacó"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְךָ֙",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "para ti"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַ֔יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "agua"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "6697",
+      "hebreo": "צוּר",
+      "transliteracion": "צּ֖וּר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "roca de"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "2496",
+      "hebreo": "חַלָּמִישׁ",
+      "transliteracion": "חַלָּמִֽישׁ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pedernal"
+    }
+  ]
+}

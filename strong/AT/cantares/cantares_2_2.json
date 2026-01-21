@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 2:2 Reina Valera 1960",
+    "texto": "Como el lirio entre los espinos, Así es mi amiga entre las doncellas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "Como"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7799",
+      "hebreo": "שׁוּשַׁן",
+      "transliteracion": "שֹֽׁושַׁנָּה֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "lirio"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "996",
+      "hebreo": "בַּיִן",
+      "transliteracion": "בֵּ֣ין",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2336",
+      "hebreo": "חֹוחַ",
+      "transliteracion": "חֹוחִ֔ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "espinos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3651",
+      "hebreo": "כֵּן",
+      "transliteracion": "כֵּ֥ן",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "así"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7474",
+      "hebreo": "רַעְיָה",
+      "transliteracion": "רַעְיָתִ֖י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "(es) mi amiga"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "996",
+      "hebreo": "בַּיִן",
+      "transliteracion": "בֵּ֥ין",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "las"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1323",
+      "hebreo": "בַּת",
+      "transliteracion": "בָּנֹֽות׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "hijas"
+    }
+  ]
+}

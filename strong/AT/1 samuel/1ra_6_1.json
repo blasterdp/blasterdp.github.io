@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "1ra Samuel 6:1 Reina Valera 1960",
+    "texto": "Estuvo el arca de Jehová en la tierra de los filisteos siete meses."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "יְהִ֧י",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "estuvo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "727",
+      "hebreo": "אֲרֹון",
+      "transliteracion": "אֲרֹון־",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "arca de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֛ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7704",
+      "hebreo": "שָׂדֶה",
+      "transliteracion": "שְׂדֵ֥ה",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "campo de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6430",
+      "hebreo": "פְּלִשְׁתִּי",
+      "transliteracion": "פְלִשְׁתִּ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "filisteo s"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7651",
+      "hebreo": "שֶׁבַע",
+      "transliteracion": "שִׁבְעָ֥ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "siete"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2320",
+      "hebreo": "חֹדֶשׁ",
+      "transliteracion": "חֳדָשִֽׁים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "meses"
+    }
+  ]
+}

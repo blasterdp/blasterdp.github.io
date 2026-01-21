@@ -1,0 +1,287 @@
+{
+  "versiculo": {
+    "referencia": "Daniel 9:18 Reina Valera 1960",
+    "texto": "Inclina, oh Dios mío, tu oído, y oye; abre tus ojos, y mira nuestras desolaciones, y la ciudad sobre la cual es invocado tu nombre; porque no elevamos nuestros ruegos ante ti confiados en nuestras justicias, sino en tus muchas misericordias."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5186",
+      "hebreo": "נטה",
+      "transliteracion": "הַטֵּ֨ה",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "Presta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהַ֥י׀",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios mío"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אָזְנְךָ֮",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu oído"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שֲׁמָע֒",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "escucha"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6491",
+      "hebreo": "פקח",
+      "transliteracion": "פְּקַ֣ח",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "abre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינֶ֗יךָ",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P2.M.SG",
+      "traduccion": "tus ojos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רְאֵה֙",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "mira"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "8074",
+      "hebreo": "שׁמם",
+      "transliteracion": "שֹֽׁמְמֹתֵ֔ינוּ",
+      "parsingLabel": "sustantivo qal participio desconocido femenino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.QAL.PTCA.U.F.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestras desolaciones"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "5892",
+      "hebreo": "עִיר",
+      "transliteracion": "עִ֕יר",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ciudad"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "7121",
+      "hebreo": "קרא",
+      "transliteracion": "נִקְרָ֥א",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "es invocado"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שִׁמְךָ֖",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu nombre"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלֶ֑יהָ",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona femenino singular",
+      "parsing": "PREP.PRS.P3.F.SG",
+      "traduccion": "sobre ella"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י׀",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "6666",
+      "hebreo": "צְדָקָה",
+      "transliteracion": "צִדְקֹתֵ֗ינוּ",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.F.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestra justicias"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "587",
+      "hebreo": "אֲנַחְנוּ",
+      "transliteracion": "אֲנַ֨חְנוּ",
+      "parsingLabel": "pronombre personal 1ª persona desconocido plural",
+      "parsing": "PRPS.P1.U.PL",
+      "traduccion": "nosotros"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "מַפִּילִ֤ים",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.PL.A",
+      "traduccion": "hacemos"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "8469",
+      "hebreo": "תַּחֲנוּן",
+      "transliteracion": "תַּחֲנוּנֵ֨ינוּ֙",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestros ruegos"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָנֶ֔יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tu presencia"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֖י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "sino"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "7356",
+      "hebreo": "רַחֲמִים",
+      "transliteracion": "רַחֲמֶ֥יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus misericordias"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "las"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַבִּֽים׃",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "abundantes"
+    }
+  ]
+}

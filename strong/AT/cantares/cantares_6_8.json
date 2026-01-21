@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 6:8 Reina Valera 1960",
+    "texto": "Sesenta son las reinas, y ochenta las concubinas, Y las doncellas sin número;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8337",
+      "hebreo": "שֵׁשׁ",
+      "transliteracion": "שִׁשִּׁ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Sesenta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1992",
+      "hebreo": "הֵמָּה",
+      "transliteracion": "הֵ֨מָּה֙",
+      "parsingLabel": "pronombre personal 3ª persona masculino plural",
+      "parsing": "PRPS.P3.M.PL",
+      "traduccion": "ellas (son)"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4436",
+      "hebreo": "מַלְכָּה",
+      "transliteracion": "מְּלָכֹ֔ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "reinas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8083",
+      "hebreo": "שְׁמֹנֶה",
+      "transliteracion": "שְׁמֹנִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "ochenta"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6370",
+      "hebreo": "פִּלֶגֶשׁ",
+      "transliteracion": "פִּֽילַגְשִׁ֑ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "concubinas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5959",
+      "hebreo": "עַלְמָה",
+      "transliteracion": "עֲלָמֹ֖ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "doncellas"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵ֥ין",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "sin"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4557",
+      "hebreo": "מִסְפָּר",
+      "transliteracion": "מִסְפָּֽר׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "número"
+    }
+  ]
+}

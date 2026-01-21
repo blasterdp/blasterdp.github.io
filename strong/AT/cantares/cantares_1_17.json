@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 1:17 Reina Valera 1960",
+    "texto": "Las vigas de nuestra casa son de cedro, Y de ciprés los artesonados."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6982",
+      "hebreo": "קֹורָה",
+      "transliteracion": "קֹרֹ֤ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "(Las)vigas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בָּתֵּ֨ינוּ֙",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "de nuestras casas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "730",
+      "hebreo": "אֶרֶז",
+      "transliteracion": "אֲרָזִ֔ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "(son) cedros"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7351",
+      "hebreo": "רָהִיט",
+      "transliteracion": "רַהִיטֵ֖נוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.PL",
+      "traduccion": "nuestros"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1266",
+      "hebreo": "בְּרֹות",
+      "transliteracion": "בְּרֹותִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cipreses"
+    }
+  ]
+}

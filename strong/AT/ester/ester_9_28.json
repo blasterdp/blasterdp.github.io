@@ -1,0 +1,377 @@
+{
+  "versiculo": {
+    "referencia": "Ester 9:28 Reina Valera 1960",
+    "texto": "y que estos días serían recordados y celebrados por todas las generaciones, familias, provincias y ciudades; que estos días de Purim no dejarían de ser guardados por los judíos, y que su descendencia jamás dejaría de recordarlos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יָּמִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "días"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ֠",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "428",
+      "hebreo": "אֵלֶּה",
+      "transliteracion": "אֵלֶּה",
+      "parsingLabel": "demonstrative pronombre desconocido plural",
+      "parsing": "PRDE.U.PL",
+      "traduccion": "estos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2142",
+      "hebreo": "זכר",
+      "transliteracion": "נִזְכָּרִ֨ים",
+      "parsingLabel": "verbo nif‘al participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.M.PL.A",
+      "traduccion": "se recordarían"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "נַעֲשִׂ֜ים",
+      "parsingLabel": "verbo nif‘al participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.M.PL.A",
+      "traduccion": "serían celebrados"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todas"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1755",
+      "hebreo": "דֹּור",
+      "transliteracion": "דֹּ֣ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "generaciones"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "1755",
+      "hebreo": "דֹּור",
+      "transliteracion": "דֹ֗ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "generaciones"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "4940",
+      "hebreo": "מִשְׁפָּחָה",
+      "transliteracion": "מִשְׁפָּחָה֙",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "en familias"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "4940",
+      "hebreo": "מִשְׁפָּחָה",
+      "transliteracion": "מִשְׁפָּחָ֔ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "familias"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "4082",
+      "hebreo": "מְדִינָה",
+      "transliteracion": "מְדִינָ֥ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "provincias"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "4082",
+      "hebreo": "מְדִינָה",
+      "transliteracion": "מְדִינָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "provincias"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "5892",
+      "hebreo": "עִיר",
+      "transliteracion": "עִ֣יר",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ciudades"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "5892",
+      "hebreo": "עִיר",
+      "transliteracion": "עִ֑יר",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ciudades"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וִ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "ימֵ֞י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "los días de"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "6332",
+      "hebreo": "פּוּר",
+      "transliteracion": "פּוּרִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Purim"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "428",
+      "hebreo": "אֵלֶּה",
+      "transliteracion": "אֵ֗לֶּה",
+      "parsingLabel": "demonstrative pronombre desconocido plural",
+      "parsing": "PRDE.U.PL",
+      "traduccion": "estos"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֤א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "יַֽעַבְרוּ֙",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "pasarían"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "8432",
+      "hebreo": "תָּוֶךְ",
+      "transliteracion": "תֹּ֣וךְ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 35,
+      "strongNumber": "3064",
+      "hebreo": "יְהוּדִי",
+      "transliteracion": "יְּהוּדִ֔ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "judíos"
+    },
+    {
+      "numero": 36,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 37,
+      "strongNumber": "2143",
+      "hebreo": "זֵכֶר",
+      "transliteracion": "זִכְרָ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "la memoria de ellos"
+    },
+    {
+      "numero": 38,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 39,
+      "strongNumber": "5486",
+      "hebreo": "סוף",
+      "transliteracion": "יָס֥וּף",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se terminaría"
+    },
+    {
+      "numero": 40,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 41,
+      "strongNumber": "2233",
+      "hebreo": "זֶרַע",
+      "transliteracion": "זַּרְעָֽם׃ ס",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su simiente"
+    }
+  ]
+}

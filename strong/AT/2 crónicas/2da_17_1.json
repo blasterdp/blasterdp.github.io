@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "2da Crónicas 17:1 Reina Valera 1960",
+    "texto": "Reinó en su lugar Josafat su hijo, el cual se hizo fuerte contra Israel."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4427",
+      "hebreo": "מלך",
+      "transliteracion": "יִּמְלֹ֛ךְ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "reinó"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3092",
+      "hebreo": "יְהֹושָׁפָט",
+      "transliteracion": "יְהֹושָׁפָ֥ט",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Josafat"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֹ֖ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su hijo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּחְתָּ֑יו",
+      "parsingLabel": "preposición masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "en su lugar"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2388",
+      "hebreo": "חזק",
+      "transliteracion": "יִּתְחַזֵּ֖ק",
+      "parsingLabel": "verbo hitpa“el wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.HIT.WAYQ.P3.M.SG",
+      "traduccion": "se fortaleció"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵֽל׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    }
+  ]
+}

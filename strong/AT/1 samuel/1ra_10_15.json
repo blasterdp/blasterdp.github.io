@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "1ra Samuel 10:15 Reina Valera 1960",
+    "texto": "Dijo el tío de Saúl: Yo te ruego me declares qué os dijo Samuel."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּ֖אמֶר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1730",
+      "hebreo": "דֹּוד",
+      "transliteracion": "דֹּ֣וד",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "tío de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7586",
+      "hebreo": "שָׁאוּל",
+      "transliteracion": "שָׁא֑וּל",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Saúl"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5046",
+      "hebreo": "נגד",
+      "transliteracion": "הַגִּֽידָה־",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "cuenta"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4994",
+      "hebreo": "נָא",
+      "transliteracion": "נָּ֣א",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "te ruego"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֔י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "a mí"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מָֽה־",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "qué"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָמַ֥ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָכֶ֖ם",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino plural",
+      "parsing": "PREP.PRS.P2.M.PL",
+      "traduccion": "a vosotros"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "8050",
+      "hebreo": "שְׁמוּאֵל",
+      "transliteracion": "שְׁמוּאֵֽל׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Samuel"
+    }
+  ]
+}

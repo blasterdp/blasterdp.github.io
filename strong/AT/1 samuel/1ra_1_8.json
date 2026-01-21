@@ -1,0 +1,224 @@
+{
+  "versiculo": {
+    "referencia": "1ra Samuel 1:8 Reina Valera 1960",
+    "texto": "Y Elcana su marido le dijo: Ana, ¿por qué lloras? ¿por qué no comes? ¿y por qué está afligido tu corazón? ¿No te soy yo mejor que diez hijos?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּ֨אמֶר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ֜הּ",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona femenino singular",
+      "parsing": "PREP.PRS.P3.F.SG",
+      "traduccion": "a ella"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "511",
+      "hebreo": "אֶלְקָנָה",
+      "transliteracion": "אֶלְקָנָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Elcana"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִישָׁ֗הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "su marido"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2584",
+      "hebreo": "חַנָּה",
+      "transliteracion": "חַנָּה֙",
+      "parsingLabel": "nombre propio femenino singular absoluto",
+      "parsing": "NMPR.F.SG.A",
+      "traduccion": "Ana"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4100",
+      "hebreo": "לָמָה",
+      "transliteracion": "לָ֣מֶה",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿por qué"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1058",
+      "hebreo": "בכה",
+      "transliteracion": "תִבְכִּ֗י",
+      "parsingLabel": "verbo qal imperfecto 2ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.F.SG",
+      "traduccion": "lloras?"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "¿y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4100",
+      "hebreo": "לָמָה",
+      "transliteracion": "לָ֨מֶה֙",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "por qué"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "תֹֽאכְלִ֔י",
+      "parsingLabel": "verbo qal imperfecto 2ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.F.SG",
+      "traduccion": "comes?"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "¿y"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "4100",
+      "hebreo": "לָמָה",
+      "transliteracion": "לָ֖מֶה",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "por qué"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "7489",
+      "hebreo": "רעע",
+      "transliteracion": "יֵרַ֣ע",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "sufre"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3824",
+      "hebreo": "לֵבָב",
+      "transliteracion": "לְבָבֵ֑ךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.F.SG",
+      "traduccion": "tu corazón?"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿acaso"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֤וא",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "595",
+      "hebreo": "אָנֹכִי",
+      "transliteracion": "אָֽנֹכִי֙",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "2896",
+      "hebreo": "טֹוב",
+      "transliteracion": "טֹ֣וב",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "bueno"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ֔ךְ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona femenino singular",
+      "parsing": "PREP.PRS.P2.F.SG",
+      "traduccion": "para ti"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "6235",
+      "hebreo": "עֲשָׂרָה",
+      "transliteracion": "עֲשָׂרָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "más que diez"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בָּנִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "hijos?"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 42:3 Reina Valera 1960",
+    "texto": "Y descendieron los diez hermanos de José a comprar trigo en Egipto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3381",
+      "hebreo": "ירד",
+      "transliteracion": "יֵּרְד֥וּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "descendieron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "251",
+      "hebreo": "אָח",
+      "transliteracion": "אֲחֵֽי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hermanos de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3130",
+      "hebreo": "יֹוסֵף",
+      "transliteracion": "יֹוסֵ֖ף",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "José"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6235",
+      "hebreo": "עֲשָׂרָה",
+      "transliteracion": "עֲשָׂרָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "diez"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7666",
+      "hebreo": "שׁבר",
+      "transliteracion": "שְׁבֹּ֥ר",
+      "parsingLabel": "verbo qal infinitivo (constructivo) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "comprar"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1250",
+      "hebreo": "בַּר",
+      "transliteracion": "בָּ֖ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "grano"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4714",
+      "hebreo": "מִצְרַיִם",
+      "transliteracion": "מִּצְרָֽיִם׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Egipto."
+    }
+  ]
+}

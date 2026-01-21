@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 5:16 Reina Valera 1960",
+    "texto": "Su paladar, dulcísimo, y todo él codiciable. Tal es mi amado, tal es mi amigo, Oh doncellas de Jerusalén."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2441",
+      "hebreo": "חֵךְ",
+      "transliteracion": "חִכֹּו֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "Su paladar"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4477",
+      "hebreo": "מַמְתַקִּים",
+      "transliteracion": "מַֽמְתַקִּ֔ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": ";dulzuras"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֻלֹּ֖ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "todo él"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4261",
+      "hebreo": "מַחְמָד",
+      "transliteracion": "מַחֲמַדִּ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "es un encanto"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶ֤ה",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "Este"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1730",
+      "hebreo": "דֹּוד",
+      "transliteracion": "דֹודִי֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "(es) mi amado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶ֣ה",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "éste (es)"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7453",
+      "hebreo": "רֵעַ",
+      "transliteracion": "רֵעִ֔י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi amigo"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1323",
+      "hebreo": "בַּת",
+      "transliteracion": "בְּנֹ֖ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "hijas"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3389",
+      "hebreo": "יְרוּשָׁלִַם",
+      "transliteracion": "יְרוּשָׁלִָֽם׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Jerusalén"
+    }
+  ]
+}

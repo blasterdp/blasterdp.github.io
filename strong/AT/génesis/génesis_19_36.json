@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 19:36 Reina Valera 1960",
+    "texto": "Y las dos hijas de Lot concibieron de su padre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2029",
+      "hebreo": "הרה",
+      "transliteracion": "תַּהֲרֶ֛יןָ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona femenino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.F.PL",
+      "traduccion": "concibieron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁתֵּ֥י",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "dos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1323",
+      "hebreo": "בַּת",
+      "transliteracion": "בְנֹֽות־",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "hijas de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3876",
+      "hebreo": "לֹוט",
+      "transliteracion": "לֹ֖וט",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Lot"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אֲבִיהֶֽן׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.PL",
+      "traduccion": "su padre"
+    }
+  ]
+}

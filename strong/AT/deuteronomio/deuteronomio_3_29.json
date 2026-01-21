@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 3:29 Reina Valera 1960",
+    "texto": "Y paramos en el valle delante de Bet-peor."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3427",
+      "hebreo": "ישׁב",
+      "transliteracion": "נֵּ֣שֶׁב",
+      "parsingLabel": "verbo qal wayyiqtol 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.WAYQ.P1.U.PL",
+      "traduccion": "permanecimos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1516",
+      "hebreo": "גַּיְא",
+      "transliteracion": "גָּ֔יְא",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "valle"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4136",
+      "hebreo": "מוּל",
+      "transliteracion": "מ֖וּל",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "cerca de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1047",
+      "hebreo": "בֵּית פְּעֹור",
+      "transliteracion": "בֵּ֥ית פְּעֹֽור׃ פ",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Bet-peor"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "1ra Samuel 5:1 Reina Valera 1960",
+    "texto": "Cuando los filisteos capturaron el arca de Dios, la llevaron desde Eben-ezer a Asdod."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6430",
+      "hebreo": "פְּלִשְׁתִּי",
+      "transliteracion": "פְלִשְׁתִּים֙",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "filisteo s"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3947",
+      "hebreo": "לקח",
+      "transliteracion": "לָֽקְח֔וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "capturaron"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֵ֖ת",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "727",
+      "hebreo": "אֲרֹון",
+      "transliteracion": "אֲרֹ֣ון",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "arca de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "יְבִאֻ֛הוּ",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.PL.PRS.P3.M.SG",
+      "traduccion": "la llevaron"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "72",
+      "hebreo": "אֶבֶן הָעֵזֶר",
+      "transliteracion": "אֶ֥בֶן הָעֵ֖זֶר",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Ebenezer"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "795",
+      "hebreo": "אַשְׁדֹּוד",
+      "transliteracion": "אַשְׁדֹּֽודָה׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Ashdod"
+    }
+  ]
+}

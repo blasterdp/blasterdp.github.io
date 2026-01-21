@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "1ra Samuel 2:7 Reina Valera 1960",
+    "texto": "Jehová empobrece, y él enriquece; Abate, y enaltece."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֖ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3423",
+      "hebreo": "ירשׁ",
+      "transliteracion": "מֹורִ֣ישׁ",
+      "parsingLabel": "sustantivo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.HIF.PTCA.U.M.SG.A",
+      "traduccion": "el que hace pobre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6238",
+      "hebreo": "עשׁר",
+      "transliteracion": "מַעֲשִׁ֑יר",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "el que hace rico"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8213",
+      "hebreo": "שׁפל",
+      "transliteracion": "מַשְׁפִּ֖יל",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "el que abaja"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "637",
+      "hebreo": "אַף",
+      "transliteracion": "אַף־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "también"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7311",
+      "hebreo": "רום",
+      "transliteracion": "מְרֹומֵֽם׃",
+      "parsingLabel": "verbo pi“el participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.PIEL.PTCA.U.M.SG.A",
+      "traduccion": "el que ensalza"
+    }
+  ]
+}

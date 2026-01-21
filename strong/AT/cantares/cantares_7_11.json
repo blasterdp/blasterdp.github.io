@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 7:11 Reina Valera 1960",
+    "texto": "Ven, oh amado mío, salgamos al campo, Moremos en las aldeas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "לְכָ֤ה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "Ven"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1730",
+      "hebreo": "דֹּוד",
+      "transliteracion": "דֹודִי֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "amado mío"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "נֵצֵ֣א",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.IMPF.P1.U.PL",
+      "traduccion": "salgamos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "al"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7704",
+      "hebreo": "שָׂדֶה",
+      "transliteracion": "שָּׂדֶ֔ה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "campo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3885",
+      "hebreo": "לין",
+      "transliteracion": "נָלִ֖ינָה",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.IMPF.P1.U.PL",
+      "traduccion": "pernoctemos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3724",
+      "hebreo": "כֹּפֶר",
+      "transliteracion": "כְּפָרִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "las aldeas"
+    }
+  ]
+}

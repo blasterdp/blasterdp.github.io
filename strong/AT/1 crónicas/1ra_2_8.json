@@ -1,0 +1,44 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 2:8 Reina Valera 1960",
+    "texto": "Azarías fue hijo de Etán."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְנֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "387",
+      "hebreo": "אֵיתָן",
+      "transliteracion": "אֵיתָ֖ן",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Etán"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5838",
+      "hebreo": "עֲזַרְיָה",
+      "transliteracion": "עֲזַרְיָֽה׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Azarías"
+    }
+  ]
+}

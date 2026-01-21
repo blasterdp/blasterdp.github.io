@@ -1,0 +1,125 @@
+{
+  "versiculo": {
+    "referencia": "1ra Samuel 31:10 Reina Valera 1960",
+    "texto": "Y pusieron sus armas en el templo de Astarot, y colgaron su cuerpo en el muro de Bet-sán."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7760",
+      "hebreo": "שׂים",
+      "transliteracion": "יָּשִׂ֨מוּ֙",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "pusieron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3627",
+      "hebreo": "כְּלִי",
+      "transliteracion": "כֵּלָ֔יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus armas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּ֖ית",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "templo de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6253",
+      "hebreo": "עַשְׁתֹּרֶת",
+      "transliteracion": "עַשְׁתָּרֹ֑ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "Astarot"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1472",
+      "hebreo": "גְּוִיָּה",
+      "transliteracion": "גְּוִיָּתֹו֙",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su cuerpo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "8628",
+      "hebreo": "תקע",
+      "transliteracion": "תָּקְע֔וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "colgaron"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "2346",
+      "hebreo": "חֹומָה",
+      "transliteracion": "חֹומַ֖ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "muralla de"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "1052",
+      "hebreo": "בֵּית שְׁאָן",
+      "transliteracion": "בֵּ֥ית שָֽׁן׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Bet-sán"
+    }
+  ]
+}

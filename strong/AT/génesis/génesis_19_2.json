@@ -1,0 +1,260 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 19:2 Reina Valera 1960",
+    "texto": "y dijo: Ahora, mis señores, os ruego que vengáis a casa de vuestro siervo y os hospedéis, y lavaréis vuestros pies; y por la mañana os levantaréis, y seguiréis vuestro camino. Y ellos respondieron: No, que en la calle nos quedaremos esta noche."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּ֜אמֶר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנֶּ֣ה",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "he aquí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4994",
+      "hebreo": "נָא",
+      "transliteracion": "נָּא־",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "ahora"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "113",
+      "hebreo": "אָדֹון",
+      "transliteracion": "אֲדֹנַ֗י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "señores míos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5493",
+      "hebreo": "סור",
+      "transliteracion": "ס֣וּרוּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "volved"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4994",
+      "hebreo": "נָא",
+      "transliteracion": "נָ֠א",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "ahora"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּ֨ית",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "casa de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עַבְדְּכֶ֤ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestro siervo"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3885",
+      "hebreo": "לין",
+      "transliteracion": "לִ֨ינוּ֙",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "pernoctad"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "7364",
+      "hebreo": "רחץ",
+      "transliteracion": "רַחֲצ֣וּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "lavad"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "7272",
+      "hebreo": "רֶגֶל",
+      "transliteracion": "רַגְלֵיכֶ֔ם",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.F.DU.A.PRS.P2.M.PL",
+      "traduccion": "vuestros pies"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "7925",
+      "hebreo": "שׁכם",
+      "transliteracion": "הִשְׁכַּמְתֶּ֖ם",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino plural",
+      "parsing": "VERBO.HIF.PERF.P2.M.PL",
+      "traduccion": "os levantaréis"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "הְלַכְתֶּ֣ם",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.PERF.P2.M.PL",
+      "traduccion": "os marcharéis"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דַרְכְּכֶ֑ם",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestro camino"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּאמְר֣וּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "dijeron"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹּ֔א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֥י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "7339",
+      "hebreo": "רְחֹב",
+      "transliteracion": "רְחֹ֖וב",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "calle"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "3885",
+      "hebreo": "לין",
+      "transliteracion": "נָלִֽין׃",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.IMPF.P1.U.PL",
+      "traduccion": "pernoctaremos"
+    }
+  ]
+}

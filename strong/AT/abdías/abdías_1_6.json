@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Abdías 1:6 Reina Valera 1960",
+    "texto": "¡Cómo fueron escudriñadas las cosas de Esaú! Sus tesoros escondidos fueron buscados."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "349",
+      "hebreo": "אֵיךְ",
+      "transliteracion": "אֵ֚יךְ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "Cómo¡"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2664",
+      "hebreo": "חפשׂ",
+      "transliteracion": "נֶחְפְּשׂ֣וּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "serán saqueados"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6215",
+      "hebreo": "עֵשָׂו",
+      "transliteracion": "עֵשָׂ֔ו",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Esaú"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1158",
+      "hebreo": "בעה",
+      "transliteracion": "נִבְע֖וּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "serán expoliados"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4710",
+      "hebreo": "מַצְפּוּנִים",
+      "transliteracion": "מַצְפֻּנָֽיו׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "!sus tesoros ocultos"
+    }
+  ]
+}

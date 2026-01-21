@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 4:20 Reina Valera 1960",
+    "texto": "Y Ada dio a luz a Jabal, el cual fue padre de los que habitan en tiendas y crían ganados."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3205",
+      "hebreo": "ילד",
+      "transliteracion": "תֵּ֥לֶד",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.F.SG",
+      "traduccion": "dio a luz"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5711",
+      "hebreo": "עָדָה",
+      "transliteracion": "עָדָ֖ה",
+      "parsingLabel": "nombre propio femenino singular absoluto",
+      "parsing": "NMPR.F.SG.A",
+      "traduccion": "Ada"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[marcador de objeto]"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2989",
+      "hebreo": "יָבָל",
+      "transliteracion": "יָבָ֑ל",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Jabal"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֣וּא",
+      "parsingLabel": "personal pronombre 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָיָ֔ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "fue"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אֲבִ֕י",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "padre de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3427",
+      "hebreo": "ישׁב",
+      "transliteracion": "יֹשֵׁ֥ב",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.C",
+      "traduccion": "habitante de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "168",
+      "hebreo": "אֹהֶל",
+      "transliteracion": "אֹ֖הֶל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "tienda"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "4735",
+      "hebreo": "מִקְנֶה",
+      "transliteracion": "מִקְנֶֽה׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "ganadero."
+    }
+  ]
+}

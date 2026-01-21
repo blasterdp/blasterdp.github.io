@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "2da Samuel 22:45 Reina Valera 1960",
+    "texto": "Los hijos de extraños se someterán a mí; Al oir de mí, me obedecerán."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5236",
+      "hebreo": "נֵכָר",
+      "transliteracion": "נֵכָ֖ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "extranjero"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3584",
+      "hebreo": "כחשׁ",
+      "transliteracion": "יִתְכַּֽחֲשׁוּ־",
+      "parsingLabel": "verbo hitpa“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIT.IMPF.P3.M.PL",
+      "traduccion": "se someten"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֑י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "a mí"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שְׁמֹ֥ועַ",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "escuchar"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אֹ֖זֶן",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "oído"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "יִשָּׁ֥מְעוּ",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.NIF.IMPF.P3.M.PL",
+      "traduccion": "obedecerán"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִֽי׃",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "a mí"
+    }
+  ]
+}

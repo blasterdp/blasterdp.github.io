@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 27:17 Reina Valera 1960",
+    "texto": "Maldito el que redujere el límite de su prójimo. Y dirá todo el pueblo: Amén."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "779",
+      "hebreo": "ארר",
+      "transliteracion": "אָר֕וּר",
+      "parsingLabel": "verbo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.M.SG.A",
+      "traduccion": "maldito"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5472",
+      "hebreo": "סוג",
+      "transliteracion": "מַסִּ֖יג",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "el que redujere"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1366",
+      "hebreo": "גְּבוּל",
+      "transliteracion": "גְּב֣וּל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "límite de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7453",
+      "hebreo": "רֵעַ",
+      "transliteracion": "רֵעֵ֑הוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su vecino"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָמַ֥ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "dirá"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עָ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pueblo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "543",
+      "hebreo": "אָמֵן",
+      "transliteracion": "אָמֵֽן׃ ס",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "amén"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 6:12 Reina Valera 1960",
+    "texto": "Antes que lo supiera, mi alma me puso Entre los carros de Aminadab."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "No"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָדַ֔עְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "sabía"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשִׁ֣י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "(que) mi alma"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7760",
+      "hebreo": "שׂים",
+      "transliteracion": "שָׂמַ֔תְנִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "me había puesto"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4818",
+      "hebreo": "מֶרְכָּבָה",
+      "transliteracion": "מַרְכְּבֹ֖ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "(sobre los) carros"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמִּי־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "de mi pueblo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5081",
+      "hebreo": "נָדִיב",
+      "transliteracion": "נָדִֽיב׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "noble"
+    }
+  ]
+}

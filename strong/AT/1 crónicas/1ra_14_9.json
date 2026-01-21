@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 14:9 Reina Valera 1960",
+    "texto": "Y vinieron los filisteos, y se extendieron por el valle de Refaim."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6430",
+      "hebreo": "פְּלִשְׁתִּי",
+      "transliteracion": "פְלִשְׁתִּ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Filisteos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "בָּ֑אוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "vinieron"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6584",
+      "hebreo": "פשׁט",
+      "transliteracion": "יִּפְשְׁט֖וּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "se extendieron"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6010",
+      "hebreo": "עֵמֶק",
+      "transliteracion": "עֵ֥מֶק",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "valle de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7497",
+      "hebreo": "רְפָאִים",
+      "transliteracion": "רְפָאִֽים׃",
+      "parsingLabel": "nombre propio masculino plural absoluto",
+      "parsing": "NMPR.M.PL.A",
+      "traduccion": "Refaim"
+    }
+  ]
+}

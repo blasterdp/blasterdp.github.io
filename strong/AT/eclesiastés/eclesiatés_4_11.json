@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Eclesiatés 4:11 Reina Valera 1960",
+    "texto": "También si dos durmieren juntos, se calentarán mutuamente; mas ¿cómo se calentará uno solo?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּ֛ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "También"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7901",
+      "hebreo": "שׁכב",
+      "transliteracion": "יִשְׁכְּב֥וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "se acuestan"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁנַ֖יִם",
+      "parsingLabel": "sustantivo desconocido dual absoluto",
+      "parsing": "SUBS.U.DU.A",
+      "traduccion": "dos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2552",
+      "hebreo": "חמם",
+      "transliteracion": "חַ֣ם",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "calor"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָהֶ֑ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": ";tienen"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "259",
+      "hebreo": "אֶחָד",
+      "transliteracion": "אֶחָ֖ד",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "uno solo"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "349",
+      "hebreo": "אֵיךְ",
+      "transliteracion": "אֵ֥יךְ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "cómo¿"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "2552",
+      "hebreo": "חמם",
+      "transliteracion": "יֵחָֽם׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "?se calentará"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "versiculo": {
+    "referencia": "1ra Samuel 26:7 Reina Valera 1960",
+    "texto": "David, pues, y Abisai fueron de noche al ejército; y he aquí que Saúl estaba tendido durmiendo en el campamento, y su lanza clavada en tierra a su cabecera; y Abner y el ejército estaban tendidos alrededor de él."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "יָּבֹא֩",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "vino"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1732",
+      "hebreo": "דָּוִד",
+      "transliteracion": "דָוִ֨ד",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "David"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "52",
+      "hebreo": "אֲבִישַׁי",
+      "transliteracion": "אֲבִישַׁ֥י׀",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Abisay"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hacia"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עָם֮",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pueblo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3915",
+      "hebreo": "לַיְלָה",
+      "transliteracion": "לַיְלָה֒",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "noche"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנֵּ֣ה",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "he aquí que"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "7586",
+      "hebreo": "שָׁאוּל",
+      "transliteracion": "שָׁא֗וּל",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Saúl"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "7901",
+      "hebreo": "שׁכב",
+      "transliteracion": "שֹׁכֵ֤ב",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "yacía"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3463",
+      "hebreo": "יָשֵׁן",
+      "transliteracion": "יָשֵׁן֙",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "dormido"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "4570",
+      "hebreo": "מַעְגָּל",
+      "transliteracion": "מַּעְגָּ֔ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "campamento"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "2595",
+      "hebreo": "חֲנִית",
+      "transliteracion": "חֲנִיתֹ֥ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su lanza"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "4600",
+      "hebreo": "מעך",
+      "transliteracion": "מְעוּכָֽה־",
+      "parsingLabel": "verbo qal participio (passive) desconocido femenino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.F.SG.A",
+      "traduccion": "clavada"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָ֖רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "4761",
+      "hebreo": "מְרַאֲשֹׁות",
+      "transliteracion": "מְרַאֲשֹׁתָ֑יו",
+      "parsingLabel": "adverbio femenino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "ADVB.F.PL.A.PRS.P3.M.SG",
+      "traduccion": "a su cabeza"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "74",
+      "hebreo": "אַבְנֵר",
+      "transliteracion": "אַבְנֵ֣ר",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Abner"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עָ֔ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pueblo"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "7901",
+      "hebreo": "שׁכב",
+      "transliteracion": "שֹׁכְבִ֖ים",
+      "parsingLabel": "verbo qal participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.A",
+      "traduccion": "yacían"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "5439",
+      "hebreo": "סָבִיב",
+      "transliteracion": "סְבִיבֹתָֽיו׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.SG",
+      "traduccion": "alrededor suyo"
+    }
+  ]
+}

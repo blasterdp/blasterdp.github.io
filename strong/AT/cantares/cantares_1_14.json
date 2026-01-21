@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 1:14 Reina Valera 1960",
+    "texto": "Racimo de flores de alheña en las viñas de En-gadi Es para mí mi amado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "811",
+      "hebreo": "אֶשְׁכֹּול",
+      "transliteracion": "אֶשְׁכֹּ֨ל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "Racimo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3724",
+      "hebreo": "כֹּפֶר",
+      "transliteracion": "כֹּ֤פֶר׀",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "almeña"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1730",
+      "hebreo": "דֹּוד",
+      "transliteracion": "דֹּודִי֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "(es) mi amado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֔י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "para mi"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3754",
+      "hebreo": "כֶּרֶם",
+      "transliteracion": "כַרְמֵ֖י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "las viñas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5872",
+      "hebreo": "עֵין גֶּדִי",
+      "transliteracion": "עֵ֥ין גֶּֽדִי׃ ס",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de En Gadi"
+    }
+  ]
+}

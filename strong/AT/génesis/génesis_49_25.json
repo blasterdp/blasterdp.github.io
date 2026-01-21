@@ -1,0 +1,206 @@
+{
+  "versiculo": {
+    "referencia": "Génesis 49:25 Reina Valera 1960",
+    "texto": "Por el Dios de tu padre, el cual te ayudará, Por el Dios Omnipotente, el cual te bendecirá Con bendiciones de los cielos de arriba, Con bendiciones del abismo que está abajo, Con bendiciones de los pechos y del vientre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "Por"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "410",
+      "hebreo": "אֵל",
+      "transliteracion": "אֵ֨ל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "Dios de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אָבִ֜יךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu padre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5826",
+      "hebreo": "עזר",
+      "transliteracion": "יַעְזְרֶ֗ךָּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P2.M.SG",
+      "traduccion": "te ayuda"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "854",
+      "hebreo": "אֵת",
+      "transliteracion": "אֵ֤ת",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "(objeto marcador)"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7706",
+      "hebreo": "שַׁדַּי",
+      "transliteracion": "שַׁדַּי֙",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Todopoderoso"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וִ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "te"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "יבָ֣רְכֶ֔ךָּ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG.PRS.P2.M.SG",
+      "traduccion": "bendice"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1293",
+      "hebreo": "בְּרָכָה",
+      "transliteracion": "בִּרְכֹ֤ת",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "bendiciones de"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "8064",
+      "hebreo": "שָׁמַיִם",
+      "transliteracion": "שָׁמַ֨יִם֙",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cielos"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "5920",
+      "hebreo": "עַל",
+      "transliteracion": "עָ֔ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "arriba"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "1293",
+      "hebreo": "בְּרָכָה",
+      "transliteracion": "בִּרְכֹ֥ת",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "bendiciones"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "8415",
+      "hebreo": "תְּהֹום",
+      "transliteracion": "תְּהֹ֖ום",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "abismo"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "7257",
+      "hebreo": "רבץ",
+      "transliteracion": "רֹבֶ֣צֶת",
+      "parsingLabel": "verbo qal participio desconocido femenino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.F.SG.A",
+      "traduccion": "está"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תָּ֑חַת",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "abajo,"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "1293",
+      "hebreo": "בְּרָכָה",
+      "transliteracion": "בִּרְכֹ֥ת",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "bendiciones de"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "7699",
+      "hebreo": "שַׁד",
+      "transliteracion": "שָׁדַ֖יִם",
+      "parsingLabel": "sustantivo masculino dual absoluto",
+      "parsing": "SUBS.M.DU.A",
+      "traduccion": "pechos"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "7358",
+      "hebreo": "רֶחֶם",
+      "transliteracion": "רָֽחַם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "vientre."
+    }
+  ]
+}

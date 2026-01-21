@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 5:10 Reina Valera 1960",
+    "texto": "Mi amado es blanco y rubio, Señalado entre diez mil."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1730",
+      "hebreo": "דֹּוד",
+      "transliteracion": "דֹּודִ֥י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "Mi amado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6703",
+      "hebreo": "צַח",
+      "transliteracion": "צַח֙",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "(es) blanco"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "122",
+      "hebreo": "אָדֹם",
+      "transliteracion": "אָדֹ֔ום",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "sonrosan"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1713",
+      "hebreo": "דגל",
+      "transliteracion": "דָּג֖וּל",
+      "parsingLabel": "verbo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.M.SG.A",
+      "traduccion": "descuella"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7233",
+      "hebreo": "רְבָבָה",
+      "transliteracion": "רְבָבָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "diez mil"
+    }
+  ]
+}

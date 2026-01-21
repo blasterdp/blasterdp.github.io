@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 8:3 Reina Valera 1960",
+    "texto": "Su izquierda esté debajo de mi cabeza, Y su derecha me abrace."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8040",
+      "hebreo": "שְׂמֹאל",
+      "transliteracion": "שְׂמֹאלֹו֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "(Esté) su izquierda"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּ֣חַת",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "bajo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7218",
+      "hebreo": "רֹאשׁ",
+      "transliteracion": "רֹאשִׁ֔י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi cabeza"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וִֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3225",
+      "hebreo": "יָמִין",
+      "transliteracion": "ימִינֹ֖ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su derecha"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2263",
+      "hebreo": "חבק",
+      "transliteracion": "תְּחַבְּקֵֽנִי׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "me abrace"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "versiculo": {
+    "referencia": "Ezequiel 16:45 Reina Valera 1960",
+    "texto": "Hija eres tú de tu madre, que desechó a su marido y a sus hijos; y hermana eres tú de tus hermanas, que desecharon a sus maridos y a sus hijos; vuestra madre fue hetea, y vuestro padre amorreo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1323",
+      "hebreo": "בַּת",
+      "transliteracion": "בַּת־",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "hija de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "517",
+      "hebreo": "אֵם",
+      "transliteracion": "אִמֵּ֣ךְ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.F.SG",
+      "traduccion": "tu madre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "859",
+      "hebreo": "אַתְּ",
+      "transliteracion": "אַ֔תְּ",
+      "parsingLabel": "pronombre personal 2ª persona femenino singular",
+      "parsing": "PRPS.P2.F.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1602",
+      "hebreo": "געל",
+      "transliteracion": "גֹּעֶ֥לֶת",
+      "parsingLabel": "verbo qal participio desconocido femenino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.F.SG.A",
+      "traduccion": "que desprecia"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִישָׁ֖הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "su marido"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בָנֶ֑יהָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus hijos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "269",
+      "hebreo": "אָחֹות",
+      "transliteracion": "אֲחֹ֨ות",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "hermana de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "269",
+      "hebreo": "אָחֹות",
+      "transliteracion": "אֲחֹותֵ֜ךְ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.F.SG",
+      "traduccion": "tu hermana"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "859",
+      "hebreo": "אַתְּ",
+      "transliteracion": "אַ֗תְּ",
+      "parsingLabel": "pronombre personal 2ª persona femenino singular",
+      "parsing": "PRPS.P2.F.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֤ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "1602",
+      "hebreo": "געל",
+      "transliteracion": "גָּֽעֲ֨לוּ֙",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "despreciaron"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אַנְשֵׁיהֶ֣ן",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.PL",
+      "traduccion": "maridos de ellas"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "e"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְנֵיהֶ֔ן",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.PL",
+      "traduccion": "hijos de ellas"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "517",
+      "hebreo": "אֵם",
+      "transliteracion": "אִמְּכֶ֣ן",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona femenino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P2.F.PL",
+      "traduccion": "vuestra madre"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "2850",
+      "hebreo": "חִתִּי",
+      "transliteracion": "חִתִּ֔ית",
+      "parsingLabel": "adjetivo femenino singular absoluto",
+      "parsing": "ADJV.F.SG.A",
+      "traduccion": "hetea"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אֲבִיכֶ֖ן",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona femenino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.F.PL",
+      "traduccion": "vuestro padre"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "567",
+      "hebreo": "אֱמֹרִי",
+      "transliteracion": "אֱמֹרִֽי׃",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "amorreo"
+    }
+  ]
+}

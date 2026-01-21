@@ -1,0 +1,287 @@
+{
+  "versiculo": {
+    "referencia": "Deuteronomio 12:2 Reina Valera 1960",
+    "texto": "Destruiréis enteramente todos los lugares donde las naciones que vosotros heredaréis sirvieron a sus dioses, sobre los montes altos, y sobre los collados, y debajo de todo árbol frondoso."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6",
+      "hebreo": "אבד",
+      "transliteracion": "אַבֵּ֣ד",
+      "parsingLabel": "adverbio pi“el infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.PIEL.INFA.U.U.U.A",
+      "traduccion": "destruir"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6",
+      "hebreo": "אבד",
+      "transliteracion": "תְּ֠אַבְּדוּן",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.PL",
+      "traduccion": "destruiréis"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶֽת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4725",
+      "hebreo": "מָקֹום",
+      "transliteracion": "מְּקֹמֹ֞ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "lugares"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֧ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5647",
+      "hebreo": "עבד",
+      "transliteracion": "עָֽבְדוּ־",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERB.QAL.PERF.P3.U.PL",
+      "traduccion": "adoran"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8033",
+      "hebreo": "שָׁם",
+      "transliteracion": "שָׁ֣ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "allí"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "las"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּויִ֗ם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "naciones"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֥ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "859",
+      "hebreo": "אַתֶּם",
+      "transliteracion": "אַתֶּ֛ם",
+      "parsingLabel": "pronombre personal 2ª persona masculino plural",
+      "parsing": "PRPS.P2.M.PL",
+      "traduccion": "vosotros"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3423",
+      "hebreo": "ירשׁ",
+      "transliteracion": "יֹרְשִׁ֥ים",
+      "parsingLabel": "verbo qal participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.A",
+      "traduccion": "desposeéis"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֹתָ֖ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "a ellas"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֵיהֶ֑ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus dioses"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הֶ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הָרִ֤ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "montes"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "7311",
+      "hebreo": "רום",
+      "transliteracion": "רָמִים֙",
+      "parsingLabel": "adjetivo qal participio desconocido masculino plural absoluto",
+      "parsing": "ADJV.QAL.PTCA.U.M.PL.A",
+      "traduccion": "altos"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "las"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "1389",
+      "hebreo": "גִּבְעָה",
+      "transliteracion": "גְּבָעֹ֔ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "colinas"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַ֖חַת",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "bajo"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "6086",
+      "hebreo": "עֵץ",
+      "transliteracion": "עֵ֥ץ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "árbol"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "7488",
+      "hebreo": "רַעֲנָן",
+      "transliteracion": "רַעֲנָן׃",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "frondoso"
+    }
+  ]
+}

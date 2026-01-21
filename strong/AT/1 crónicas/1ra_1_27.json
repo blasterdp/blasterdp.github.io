@@ -1,0 +1,35 @@
+{
+  "versiculo": {
+    "referencia": "1ra Crónicas 1:27 Reina Valera 1960",
+    "texto": "y Abram, el cual es Abraham."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "87",
+      "hebreo": "אַבְרָם",
+      "transliteracion": "אַבְרָ֖ם",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Abram"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֥וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "el cual es"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "85",
+      "hebreo": "אַבְרָהָם",
+      "transliteracion": "אַבְרָהָֽם׃ ס",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Abraham"
+    }
+  ]
+}

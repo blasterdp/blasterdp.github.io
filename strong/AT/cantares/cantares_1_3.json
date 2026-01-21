@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Cantares 1:3 Reina Valera 1960",
+    "texto": "A más del olor de tus suaves ungüentos, Tu nombre es como ungüento derramado; Por eso las doncellas te aman."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "Para"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7381",
+      "hebreo": "רֵיחַ",
+      "transliteracion": "רֵ֨יחַ֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "fragancia"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8081",
+      "hebreo": "שֶׁמֶן",
+      "transliteracion": "שְׁמָנֶ֣יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus perfumes"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2896",
+      "hebreo": "טֹוב",
+      "transliteracion": "טֹובִ֔ים",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": ";(son) buenos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8081",
+      "hebreo": "שֶׁמֶן",
+      "transliteracion": "שֶׁ֖מֶן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "perfume"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7324",
+      "hebreo": "ריק",
+      "transliteracion": "תּוּרַ֣ק",
+      "parsingLabel": "verbo hof‘al imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.HOF.IMPF.P3.F.SG",
+      "traduccion": "derramado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שְׁמֶ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "(es) tu nombre"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3651",
+      "hebreo": "כֵּן",
+      "transliteracion": "כֵּ֖ן",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "eso"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5959",
+      "hebreo": "עַלְמָה",
+      "transliteracion": "עֲלָמֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "(las) doncella"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "אֲהֵבֽוּךָ׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P2.M.SG",
+      "traduccion": "te aman"
+    }
+  ]
+}
