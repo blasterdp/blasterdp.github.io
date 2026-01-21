@@ -80,14 +80,40 @@
             <button id="prev-capitulo" class="btn btn-secondary">Capítulo Anterior</button>
             <button id="next-capitulo" class="btn btn-secondary">Capítulo Siguiente</button>
         </div>
-        <div class="row">
-            <div class="col-md-6">
-                <h3>Reina Valera 1960</h3>
-                <div id="texto-rv" class="mb-4"></div>
+        <!-- Indicador de carga para diccionarios Strong -->
+        <div id="loading-dictionaries" class="text-center mb-4">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Cargando diccionarios...</span>
             </div>
-            <div class="col-md-6">
-                <h3>Texto Strong</h3>
-                <div id="texto-strong" class="mb-4"></div>
+            <p class="mt-2">Cargando diccionarios Strong (Hebreo y Griego)...</p>
+            <div class="progress mt-3">
+                <div id="progress-hebreo" class="progress-bar bg-success" role="progressbar" style="width: 0%">Hebreo: 0%</div>
+                <div id="progress-griego" class="progress-bar bg-info" role="progressbar" style="width: 0%">Griego: 0%</div>
+            </div>
+        </div>
+
+        <div id="main-content" style="display: none;">
+            <div class="row">
+                <div class="col-md-6">
+                    <h3>Reina Valera 1960</h3>
+                    <div id="loading-rv" class="text-center mb-4" style="display: none;">
+                        <div class="spinner-border" role="status">
+                            <span class="visually-hidden">Cargando...</span>
+                        </div>
+                        <p>Cargando capítulo...</p>
+                    </div>
+                    <div id="texto-rv" class="mb-4"></div>
+                </div>
+                <div class="col-md-6">
+                    <h3>Texto Strong</h3>
+                    <div id="loading-strong" class="text-center mb-4" style="display: none;">
+                        <div class="spinner-border" role="status">
+                            <span class="visually-hidden">Cargando...</span>
+                        </div>
+                        <p>Cargando capítulo...</p>
+                    </div>
+                    <div id="texto-strong" class="mb-4"></div>
+                </div>
             </div>
         </div>
     </div>
@@ -136,7 +162,10 @@
             const hebrewFiles = Array.from({length: 868}, (_, i) => `strong_hebrew_pagina_${i+1}.json`);
             const greekFiles = Array.from({length: 553}, (_, i) => `strong_greek_pagina_${i+1}.json`);
 
-            const loadFiles = async (files, path, target) => {
+            const loadFiles = async (files, path, target, progressId, totalFiles) => {
+                let loadedCount = 0;
+                const progressBar = document.getElementById(progressId);
+                
                 for (const file of files) {
                     try {
                         const response = await fetch(`${path}/${file}`);
@@ -144,16 +173,30 @@
                         data.forEach(item => {
                             target[item.cod] = item;
                         });
+                        loadedCount++;
+                        
+                        // Actualizar barra de progreso
+                        const progress = Math.round((loadedCount / totalFiles) * 100);
+                        if (progressBar) {
+                            progressBar.style.width = `${progress}%`;
+                            progressBar.textContent = `${progressId.includes('hebreo') ? 'Hebreo' : 'Griego'}: ${progress}%`;
+                        }
                     } catch (e) {
                         // Ignorar archivos que no existen
+                        loadedCount++;
                     }
                 }
             };
 
+            // Cargar diccionarios en paralelo pero actualizar progreso individualmente
             await Promise.all([
-                loadFiles(hebrewFiles, 'strong_hebreo', strongDataHebreo),
-                loadFiles(greekFiles, 'strong_griego', strongDataGriego)
+                loadFiles(hebrewFiles, 'strong_hebreo', strongDataHebreo, 'progress-hebreo', hebrewFiles.length),
+                loadFiles(greekFiles, 'strong_griego', strongDataGriego, 'progress-griego', greekFiles.length)
             ]);
+
+            // Ocultar indicadores de carga y mostrar contenido principal
+            document.getElementById('loading-dictionaries').style.display = 'none';
+            document.getElementById('main-content').style.display = 'block';
         }
 
         function populateLibros() {
@@ -219,6 +262,12 @@
         }
 
         async function loadCapitulo() {
+            // Mostrar indicadores de carga
+            document.getElementById('loading-rv').style.display = 'block';
+            document.getElementById('loading-strong').style.display = 'block';
+            document.getElementById('texto-rv').innerHTML = '';
+            document.getElementById('texto-strong').innerHTML = '';
+
             const testamento = document.getElementById('testamento').value;
             currentTestament = testamento;
             const libro = document.getElementById('libro').value;
@@ -244,6 +293,10 @@
         }
 
         function displayCapitulo(versiculos) {
+            // Ocultar indicadores de carga
+            document.getElementById('loading-rv').style.display = 'none';
+            document.getElementById('loading-strong').style.display = 'none';
+
             if (versiculos.length === 0) {
                 document.getElementById('capitulo-header').innerHTML = 'Capítulo no encontrado.';
                 document.getElementById('texto-rv').innerHTML = '';
