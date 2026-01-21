@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 16:5 Reina Valera 1960",
+    "texto": "Jehová es la porción de mi herencia y de mi copa; Tú sustentas mi suerte."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְֽהוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4521",
+      "hebreo": "מְנָת",
+      "transliteracion": "מְנָת־",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "porción"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2506",
+      "hebreo": "חֵלֶק",
+      "transliteracion": "חֶלְקִ֥י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "de mi herencia"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3563",
+      "hebreo": "כֹּוס",
+      "transliteracion": "כֹוסִ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "de mi copa"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַ֝תָּ֗ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8551",
+      "hebreo": "תמך",
+      "transliteracion": "תֹּומִ֥יךְ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "sustentas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1486",
+      "hebreo": "גֹּורָל",
+      "transliteracion": "גֹּורָלִֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi suerte"
+    }
+  ]
+}

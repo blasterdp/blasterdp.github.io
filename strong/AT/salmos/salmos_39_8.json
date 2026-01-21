@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 39:8 Reina Valera 1960",
+    "texto": "Líbrame de todas mis transgresiones; No me pongas por escarnio del insensato."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6588",
+      "hebreo": "פֶּשַׁע",
+      "transliteracion": "פְּשָׁעַ֥י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis transgresiones"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "הַצִּילֵ֑נִי",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "líbrame"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2781",
+      "hebreo": "חֶרְפָּה",
+      "transliteracion": "חֶרְפַּ֥ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "escarnio"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5036",
+      "hebreo": "נָבָל",
+      "transliteracion": "נָ֝בָ֗ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del insensato"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7760",
+      "hebreo": "שׂים",
+      "transliteracion": "תְּשִׂימֵֽנִי׃",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me hagas"
+    }
+  ]
+}

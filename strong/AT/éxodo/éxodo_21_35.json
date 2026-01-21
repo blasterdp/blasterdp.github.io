@@ -1,0 +1,251 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 21:35 Reina Valera 1960",
+    "texto": "Y si el buey de alguno hiriere al buey de su prójimo de modo que muriere, entonces venderán el buey vivo y partirán el dinero de él, y también partirán el buey muerto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5062",
+      "hebreo": "נגף",
+      "transliteracion": "יִגֹּ֧ף",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "hiere"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7794",
+      "hebreo": "שֹׁור",
+      "transliteracion": "שֹֽׁור־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "toro de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִ֛ישׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7794",
+      "hebreo": "שֹׁור",
+      "transliteracion": "שֹׁ֥ור",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "toro de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7453",
+      "hebreo": "רֵעַ",
+      "transliteracion": "רֵעֵ֖הוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su prójimo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "מֵ֑ת",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "muere"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "4376",
+      "hebreo": "מכר",
+      "transliteracion": "מָ֨כְר֜וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "venderán"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "7794",
+      "hebreo": "שֹׁור",
+      "transliteracion": "שֹּׁ֤ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "toro"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "2416",
+      "hebreo": "חַי",
+      "transliteracion": "חַי֙",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "vivo"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "2673",
+      "hebreo": "חצה",
+      "transliteracion": "חָצ֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "partirán"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "3701",
+      "hebreo": "כֶּסֶף",
+      "transliteracion": "כַּסְפֹּ֔ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "el dinero"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַ֥ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "también"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "מֵּ֖ת",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "cadáver"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "2673",
+      "hebreo": "חצה",
+      "transliteracion": "יֶֽחֱצֽוּן׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "dividirán"
+    }
+  ]
+}

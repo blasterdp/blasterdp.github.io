@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 37:5 Reina Valera 1960",
+    "texto": "Encomienda a Jehová tu camino, Y confía en él; y él hará."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1556",
+      "hebreo": "גלל",
+      "transliteracion": "גֹּ֣ול",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "encomienda"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דַּרְכֶּ֑ךָ",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu camino"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "982",
+      "hebreo": "בטח",
+      "transliteracion": "בְטַ֥ח",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "confía"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָ֝לָ֗יו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "en él"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֣וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "יַעֲשֶֽׂה׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "hará"
+    }
+  ]
+}

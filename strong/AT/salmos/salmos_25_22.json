@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 25:22 Reina Valera 1960",
+    "texto": "Redime, oh Dios, a Israel De todas sus angustias."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6299",
+      "hebreo": "פדה",
+      "transliteracion": "פְּדֵ֣ה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "redime"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱ֭לֹהִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵ֑ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֹּ֗ל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6869",
+      "hebreo": "צָרָה",
+      "transliteracion": "צָֽרֹותָיו׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus angustias"
+    }
+  ]
+}

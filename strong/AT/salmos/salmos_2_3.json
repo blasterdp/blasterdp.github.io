@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 2:3 Reina Valera 1960",
+    "texto": "Rompamos sus ligaduras, Y echemos de nosotros sus cuerdas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5423",
+      "hebreo": "נתק",
+      "transliteracion": "נְֽ֭נַתְּקָה",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.PL",
+      "traduccion": "rompamos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4147",
+      "hebreo": "מֹוסֵרָה",
+      "transliteracion": "מֹֽוסְרֹותֵ֑ימֹו",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus ligaduras"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7993",
+      "hebreo": "שׁלך",
+      "transliteracion": "נַשְׁלִ֖יכָה",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.HIF.IMPF.P1.U.PL",
+      "traduccion": "echemos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִמֶּ֣נּוּ",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "PREP.PRS.P1.U.PL",
+      "traduccion": "de nosotros"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5688",
+      "hebreo": "עֲבֹת",
+      "transliteracion": "עֲבֹתֵֽימֹו׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus cuerdas"
+    }
+  ]
+}

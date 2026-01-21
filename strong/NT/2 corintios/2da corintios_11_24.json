@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "2da Corintios 11:24 Reina Valera 1960",
+    "texto": "De los judíos cinco veces he recibido cuarenta azotes menos uno."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5259",
+      "texto": "ὑπὸ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2453",
+      "texto": "Ἰουδαίων",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Genitivo-Plural-Masculino",
+      "parsing": "A-GPM",
+      "traduccion": "judíos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3999",
+      "texto": "πεντάκις",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "cinco veces"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5062",
+      "texto": "τεσσεράκοντα",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Numeral-Indeclinable",
+      "parsing": "A-NUI",
+      "traduccion": "cuarenta"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3844",
+      "texto": "παρὰ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "al lado de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1520",
+      "texto": "μίαν",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Femenino",
+      "parsing": "A-ASF",
+      "traduccion": "uno"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2983",
+      "texto": "ἔλαβον,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Indicativo-1ª Persona-Singular",
+      "parsing": "V-2AAI-1S",
+      "traduccion": "recibí"
+    }
+  ]
+}

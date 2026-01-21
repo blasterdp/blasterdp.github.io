@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 84:4 Reina Valera 1960",
+    "texto": "Bienaventurados los que habitan en tu casa; Perpetuamente te alabarán. Selah"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "835",
+      "hebreo": "אֶשֶׁר",
+      "transliteracion": "אַ֭שְׁרֵי",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "bienaventurados"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3427",
+      "hebreo": "ישׁב",
+      "transliteracion": "יֹושְׁבֵ֣י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "los que habitan"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵיתֶ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu casa"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5750",
+      "hebreo": "עֹוד",
+      "transliteracion": "עֹ֝֗וד",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "siempre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "יְֽהַלְל֥וּךָ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL.PRS.P2.M.SG",
+      "traduccion": "te están alabando"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5542",
+      "hebreo": "סֶלָה",
+      "transliteracion": "סֶּֽלָה׃",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "Selah"
+    }
+  ]
+}

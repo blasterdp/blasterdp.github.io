@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Juan 10:30 Reina Valera 1960",
+    "texto": "Yo y el Padre uno somos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1473",
+      "texto": "ἐγὼ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Nominativo-Singular",
+      "parsing": "P-1NS",
+      "traduccion": "Yo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3962",
+      "texto": "πατὴρ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "Padre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1520",
+      "texto": "ἕν",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Neutro",
+      "parsing": "A-NSN",
+      "traduccion": "uno"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1510",
+      "texto": "ἐσμεν.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-1ª Persona-Plural",
+      "parsing": "V-PAI-1P",
+      "traduccion": "estamos siendo"
+    }
+  ]
+}

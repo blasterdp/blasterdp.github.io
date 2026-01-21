@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 31:5 Reina Valera 1960",
+    "texto": "En tu mano encomiendo mi espíritu; Tú me has redimido, oh Jehová, Dios de verdad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדְךָ֮",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu mano"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6485",
+      "hebreo": "פקד",
+      "transliteracion": "אַפְקִ֪יד",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG",
+      "traduccion": "encomiendo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֫וּחִ֥י",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi espíritu"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6299",
+      "hebreo": "פדה",
+      "transliteracion": "פָּדִ֖יתָה",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "has redimido"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֹותִ֥י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "me"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "410",
+      "hebreo": "אֵל",
+      "transliteracion": "אֵ֣ל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "571",
+      "hebreo": "אֶמֶת",
+      "transliteracion": "אֱמֶֽת׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de verdad"
+    }
+  ]
+}

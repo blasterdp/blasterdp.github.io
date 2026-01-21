@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 80:5 Reina Valera 1960",
+    "texto": "Les diste a comer pan de lágrimas, Y a beber lágrimas en gran abundancia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "הֶ֭אֱכַלְתָּם",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG.PRS.P3.M.PL",
+      "traduccion": "les has hecho comer"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3899",
+      "hebreo": "לֶחֶם",
+      "transliteracion": "לֶ֣חֶם",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "pan"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1832",
+      "hebreo": "דִּמְעָה",
+      "transliteracion": "דִּמְעָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de lágrimas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8248",
+      "hebreo": "שׁקה",
+      "transliteracion": "תַּשְׁקֵ֗מֹו",
+      "parsingLabel": "verbo hif‘il wayyiqtol 2ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.WAYQ.P2.M.SG.PRS.P3.M.PL",
+      "traduccion": "los has abrevado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1832",
+      "hebreo": "דִּמְעָה",
+      "transliteracion": "דְמָעֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "lágrimas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7991",
+      "hebreo": "שָׁלִישׁ",
+      "transliteracion": "שָׁלִֽישׁ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "por tercera vez"
+    }
+  ]
+}

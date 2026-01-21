@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 55:8 Reina Valera 1960",
+    "texto": "Me apresuraría a escapar Del viento borrascoso, de la tempestad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2363",
+      "hebreo": "חושׁ",
+      "transliteracion": "אָחִ֣ישָׁה",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG",
+      "traduccion": "me apresuraría"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4655",
+      "hebreo": "מִפְלָט",
+      "transliteracion": "מִפְלָ֣ט",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "un refugio"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֑י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "para mí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֖וּחַ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "viento"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5584",
+      "hebreo": "סעה",
+      "transliteracion": "סֹעָ֣ה",
+      "parsingLabel": "adjetivo qal participio desconocido femenino singular absoluto",
+      "parsing": "ADJV.QAL.PTCA.U.F.SG.A",
+      "traduccion": "borrascoso"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5591",
+      "hebreo": "סַעַר",
+      "transliteracion": "סָּֽעַר׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "la tempestad"
+    }
+  ]
+}

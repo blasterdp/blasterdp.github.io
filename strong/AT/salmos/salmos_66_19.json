@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 66:19 Reina Valera 1960",
+    "texto": "Mas ciertamente me escuchó Dios; Atendió a la voz de mi súplica."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "403",
+      "hebreo": "אָכֵן",
+      "transliteracion": "אָ֭כֵן",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "pero ciertamente"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שָׁמַ֣ע",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "escuchó"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7181",
+      "hebreo": "קשׁב",
+      "transliteracion": "הִ֝קְשִׁ֗יב",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG",
+      "traduccion": "atendió"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6963",
+      "hebreo": "קֹול",
+      "transliteracion": "קֹ֣ול",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "la voz"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8605",
+      "hebreo": "תְּפִלָּה",
+      "transliteracion": "תְּפִלָּתִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "de mi oración"
+    }
+  ]
+}

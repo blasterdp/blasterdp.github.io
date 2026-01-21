@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 148:5 Reina Valera 1960",
+    "texto": "Alaben el nombre de Jehová; Porque él mandó, y fueron creados."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "יְֽ֭הַֽלְלוּ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "alaban"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שֵׁ֣ם",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "nombre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֤י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֭וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6680",
+      "hebreo": "צוה",
+      "transliteracion": "צִוָּ֣ה",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "mandó"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1254",
+      "hebreo": "ברא",
+      "transliteracion": "נִבְרָֽאוּ׃",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "fueron creados"
+    }
+  ]
+}

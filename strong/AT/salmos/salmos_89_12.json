@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 89:12 Reina Valera 1960",
+    "texto": "El norte y el sur, tú los creaste; El Tabor y el Hermón cantarán en tu nombre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6828",
+      "hebreo": "צָפֹון",
+      "transliteracion": "צָפֹ֣ון",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "norte"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3225",
+      "hebreo": "יָמִין",
+      "transliteracion": "יָמִין",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "sur"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֣ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1254",
+      "hebreo": "ברא",
+      "transliteracion": "בְרָאתָ֑ם",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG.PRS.P3.M.PL",
+      "traduccion": "los creaste"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8396",
+      "hebreo": "תָּבֹור",
+      "transliteracion": "תָּבֹ֥ור",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Tabor"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2768",
+      "hebreo": "חֶרְמֹון",
+      "transliteracion": "חֶרְמֹ֗ון",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Hermón"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שִׁמְךָ֥",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu nombre"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7442",
+      "hebreo": "רנן",
+      "transliteracion": "יְרַנֵּֽנוּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "aclaman con gozo"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 147:13 Reina Valera 1960",
+    "texto": "Porque fortificó los cerrojos de tus puertas; Bendijo a tus hijos dentro de ti."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2388",
+      "hebreo": "חזק",
+      "transliteracion": "חִ֭זַּק",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "ha reforzado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1280",
+      "hebreo": "בְּרִיחַ",
+      "transliteracion": "בְּרִיחֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "cerrojos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8179",
+      "hebreo": "שַׁעַר",
+      "transliteracion": "שְׁעָרָ֑יִךְ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.F.SG",
+      "traduccion": "de tus puertas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "בֵּרַ֖ךְ",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "ha bendecido"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בָּנַ֣יִךְ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.F.SG",
+      "traduccion": "a tus hijos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7130",
+      "hebreo": "קֶרֶב",
+      "transliteracion": "קִרְבֵּֽךְ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.F.SG",
+      "traduccion": "dentro de ti"
+    }
+  ]
+}

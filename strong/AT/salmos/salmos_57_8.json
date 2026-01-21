@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 57:8 Reina Valera 1960",
+    "texto": "Despierta, alma mía; despierta, salterio y arpa; Me levantaré de mañana."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5782",
+      "hebreo": "עור",
+      "transliteracion": "ע֤וּרָה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "despierta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3519",
+      "hebreo": "כָּבֹוד",
+      "transliteracion": "כְבֹודִ֗י",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.SG",
+      "traduccion": "alma mía"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5782",
+      "hebreo": "עור",
+      "transliteracion": "ע֭וּרָֽה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "despierta"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5035",
+      "hebreo": "נֵבֶל",
+      "transliteracion": "נֵּ֥בֶל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "salterio"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3658",
+      "hebreo": "כִּנֹּור",
+      "transliteracion": "כִנֹּ֗ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "arpa"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5782",
+      "hebreo": "עור",
+      "transliteracion": "אָעִ֥ירָה",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG",
+      "traduccion": "despertaré"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7837",
+      "hebreo": "שַׁחַר",
+      "transliteracion": "שָּֽׁחַר׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "al alba"
+    }
+  ]
+}

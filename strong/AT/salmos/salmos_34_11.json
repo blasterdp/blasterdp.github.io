@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 34:11 Reina Valera 1960",
+    "texto": "Venid, hijos, oídme; El temor de Jehová os enseñaré."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "לְֽכוּ־",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "venid"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בָ֭נִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "hijos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שִׁמְעוּ־",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "oíd"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֑י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "me"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3374",
+      "hebreo": "יִרְאָה",
+      "transliteracion": "יִֽרְאַ֥ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "temor de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֝הוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3925",
+      "hebreo": "למד",
+      "transliteracion": "אֲלַמֶּדְכֶֽם׃",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG.PRS.P2.M.PL",
+      "traduccion": "os enseñaré"
+    }
+  ]
+}

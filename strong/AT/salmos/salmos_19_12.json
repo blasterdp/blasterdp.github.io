@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 19:12 Reina Valera 1960",
+    "texto": "¿Quién podrá entender sus propios errores? Líbrame de los que me son ocultos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7691",
+      "hebreo": "שְׁגִיאָה",
+      "transliteracion": "שְׁגִיאֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "errores"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִֽי־",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿quién"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "יָבִ֑ין",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "discernirá?"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5641",
+      "hebreo": "סתר",
+      "transliteracion": "נִּסְתָּרֹ֥ות",
+      "parsingLabel": "sustantivo nif‘al participio desconocido femenino plural absoluto",
+      "parsing": "SUBS.NIF.PTCA.U.F.PL.A",
+      "traduccion": "las ocultas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5352",
+      "hebreo": "נקה",
+      "transliteracion": "נַקֵּֽנִי׃",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "absuélveme"
+    }
+  ]
+}

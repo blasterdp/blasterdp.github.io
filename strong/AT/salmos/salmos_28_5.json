@@ -1,0 +1,134 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 28:5 Reina Valera 1960",
+    "texto": "Por cuanto no atendieron a los hechos de Jehová, Ni a la obra de sus manos, Él los derribará, y no los edificará."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֤י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֤א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "יָבִ֡ינוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "prestan atención"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6468",
+      "hebreo": "פְּעֻלָּה",
+      "transliteracion": "פְּעֻלֹּ֣ת",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "hechos de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4639",
+      "hebreo": "מַעֲשֶׂה",
+      "transliteracion": "מַעֲשֵׂ֣ה",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "obra"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדָ֑יו",
+      "parsingLabel": "sustantivo desconocido dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.DU.A.PRS.P3.M.SG",
+      "traduccion": "de sus manos"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2040",
+      "hebreo": "הרס",
+      "transliteracion": "יֶ֝הֶרְסֵ֗ם",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "él los derribará"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "1129",
+      "hebreo": "בנה",
+      "transliteracion": "יִבְנֵֽם׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los edificará"
+    }
+  ]
+}

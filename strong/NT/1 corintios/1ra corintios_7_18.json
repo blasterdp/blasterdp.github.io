@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "1ra Corintios 7:18 Reina Valera 1960",
+    "texto": "¿Fue llamado alguno siendo circunciso? Quédese circunciso. ¿Fue llamado alguno siendo incircunciso? No se circuncide."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4059",
+      "texto": "περιτετμημένος",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Pasivo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-RPP-NSM",
+      "traduccion": "¿Ha sido circuncidado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5100",
+      "texto": "τις",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Infinitivo-Nominativo-Singular-Masculino",
+      "parsing": "X-NSM",
+      "traduccion": "alguien"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2564",
+      "texto": "ἐκλήθη;",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-API-3S",
+      "traduccion": "fue llamado?"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3361",
+      "texto": "μὴ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "No"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1986",
+      "texto": "ἐπισπάσθω.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Deponente Medio o Pasivo-Imperativo-3ª Persona-Singular",
+      "parsing": "V-PNM-3S",
+      "traduccion": "esté estirando (simulando prepucio)"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1722",
+      "texto": "ἐν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "¿En"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "203",
+      "texto": "ἀκροβυστίᾳ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Femenino",
+      "parsing": "N-DSF",
+      "traduccion": "incircuncisión"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2564",
+      "texto": "κέκληταί",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-RPI-3S",
+      "traduccion": "ha sido llamado"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5100",
+      "texto": "τις;",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Infinitivo-Nominativo-Singular-Masculino",
+      "parsing": "X-NSM",
+      "traduccion": "alguien?"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3361",
+      "texto": "μὴ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "No"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "4059",
+      "texto": "περιτεμνέσθω.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Pasivo-Imperativo-3ª Persona-Singular",
+      "parsing": "V-PPM-3S",
+      "traduccion": "esté siendo circuncidado"
+    }
+  ]
+}

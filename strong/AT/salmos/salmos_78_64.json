@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:64 Reina Valera 1960",
+    "texto": "Sus sacerdotes cayeron a espada, Y sus viudas no hicieron lamentación."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3548",
+      "hebreo": "כֹּהֵן",
+      "transliteracion": "כֹּ֭הֲנָיו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus sacerdotes"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2719",
+      "hebreo": "חֶרֶב",
+      "transliteracion": "חֶ֣רֶב",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "espada"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "נָפָ֑לוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "cayeron"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "490",
+      "hebreo": "אַלְמָנָה",
+      "transliteracion": "אַלְמְנֹתָ֗יו",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus viudas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1058",
+      "hebreo": "בכה",
+      "transliteracion": "תִבְכֶּֽינָה׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.F.PL",
+      "traduccion": "pudieron llorar"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 9:2 Reina Valera 1960",
+    "texto": "Me alegraré y me regocijaré en ti; Cantaré a tu nombre, oh Altísimo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8055",
+      "hebreo": "שׂמח",
+      "transliteracion": "אֶשְׂמְחָ֣ה",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "me alegraré"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5970",
+      "hebreo": "עלץ",
+      "transliteracion": "אֶעֶלְצָ֣ה",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "me regocijaré"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָ֑ךְ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "en ti"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2167",
+      "hebreo": "זמר",
+      "transliteracion": "אֲזַמְּרָ֖ה",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "cantaré alabanzas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שִׁמְךָ֣",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "a tu nombre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5945",
+      "hebreo": "עֶלְיֹון",
+      "transliteracion": "עֶלְיֹֽון׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Altísimo"
+    }
+  ]
+}

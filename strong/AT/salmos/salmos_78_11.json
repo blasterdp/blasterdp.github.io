@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:11 Reina Valera 1960",
+    "texto": "Sino que se olvidaron de sus obras, Y de sus maravillas que les había mostrado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "יִּשְׁכְּח֥וּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "olvidaron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5949",
+      "hebreo": "עֲלִילָה",
+      "transliteracion": "עֲלִילֹותָ֑יו",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus obras"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6381",
+      "hebreo": "פלא",
+      "transliteracion": "נִפְלְאֹותָ֗יו",
+      "parsingLabel": "sustantivo nif‘al participio desconocido femenino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.NIF.PTCA.U.F.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus maravillas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "הֶרְאָֽם׃",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "les había mostrado"
+    }
+  ]
+}

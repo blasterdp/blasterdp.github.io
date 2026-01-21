@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 34:17 Reina Valera 1960",
+    "texto": "Claman los justos, y Jehová oye, Y los libra de todas sus angustias."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6817",
+      "hebreo": "צעק",
+      "transliteracion": "צָעֲק֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "justos clamaron"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שָׁמֵ֑עַ",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "escucha"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6869",
+      "hebreo": "צָרָה",
+      "transliteracion": "צָ֝רֹותָ֗ם",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus angustias"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "הִצִּילָֽם׃",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los libró"
+    }
+  ]
+}

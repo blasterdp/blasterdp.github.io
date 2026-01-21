@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 19:3 Reina Valera 1960",
+    "texto": "No hay lenguaje, ni palabras, Ni es oída su voz."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵֽין־",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "no hay"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "562",
+      "hebreo": "אֹמֶר",
+      "transliteracion": "אֹ֭מֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mensaje"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵ֣ין",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "no hay"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְּבָרִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "palabras"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1097",
+      "hebreo": "בְּלִי",
+      "transliteracion": "בְּ֝לִ֗י",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "נִשְׁמָ֥ע",
+      "parsingLabel": "verbo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.M.SG.A",
+      "traduccion": "se oye"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6963",
+      "hebreo": "קֹול",
+      "transliteracion": "קֹולָֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su voz"
+    }
+  ]
+}

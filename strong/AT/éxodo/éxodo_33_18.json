@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 33:18 Reina Valera 1960",
+    "texto": "El entonces dijo: Te ruego que me muestres tu gloria."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּאמַ֑ר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "הַרְאֵ֥נִי",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "muestra me"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4994",
+      "hebreo": "נָא",
+      "transliteracion": "נָ֖א",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "ahora"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3519",
+      "hebreo": "כָּבֹוד",
+      "transliteracion": "כְּבֹדֶֽךָ׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu gloria"
+    }
+  ]
+}

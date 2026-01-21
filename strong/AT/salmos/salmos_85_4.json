@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 85:4 Reina Valera 1960",
+    "texto": "Restáuranos, oh Dios de nuestra salvación, Y haz cesar tu ira de sobre nosotros."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "שׁ֭וּבֵנוּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG.PRS.P1.U.PL",
+      "traduccion": "restáuranos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3468",
+      "hebreo": "יֵשַׁע",
+      "transliteracion": "יִשְׁעֵ֑נוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.PL",
+      "traduccion": "de nuestra salvación"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6565",
+      "hebreo": "פרר",
+      "transliteracion": "הָפֵ֖ר",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "pon fin"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3708",
+      "hebreo": "כַּעַס",
+      "transliteracion": "כַּֽעַסְךָ֣",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "a tu enfado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִמָּֽנוּ׃",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "PREP.PRS.P1.U.PL",
+      "traduccion": "con nosotros"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "versiculo": {
+    "referencia": "Juan 15:5 Reina Valera 1960",
+    "texto": "Yo soy la vid, vosotros los pámpanos; el que permanece en mí, y yo en él, éste lleva mucho fruto; porque separados de mí nada podéis hacer."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1473",
+      "texto": "ἐγώ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Nominativo-Singular",
+      "parsing": "P-1NS",
+      "traduccion": "Yo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1510",
+      "texto": "εἰμι",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-1ª Persona-Singular",
+      "parsing": "V-PAI-1S",
+      "traduccion": "estoy siendo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3588",
+      "texto": "ἡ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Femenino",
+      "parsing": "T-NSF",
+      "traduccion": "la"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "288",
+      "texto": "ἄμπελος,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "vid"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5210",
+      "texto": "ὑμεῖς",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Nominativo-Plural",
+      "parsing": "P-2NP",
+      "traduccion": "ustedes"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "τὰ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Plural-Neutro",
+      "parsing": "T-NPN",
+      "traduccion": "las"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2814",
+      "texto": "κλήματα.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Plural-Neutro",
+      "parsing": "N-NPN",
+      "traduccion": "ramas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3306",
+      "texto": "μένων",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-PAP-NSM",
+      "traduccion": "permaneciendo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1722",
+      "texto": "ἐν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1473",
+      "texto": "ἐμοὶ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Dativo-Singular",
+      "parsing": "P-1DS",
+      "traduccion": "mí"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "2504",
+      "texto": "κἀγὼ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Nominativo-Singular-Contracción",
+      "parsing": "P-1NS-K",
+      "traduccion": "y yo"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "1722",
+      "texto": "ἐν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "846",
+      "texto": "αὐτῷ,",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Dativo-Singular-Masculino",
+      "parsing": "P-DSM",
+      "traduccion": "él"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "3778",
+      "texto": "οὗτος",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Demostrativo-Nominativo-Singular-Masculino",
+      "parsing": "D-NSM",
+      "traduccion": "este"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "5342",
+      "texto": "φέρει",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está llevando"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "2590",
+      "texto": "καρπὸν",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Masculino",
+      "parsing": "N-ASM",
+      "traduccion": "fruto"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "4183",
+      "texto": "πολύν,",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Masculino",
+      "parsing": "A-ASM",
+      "traduccion": "mucho"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "3754",
+      "texto": "ὅτι",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "5565",
+      "texto": "χωρὶς",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "aparte de"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "1473",
+      "texto": "ἐμοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Genitivo-Singular",
+      "parsing": "P-1GS",
+      "traduccion": "mí"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "3756",
+      "texto": "οὐ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "1410",
+      "texto": "δύνασθε",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Deponente Medio o Pasivo-Indicativo-2ª Persona-Plural",
+      "parsing": "V-PNI-2P",
+      "traduccion": "están siendo capaces"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "4160",
+      "texto": "ποιεῖν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Infinitivo",
+      "parsing": "V-PAN",
+      "traduccion": "estar haciendo"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "3762",
+      "texto": "οὐδέν.",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Neutro-Negativo",
+      "parsing": "A-ASN-N",
+      "traduccion": "nada"
+    }
+  ]
+}

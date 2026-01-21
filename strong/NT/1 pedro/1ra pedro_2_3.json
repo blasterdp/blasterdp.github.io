@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "1ra Pedro 2:3 Reina Valera 1960",
+    "texto": "si es que habéis gustado la benignidad del Señor."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1487",
+      "texto": "εἰ",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1089",
+      "texto": "ἐγεύσασθε",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Deponente Medio-Indicativo-2ª Persona-Plural",
+      "parsing": "V-ADI-2P",
+      "traduccion": "gustaron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3754",
+      "texto": "ὅτι",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5543",
+      "texto": "χρηστὸς",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino",
+      "parsing": "A-NSM",
+      "traduccion": "agradablemente bueno"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2962",
+      "texto": "κύριος.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "Señor"
+    }
+  ]
+}

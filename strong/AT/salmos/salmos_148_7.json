@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 148:7 Reina Valera 1960",
+    "texto": "Alabad a Jehová desde la tierra, Los monstruos marinos y todos los abismos;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "הַֽלְל֣וּ",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.PL",
+      "traduccion": "alabad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִן־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָ֑רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8577",
+      "hebreo": "תַּנִּין",
+      "transliteracion": "תַּ֝נִּינִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "monstruos marinos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "8415",
+      "hebreo": "תְּהֹום",
+      "transliteracion": "תְּהֹמֹֽות׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "abismos"
+    }
+  ]
+}

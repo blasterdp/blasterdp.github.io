@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 91:5 Reina Valera 1960",
+    "texto": "No temerás el terror nocturno, Ni saeta que vuele de día,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3372",
+      "hebreo": "ירא",
+      "transliteracion": "תִ֭ירָא",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "tendrás temor"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6343",
+      "hebreo": "פַּחַד",
+      "transliteracion": "פַּ֣חַד",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "terror"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3915",
+      "hebreo": "לַיְלָה",
+      "transliteracion": "לָ֑יְלָה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "noche"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2671",
+      "hebreo": "חֵץ",
+      "transliteracion": "חֵ֗ץ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "la saeta"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5774",
+      "hebreo": "עוף",
+      "transliteracion": "יָע֥וּף",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "que vuela"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3119",
+      "hebreo": "יֹומָם",
+      "transliteracion": "יֹומָֽם׃",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "de día"
+    }
+  ]
+}

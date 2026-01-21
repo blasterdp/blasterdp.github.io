@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 88:7 Reina Valera 1960",
+    "texto": "Sobre mí reposa tu ira, Y me has afligido con todas tus ondas. Selah"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָ֭לַי",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre mí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5564",
+      "hebreo": "סמך",
+      "transliteracion": "סָמְכָ֣ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "gravita"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2534",
+      "hebreo": "חֵמָה",
+      "transliteracion": "חֲמָתֶ֑ךָ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu furor"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4867",
+      "hebreo": "מִשְׁבָּר",
+      "transliteracion": "מִ֝שְׁבָּרֶ֗יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus olas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6031",
+      "hebreo": "ענה",
+      "transliteracion": "עִנִּ֥יתָ",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG",
+      "traduccion": "me has afligido"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5542",
+      "hebreo": "סֶלָה",
+      "transliteracion": "סֶּֽלָה׃",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "Selah"
+    }
+  ]
+}

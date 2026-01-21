@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:22 Reina Valera 1960",
+    "texto": "Por cuanto no habían creído a Dios, Ni habían confiado en su salvación."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֤י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "539",
+      "hebreo": "אמן",
+      "transliteracion": "הֶ֭אֱמִינוּ",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.HIF.PERF.P3.U.PL",
+      "traduccion": "creyeron"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בֵּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אלֹהִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "982",
+      "hebreo": "בטח",
+      "transliteracion": "בָ֝טְח֗וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "confiaron"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3444",
+      "hebreo": "יְשׁוּעָה",
+      "transliteracion": "ישׁוּעָתֹֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su salvación"
+    }
+  ]
+}

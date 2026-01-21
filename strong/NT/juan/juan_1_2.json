@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Juan 1:2 Reina Valera 1960",
+    "texto": "Este era en el principio con Dios."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3778",
+      "texto": "οὗτος",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Demostrativo-Nominativo-Singular-Masculino",
+      "parsing": "D-NSM",
+      "traduccion": "Este"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1510",
+      "texto": "ἦν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Imperfecto-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-IAI-3S",
+      "traduccion": "estaba siendo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1722",
+      "texto": "ἐν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "746",
+      "texto": "ἀρχῇ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Femenino",
+      "parsing": "N-DSF",
+      "traduccion": "principio"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4314",
+      "texto": "πρὸς",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "hacia"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "τὸν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Masculino",
+      "parsing": "T-ASM",
+      "traduccion": "a el"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2316",
+      "texto": "θεόν.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Masculino",
+      "parsing": "N-ASM",
+      "traduccion": "Dios"
+    }
+  ]
+}

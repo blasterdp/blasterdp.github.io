@@ -1,0 +1,179 @@
+{
+  "versiculo": {
+    "referencia": "Zacarías 11:14 Reina Valera 1960",
+    "texto": "Quebré luego el otro cayado, Ataduras, para romper la hermandad entre Judá e Israel."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Entonces"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1438",
+      "hebreo": "גדע",
+      "transliteracion": "אֶגְדַּע֙",
+      "parsingLabel": "verbo qal wayyiqtol 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.WAYQ.P1.U.SG",
+      "traduccion": "rompí"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4731",
+      "hebreo": "מַקֵּל",
+      "transliteracion": "מַקְלִ֣י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi cayado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8145",
+      "hebreo": "שֵׁנִי",
+      "transliteracion": "שֵּׁנִ֔י",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "segundo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֵ֖ת",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "las"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2256",
+      "hebreo": "חֹבְלִים",
+      "transliteracion": "חֹֽבְלִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Ataduras"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "6565",
+      "hebreo": "פרר",
+      "transliteracion": "הָפֵר֙",
+      "parsingLabel": "verbo hif‘il infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.HIF.INFC.U.U.U.A",
+      "traduccion": "romper"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "264",
+      "hebreo": "אַחֲוָה",
+      "transliteracion": "אַחֲוָ֔ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "hermandad"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "996",
+      "hebreo": "בַּיִן",
+      "transliteracion": "בֵּ֥ין",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3063",
+      "hebreo": "יְהוּדָה",
+      "transliteracion": "יְהוּדָ֖ה",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Judá"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "996",
+      "hebreo": "בַּיִן",
+      "transliteracion": "בֵ֥ין",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵֽל׃ ס",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    }
+  ]
+}

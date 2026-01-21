@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 94:6 Reina Valera 1960",
+    "texto": "A la viuda y al extranjero matan, Y a los huérfanos quitan la vida."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "490",
+      "hebreo": "אַלְמָנָה",
+      "transliteracion": "אַ֭לְמָנָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "a viuda"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1616",
+      "hebreo": "גֵּר",
+      "transliteracion": "גֵ֣ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "al extranjero"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2026",
+      "hebreo": "הרג",
+      "transliteracion": "יַהֲרֹ֑גוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "matan"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וִֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3490",
+      "hebreo": "יָתֹום",
+      "transliteracion": "יתֹומִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "a huérfanos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7523",
+      "hebreo": "רצח",
+      "transliteracion": "יְרַצֵּֽחוּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "asesinan"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 36:12 Reina Valera 1960",
+    "texto": "Allí cayeron los hacedores de iniquidad; Fueron derribados, y no podrán levantarse."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8033",
+      "hebreo": "שָׁם",
+      "transliteracion": "שָׁ֣ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "allí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "נָ֭פְלוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "están caídos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6466",
+      "hebreo": "פעל",
+      "transliteracion": "פֹּ֣עֲלֵי",
+      "parsingLabel": "verbo qal participio desconocido masculino plural constructivo",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.C",
+      "traduccion": "los obradores"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "205",
+      "hebreo": "אָוֶן",
+      "transliteracion": "אָ֑וֶן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de maldad"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1760",
+      "hebreo": "דחה",
+      "transliteracion": "דֹּ֝ח֗וּ",
+      "parsingLabel": "verbo pu“al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.PUAL.PERF.P3.U.PL",
+      "traduccion": "están derribados"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3201",
+      "hebreo": "יכל",
+      "transliteracion": "יָ֥כְלוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "pueden"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "קֽוּם׃",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A",
+      "traduccion": "levantarse"
+    }
+  ]
+}

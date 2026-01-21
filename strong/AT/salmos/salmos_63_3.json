@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 63:3 Reina Valera 1960",
+    "texto": "Porque mejor es tu misericordia que la vida; Mis labios te alabarán."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2896",
+      "hebreo": "טֹוב",
+      "transliteracion": "טֹ֣וב",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "mejor"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2617",
+      "hebreo": "חֶסֶד",
+      "transliteracion": "חַ֭סְדְּךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu misericordia"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "que"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2416",
+      "hebreo": "חַיִּים",
+      "transliteracion": "חַיִּ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "la vida"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שְׂפָתַ֥י",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "mis labios"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7623",
+      "hebreo": "שׁבח",
+      "transliteracion": "יְשַׁבְּחֽוּנְךָ׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL.PRS.P2.M.SG",
+      "traduccion": "te alabarán"
+    }
+  ]
+}

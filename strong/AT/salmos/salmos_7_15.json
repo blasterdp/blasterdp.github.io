@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 7:15 Reina Valera 1960",
+    "texto": "Pozo ha cavado, y lo ha ahondado; Y en el hoyo que hizo caerá."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "953",
+      "hebreo": "בֹּור",
+      "transliteracion": "בֹּ֣ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "fosa"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3738",
+      "hebreo": "כרה",
+      "transliteracion": "כָּ֭רָֽה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ha cavado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2658",
+      "hebreo": "חפר",
+      "transliteracion": "יַּחְפְּרֵ֑הוּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "la ha ahondado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "יִּפֹּ֗ל",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "ha caído"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7845",
+      "hebreo": "שַׁחַת",
+      "transliteracion": "שַׁ֣חַת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "pozo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6466",
+      "hebreo": "פעל",
+      "transliteracion": "יִפְעָֽל׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "hizo"
+    }
+  ]
+}

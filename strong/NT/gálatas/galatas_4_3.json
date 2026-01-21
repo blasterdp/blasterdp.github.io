@@ -1,0 +1,125 @@
+{
+  "versiculo": {
+    "referencia": "Galatas 4:3 Reina Valera 1960",
+    "texto": "Así también nosotros, cuando éramos niños, estábamos en esclavitud bajo los rudimentos del mundo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3779",
+      "texto": "οὕτως",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "Así"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "también"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2249",
+      "texto": "ἡμεῖς,",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Nominativo-Plural",
+      "parsing": "P-1NP",
+      "traduccion": "nosotros"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3753",
+      "texto": "ὅτε",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1510",
+      "texto": "ἦμεν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Imperfecto-Activo-Indicativo-1ª Persona-Plural",
+      "parsing": "V-IAI-1P",
+      "traduccion": "estábamos siendo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3516",
+      "texto": "νήπιοι,",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino",
+      "parsing": "A-NPM",
+      "traduccion": "bebés"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5259",
+      "texto": "ὑπὸ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "bajo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3588",
+      "texto": "τὰ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Plural-Neutro",
+      "parsing": "T-APN",
+      "traduccion": "las"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4747",
+      "texto": "στοιχεῖα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Plural-Neutro",
+      "parsing": "N-APN",
+      "traduccion": "cosas elementales"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "de el"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2889",
+      "texto": "κόσμου",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "mundo"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "1510",
+      "texto": "ἤμεθα",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Imperfecto-Medio-Indicativo-1ª Persona-Plural",
+      "parsing": "V-IMI-1P",
+      "traduccion": "estábamos siendo"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "1402",
+      "texto": "δεδουλωμένοι·",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Pasivo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-RPP-NPM",
+      "traduccion": "habiendo sido esclavizados"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 51:9 Reina Valera 1960",
+    "texto": "Esconde tu rostro de mis pecados, Y borra todas mis maldades."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5641",
+      "hebreo": "סתר",
+      "transliteracion": "הַסְתֵּ֣ר",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "oculta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָּ֭נֶיךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tu rostro"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2399",
+      "hebreo": "חֵטְא",
+      "transliteracion": "חֲטָאָ֑י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis pecados"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5771",
+      "hebreo": "עָוֹן",
+      "transliteracion": "עֲוֹ֖נֹתַ֣י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis iniquidades"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4229",
+      "hebreo": "מחה",
+      "transliteracion": "מְחֵֽה׃",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "borra"
+    }
+  ]
+}

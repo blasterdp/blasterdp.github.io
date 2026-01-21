@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 37:23 Reina Valera 1960",
+    "texto": "Por Jehová son ordenados los pasos del hombre, Y él aprueba su camino."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4703",
+      "hebreo": "מִצְעָד",
+      "transliteracion": "מִֽצְעֲדֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "pasos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1397",
+      "hebreo": "גֶּבֶר",
+      "transliteracion": "גֶ֥בֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del hombre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3559",
+      "hebreo": "כון",
+      "transliteracion": "כֹּונָ֗נוּ",
+      "parsingLabel": "verbo pu“al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.PUAL.PERF.P3.U.PL",
+      "traduccion": "son afianzados"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דַרְכֹּ֥ו",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su camino"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2654",
+      "hebreo": "חפץ",
+      "transliteracion": "יֶחְפָּֽץ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se deleita"
+    }
+  ]
+}

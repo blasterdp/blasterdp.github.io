@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "1ra Timoteo 1:6 Reina Valera 1960",
+    "texto": "de las cuales cosas desviándose algunos, se apartaron a vana palabrería,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3739",
+      "texto": "ὧν",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Relativo-Genitivo-Plural-Femenino",
+      "parsing": "R-GPF",
+      "traduccion": "de cuales (cosas)"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5100",
+      "texto": "τινες",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Infinitivo-Nominativo-Plural-Masculino",
+      "parsing": "X-NPM",
+      "traduccion": "algunos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "795",
+      "texto": "ἀστοχήσαντες",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Activo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-AAP-NPM",
+      "traduccion": "habiendo desviado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1624",
+      "texto": "ἐξετράπησαν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Pasivo-Indicativo-3ª Persona-Plural",
+      "parsing": "V-2API-3P",
+      "traduccion": "fueron girados hacia afuera"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1519",
+      "texto": "εἰς",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "hacia dentro"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3150",
+      "texto": "ματαιολογίαν,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Femenino",
+      "parsing": "N-ASF",
+      "traduccion": "habla vana"
+    }
+  ]
+}

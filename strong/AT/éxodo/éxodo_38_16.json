@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 38:16 Reina Valera 1960",
+    "texto": "Todas las cortinas del atrio alrededor eran de lino torcido."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "Todas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7050",
+      "hebreo": "קֶלַע",
+      "transliteracion": "קַלְעֵ֧י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "cortinas de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הֶ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2691",
+      "hebreo": "חָצֵר",
+      "transliteracion": "חָצֵ֛ר",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "atrio"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5439",
+      "hebreo": "סָבִיב",
+      "transliteracion": "סָבִ֖יב",
+      "parsingLabel": "adverbio desconocido singular absoluto",
+      "parsing": "ADVB.U.SG.A",
+      "traduccion": "alrededor"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8336",
+      "hebreo": "שֵׁשׁ",
+      "transliteracion": "שֵׁ֥שׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "lino"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7806",
+      "hebreo": "שׁזר",
+      "transliteracion": "מָשְׁזָֽר׃",
+      "parsingLabel": "adjetivo hof‘al participio (passive) desconocido masculino singular absoluto",
+      "parsing": "ADJV.HOF.PTCP.U.M.SG.A",
+      "traduccion": "torcido"
+    }
+  ]
+}

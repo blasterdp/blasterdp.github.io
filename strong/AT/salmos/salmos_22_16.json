@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 22:16 Reina Valera 1960",
+    "texto": "Porque perros me han rodeado; Me ha cercado cuadrilla de malignos; Horadaron mis manos y mis pies."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֥י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5437",
+      "hebreo": "סבב",
+      "transliteracion": "סְבָב֗וּנִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me han rodeado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3611",
+      "hebreo": "כֶּלֶב",
+      "transliteracion": "כְּלָ֫בִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "perros"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5712",
+      "hebreo": "עֵדָה",
+      "transliteracion": "עֲדַ֣ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "cuadrilla"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7489",
+      "hebreo": "רעע",
+      "transliteracion": "מְ֭רֵעִים",
+      "parsingLabel": "sustantivo hif‘il participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.HIF.PTCA.U.M.PL.A",
+      "traduccion": "de malvados"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5362",
+      "hebreo": "נקף",
+      "transliteracion": "הִקִּיפ֑וּנִי",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me han acorralado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כָּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "738",
+      "hebreo": "אֲרִי",
+      "transliteracion": "אֲרִ֗י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "león"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדַ֥י",
+      "parsingLabel": "sustantivo desconocido dual absoluto",
+      "parsing": "SUBS.U.DU.A",
+      "traduccion": "mis manos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7272",
+      "hebreo": "רֶגֶל",
+      "transliteracion": "רַגְלָֽי׃",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "mis pies"
+    }
+  ]
+}

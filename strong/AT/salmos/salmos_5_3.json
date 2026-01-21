@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 5:3 Reina Valera 1960",
+    "texto": "Oh Jehová, de mañana oirás mi voz; De mañana me presentaré delante de ti, y esperaré."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְֽהוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1242",
+      "hebreo": "בֹּקֶר",
+      "transliteracion": "בֹּ֖קֶר",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "de mañana"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "תִּשְׁמַ֣ע",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "oirás"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6963",
+      "hebreo": "קֹול",
+      "transliteracion": "קֹולִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi voz"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1242",
+      "hebreo": "בֹּקֶר",
+      "transliteracion": "בֹּ֥קֶר",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "de mañana"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6186",
+      "hebreo": "ערך",
+      "transliteracion": "אֶֽעֱרָךְ־",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "ordenaré"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ֝ךָ֗",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "a ti"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6822",
+      "hebreo": "צפה",
+      "transliteracion": "אֲצַפֶּֽה׃",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "estaré a la espera"
+    }
+  ]
+}

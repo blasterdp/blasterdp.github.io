@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 97:10 Reina Valera 1960",
+    "texto": "Los que amáis a Jehová, aborreced el mal; Él guarda las almas de sus santos; De mano de los impíos los libra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "אֹהֲבֵ֥י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "los que amáis"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "שִׂנְא֫וּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "odiad"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7451",
+      "hebreo": "רַע",
+      "transliteracion": "רָ֥ע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mal"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "שֹׁ֭מֵר",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "guarda"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשֹׁ֣ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "almas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2623",
+      "hebreo": "חָסִיד",
+      "transliteracion": "חֲסִידָ֑יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "de sus piadoso"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יַּ֥ד",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "la mano"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְ֝שָׁעִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de impíos"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "יַצִּילֵֽם׃",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los libra"
+    }
+  ]
+}

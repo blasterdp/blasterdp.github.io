@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 90:5 Reina Valera 1960",
+    "texto": "Los arrebatas como con torrente de aguas; son como sueño, Como la hierba que crece en la mañana."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2229",
+      "hebreo": "זרם",
+      "transliteracion": "זְ֭רַמְתָּם",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG.PRS.P3.M.PL",
+      "traduccion": "los arrebatas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8142",
+      "hebreo": "שֵׁנָה",
+      "transliteracion": "שֵׁנָ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "un sueño"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "יִהְי֑וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "son"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1242",
+      "hebreo": "בֹּקֶר",
+      "transliteracion": "בֹּ֗קֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Mañana"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כֶּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2682",
+      "hebreo": "חָצִיר",
+      "transliteracion": "חָצִ֥יר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hierba"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2498",
+      "hebreo": "חלף",
+      "transliteracion": "יַחֲלֹֽף׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "que reverdece"
+    }
+  ]
+}

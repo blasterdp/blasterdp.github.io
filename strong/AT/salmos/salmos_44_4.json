@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 44:4 Reina Valera 1960",
+    "texto": "Tú, oh Dios, eres mi rey; Manda salvación a Jacob."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּה־",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֣וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "eres"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מַלְכִּ֣י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi rey"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6680",
+      "hebreo": "צוה",
+      "transliteracion": "צַ֝וֵּ֗ה",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG",
+      "traduccion": "ordena"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3444",
+      "hebreo": "יְשׁוּעָה",
+      "transliteracion": "יְשׁוּעֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "salvación"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3290",
+      "hebreo": "יַעֲקֹב",
+      "transliteracion": "יַעֲקֹֽב׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "de Jacob"
+    }
+  ]
+}

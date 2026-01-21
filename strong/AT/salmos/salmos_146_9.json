@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 146:9 Reina Valera 1960",
+    "texto": "Jehová guarda a los extranjeros; Al huérfano y a la viuda sostiene, Y el camino de los impíos trastorna."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֤ה׀",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "שֹׁ֘מֵ֤ר",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "guarda"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1616",
+      "hebreo": "גֵּר",
+      "transliteracion": "גֵּרִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "extranjeros"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3490",
+      "hebreo": "יָתֹום",
+      "transliteracion": "יָתֹ֣ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "a huérfano"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "490",
+      "hebreo": "אַלְמָנָה",
+      "transliteracion": "אַלְמָנָ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "a viuda"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5749",
+      "hebreo": "עוד",
+      "transliteracion": "יְעֹודֵ֑ד",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERB.PIEL.IMPF.P3.M.SG",
+      "traduccion": "sostiene"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דֶ֖רֶךְ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "camino"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de impíos"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5791",
+      "hebreo": "עות",
+      "transliteracion": "יְעַוֵּֽת׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "tuerce"
+    }
+  ]
+}

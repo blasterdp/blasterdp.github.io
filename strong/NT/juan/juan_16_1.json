@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Juan 16:1 Reina Valera 1960",
+    "texto": "Estas cosas os he hablado, para que no tengáis tropiezo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3778",
+      "texto": "Ταῦτα",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Demostrativo-Acusativo-Plural-Neutro",
+      "parsing": "D-APN",
+      "traduccion": "Estas (cosas)"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2980",
+      "texto": "λελάληκα",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Activo-Indicativo-1ª Persona-Singular",
+      "parsing": "V-RAI-1S",
+      "traduccion": "he hablado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5210",
+      "texto": "ὑμῖν",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Dativo-Plural",
+      "parsing": "P-2DP",
+      "traduccion": "a ustedes"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2443",
+      "texto": "ἵνα",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "para que"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3361",
+      "texto": "μὴ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4624",
+      "texto": "σκανδαλισθῆτε.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Subjuntivo-2ª Persona-Plural",
+      "parsing": "V-APS-2P",
+      "traduccion": "sean tropezados"
+    }
+  ]
+}

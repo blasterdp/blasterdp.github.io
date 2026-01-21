@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "1ra Timoteo 3:14 Reina Valera 1960",
+    "texto": "Esto te escribo, aunque tengo la esperanza de ir pronto a verte,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3778",
+      "texto": "Ταῦτά",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Demostrativo-Acusativo-Plural-Neutro",
+      "parsing": "D-APN",
+      "traduccion": "Estas (cosas)"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4771",
+      "texto": "σοι",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Dativo-Singular",
+      "parsing": "P-2DS",
+      "traduccion": "a ti"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1125",
+      "texto": "γράφω,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-1ª Persona-Singular",
+      "parsing": "V-PAI-1S",
+      "traduccion": "estoy escribiendo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1679",
+      "texto": "ἐλπίζων",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-PAP-NSM",
+      "traduccion": "esperando"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2064",
+      "texto": "ἐλθεῖν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Infinitivo",
+      "parsing": "V-2AAN",
+      "traduccion": "venir"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4314",
+      "texto": "πρὸς",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "hacia"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4771",
+      "texto": "σὲ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Acusativo-Singular",
+      "parsing": "P-2AS",
+      "traduccion": "a ti"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5032",
+      "texto": "τάχιον·",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio-Comparativo",
+      "parsing": "ADV-C",
+      "traduccion": "más rápido"
+    }
+  ]
+}

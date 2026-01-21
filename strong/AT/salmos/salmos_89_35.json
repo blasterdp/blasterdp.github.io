@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 89:35 Reina Valera 1960",
+    "texto": "Una vez he jurado por mi santidad, Y no mentiré a David."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "259",
+      "hebreo": "אֶחָד",
+      "transliteracion": "אַ֭חַת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "una vez"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7650",
+      "hebreo": "שׁבע",
+      "transliteracion": "נִשְׁבַּ֣עְתִּי",
+      "parsingLabel": "verbo nif‘al perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.NIF.PERF.P1.U.SG",
+      "traduccion": "juré"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6944",
+      "hebreo": "קֹדֶשׁ",
+      "transliteracion": "קָדְשִׁ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi santidad"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִֽם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "cierto que no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1732",
+      "hebreo": "דָּוִד",
+      "transliteracion": "דָוִ֥ד",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "David"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3576",
+      "hebreo": "כזב",
+      "transliteracion": "אֲכַזֵּֽב׃",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "mentiré"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Juan 1:4 Reina Valera 1960",
+    "texto": "En él estaba la vida, y la vida era la luz de los hombres."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1722",
+      "texto": "ἐν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "En"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "846",
+      "texto": "αὐτῷ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Dativo-Singular-Masculino",
+      "parsing": "P-DSM",
+      "traduccion": "él"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2222",
+      "texto": "ζωὴ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "vida"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1510",
+      "texto": "ἐστιν,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está siendo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "ἡ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Femenino",
+      "parsing": "T-NSF",
+      "traduccion": "la"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2222",
+      "texto": "ζωὴ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "vida"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1510",
+      "texto": "ἦν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Imperfecto-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-IAI-3S",
+      "traduccion": "estaba siendo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Neutro",
+      "parsing": "T-NSN",
+      "traduccion": "la"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5457",
+      "texto": "φῶς",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Neutro",
+      "parsing": "N-NSN",
+      "traduccion": "luz"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3588",
+      "texto": "τῶν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Plural-Masculino",
+      "parsing": "T-GPM",
+      "traduccion": "de los"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "444",
+      "texto": "ἀνθρώπων.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Plural-Masculino",
+      "parsing": "N-GPM",
+      "traduccion": "hombres"
+    }
+  ]
+}

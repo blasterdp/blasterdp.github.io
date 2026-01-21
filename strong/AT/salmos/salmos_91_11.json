@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 91:11 Reina Valera 1960",
+    "texto": "Pues a sus ángeles mandará acerca de ti, Que te guarden en todos tus caminos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4397",
+      "hebreo": "מַלְאָךְ",
+      "transliteracion": "מַ֭לְאָכָיו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "a sus ángeles"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6680",
+      "hebreo": "צוה",
+      "transliteracion": "יְצַוֶּה־",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "dará órdenes"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָּ֑ךְ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "acerca de ti"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "שְׁמָרְךָ֗",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A.PRS.P2.M.SG",
+      "traduccion": "guardarte"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דְּרָכֶֽיךָ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus caminos"
+    }
+  ]
+}

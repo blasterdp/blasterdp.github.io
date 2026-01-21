@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Galatas 2:3 Reina Valera 1960",
+    "texto": "Mas ni aun Tito, que estaba conmigo, con todo y ser griego, fue obligado a circuncidarse;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "235",
+      "texto": "ἀλλ’",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Pero"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3761",
+      "texto": "οὐδὲ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción-Negativo",
+      "parsing": "CONJ-N",
+      "traduccion": "ni"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5103",
+      "texto": "Τίτος",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "Tito"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4862",
+      "texto": "σὺν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "junto con"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1473",
+      "texto": "ἐμοί,",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Dativo-Singular",
+      "parsing": "P-1DS",
+      "traduccion": "a mí"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1672",
+      "texto": "Ἕλλην",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "griego"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1510",
+      "texto": "ὤν,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-PAP-NSM",
+      "traduccion": "siendo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "315",
+      "texto": "ἠναγκάσθη",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-API-3S",
+      "traduccion": "fue puesto bajo necesidad"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4059",
+      "texto": "περιτμηθῆναι·",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Infinitivo",
+      "parsing": "V-APN",
+      "traduccion": "ser circuncidado"
+    }
+  ]
+}

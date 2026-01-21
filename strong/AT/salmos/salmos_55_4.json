@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 55:4 Reina Valera 1960",
+    "texto": "Mi corazón está dolorido dentro de mí, Y terrores de muerte sobre mí han caído."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִ֭בִּי",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi corazón"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2342",
+      "hebreo": "חיל",
+      "transliteracion": "יָחִ֣יל",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERB.QAL.IMPF.P3.M.SG",
+      "traduccion": "se retuerce"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7130",
+      "hebreo": "קֶרֶב",
+      "transliteracion": "קִרְבִּ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi interior"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "367",
+      "hebreo": "אֵימָה",
+      "transliteracion": "אֵימֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "terrores"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4194",
+      "hebreo": "מָוֶת",
+      "transliteracion": "מָ֝֗וֶת",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de muerte"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "נָפְל֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "han caído"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלָֽי׃",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre mí"
+    }
+  ]
+}

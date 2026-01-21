@@ -1,0 +1,143 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 18:4 Reina Valera 1960",
+    "texto": "y el otro se llamaba Eliezer, porque dijo: El Dios de mi padre me ayudó, y me libró de la espada de Faraón."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שֵׁ֥ם",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "nombre de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "259",
+      "hebreo": "אֶחָד",
+      "transliteracion": "אֶחָ֖ד",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "uno"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "461",
+      "hebreo": "אֱלִיעֶזֶר",
+      "transliteracion": "אֱלִיעֶ֑זֶר",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Eliezer"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֵ֤י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "Dios de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אָבִי֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi padre"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5828",
+      "hebreo": "עֵזֶר",
+      "transliteracion": "עֶזְרִ֔י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi ayudador"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "יַּצִּלֵ֖נִי",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me libró"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "2719",
+      "hebreo": "חֶרֶב",
+      "transliteracion": "חֶ֥רֶב",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "espada de"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "6547",
+      "hebreo": "פַּרְעֹה",
+      "transliteracion": "פַּרְעֹֽה׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Faraón"
+    }
+  ]
+}

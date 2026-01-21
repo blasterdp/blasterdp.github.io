@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 25:4 Reina Valera 1960",
+    "texto": "Muéstrame, oh Jehová, tus caminos; Enséñame tus sendas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דְּרָכֶ֣יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus caminos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "הֹודִיעֵ֑נִי",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "muéstrame"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "734",
+      "hebreo": "אֹרַח",
+      "transliteracion": "אֹ֖רְחֹותֶ֣יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus sendas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3925",
+      "hebreo": "למד",
+      "transliteracion": "לַמְּדֵֽנִי׃",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "enséñame"
+    }
+  ]
+}

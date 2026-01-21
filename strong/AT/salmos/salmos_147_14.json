@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 147:14 Reina Valera 1960",
+    "texto": "Él da en tu territorio la paz; Te hará saciar con lo mejor del trigo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "el"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7760",
+      "hebreo": "שׂים",
+      "transliteracion": "שָּׂם־",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "que hace"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1366",
+      "hebreo": "גְּבוּל",
+      "transliteracion": "גְּבוּלֵ֥ךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.F.SG",
+      "traduccion": "tu frontera"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7965",
+      "hebreo": "שָׁלֹום",
+      "transliteracion": "שָׁלֹ֑ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "paz"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2459",
+      "hebreo": "חֵלֶב",
+      "transliteracion": "חֵ֥לֶב",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "grosura"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2406",
+      "hebreo": "חִטָּה",
+      "transliteracion": "חִ֝טִּ֗ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "de trigo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7646",
+      "hebreo": "שׂבע",
+      "transliteracion": "יַשְׂבִּיעֵֽךְ׃",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 2ª persona femenino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P2.F.SG",
+      "traduccion": "te sacia"
+    }
+  ]
+}

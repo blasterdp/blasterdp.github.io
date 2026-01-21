@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 94:12 Reina Valera 1960",
+    "texto": "Bienaventurado el hombre a quien tú, JAH, corriges, Y en tu ley lo instruyes,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "835",
+      "hebreo": "אֶשֶׁר",
+      "transliteracion": "אַשְׁרֵ֤י׀",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "bienaventurados"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1397",
+      "hebreo": "גֶּבֶר",
+      "transliteracion": "גֶּ֣בֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "varón"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3256",
+      "hebreo": "יסר",
+      "transliteracion": "תְּיַסְּרֶ֣נּוּ",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "tú le corriges"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3050",
+      "hebreo": "יָהּ",
+      "transliteracion": "יָּ֑הּ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8451",
+      "hebreo": "תֹּורָה",
+      "transliteracion": "תֹּורָתְךָ֥",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu ley"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3925",
+      "hebreo": "למד",
+      "transliteracion": "תְלַמְּדֶֽנּוּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "le enseñas"
+    }
+  ]
+}

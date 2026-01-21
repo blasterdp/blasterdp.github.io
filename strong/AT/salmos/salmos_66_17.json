@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 66:17 Reina Valera 1960",
+    "texto": "A él clamé con mi boca, Y fue exaltado con mi lengua."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֵלָ֥יו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "a él"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּֽי־",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi boca"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7121",
+      "hebreo": "קרא",
+      "transliteracion": "קָרָ֑אתִי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "clamé"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7318",
+      "hebreo": "רֹומַם",
+      "transliteracion": "רֹומַ֗ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "alta alabanza"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּ֣חַת",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "debajo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3956",
+      "hebreo": "לָשֹׁון",
+      "transliteracion": "לְשֹׁונִֽי׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.SG",
+      "traduccion": "de mi lengua"
+    }
+  ]
+}

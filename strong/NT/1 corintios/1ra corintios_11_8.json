@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "1ra Corintios 11:8 Reina Valera 1960",
+    "texto": "Porque el varón no procede de la mujer, sino la mujer del varón,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3756",
+      "texto": "οὐ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "No"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1063",
+      "texto": "γάρ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1510",
+      "texto": "ἐστιν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está siendo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "435",
+      "texto": "ἀνὴρ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "varón"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1537",
+      "texto": "ἐκ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "procedente de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1135",
+      "texto": "γυναικός,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Femenino",
+      "parsing": "N-GSF",
+      "traduccion": "mujer"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "235",
+      "texto": "ἀλλὰ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "sino"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1135",
+      "texto": "γυνὴ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "mujer"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1537",
+      "texto": "ἐξ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "procedente de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "435",
+      "texto": "ἀνδρός·",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "varón"
+    }
+  ]
+}

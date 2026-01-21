@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 147:17 Reina Valera 1960",
+    "texto": "Echa su hielo como pedazos; Ante su frío, ¿quién resistirá?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7993",
+      "hebreo": "שׁלך",
+      "transliteracion": "מַשְׁלִ֣יךְ",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "arroja"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7140",
+      "hebreo": "קֶרַח",
+      "transliteracion": "קַֽרְחֹ֣ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su hielo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6595",
+      "hebreo": "פַּת",
+      "transliteracion": "פִתִּ֑ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "migas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פְנֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "ante"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7135",
+      "hebreo": "קָרָה",
+      "transliteracion": "קָ֝רָתֹ֗ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su frío"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִ֣י",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿quién"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5975",
+      "hebreo": "עמד",
+      "transliteracion": "יַעֲמֹֽד׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se sostendrá?"
+    }
+  ]
+}

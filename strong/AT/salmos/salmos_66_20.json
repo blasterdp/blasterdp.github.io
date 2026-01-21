@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 66:20 Reina Valera 1960",
+    "texto": "Bendito sea Dios, Que no echó de sí mi oración, ni de mí su misericordia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "בָּר֥וּךְ",
+      "parsingLabel": "verbo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.M.SG.A",
+      "traduccion": "bendito sea"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֥ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5493",
+      "hebreo": "סור",
+      "transliteracion": "הֵסִ֘יר",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG",
+      "traduccion": "ha desechado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8605",
+      "hebreo": "תְּפִלָּה",
+      "transliteracion": "תְּפִלָּתִ֥י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi oración"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2617",
+      "hebreo": "חֶסֶד",
+      "transliteracion": "חַסְדֹּ֗ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su misericordia"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "854",
+      "hebreo": "אֵת",
+      "transliteracion": "אִתִּֽי׃",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "mí"
+    }
+  ]
+}

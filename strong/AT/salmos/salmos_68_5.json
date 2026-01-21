@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 68:5 Reina Valera 1960",
+    "texto": "Padre de huérfanos y defensor de viudas Es Dios en su santa morada."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אֲבִ֣י",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "padre"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3490",
+      "hebreo": "יָתֹום",
+      "transliteracion": "יְ֭תֹומִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de huérfanos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1781",
+      "hebreo": "דַּיָּן",
+      "transliteracion": "דַיַּ֣ן",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "defensor"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "490",
+      "hebreo": "אַלְמָנָה",
+      "transliteracion": "אַלְמָנֹ֑ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "de viudas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱ֝לֹהִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4583",
+      "hebreo": "מָעֹון",
+      "transliteracion": "מְעֹ֥ון",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "la morada"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6944",
+      "hebreo": "קֹדֶשׁ",
+      "transliteracion": "קָדְשֹֽׁו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su santidad"
+    }
+  ]
+}

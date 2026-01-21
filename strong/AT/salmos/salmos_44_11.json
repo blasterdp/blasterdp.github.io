@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 44:11 Reina Valera 1960",
+    "texto": "Nos entregas como ovejas al matadero, Y nos has esparcido entre las naciones."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "תִּ֭תְּנֵנוּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P1.U.PL",
+      "traduccion": "nos has entregado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6629",
+      "hebreo": "צֹאן",
+      "transliteracion": "צֹ֣אן",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "oveja"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3978",
+      "hebreo": "מַאֲכָל",
+      "transliteracion": "מַאֲכָ֑ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "destinada a se comida"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּויִ֗ם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "naciones"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2219",
+      "hebreo": "זרה",
+      "transliteracion": "זֵרִיתָֽנוּ׃",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG.PRS.P1.U.PL",
+      "traduccion": "nos has esparcido"
+    }
+  ]
+}

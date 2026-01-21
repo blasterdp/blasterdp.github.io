@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 74:11 Reina Valera 1960",
+    "texto": "¿Por qué retraes tu mano? ¿Por qué escondes tu diestra en tu seno?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4100",
+      "hebreo": "לָמָה",
+      "transliteracion": "לָ֤מָּה",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿por qué"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "תָשִׁ֣יב",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG",
+      "traduccion": "retraes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָ֭דְךָ",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu mano?"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וִֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3225",
+      "hebreo": "יָמִין",
+      "transliteracion": "ימִינֶ֑ךָ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu diestra"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7130",
+      "hebreo": "קֶרֶב",
+      "transliteracion": "קֶּ֖רֶב",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "dentro"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2436",
+      "hebreo": "חֵיק",
+      "transliteracion": "חֵֽיקְךָ֣",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu seno"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3615",
+      "hebreo": "כלה",
+      "transliteracion": "כַלֵּֽה׃",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG",
+      "traduccion": "destrúyelos"
+    }
+  ]
+}

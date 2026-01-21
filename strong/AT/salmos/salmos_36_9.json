@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 36:9 Reina Valera 1960",
+    "texto": "Porque contigo está el manantial de la vida; En tu luz veremos la luz."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִ֭מְּךָ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "contigo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4726",
+      "hebreo": "מָקֹור",
+      "transliteracion": "מְקֹ֣ור",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "fuente"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2416",
+      "hebreo": "חַיִּים",
+      "transliteracion": "חַיִּ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de vida"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "216",
+      "hebreo": "אֹור",
+      "transliteracion": "אֹורְךָ֗",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu luz"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "נִרְאֶה־",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.IMPF.P1.U.PL",
+      "traduccion": "vemos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "216",
+      "hebreo": "אֹור",
+      "transliteracion": "אֹֽור׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "luz"
+    }
+  ]
+}

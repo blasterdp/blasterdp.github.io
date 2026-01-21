@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 36:11 Reina Valera 1960",
+    "texto": "No venga pie de soberbia contra mí, Y mano de impíos no me mueva."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "תְּ֭בֹואֵנִי",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "me alcance"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7272",
+      "hebreo": "רֶגֶל",
+      "transliteracion": "רֶ֣גֶל",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "pie"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1346",
+      "hebreo": "גַּאֲוָה",
+      "transliteracion": "גַּאֲוָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de orgullo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יַד־",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "mano"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְ֝שָׁעִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de impíos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5110",
+      "hebreo": "נוד",
+      "transliteracion": "תְּנִדֵֽנִי׃",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "me empuje"
+    }
+  ]
+}

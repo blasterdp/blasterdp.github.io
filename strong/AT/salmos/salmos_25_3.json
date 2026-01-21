@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 25:3 Reina Valera 1960",
+    "texto": "Ciertamente ninguno de cuantos esperan en ti será confundido; Serán avergonzados los que se rebelan sin causa."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּ֣ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "de cierto"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6960",
+      "hebreo": "קוה",
+      "transliteracion": "קֹ֭וֶיךָ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "los que esperan en ti"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "954",
+      "hebreo": "בושׁ",
+      "transliteracion": "יֵבֹ֑שׁוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "serán avergonzados"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "954",
+      "hebreo": "בושׁ",
+      "transliteracion": "יֵ֝בֹ֗שׁוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "serán avergonzados"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "los"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "898",
+      "hebreo": "בגד",
+      "transliteracion": "בֹּוגְדִ֥ים",
+      "parsingLabel": "verbo qal participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.A",
+      "traduccion": "que traicionan"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7387",
+      "hebreo": "רֵיקָם",
+      "transliteracion": "רֵיקָֽם׃",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "sin causa"
+    }
+  ]
+}

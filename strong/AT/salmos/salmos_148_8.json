@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 148:8 Reina Valera 1960",
+    "texto": "El fuego y el granizo, la nieve y el vapor, El viento de tempestad que ejecuta su palabra;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "784",
+      "hebreo": "אֵשׁ",
+      "transliteracion": "אֵ֣שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "fuego"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1259",
+      "hebreo": "בָּרָד",
+      "transliteracion": "בָרָד",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "granizo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7950",
+      "hebreo": "שֶׁלֶג",
+      "transliteracion": "שֶׁ֣לֶג",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "nieve"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7008",
+      "hebreo": "קִיטֹור",
+      "transliteracion": "קִיטֹ֑ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "bruma"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֥וּחַ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "viento"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5591",
+      "hebreo": "סְעָרָה",
+      "transliteracion": "סְ֝עָרָ֗ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de tempestad"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עֹשָׂ֥ה",
+      "parsingLabel": "verbo qal participio desconocido femenino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.F.SG.A",
+      "traduccion": "que hace"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְבָרֹֽו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su plabra"
+    }
+  ]
+}

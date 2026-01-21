@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 82:6 Reina Valera 1960",
+    "texto": "Yo dije: Vosotros sois dioses, Y todos vosotros hijos del Altísimo;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲֽנִי־",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָ֭מַרְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "dije"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "dioses"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "859",
+      "hebreo": "אַתֶּם",
+      "transliteracion": "אַתֶּ֑ם",
+      "parsingLabel": "pronombre personal 2ª persona masculino plural",
+      "parsing": "PRPS.P2.M.PL",
+      "traduccion": "vosotros"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "e"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְנֵ֖י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5945",
+      "hebreo": "עֶלְיֹון",
+      "transliteracion": "עֶלְיֹ֣ון",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del Altísimo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֻּלְּכֶֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "todos vosotros"
+    }
+  ]
+}

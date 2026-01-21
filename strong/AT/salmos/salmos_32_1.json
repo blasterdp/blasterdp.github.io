@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 32:1 Reina Valera 1960",
+    "texto": "Bienaventurado aquel cuya transgresión ha sido perdonada, y cubierto su pecado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1732",
+      "hebreo": "דָּוִד",
+      "transliteracion": "דָוִ֗ד",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "David"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4905",
+      "hebreo": "מַשְׂכִּיל",
+      "transliteracion": "מַ֫שְׂכִּ֥יל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Maquil"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "835",
+      "hebreo": "אֶשֶׁר",
+      "transliteracion": "אַשְׁרֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "bienaventurados"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5375",
+      "hebreo": "נשׂא",
+      "transliteracion": "נְֽשׂוּי־",
+      "parsingLabel": "sustantivo qal participio (passive) desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCP.U.M.SG.C",
+      "traduccion": "a quien se ha perdonado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6588",
+      "hebreo": "פֶּשַׁע",
+      "transliteracion": "פֶּ֗שַׁע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de transgresión"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3680",
+      "hebreo": "כסה",
+      "transliteracion": "כְּס֣וּי",
+      "parsingLabel": "sustantivo qal participio (passive) desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCP.U.M.SG.C",
+      "traduccion": "a quien ha sido cubierto"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2401",
+      "hebreo": "חֲטָאָה",
+      "transliteracion": "חֲטָאָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de pecado"
+    }
+  ]
+}

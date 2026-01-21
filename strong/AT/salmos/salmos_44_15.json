@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 44:15 Reina Valera 1960",
+    "texto": "Cada día mi vergüenza está delante de mí, Y la confusión de mi rostro me cubre,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ֭",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹּום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3639",
+      "hebreo": "כְּלִמָּה",
+      "transliteracion": "כְּלִמָּתִ֣י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi confusión"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5048",
+      "hebreo": "נֶגֶד",
+      "transliteracion": "נֶגְדִּ֑י",
+      "parsingLabel": "preposición masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "ante mí"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1322",
+      "hebreo": "בֹּשֶׁת",
+      "transliteracion": "בֹ֖שֶׁת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "vergüenza"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָּנַ֣י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de mi rostro"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3680",
+      "hebreo": "כסה",
+      "transliteracion": "כִּסָּֽתְנִי׃",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "me ha cubierto"
+    }
+  ]
+}

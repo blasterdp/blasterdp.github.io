@@ -1,0 +1,26 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 20:13 Reina Valera 1960",
+    "texto": "No matarás."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥֖א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "No"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7523",
+      "hebreo": "רצח",
+      "transliteracion": "תִּֿרְצָֽ֖ח׃ ס",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "matarás"
+    }
+  ]
+}

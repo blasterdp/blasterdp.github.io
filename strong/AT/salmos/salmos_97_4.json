@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 97:4 Reina Valera 1960",
+    "texto": "Sus relámpagos alumbraron el mundo; La tierra vio y se estremeció."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "215",
+      "hebreo": "אור",
+      "transliteracion": "הֵאִ֣ירוּ",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.HIF.PERF.P3.U.PL",
+      "traduccion": "iluminaron"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1300",
+      "hebreo": "בָּרָק",
+      "transliteracion": "בְרָקָ֣יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus relámpagos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8398",
+      "hebreo": "תֵּבֵל",
+      "transliteracion": "תֵּבֵ֑ל",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "mundo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָאֲתָ֖ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "vio"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2342",
+      "hebreo": "חיל",
+      "transliteracion": "תָּחֵ֣ל",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona femenino singular",
+      "parsing": "VERB.QAL.WAYQ.P3.F.SG",
+      "traduccion": "se estremeció"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָֽרֶץ׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    }
+  ]
+}

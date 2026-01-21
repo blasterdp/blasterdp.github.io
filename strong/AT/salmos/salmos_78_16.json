@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:16 Reina Valera 1960",
+    "texto": "Pues sacó de la peña corrientes, E hizo descender aguas como ríos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "יֹּוצִ֣א",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG",
+      "traduccion": "hizo salir"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5140",
+      "hebreo": "נזל",
+      "transliteracion": "נֹוזְלִ֣ים",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "corrientes"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5553",
+      "hebreo": "סֶלַע",
+      "transliteracion": "סָּ֑לַע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "la peña"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "e"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3381",
+      "hebreo": "ירד",
+      "transliteracion": "יֹּ֖ורֶד",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG",
+      "traduccion": "hizo descender"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5104",
+      "hebreo": "נָהָר",
+      "transliteracion": "נְּהָרֹ֣ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "ríos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מָֽיִם׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas"
+    }
+  ]
+}

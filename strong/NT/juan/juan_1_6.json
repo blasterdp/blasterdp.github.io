@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Juan 1:6 Reina Valera 1960",
+    "texto": "Hubo un hombre enviado de Dios, el cual se llamaba Juan."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1096",
+      "texto": "Ἐγένετο",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Deponente Medio-Indicativo-3ª Persona-Singular",
+      "parsing": "V-2ADI-3S",
+      "traduccion": "Llegó a ser"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "444",
+      "texto": "ἄνθρωπος,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "649",
+      "texto": "ἀπεσταλμένος",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Pasivo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-RPP-NSM",
+      "traduccion": "habiendo sido enviado como emisario"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3844",
+      "texto": "παρὰ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "al lado de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2316",
+      "texto": "θεοῦ,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3686",
+      "texto": "ὄνομα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Neutro",
+      "parsing": "N-NSN",
+      "traduccion": "nombre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "846",
+      "texto": "αὐτῷ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Dativo-Singular-Masculino",
+      "parsing": "P-DSM",
+      "traduccion": "a él"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2491",
+      "texto": "Ἰωάννης·",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "Juan"
+    }
+  ]
+}

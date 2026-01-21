@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 90:14 Reina Valera 1960",
+    "texto": "De mañana sácianos de tu misericordia, Y cantaremos y nos alegraremos todos nuestros días."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7646",
+      "hebreo": "שׂבע",
+      "transliteracion": "שַׂבְּעֵ֣נוּ",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG.PRS.P1.U.PL",
+      "traduccion": "sácianos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1242",
+      "hebreo": "בֹּקֶר",
+      "transliteracion": "בֹּ֣קֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Mañana"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2617",
+      "hebreo": "חֶסֶד",
+      "transliteracion": "חַסְדֶּ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu misericordia"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "para que"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7442",
+      "hebreo": "רנן",
+      "transliteracion": "נְרַנְּנָ֥ה",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.PL",
+      "traduccion": "exultemos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8055",
+      "hebreo": "שׂמח",
+      "transliteracion": "נִשְׂמְחָ֗ה",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.IMPF.P1.U.PL",
+      "traduccion": "nos alegramos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יָמֵֽינוּ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestros días"
+    }
+  ]
+}

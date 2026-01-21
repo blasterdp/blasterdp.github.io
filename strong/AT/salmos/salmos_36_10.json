@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 36:10 Reina Valera 1960",
+    "texto": "Extiende tu misericordia a los que te conocen, Y tu justicia a los rectos de corazón."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4900",
+      "hebreo": "משׁך",
+      "transliteracion": "מְשֹׁ֣ךְ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "prolonga"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2617",
+      "hebreo": "חֶסֶד",
+      "transliteracion": "חַ֭סְדְּךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu misericordia"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יֹדְעֶ֑יךָ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "con los que te conocen"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6666",
+      "hebreo": "צְדָקָה",
+      "transliteracion": "צִדְקָֽתְךָ֗",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu justicia"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3477",
+      "hebreo": "יָשָׁר",
+      "transliteracion": "יִשְׁרֵי־",
+      "parsingLabel": "adjetivo masculino plural constructivo",
+      "parsing": "ADJV.M.PL.C",
+      "traduccion": "con los rectos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לֵֽב׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de corazón"
+    }
+  ]
+}

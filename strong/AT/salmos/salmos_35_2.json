@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 35:2 Reina Valera 1960",
+    "texto": "Echa mano al escudo y al pavés, Y levántate en mi ayuda."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2388",
+      "hebreo": "חזק",
+      "transliteracion": "הַחֲזֵ֣ק",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "embraza"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4043",
+      "hebreo": "מָגֵן",
+      "transliteracion": "מָגֵ֣ן",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "escudo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6793",
+      "hebreo": "צִנָּה",
+      "transliteracion": "צִנָּ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "pavés"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "ק֗וּמָה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "levántate"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5833",
+      "hebreo": "עֶזְרָה",
+      "transliteracion": "עֶזְרָתִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi ayuda"
+    }
+  ]
+}

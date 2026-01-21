@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 37:24 Reina Valera 1960",
+    "texto": "Cuando el hombre cayere, no quedará postrado, Porque Jehová sostiene su mano."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "aunque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "יִפֹּ֥ל",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "caiga"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2904",
+      "hebreo": "טול",
+      "transliteracion": "יוּטָ֑ל",
+      "parsingLabel": "verbo hof‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HOF.IMPF.P3.M.SG",
+      "traduccion": "quedará postrado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֝הוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5564",
+      "hebreo": "סמך",
+      "transliteracion": "סֹומֵ֥ךְ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "sostiene"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדֹֽו׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su mano"
+    }
+  ]
+}

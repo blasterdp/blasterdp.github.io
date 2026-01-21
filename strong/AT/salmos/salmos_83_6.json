@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 83:6 Reina Valera 1960",
+    "texto": "Las tiendas de los edomitas y de los ismaelitas, Moab y los agarenos;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "168",
+      "hebreo": "אֹהֶל",
+      "transliteracion": "אָהֳלֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "tiendas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "123",
+      "hebreo": "אֱדֹום",
+      "transliteracion": "אֱ֭דֹום",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Edom"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3459",
+      "hebreo": "יִשְׁמְעֵאלִי",
+      "transliteracion": "יִשְׁמְעֵאלִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de ismaelitas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4124",
+      "hebreo": "מֹואָב",
+      "transliteracion": "מֹואָ֥ב",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Moab"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1905",
+      "hebreo": "הַגְרִי",
+      "transliteracion": "הַגְרִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de hagaritas"
+    }
+  ]
+}

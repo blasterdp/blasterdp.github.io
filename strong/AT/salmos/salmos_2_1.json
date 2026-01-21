@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 2:1 Reina Valera 1960",
+    "texto": "¿Por qué se amotinan las gentes, Y los pueblos piensan cosas vanas?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4100",
+      "hebreo": "לָמָה",
+      "transliteracion": "לָ֭מָּה",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿por qué"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7283",
+      "hebreo": "רגשׁ",
+      "transliteracion": "רָגְשׁ֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se amotinan"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹויִ֑ם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "gentes"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3816",
+      "hebreo": "לְאֹם",
+      "transliteracion": "לְאֻמִּ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "pueblos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1897",
+      "hebreo": "הגה",
+      "transliteracion": "יֶהְגּוּ־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "traman"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7385",
+      "hebreo": "רִיק",
+      "transliteracion": "רִֽיק׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "lo vano?"
+    }
+  ]
+}

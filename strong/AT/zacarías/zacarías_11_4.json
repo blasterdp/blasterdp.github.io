@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Zacarías 11:4 Reina Valera 1960",
+    "texto": "Así ha dicho Jehová mi Dios: Apacienta las ovejas de la matanza,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3541",
+      "hebreo": "כֹּה",
+      "transliteracion": "כֹּ֥ה",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "Así"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָמַ֖ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "dice"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהָ֑י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": ":mi Dios"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7462",
+      "hebreo": "רעה",
+      "transliteracion": "רְעֵ֖ה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "Pastorea"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6629",
+      "hebreo": "צֹאן",
+      "transliteracion": "צֹ֥אן",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "ovejas de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2028",
+      "hebreo": "הֲרֵגָה",
+      "transliteracion": "הֲרֵגָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "matanza"
+    }
+  ]
+}

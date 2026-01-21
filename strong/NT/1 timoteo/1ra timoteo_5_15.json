@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "1ra Timoteo 5:15 Reina Valera 1960",
+    "texto": "Porque ya algunas se han apartado en pos de Satanás."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2235",
+      "texto": "ἤδη",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "ya"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1063",
+      "texto": "γάρ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5100",
+      "texto": "τινες",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Infinitivo-Nominativo-Plural-Masculino",
+      "parsing": "X-NPM",
+      "traduccion": "algunas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1624",
+      "texto": "ἐξετράπησαν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Pasivo-Indicativo-3ª Persona-Plural",
+      "parsing": "V-2API-3P",
+      "traduccion": "fueron giradas hacia afuera"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3694",
+      "texto": "ὀπίσω",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "detrás de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4567",
+      "texto": "σατανᾶ.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "Adversario"
+    }
+  ]
+}

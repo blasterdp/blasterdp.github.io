@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 14:6 Reina Valera 1960",
+    "texto": "Del consejo del pobre se han burlado, Pero Jehová es su esperanza."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6098",
+      "hebreo": "עֵצָה",
+      "transliteracion": "עֲצַת־",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "consejo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6041",
+      "hebreo": "עָנִי",
+      "transliteracion": "עָנִ֥י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del pobre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "954",
+      "hebreo": "בושׁ",
+      "transliteracion": "תָבִ֑ישׁוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P2.M.PL",
+      "traduccion": "os burlaríais"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֖י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4268",
+      "hebreo": "מַחְסֶה",
+      "transliteracion": "מַחְסֵֽהוּ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su refugio"
+    }
+  ]
+}

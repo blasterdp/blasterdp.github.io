@@ -1,0 +1,44 @@
+{
+  "versiculo": {
+    "referencia": "Mateo 11:15 Reina Valera 1960",
+    "texto": "El que tiene oídos para oír, oiga."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "El"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2192",
+      "texto": "ἔχων",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-PAP-NSM",
+      "traduccion": "teniendo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3775",
+      "texto": "ὦτα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Plural-Neutro",
+      "parsing": "N-APN",
+      "traduccion": "oídos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "191",
+      "texto": "ἀκουέτω.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Imperativo-3ª Persona-Singular",
+      "parsing": "V-PAM-3S",
+      "traduccion": "esté oyendo"
+    }
+  ]
+}

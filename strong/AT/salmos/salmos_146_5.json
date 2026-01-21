@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 146:5 Reina Valera 1960",
+    "texto": "Bienaventurado aquel cuyo ayudador es el Dios de Jacob, Cuya esperanza está en Jehová su Dios,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "835",
+      "hebreo": "אֶשֶׁר",
+      "transliteracion": "אַשְׁרֵ֗י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "bienaventurados"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7945",
+      "hebreo": "שַׁ",
+      "transliteracion": "שֶׁ֤",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "de quien a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "410",
+      "hebreo": "אֵל",
+      "transliteracion": "אֵ֣ל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3290",
+      "hebreo": "יַעֲקֹב",
+      "transliteracion": "יַעֲקֹ֣ב",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "de Jacob"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5828",
+      "hebreo": "עֵזֶר",
+      "transliteracion": "עֶזְרֹ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su ayuda"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7664",
+      "hebreo": "שֵׂבֶר",
+      "transliteracion": "שִׂ֝בְרֹ֗ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su esperanza"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֥ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהָֽיו׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "su Dios"
+    }
+  ]
+}

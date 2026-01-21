@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Juan 6:18 Reina Valera 1960",
+    "texto": "Y se levantaba el mar con un gran viento que soplaba."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "texto": "ἥ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Femenino",
+      "parsing": "T-NSF",
+      "traduccion": "El"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5037",
+      "texto": "τε",
+      "transliteracion": "",
+      "parsingLabel": "Partícula",
+      "parsing": "PRT",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2281",
+      "texto": "θάλασσα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "mar"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "417",
+      "texto": "ἀνέμου",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "viento"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3173",
+      "texto": "μεγάλου",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Genitivo-Singular-Masculino",
+      "parsing": "A-GSM",
+      "traduccion": "grande"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4154",
+      "texto": "πνέοντος",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Genitivo-Singular-Masculino",
+      "parsing": "V-PAP-GSM",
+      "traduccion": "soplando"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1326",
+      "texto": "διεγείρετο.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Imperfecto-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-IPI-3S",
+      "traduccion": "está siendo levantado a través"
+    }
+  ]
+}

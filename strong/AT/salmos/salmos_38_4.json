@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 38:4 Reina Valera 1960",
+    "texto": "Porque mis iniquidades se han agravado sobre mi cabeza; Como carga pesada se han agravado sobre mí."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5771",
+      "hebreo": "עָוֹן",
+      "transliteracion": "עֲ֭וֹנֹתַי",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis iniquidades"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "עָבְר֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "han sobrepasado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7218",
+      "hebreo": "רֹאשׁ",
+      "transliteracion": "רֹאשִׁ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi cabeza"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4853",
+      "hebreo": "מַשָּׂא",
+      "transliteracion": "מַשָּׂ֥א",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "carga"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3515",
+      "hebreo": "כָּבֵד",
+      "transliteracion": "כָ֝בֵ֗ד",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "pesada"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3513",
+      "hebreo": "כבד",
+      "transliteracion": "יִכְבְּד֥וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "pesan demasiado"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִמֶּֽנִּי׃",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "para mí"
+    }
+  ]
+}

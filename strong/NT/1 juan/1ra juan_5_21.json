@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "1ra Juan 5:21 Reina Valera 1960",
+    "texto": "Hijitos, guardaos de los ídolos. Amén."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5040",
+      "texto": "Τεκνία,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Vocativo-Plural-Neutro",
+      "parsing": "N-VPN",
+      "traduccion": "Hijitos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5442",
+      "texto": "φυλάξατε",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Activo-Imperativo-2ª Persona-Plural",
+      "parsing": "V-AAM-2P",
+      "traduccion": "guarden"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1438",
+      "texto": "ἑαυτὰ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Reflexivo-2ª Persona-Acusativo-Plural-Neutro",
+      "parsing": "F-2APN",
+      "traduccion": "a ustedes mismos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "575",
+      "texto": "ἀπὸ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "texto": "τῶν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Plural-Neutro",
+      "parsing": "T-GPN",
+      "traduccion": "los"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1497",
+      "texto": "εἰδώλων.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Plural-Neutro",
+      "parsing": "N-GPN",
+      "traduccion": "ídolos"
+    }
+  ]
+}

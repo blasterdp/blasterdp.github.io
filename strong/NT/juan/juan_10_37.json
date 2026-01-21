@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Juan 10:37 Reina Valera 1960",
+    "texto": "Si no hago las obras de mi Padre, no me creáis."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1487",
+      "texto": "εἰ",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3756",
+      "texto": "οὐ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4160",
+      "texto": "ποιῶ",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-1ª Persona-Singular",
+      "parsing": "V-PAI-1S",
+      "traduccion": "estoy haciendo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "texto": "τὰ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Plural-Neutro",
+      "parsing": "T-APN",
+      "traduccion": "las"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2041",
+      "texto": "ἔργα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Plural-Neutro",
+      "parsing": "N-APN",
+      "traduccion": "obras"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "de el"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3962",
+      "texto": "πατρός",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "Padre"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1473",
+      "texto": "μου,",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Genitivo-Singular",
+      "parsing": "P-1GS",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3361",
+      "texto": "μὴ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4100",
+      "texto": "πιστεύετέ",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Imperativo-2ª Persona-Plural",
+      "parsing": "V-PAM-2P",
+      "traduccion": "estén creyendo"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1473",
+      "texto": "μοι·",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Dativo-Singular",
+      "parsing": "P-1DS",
+      "traduccion": "a mí"
+    }
+  ]
+}

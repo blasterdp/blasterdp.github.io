@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Juan 6:59 Reina Valera 1960",
+    "texto": "Estas cosas dijo en la sinagoga, enseñando en Capernaum."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3778",
+      "texto": "ταῦτα",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Demostrativo-Acusativo-Plural-Neutro",
+      "parsing": "D-APN",
+      "traduccion": "Estas (cosas)"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3004",
+      "texto": "εἶπεν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-2AAI-3S",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1722",
+      "texto": "ἐν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4864",
+      "texto": "συναγωγῇ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Femenino",
+      "parsing": "N-DSF",
+      "traduccion": "reunión pública"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1321",
+      "texto": "διδάσκων",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-PAP-NSM",
+      "traduccion": "enseñando"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1722",
+      "texto": "ἐν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2584",
+      "texto": "Καφαρναούμ.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Apropiado",
+      "parsing": "N-PRI",
+      "traduccion": "Capernaum"
+    }
+  ]
+}

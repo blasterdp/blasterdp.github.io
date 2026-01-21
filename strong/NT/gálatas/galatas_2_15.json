@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Galatas 2:15 Reina Valera 1960",
+    "texto": "Nosotros, judíos de nacimiento, y no pecadores de entre los gentiles,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2249",
+      "texto": "ἡμεῖς",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Nominativo-Plural",
+      "parsing": "P-1NP",
+      "traduccion": "Nosotros"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5449",
+      "texto": "φύσει",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Femenino",
+      "parsing": "N-DSF",
+      "traduccion": "a naturaleza"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2453",
+      "texto": "Ἰουδαῖοι",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino",
+      "parsing": "A-NPM",
+      "traduccion": "judíos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3756",
+      "texto": "οὐκ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1537",
+      "texto": "ἐξ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "procedente de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1484",
+      "texto": "ἐθνῶν",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Plural-Neutro",
+      "parsing": "N-GPN",
+      "traduccion": "naciones"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "268",
+      "texto": "ἁμαρτωλοί,",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino",
+      "parsing": "A-NPM",
+      "traduccion": "pecadores"
+    }
+  ]
+}

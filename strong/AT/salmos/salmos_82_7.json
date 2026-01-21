@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 82:7 Reina Valera 1960",
+    "texto": "Pero como hombres moriréis, Y como cualquiera de los príncipes caeréis."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "403",
+      "hebreo": "אָכֵן",
+      "transliteracion": "אָ֭כֵן",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "sin embargo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָדָ֣ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombres"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "תְּמוּת֑וּן",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.PL",
+      "traduccion": "moriréis"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "259",
+      "hebreo": "אֶחָד",
+      "transliteracion": "אַחַ֖ד",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "uno de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8269",
+      "hebreo": "שַׂר",
+      "transliteracion": "שָּׂרִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "príncipes"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "תִּפֹּֽלוּ׃",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.PL",
+      "traduccion": "caeréis"
+    }
+  ]
+}

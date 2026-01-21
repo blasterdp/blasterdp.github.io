@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 51:14 Reina Valera 1960",
+    "texto": "Líbrame de homicidios, oh Dios, Dios de mi salvación; Cantará mi lengua tu justicia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "הַצִּ֘ילֵ֤נִי",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "líbrame"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1818",
+      "hebreo": "דָּם",
+      "transliteracion": "דָּמִ֨ים׀",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "delitos de sangres"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱֽלֹהִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8668",
+      "hebreo": "תְּשׁוּעָה",
+      "transliteracion": "תְּשׁוּעָתִ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "de mi salvación"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7442",
+      "hebreo": "רנן",
+      "transliteracion": "תְּרַנֵּ֥ן",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG",
+      "traduccion": "cantará"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3956",
+      "hebreo": "לָשֹׁון",
+      "transliteracion": "לְשֹׁונִ֗י",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi lengua"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6666",
+      "hebreo": "צְדָקָה",
+      "transliteracion": "צִדְקָתֶֽךָ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu justicia"
+    }
+  ]
+}

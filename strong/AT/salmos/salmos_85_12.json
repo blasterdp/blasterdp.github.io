@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 85:12 Reina Valera 1960",
+    "texto": "Jehová dará también el bien, Y nuestra tierra dará su fruto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "ciertamente"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "יִתֵּ֣ן",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "dará"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "lo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2896",
+      "hebreo": "טֹוב",
+      "transliteracion": "טֹּ֑וב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "bueno"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אַרְצֵ֗נוּ",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.PL",
+      "traduccion": "nuestra tierra"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "תִּתֵּ֥ן",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "dará"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2981",
+      "hebreo": "יְבוּל",
+      "transliteracion": "יְבוּלָֽהּ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "su producto"
+    }
+  ]
+}

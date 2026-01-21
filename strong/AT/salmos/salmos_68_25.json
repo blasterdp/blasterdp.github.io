@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 68:25 Reina Valera 1960",
+    "texto": "Los cantores iban delante, los músicos detrás; En medio las doncellas con panderos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6923",
+      "hebreo": "קדם",
+      "transliteracion": "קִדְּמ֣וּ",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL",
+      "traduccion": "iban delante"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7891",
+      "hebreo": "שׁיר",
+      "transliteracion": "שָׁ֭רִים",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "los cantores"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "310",
+      "hebreo": "אַחַר",
+      "transliteracion": "אַחַ֣ר",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "detrás"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5059",
+      "hebreo": "נגן",
+      "transliteracion": "נֹגְנִ֑ים",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "los músicos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8432",
+      "hebreo": "תָּוֶךְ",
+      "transliteracion": "תֹ֥וךְ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "medio"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5959",
+      "hebreo": "עַלְמָה",
+      "transliteracion": "עֲ֝לָמֹ֗ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "doncellas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8608",
+      "hebreo": "תפף",
+      "transliteracion": "תֹּופֵפֹֽות׃",
+      "parsingLabel": "adjetivo qal participio desconocido femenino plural absoluto",
+      "parsing": "ADJV.QAL.PTCA.U.F.PL.A",
+      "traduccion": "tocando panderos"
+    }
+  ]
+}

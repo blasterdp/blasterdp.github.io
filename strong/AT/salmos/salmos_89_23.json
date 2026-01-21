@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 89:23 Reina Valera 1960",
+    "texto": "Sino que quebrantaré delante de él a sus enemigos, Y heriré a los que le aborrecen."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "sino"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3807",
+      "hebreo": "כתת",
+      "transliteracion": "כַתֹּותִ֣י",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "que aplastaré"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָּנָ֣יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "delante de él"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6862",
+      "hebreo": "צַר",
+      "transliteracion": "צָרָ֑יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "a sus adversarios"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "מְשַׂנְאָ֥יו",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "a los que le odian"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5062",
+      "hebreo": "נגף",
+      "transliteracion": "אֶגֹּֽוף׃",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "heriré"
+    }
+  ]
+}

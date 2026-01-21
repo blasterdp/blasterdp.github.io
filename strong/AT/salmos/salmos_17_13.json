@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 17:13 Reina Valera 1960",
+    "texto": "Levántate, oh Jehová; Sal a su encuentro, póstrales; Libra mi alma de los malos con tu espada,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "קוּמָ֤ה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "levántate"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6923",
+      "hebreo": "קדם",
+      "transliteracion": "קַדְּמָ֣ה",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG",
+      "traduccion": "ve al encuentro"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָ֭נָיו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "de su rostro"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3766",
+      "hebreo": "כרע",
+      "transliteracion": "הַכְרִיעֵ֑הוּ",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "abátelo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6403",
+      "hebreo": "פלט",
+      "transliteracion": "פַּלְּטָ֥ה",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG",
+      "traduccion": "libra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַ֝פְשִׁ֗י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi alma"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רָשָׁ֥ע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "impío"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2719",
+      "hebreo": "חֶרֶב",
+      "transliteracion": "חַרְבֶּֽךָ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "con tu espada"
+    }
+  ]
+}

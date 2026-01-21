@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 84:12 Reina Valera 1960",
+    "texto": "Jehová de los ejércitos, Dichoso el hombre que en ti confía."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֥ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6635",
+      "hebreo": "צָבָא",
+      "transliteracion": "צְבָאֹ֑ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "De los ejércitos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "835",
+      "hebreo": "אֶשֶׁר",
+      "transliteracion": "אַֽשְׁרֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "bienaventurados"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָ֝דָ֗ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "982",
+      "hebreo": "בטח",
+      "transliteracion": "בֹּטֵ֥חַ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "que confía"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּֽךְ׃",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "en ti"
+    }
+  ]
+}

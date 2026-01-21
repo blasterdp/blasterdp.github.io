@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 86:4 Reina Valera 1960",
+    "texto": "Alegra el alma de tu siervo, Porque a ti, oh Señor, levanto mi alma."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8055",
+      "hebreo": "שׂמח",
+      "transliteracion": "שַׂ֭מֵּחַ",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG",
+      "traduccion": "alegra"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נֶ֣פֶשׁ",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "alma"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עַבְדֶּ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu siervo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֥י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֵלֶ֥יךָ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "a ti"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "136",
+      "hebreo": "אֲדֹנָי",
+      "transliteracion": "אֲ֝דֹנָ֗י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Señor"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשִׁ֥י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi alma"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5375",
+      "hebreo": "נשׂא",
+      "transliteracion": "אֶשָּֽׂא׃",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "elevo"
+    }
+  ]
+}

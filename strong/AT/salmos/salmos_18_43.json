@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 18:43 Reina Valera 1960",
+    "texto": "Me has librado de las contiendas del pueblo; Me has hecho cabeza de las naciones; Pueblo que yo no conocía me sirvió."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6403",
+      "hebreo": "פלט",
+      "transliteracion": "תְּפַלְּטֵנִי֮",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me has librado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7379",
+      "hebreo": "רִיב",
+      "transliteracion": "רִ֪יבֵ֫י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "las contiendas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עָ֥ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del pueblo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7760",
+      "hebreo": "שׂים",
+      "transliteracion": "תְּ֭שִׂימֵנִי",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me has puesto"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7218",
+      "hebreo": "רֹאשׁ",
+      "transliteracion": "רֹ֣אשׁ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "cabeza"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּויִ֑ם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de naciones"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pueblo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָדַ֣עְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "conocía"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5647",
+      "hebreo": "עבד",
+      "transliteracion": "יַֽעַבְדֽוּנִי׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERB.QAL.IMPF.P3.M.PL.PRS.P1.U.SG",
+      "traduccion": "me sirven"
+    }
+  ]
+}

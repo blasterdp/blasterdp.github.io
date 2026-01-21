@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 73:3 Reina Valera 1960",
+    "texto": "Porque tuve envidia de los arrogantes, Viendo la prosperidad de los impíos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7065",
+      "hebreo": "קנא",
+      "transliteracion": "קִ֭נֵּאתִי",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P1.U.SG",
+      "traduccion": "tuve envidia"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "הֹולְלִ֑ים",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "arrogantes"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7965",
+      "hebreo": "שָׁלֹום",
+      "transliteracion": "שְׁלֹ֖ום",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "prosperidad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de impíos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "אֶרְאֶֽה׃",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "vi"
+    }
+  ]
+}

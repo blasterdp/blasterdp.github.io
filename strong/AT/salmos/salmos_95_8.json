@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 95:8 Reina Valera 1960",
+    "texto": "No endurezcáis vuestro corazón, como en Meriba, Como en el día de Masah en el desierto,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7185",
+      "hebreo": "קשׁה",
+      "transliteracion": "תַּקְשׁ֣וּ",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P2.M.PL",
+      "traduccion": "endurezcáis"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3824",
+      "hebreo": "לֵבָב",
+      "transliteracion": "לְ֭בַבְכֶם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestro corazón"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4809",
+      "hebreo": "מְרִיבָה",
+      "transliteracion": "מְרִיבָ֑ה",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Meriba"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹ֥ום",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "el día"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4532",
+      "hebreo": "מַסָּה",
+      "transliteracion": "מַ֝סָּ֗ה",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Masah"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4057",
+      "hebreo": "מִדְבָּר",
+      "transliteracion": "מִּדְבָּֽר׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Desierto"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 95:9 Reina Valera 1960",
+    "texto": "Donde me tentaron vuestros padres, Me probaron, y vieron mis obras."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5254",
+      "hebreo": "נסה",
+      "transliteracion": "נִ֭סּוּנִי",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me tentaron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אֲבֹותֵיכֶ֑ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.PL",
+      "traduccion": "vuestros padres"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "974",
+      "hebreo": "בחן",
+      "transliteracion": "בְּ֝חָנ֗וּנִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me pusieron a prueba"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "aunque"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָא֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "habían visto"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6467",
+      "hebreo": "פֹּעַל",
+      "transliteracion": "פָעֳלִֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi obra"
+    }
+  ]
+}

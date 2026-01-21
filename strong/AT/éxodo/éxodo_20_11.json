@@ -1,0 +1,332 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 20:11 Reina Valera 1960",
+    "texto": "Porque en seis días hizo Jehová los cielos y la tierra, el mar, y todas las cosas que en ellos hay, y reposó en el séptimo día; por tanto, Jehová bendijo el día de reposo y lo santificó."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8337",
+      "hebreo": "שֵׁשׁ",
+      "transliteracion": "שֵֽׁשֶׁת־",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "seis"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יָמִים֩",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "días"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עָשָׂ֨ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "hizo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֜ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8064",
+      "hebreo": "שָׁמַיִם",
+      "transliteracion": "שָּׁמַ֣יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cielos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָ֗רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "3220",
+      "hebreo": "יָם",
+      "transliteracion": "יָּם֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mar"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "lo que"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ֔ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "en ellos"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "5117",
+      "hebreo": "נוח",
+      "transliteracion": "יָּ֖נַח",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "descansó"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹּ֣ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "7637",
+      "hebreo": "שְׁבִיעִי",
+      "transliteracion": "שְּׁבִיעִ֑י",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "séptimo"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "3651",
+      "hebreo": "כֵּן",
+      "transliteracion": "כֵּ֗ן",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "eso"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "בֵּרַ֧ךְ",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "bendijo"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֛ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹ֥ום",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "día de"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "7676",
+      "hebreo": "שַׁבָּת",
+      "transliteracion": "שַּׁבָּ֖ת",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "sábado"
+    },
+    {
+      "numero": 35,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 36,
+      "strongNumber": "6942",
+      "hebreo": "קדשׁ",
+      "transliteracion": "יְקַדְּשֵֽׁהוּ׃ ס",
+      "parsingLabel": "verbo pi“el wayyiqtol 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.WAYQ.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "lo santificó"
+    }
+  ]
+}

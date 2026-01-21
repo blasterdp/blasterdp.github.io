@@ -1,0 +1,161 @@
+{
+  "versiculo": {
+    "referencia": "Zacarías 9:16 Reina Valera 1960",
+    "texto": "Y los salvará en aquel día Jehová su Dios como rebaño de su pueblo; porque como piedras de diadema serán enaltecidos en su tierra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3467",
+      "hebreo": "ישׁע",
+      "transliteracion": "הֹושִׁיעָ֞ם",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los salvará"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֧ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֵיהֶ֛ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "Dios de ellos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹּ֥ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "el día"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֖וּא",
+      "parsingLabel": "demonstrative pronombre 3ª persona masculino singular",
+      "parsing": "PRDE.P3.M.SG",
+      "traduccion": "aquel"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6629",
+      "hebreo": "צֹאן",
+      "transliteracion": "צֹ֣אן",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "rebaño de"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמֹּ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su pueblo"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֚י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "68",
+      "hebreo": "אֶבֶן",
+      "transliteracion": "אַבְנֵי־",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "piedras de"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "5145",
+      "hebreo": "נֵזֶר",
+      "transliteracion": "נֵ֔זֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "corona"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "5263",
+      "hebreo": "נסס",
+      "transliteracion": "מִֽתְנֹוסְסֹ֖ות",
+      "parsingLabel": "verbo hitpa“el participio desconocido femenino plural absoluto",
+      "parsing": "VERBO.HIT.PTCA.U.F.PL.A",
+      "traduccion": "relucientes"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "127",
+      "hebreo": "אֲדָמָה",
+      "transliteracion": "אַדְמָתֹֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su tierra"
+    }
+  ]
+}

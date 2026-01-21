@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 18:46 Reina Valera 1960",
+    "texto": "Viva Jehová, y bendita sea mi roca, Y enaltecido sea el Dios de mi salvación;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2416",
+      "hebreo": "חַי",
+      "transliteracion": "חַי־",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "vive"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "בָר֣וּךְ",
+      "parsingLabel": "verbo qal participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.M.SG.A",
+      "traduccion": "bendita sea"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6697",
+      "hebreo": "צוּר",
+      "transliteracion": "צוּרִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi roca"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7311",
+      "hebreo": "רום",
+      "transliteracion": "יָר֗וּם",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "sea exaltado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹוהֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3468",
+      "hebreo": "יֵשַׁע",
+      "transliteracion": "יִשְׁעִֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "de mi salvación"
+    }
+  ]
+}

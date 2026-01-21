@@ -1,0 +1,152 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 6:5 Reina Valera 1960",
+    "texto": "Asimismo yo he oído el gemido de los hijos de Israel, a quienes hacen servir los egipcios, y me he acordado de mi pacto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַ֣ם׀",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "también"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲנִ֣י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שָׁמַ֗עְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "escuché"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶֽת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5009",
+      "hebreo": "נְאָקָה",
+      "transliteracion": "נַאֲקַת֙",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "gemido de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵ֔ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֥ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4714",
+      "hebreo": "מִצְרַיִם",
+      "transliteracion": "מִצְרַ֖יִם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "egipcios"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5647",
+      "hebreo": "עבד",
+      "transliteracion": "מַעֲבִדִ֣ים",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino plural absoluto",
+      "parsing": "VERB.HIF.PTCA.U.M.PL.A",
+      "traduccion": "esclavizan"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֹתָ֑ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "a ellos"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "2142",
+      "hebreo": "זכר",
+      "transliteracion": "אֶזְכֹּ֖ר",
+      "parsingLabel": "verbo qal wayyiqtol 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.WAYQ.P1.U.SG",
+      "traduccion": "recordé"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "1285",
+      "hebreo": "בְּרִית",
+      "transliteracion": "בְּרִיתִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi pacto"
+    }
+  ]
+}

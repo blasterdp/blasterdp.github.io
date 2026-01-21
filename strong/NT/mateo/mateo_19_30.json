@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Mateo 19:30 Reina Valera 1960",
+    "texto": "Pero muchos primeros serán postreros, y postreros, primeros."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4183",
+      "texto": "πολλοὶ",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino",
+      "parsing": "A-NPM",
+      "traduccion": "Muchos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1161",
+      "texto": "δὲ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1510",
+      "texto": "ἔσονται",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Futuro-Deponente Medio-Indicativo-3ª Persona-Plural",
+      "parsing": "V-FDI-3P",
+      "traduccion": "serán"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4413",
+      "texto": "πρῶτοι",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino-Superlativo",
+      "parsing": "A-NPM-S",
+      "traduccion": "primeros"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2078",
+      "texto": "ἔσχατοι",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino-Superlativo",
+      "parsing": "A-NPM-S",
+      "traduccion": "últimos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2078",
+      "texto": "ἔσχατοι",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino-Superlativo",
+      "parsing": "A-NPM-S",
+      "traduccion": "últimos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4413",
+      "texto": "πρῶτοι.",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino-Superlativo",
+      "parsing": "A-NPM-S",
+      "traduccion": "primeros"
+    }
+  ]
+}

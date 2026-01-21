@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 69:12 Reina Valera 1960",
+    "texto": "Hablaban contra mí los que se sentaban a la puerta, Y me zaherían en sus canciones los bebedores."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7878",
+      "hebreo": "שׂיח",
+      "transliteracion": "יָשִׂ֣יחוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "hablan"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִ֭י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3427",
+      "hebreo": "ישׁב",
+      "transliteracion": "יֹ֣שְׁבֵי",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "los que se sientan"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8179",
+      "hebreo": "שַׁעַר",
+      "transliteracion": "שָׁ֑עַר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "a puerta"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5058",
+      "hebreo": "נְגִינָה",
+      "transliteracion": "נְגִינֹ֗ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "canciones"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8354",
+      "hebreo": "שׁתה",
+      "transliteracion": "שֹׁותֵ֥י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "de los que beben"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7941",
+      "hebreo": "שֵׁכָר",
+      "transliteracion": "שֵׁכָֽר׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "licor fuerte"
+    }
+  ]
+}

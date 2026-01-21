@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Marcos 4:23 Reina Valera 1960",
+    "texto": "Si alguno tiene oídos para oír, oiga."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1487",
+      "texto": "εἴ",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5100",
+      "texto": "τις",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Infinitivo-Nominativo-Singular-Masculino",
+      "parsing": "X-NSM",
+      "traduccion": "alguien"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2192",
+      "texto": "ἔχει",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está teniendo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3775",
+      "texto": "ὦτα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Plural-Neutro",
+      "parsing": "N-APN",
+      "traduccion": "oídos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "191",
+      "texto": "ἀκούειν,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Infinitivo",
+      "parsing": "V-PAN",
+      "traduccion": "estar oyendo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "191",
+      "texto": "ἀκουέτω.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Imperativo-3ª Persona-Singular",
+      "parsing": "V-PAM-3S",
+      "traduccion": "esté oyendo"
+    }
+  ]
+}

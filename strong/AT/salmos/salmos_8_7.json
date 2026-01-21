@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 8:7 Reina Valera 1960",
+    "texto": "Ovejas y bueyes, todo ello, Y asimismo las bestias del campo,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6792",
+      "hebreo": "צֹנֶה",
+      "transliteracion": "צֹנֶ֣ה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "ovejas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "504",
+      "hebreo": "אֶלֶף",
+      "transliteracion": "אֲלָפִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "bueyes"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֻּלָּ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "todos ellos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַ֗ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "también"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "929",
+      "hebreo": "בְּהֵמָה",
+      "transliteracion": "בַּהֲמֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "bestias"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7704",
+      "hebreo": "שָׂדַי",
+      "transliteracion": "שָׂדָֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del campo"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 38:7 Reina Valera 1960",
+    "texto": "Porque mis lomos están llenos de ardor, Y nada hay sano en mi carne."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3689",
+      "hebreo": "כֶּסֶל",
+      "transliteracion": "כְ֭סָלַי",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis lomos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4390",
+      "hebreo": "מלא",
+      "transliteracion": "מָלְא֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "están llenos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7033",
+      "hebreo": "קלה",
+      "transliteracion": "נִקְלֶ֑ה",
+      "parsingLabel": "sustantivo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.NIF.PTCA.U.M.SG.A",
+      "traduccion": "de inflamación"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵ֥ין",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "no hay"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4974",
+      "hebreo": "מְתֹם",
+      "transliteracion": "מְ֝תֹ֗ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "sanidad"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1320",
+      "hebreo": "בָּשָׂר",
+      "transliteracion": "בְשָׂרִֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi carne"
+    }
+  ]
+}

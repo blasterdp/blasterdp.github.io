@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 48:12 Reina Valera 1960",
+    "texto": "Andad alrededor de Sion, y rodeadla; Contad sus torres."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5437",
+      "hebreo": "סבב",
+      "transliteracion": "סֹ֣בּוּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "andad por"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6726",
+      "hebreo": "צִיֹּון",
+      "transliteracion": "צִ֭יֹּון",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Sión"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "e"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5362",
+      "hebreo": "נקף",
+      "transliteracion": "הַקִּיפ֑וּהָ",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino plural pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.PL.PRS.P3.F.SG",
+      "traduccion": "id en derredor de ella"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5608",
+      "hebreo": "ספר",
+      "transliteracion": "סִ֝פְר֗וּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "contad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4026",
+      "hebreo": "מִגְדָּל",
+      "transliteracion": "מִגְדָּלֶֽיהָ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus torres"
+    }
+  ]
+}

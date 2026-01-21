@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Juan 11:12 Reina Valera 1960",
+    "texto": "Dijeron entonces sus discípulos: Señor, si duerme, sanará."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3004",
+      "texto": "εἶπον",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Indicativo-3ª Persona-Plural",
+      "parsing": "V-2AAI-3P",
+      "traduccion": "Dijeron"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3767",
+      "texto": "οὖν",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "por lo tanto"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "846",
+      "texto": "αὐτῷ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Dativo-Singular-Masculino",
+      "parsing": "P-DSM",
+      "traduccion": "a él"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "texto": "οἱ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Plural-Masculino",
+      "parsing": "T-NPM",
+      "traduccion": "los"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3101",
+      "texto": "μαθηταὶ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Plural-Masculino",
+      "parsing": "N-NPM",
+      "traduccion": "discípulos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2962",
+      "texto": "κύριε,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Vocativo-Singular-Masculino",
+      "parsing": "N-VSM",
+      "traduccion": "Señor"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1487",
+      "texto": "εἰ",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "si"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2837",
+      "texto": "κεκοίμηται",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-RPI-3S",
+      "traduccion": "ha yacido dormido"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4982",
+      "texto": "σωθήσεται.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Futuro-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-FPI-3S",
+      "traduccion": "será librado"
+    }
+  ]
+}

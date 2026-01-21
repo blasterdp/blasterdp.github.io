@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 6:17 Reina Valera 1960",
+    "texto": "Los hijos de Gersón: Libni y Simei, por sus familias."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1648",
+      "hebreo": "גֵּרְשֹׁון",
+      "transliteracion": "גֵרְשֹׁ֛ון",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Gersón"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3845",
+      "hebreo": "לִבְנִי",
+      "transliteracion": "לִבְנִ֥י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Libnii"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8096",
+      "hebreo": "שִׁמְעִי",
+      "transliteracion": "שִׁמְעִ֖י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Simei"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4940",
+      "hebreo": "מִשְׁפָּחָה",
+      "transliteracion": "מִשְׁפְּחֹתָֽם׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus familias"
+    }
+  ]
+}

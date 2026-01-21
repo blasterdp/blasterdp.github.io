@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 83:14 Reina Valera 1960",
+    "texto": "Como fuego que quema el monte, Como llama que abrasa el bosque."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "784",
+      "hebreo": "אֵשׁ",
+      "transliteracion": "אֵ֥שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "fuego"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1197",
+      "hebreo": "בער",
+      "transliteracion": "תִּבְעַר־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "que consume"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3264",
+      "hebreo": "יַעַר",
+      "transliteracion": "יָ֑עַר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "bosque"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3852",
+      "hebreo": "לֶהָבָה",
+      "transliteracion": "לֶהָבָ֗ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "llama"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3857",
+      "hebreo": "להט",
+      "transliteracion": "תְּלַהֵ֥ט",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG",
+      "traduccion": "que abrasa"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הָרִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "montess"
+    }
+  ]
+}

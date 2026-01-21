@@ -1,0 +1,260 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 28:12 Reina Valera 1960",
+    "texto": "Y pondrás las dos piedras sobre las hombreras del efod, para piedras memoriales a los hijos de Israel; y Aarón llevará los nombres de ellos delante de Jehová sobre sus dos hombros por memorial."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7760",
+      "hebreo": "שׂים",
+      "transliteracion": "שַׂמְתָּ֞",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "sujetarás"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁתֵּ֣י",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "dos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "las"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "68",
+      "hebreo": "אֶבֶן",
+      "transliteracion": "אֲבָנִ֗ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "piedras"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַ֚ל",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3802",
+      "hebreo": "כָּתֵף",
+      "transliteracion": "כִּתְפֹ֣ת",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "hombreras de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "646",
+      "hebreo": "אֵפֹד",
+      "transliteracion": "אֵפֹ֔ד",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "efod"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "68",
+      "hebreo": "אֶבֶן",
+      "transliteracion": "אַבְנֵ֥י",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "piedras de"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "2146",
+      "hebreo": "זִכָּרֹון",
+      "transliteracion": "זִכָּרֹ֖ן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "memorial"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְנֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵ֑ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "5375",
+      "hebreo": "נשׂא",
+      "transliteracion": "נָשָׂא֩",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "llevará"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "175",
+      "hebreo": "אַהֲרֹן",
+      "transliteracion": "אַהֲרֹ֨ן",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Aarón"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שְׁמֹותָ֜ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus nombres"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": ""
+    },
+    {
+      "numero": 22,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פְנֵ֧י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "ante"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֛ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "8147",
+      "hebreo": "שְׁנַיִם",
+      "transliteracion": "שְׁתֵּ֥י",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "dos"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "3802",
+      "hebreo": "כָּתֵף",
+      "transliteracion": "כְתֵפָ֖יו",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.SG",
+      "traduccion": "hombreras de él"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "2146",
+      "hebreo": "זִכָּרֹון",
+      "transliteracion": "זִכָּרֹֽן׃ ס",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "memorial"
+    }
+  ]
+}

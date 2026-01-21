@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 94:10 Reina Valera 1960",
+    "texto": "El que castiga a las naciones, ¿no reprenderá? ¿No sabrá el que enseña al hombre la ciencia?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "el que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3256",
+      "hebreo": "יסר",
+      "transliteracion": "יֹסֵ֣ר",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.C",
+      "traduccion": "castiga"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּ֭ויִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "a naciones"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3198",
+      "hebreo": "יכח",
+      "transliteracion": "יֹוכִ֑יחַ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "reprenderá?"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "el"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3925",
+      "hebreo": "למד",
+      "transliteracion": "מְלַמֵּ֖ד",
+      "parsingLabel": "verbo pi“el participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.PIEL.PTCA.U.M.SG.A",
+      "traduccion": "que enseña"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָדָ֣ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "al hombre"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1847",
+      "hebreo": "דַּעַת",
+      "transliteracion": "דָּֽעַת׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "conocimiento?"
+    }
+  ]
+}

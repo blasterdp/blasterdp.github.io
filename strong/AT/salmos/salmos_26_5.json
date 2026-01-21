@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 26:5 Reina Valera 1960",
+    "texto": "Aborrecí la reunión de los malignos, Y con los impíos nunca me senté."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "שָׂ֭נֵאתִי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "aborrezco"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6951",
+      "hebreo": "קָהָל",
+      "transliteracion": "קְהַ֣ל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "reunión"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7489",
+      "hebreo": "רעע",
+      "transliteracion": "מְרֵעִ֑ים",
+      "parsingLabel": "sustantivo hif‘il participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.HIF.PTCA.U.M.PL.A",
+      "traduccion": "de malignos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְ֝שָׁעִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "impíos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3427",
+      "hebreo": "ישׁב",
+      "transliteracion": "אֵשֵֽׁב׃",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "me sentaré"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 77:15 Reina Valera 1960",
+    "texto": "Con tu brazo redimiste a tu pueblo, A los hijos de Jacob y de José. Selah"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1350",
+      "hebreo": "גאל",
+      "transliteracion": "גָּאַ֣לְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "has redimido"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2220",
+      "hebreo": "זְרֹועַ",
+      "transliteracion": "זְרֹ֣ועַ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "brazo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמֶּ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "a tu pueblo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "a hijos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3290",
+      "hebreo": "יַעֲקֹב",
+      "transliteracion": "יַעֲקֹ֖ב",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "de Jacob"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3130",
+      "hebreo": "יֹוסֵף",
+      "transliteracion": "יֹוסֵ֣ף",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "de José"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5542",
+      "hebreo": "סֶלָה",
+      "transliteracion": "סֶֽלָה׃",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "Selah"
+    }
+  ]
+}

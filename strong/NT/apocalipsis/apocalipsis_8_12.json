@@ -1,0 +1,350 @@
+{
+  "versiculo": {
+    "referencia": "Apocalipsis 8:12 Reina Valera 1960",
+    "texto": "El cuarto ángel tocó la trompeta, y fue herida la tercera parte del sol, y la tercera parte de la luna, y la tercera parte de las estrellas, para que se oscureciese la tercera parte de ellos, y no hubiese luz en la tercera parte del día, y asimismo de la noche."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2532",
+      "texto": "Καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5067",
+      "texto": "τέταρτος",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino",
+      "parsing": "A-NSM",
+      "traduccion": "cuarto"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "32",
+      "texto": "ἄγγελος",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "mensajero"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4537",
+      "texto": "ἐσάλπισεν·",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-AAI-3S",
+      "traduccion": "tocó trompeta"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4141",
+      "texto": "ἐπλήγη",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-2API-3S",
+      "traduccion": "fue herida"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Neutro",
+      "parsing": "T-NSN",
+      "traduccion": "la"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5154",
+      "texto": "τρίτον",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Neutro",
+      "parsing": "A-NSN",
+      "traduccion": "tercera (parte)"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "de el"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2246",
+      "texto": "ἡλίου",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "sol"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Neutro",
+      "parsing": "T-NSN",
+      "traduccion": "la"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "5154",
+      "texto": "τρίτον",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Neutro",
+      "parsing": "A-NSN",
+      "traduccion": "tercera (parte)"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "3588",
+      "texto": "τῆς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Femenino",
+      "parsing": "T-GSF",
+      "traduccion": "de la"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "4582",
+      "texto": "σελήνης",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Femenino",
+      "parsing": "N-GSF",
+      "traduccion": "luna"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Neutro",
+      "parsing": "T-NSN",
+      "traduccion": "la"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "5154",
+      "texto": "τρίτον",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Neutro",
+      "parsing": "A-NSN",
+      "traduccion": "tercera (parte)"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "3588",
+      "texto": "τῶν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Plural-Masculino",
+      "parsing": "T-GPM",
+      "traduccion": "de las"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "792",
+      "texto": "ἀστέρων,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Plural-Masculino",
+      "parsing": "N-GPM",
+      "traduccion": "estrellas"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "2443",
+      "texto": "ἵνα",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "para que"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "4654",
+      "texto": "σκοτισθῇ",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Subjuntivo-3ª Persona-Singular",
+      "parsing": "V-APS-3S",
+      "traduccion": "fuera oscurecida"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Neutro",
+      "parsing": "T-NSN",
+      "traduccion": "la"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "5154",
+      "texto": "τρίτον",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Neutro",
+      "parsing": "A-NSN",
+      "traduccion": "tercera (parte)"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "846",
+      "texto": "αὐτῶν",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Genitivo-Plural-Masculino",
+      "parsing": "P-GPM",
+      "traduccion": "de ellos"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "3588",
+      "texto": "ἡ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Femenino",
+      "parsing": "T-NSF",
+      "traduccion": "el"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "2250",
+      "texto": "ἡμέρα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "día"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "3361",
+      "texto": "μὴ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "5316",
+      "texto": "φάνῃ",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Subjuntivo-3ª Persona-Singular",
+      "parsing": "V-2AAS-3S",
+      "traduccion": "sea brillado"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Neutro",
+      "parsing": "T-ASN",
+      "traduccion": "la"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "5154",
+      "texto": "τρίτον",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Neutro",
+      "parsing": "A-ASN",
+      "traduccion": "tercera (parte)"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "846",
+      "texto": "αὐτῆς,",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Genitivo-Singular-Femenino",
+      "parsing": "P-GSF",
+      "traduccion": "de él"
+    },
+    {
+      "numero": 35,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 36,
+      "strongNumber": "3588",
+      "texto": "ἡ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Femenino",
+      "parsing": "T-NSF",
+      "traduccion": "la"
+    },
+    {
+      "numero": 37,
+      "strongNumber": "3571",
+      "texto": "νὺξ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "noche"
+    },
+    {
+      "numero": 38,
+      "strongNumber": "3668",
+      "texto": "ὁμοίως.",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "igualmente"
+    }
+  ]
+}

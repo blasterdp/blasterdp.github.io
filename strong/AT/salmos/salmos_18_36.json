@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 18:36 Reina Valera 1960",
+    "texto": "Ensanchaste mis pasos debajo de mí, Y mis pies no han resbalado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7337",
+      "hebreo": "רחב",
+      "transliteracion": "תַּרְחִ֣יב",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG",
+      "traduccion": "ensanchas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6806",
+      "hebreo": "צַעַד",
+      "transliteracion": "צַעֲדִ֣י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mis pasos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַחְתָּ֑י",
+      "parsingLabel": "preposición masculino plural absoluto",
+      "parsing": "PREP.M.PL.A",
+      "traduccion": "debajo de mí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4571",
+      "hebreo": "מעד",
+      "transliteracion": "מָ֝עֲד֗וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "han resbalado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7166",
+      "hebreo": "קַרְסֹל",
+      "transliteracion": "קַרְסֻלָּֽי׃",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "mis tobillos"
+    }
+  ]
+}

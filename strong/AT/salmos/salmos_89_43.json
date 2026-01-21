@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 89:43 Reina Valera 1960",
+    "texto": "Embotaste asimismo el filo de su espada, Y no lo levantaste en la batalla."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "637",
+      "hebreo": "אַף",
+      "transliteracion": "אַף־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "también"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "תָּ֭שִׁיב",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG",
+      "traduccion": "has retirado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6696",
+      "hebreo": "צור",
+      "transliteracion": "צ֣וּר",
+      "parsingLabel": "sustantivo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "SUBS.QAL.INFC.U.U.U.C",
+      "traduccion": "filo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2719",
+      "hebreo": "חֶרֶב",
+      "transliteracion": "חַרְבֹּ֑ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su espada"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "הֲ֝קֵימֹתֹ֗ו",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "le has hecho estar firme"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4421",
+      "hebreo": "מִלְחָמָה",
+      "transliteracion": "מִּלְחָמָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "batalla"
+    }
+  ]
+}

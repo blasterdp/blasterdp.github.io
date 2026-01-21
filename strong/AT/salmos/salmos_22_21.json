@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 22:21 Reina Valera 1960",
+    "texto": "Sálvame de la boca del león, Y líbrame de los cuernos de los búfalos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3467",
+      "hebreo": "ישׁע",
+      "transliteracion": "הֹ֭ושִׁיעֵנִי",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "sálvame"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּ֣י",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "la boca"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "738",
+      "hebreo": "אַרְיֵה",
+      "transliteracion": "אַרְיֵ֑ה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del león"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7161",
+      "hebreo": "קֶרֶן",
+      "transliteracion": "קַּרְנֵ֖י",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "los cuernos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7214",
+      "hebreo": "רְאֵם",
+      "transliteracion": "רֵמִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de los búfalos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6030",
+      "hebreo": "ענה",
+      "transliteracion": "עֲנִיתָֽנִי׃",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me has respondido"
+    }
+  ]
+}

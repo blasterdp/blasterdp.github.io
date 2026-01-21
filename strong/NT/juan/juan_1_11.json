@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Juan 1:11 Reina Valera 1960",
+    "texto": "A lo suyo vino, y los suyos no le recibieron."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1519",
+      "texto": "εἰς",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "Hacia dentro"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3588",
+      "texto": "τὰ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Plural-Neutro",
+      "parsing": "T-APN",
+      "traduccion": "a los"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2398",
+      "texto": "ἴδια",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Plural-Neutro",
+      "parsing": "A-APN",
+      "traduccion": "suyos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2064",
+      "texto": "ἦλθεν,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-2AAI-3S",
+      "traduccion": "vino"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "οἱ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Plural-Masculino",
+      "parsing": "T-NPM",
+      "traduccion": "los"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2398",
+      "texto": "ἴδιοι",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino",
+      "parsing": "A-NPM",
+      "traduccion": "suyos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "846",
+      "texto": "αὐτὸν",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Acusativo-Singular-Masculino",
+      "parsing": "P-ASM",
+      "traduccion": "a él"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3756",
+      "texto": "οὐ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3880",
+      "texto": "παρέλαβον.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Indicativo-3ª Persona-Plural",
+      "parsing": "V-2AAI-3P",
+      "traduccion": "tomaron consigo"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "versiculo": {
+    "referencia": "1ra Juan 5:18 Reina Valera 1960",
+    "texto": "Sabemos que todo aquel que ha nacido de Dios, no practica el pecado, pues Aquel que fue engendrado por Dios le guarda, y el maligno no le toca."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1492",
+      "texto": "Οἴδαμεν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Activo-Indicativo-1ª Persona-Plural",
+      "parsing": "V-RAI-1P",
+      "traduccion": "Hemos sabido"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3754",
+      "texto": "ὅτι",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3956",
+      "texto": "πᾶς",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino",
+      "parsing": "A-NSM",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1080",
+      "texto": "γεγεννημένος",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Pasivo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-RPP-NSM",
+      "traduccion": "ha sido nacido"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1537",
+      "texto": "ἐκ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "procedente de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2316",
+      "texto": "θεοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3756",
+      "texto": "οὐχ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "264",
+      "texto": "ἁμαρτάνει,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está pecando"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "235",
+      "texto": "ἀλλ’",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "sino"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "1080",
+      "texto": "γεννηθεὶς",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-APP-NSM",
+      "traduccion": "habiendo sido nacido"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "1537",
+      "texto": "ἐκ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "procedente de"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "2316",
+      "texto": "θεοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "5083",
+      "texto": "τηρεῖ",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está guardando"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "846",
+      "texto": "αὐτόν,",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Acusativo-Singular-Masculino",
+      "parsing": "P-ASM",
+      "traduccion": "a él"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "4190",
+      "texto": "πονηρὸς",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino",
+      "parsing": "A-NSM",
+      "traduccion": "Maligno"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "3756",
+      "texto": "οὐχ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "680",
+      "texto": "ἅπτεται",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Medio-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PMI-3S",
+      "traduccion": "está tocando"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "846",
+      "texto": "αὐτοῦ.",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Genitivo-Singular-Masculino",
+      "parsing": "P-GSM",
+      "traduccion": "de él"
+    }
+  ]
+}

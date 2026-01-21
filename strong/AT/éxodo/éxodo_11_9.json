@@ -1,0 +1,143 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 11:9 Reina Valera 1960",
+    "texto": "Y Jehová dijo a Moisés: Faraón no os oirá, para que mis maravillas se multipliquen en la tierra de Egipto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּ֤אמֶר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָה֙",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4872",
+      "hebreo": "מֹשֶׁה",
+      "transliteracion": "מֹשֶׁ֔ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Moisés"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "יִשְׁמַ֥ע",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "escuchará"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֲלֵיכֶ֖ם",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino plural",
+      "parsing": "PREP.PRS.P2.M.PL",
+      "traduccion": "a vosotros"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6547",
+      "hebreo": "פַּרְעֹה",
+      "transliteracion": "פַּרְעֹ֑ה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Faraón"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4616",
+      "hebreo": "לְמַעַן",
+      "transliteracion": "לְמַ֛עַן",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para que"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7235",
+      "hebreo": "רבה",
+      "transliteracion": "רְבֹ֥ות",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "multiplicarse"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "4159",
+      "hebreo": "מֹופֵת",
+      "transliteracion": "מֹופְתַ֖י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis maravillas"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֥רֶץ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "tierra de"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "4714",
+      "hebreo": "מִצְרַיִם",
+      "transliteracion": "מִצְרָֽיִם׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Egipto"
+    }
+  ]
+}

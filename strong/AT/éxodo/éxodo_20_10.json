@@ -1,0 +1,251 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 20:10 Reina Valera 1960",
+    "texto": "mas el séptimo día es reposo para Jehová tu Dios; no hagas en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu criada, ni tu bestia, ni tu extranjero que está dentro de tus puertas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹ֨ום֙",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "día"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7637",
+      "hebreo": "שְׁבִיעִי",
+      "transliteracion": "שְּׁבִיעִ֔֜י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "séptimo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7676",
+      "hebreo": "שַׁבָּת",
+      "transliteracion": "שַׁבָּ֖֣ת׀",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "descanso"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֶ֑֗יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tu Dios"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽ֣א־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "תַעֲשֶׂ֣֨ה",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "harás"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "ninguna"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "4399",
+      "hebreo": "מְלָאכָה",
+      "transliteracion": "מְלָאכָ֡֜ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "obra"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֣ה׀",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בִנְךָֽ֣־",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu hijo"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֠",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "1323",
+      "hebreo": "בַּת",
+      "transliteracion": "בִתֶּ֗ךָ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu hija"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עַבְדְּךָ֤֨",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu siervo"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "519",
+      "hebreo": "אָמָה",
+      "transliteracion": "אֲמָֽתְךָ֜֙",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu sierva"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "929",
+      "hebreo": "בְּהֵמָה",
+      "transliteracion": "בְהֶמְתֶּ֔֗ךָ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu bestia"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "1616",
+      "hebreo": "גֵּר",
+      "transliteracion": "גֵרְךָ֖֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu forastero"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֥֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "dentro de"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "8179",
+      "hebreo": "שַׁעַר",
+      "transliteracion": "שְׁעָרֶֽ֔יךָ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus puertas"
+    }
+  ]
+}

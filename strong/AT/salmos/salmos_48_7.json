@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 48:7 Reina Valera 1960",
+    "texto": "Con viento solano Quiebras tú las naves de Tarsis."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֥וּחַ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "el viento"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6921",
+      "hebreo": "קָדִים",
+      "transliteracion": "קָדִ֑ים",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "solano"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7665",
+      "hebreo": "שׁבר",
+      "transliteracion": "תְּ֝שַׁבֵּ֗ר",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG",
+      "traduccion": "destrozas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "591",
+      "hebreo": "אֳנִיָּה",
+      "transliteracion": "אֳנִיֹּ֥ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "naves"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8659",
+      "hebreo": "תַּרְשִׁישׁ",
+      "transliteracion": "תַּרְשִֽׁישׁ׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Tarsis"
+    }
+  ]
+}

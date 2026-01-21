@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 150:6 Reina Valera 1960",
+    "texto": "Todo lo que respira alabe a JAH. Aleluya."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֹּ֣ל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ֭",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "lo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5397",
+      "hebreo": "נְשָׁמָה",
+      "transliteracion": "נְּשָׁמָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "que respira"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "תְּהַלֵּ֥ל",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG",
+      "traduccion": "alabe"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3050",
+      "hebreo": "יָהּ",
+      "transliteracion": "יָ֗הּ",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "a Yah"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "הַֽלְלוּ־",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.PL",
+      "traduccion": "alabad"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3050",
+      "hebreo": "יָהּ",
+      "transliteracion": "יָֽהּ׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "a Yah"
+    }
+  ]
+}

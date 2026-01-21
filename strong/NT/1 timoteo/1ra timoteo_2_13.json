@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "1ra Timoteo 2:13 Reina Valera 1960",
+    "texto": "Porque Adán fue formado primero, después Eva;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "76",
+      "texto": "Ἀδὰμ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Apropiado",
+      "parsing": "N-PRI",
+      "traduccion": "Adán"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1063",
+      "texto": "γὰρ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4413",
+      "texto": "πρῶτος",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino-Superlativo",
+      "parsing": "A-NSM-S",
+      "traduccion": "primero"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4111",
+      "texto": "ἐπλάσθη,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-API-3S",
+      "traduccion": "fue moldeado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1534",
+      "texto": "εἶτα",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "luego"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2096",
+      "texto": "Εὔα·",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "Eva"
+    }
+  ]
+}

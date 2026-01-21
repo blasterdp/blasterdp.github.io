@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 63:5 Reina Valera 1960",
+    "texto": "Como de meollo y de grosura será saciada mi alma, Y con labios de júbilo te alabará mi boca,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3644",
+      "hebreo": "כְּמֹו",
+      "transliteracion": "כְּמֹ֤ו",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2459",
+      "hebreo": "חֵלֶב",
+      "transliteracion": "חֵ֣לֶב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de meollo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1880",
+      "hebreo": "דֶּשֶׁן",
+      "transliteracion": "דֶשֶׁן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de grosura"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7646",
+      "hebreo": "שׂבע",
+      "transliteracion": "תִּשְׂבַּ֣ע",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "se saciará"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשִׁ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi alma"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שִׂפְתֵ֥י",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "labios"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7445",
+      "hebreo": "רְנָנָה",
+      "transliteracion": "רְ֝נָנֹ֗ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "de júbilo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "יְהַלֶּל־",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "alabará"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi boca"
+    }
+  ]
+}

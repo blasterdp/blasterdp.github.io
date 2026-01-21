@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 71:17 Reina Valera 1960",
+    "texto": "Oh Dios, me enseñaste desde mi juventud, Y hasta ahora he manifestado tus maravillas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱֽלֹהִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3925",
+      "hebreo": "למד",
+      "transliteracion": "לִמַּדְתַּ֥נִי",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "ma has enseñado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5271",
+      "hebreo": "נְעוּרִים",
+      "transliteracion": "נְּעוּרָ֑י",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mi juventud"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2008",
+      "hebreo": "הֵנָּה",
+      "transliteracion": "הֵ֝֗נָּה",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "ahora"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5046",
+      "hebreo": "נגד",
+      "transliteracion": "אַגִּ֥יד",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG",
+      "traduccion": "he anunciado"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6381",
+      "hebreo": "פלא",
+      "transliteracion": "נִפְלְאֹותֶֽיךָ׃",
+      "parsingLabel": "sustantivo nif‘al participio desconocido femenino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.NIF.PTCA.U.F.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus maravillas"
+    }
+  ]
+}

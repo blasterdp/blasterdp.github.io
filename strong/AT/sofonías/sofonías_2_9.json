@@ -1,0 +1,314 @@
+{
+  "versiculo": {
+    "referencia": "Sofonías 2:9 Reina Valera 1960",
+    "texto": "Por tanto, vivo yo, dice Jehová de los ejércitos, Dios de Israel, que Moab será como Sodoma, y los hijos de Amón como Gomorra; campo de ortigas, y mina de sal, y asolamiento perpetuo; el remanente de mi pueblo los saqueará, y el remanente de mi pueblo los heredará."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3651",
+      "hebreo": "לָכֵן",
+      "transliteracion": "לָכֵ֣ן",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "Por tanto"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2416",
+      "hebreo": "חַי",
+      "transliteracion": "חַי־",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "vivo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אָ֡נִי",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "Yo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5002",
+      "hebreo": "נְאֻם",
+      "transliteracion": "נְאֻם֩",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "declaración de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֨ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6635",
+      "hebreo": "צָבָא",
+      "transliteracion": "צְבָאֹ֜ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "ejércitos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "Dios de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵ֗ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": ":Israel"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Ciertamente"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4124",
+      "hebreo": "מֹואָב",
+      "transliteracion": "מֹואָ֞ב",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Moab"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5467",
+      "hebreo": "סְדֹם",
+      "transliteracion": "סְדֹ֤ם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Sodoma"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "תִּֽהְיֶה֙",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "vendrá a ser"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "e"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְנֵ֤י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "5983",
+      "hebreo": "עַמֹּון",
+      "transliteracion": "עַמֹּון֙",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Amón"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "6017",
+      "hebreo": "עֲמֹרָה",
+      "transliteracion": "עֲמֹרָ֔ה",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Gomorra"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "4476",
+      "hebreo": "מִמְשָׁק",
+      "transliteracion": "מִמְשַׁ֥ק",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "lugar de"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "2738",
+      "hebreo": "חָרוּל",
+      "transliteracion": "חָר֛וּל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "maleza"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "4379",
+      "hebreo": "מִכְרֶה",
+      "transliteracion": "מִכְרֵה־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "fosa de"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "4417",
+      "hebreo": "מֶלַח",
+      "transliteracion": "מֶ֥לַח",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "sal"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "8077",
+      "hebreo": "שְׁמָמָה",
+      "transliteracion": "שְׁמָמָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "desolación"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "5769",
+      "hebreo": "עֹולָם",
+      "transliteracion": "עֹולָ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "siempre"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "7611",
+      "hebreo": "שְׁאֵרִית",
+      "transliteracion": "שְׁאֵרִ֤ית",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "residuo de"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמִּי֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi pueblo"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "962",
+      "hebreo": "בזז",
+      "transliteracion": "יְבָזּ֔וּם",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL.PRS.P3.M.PL",
+      "traduccion": "los saqueará"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "3499",
+      "hebreo": "יֶתֶר",
+      "transliteracion": "יֶ֥תֶר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "resto de"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּויִ֖י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mi nación"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "5157",
+      "hebreo": "נחל",
+      "transliteracion": "יִנְחָלֽוּם׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL.PRS.P3.M.PL",
+      "traduccion": "los poseerá"
+    }
+  ]
+}

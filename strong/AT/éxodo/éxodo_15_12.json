@@ -1,0 +1,44 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 15:12 Reina Valera 1960",
+    "texto": "Extendiste tu diestra; La tierra los tragó."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5186",
+      "hebreo": "נטה",
+      "transliteracion": "נָטִ֨יתָ֙",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "Extendiste"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3225",
+      "hebreo": "יָמִין",
+      "transliteracion": "יְמִ֣ינְךָ֔",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu mano"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1104",
+      "hebreo": "בלע",
+      "transliteracion": "תִּבְלָעֵ֖מֹו",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG.PRS.P3.M.PL",
+      "traduccion": "les tragó"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָֽרֶץ׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    }
+  ]
+}

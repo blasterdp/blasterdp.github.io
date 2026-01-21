@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 55:16 Reina Valera 1960",
+    "texto": "En cuanto a mí, a Dios clamaré; Y Jehová me salvará."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲ֭נִי",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "a mí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7121",
+      "hebreo": "קרא",
+      "transliteracion": "אֶקְרָ֑א",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "clamaré"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יהוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3467",
+      "hebreo": "ישׁע",
+      "transliteracion": "יֹושִׁיעֵֽנִי׃",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me salvará"
+    }
+  ]
+}

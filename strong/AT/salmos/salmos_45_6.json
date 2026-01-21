@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 45:6 Reina Valera 1960",
+    "texto": "Tu trono, oh Dios, es eterno y para siempre; Cetro de justicia es el cetro de tu reino."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3678",
+      "hebreo": "כִּסֵּא",
+      "transliteracion": "כִּסְאֲךָ֣",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu trono"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱ֭לֹהִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5769",
+      "hebreo": "עֹולָם",
+      "transliteracion": "עֹולָ֣ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "eterno"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5703",
+      "hebreo": "עַד",
+      "transliteracion": "עֶ֑ד",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "perpetuo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7626",
+      "hebreo": "שֵׁבֶט",
+      "transliteracion": "שֵׁ֥בֶט",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "cetro"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4334",
+      "hebreo": "מִישֹׁור",
+      "transliteracion": "מִ֝ישֹׁ֗ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de equidad"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7626",
+      "hebreo": "שֵׁבֶט",
+      "transliteracion": "שֵׁ֣בֶט",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "cetro"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4438",
+      "hebreo": "מַלְכוּת",
+      "transliteracion": "מַלְכוּתֶֽךָ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu reino"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 37:30 Reina Valera 1960",
+    "texto": "La boca del justo habla sabiduría, Y su lengua habla justicia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּֽי־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "boca"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַ֭דִּיק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del justo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1897",
+      "hebreo": "הגה",
+      "transliteracion": "יֶהְגֶּ֣ה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "emite"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2451",
+      "hebreo": "חָכְמָה",
+      "transliteracion": "חָכְמָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "sabiduría"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3956",
+      "hebreo": "לָשֹׁון",
+      "transliteracion": "לְשֹׁונֹ֗ו",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su lengua"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "תְּדַבֵּ֥ר",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG",
+      "traduccion": "habla"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4941",
+      "hebreo": "מִשְׁפָּט",
+      "transliteracion": "מִשְׁפָּֽט׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "rectitud"
+    }
+  ]
+}

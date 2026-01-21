@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 79:7 Reina Valera 1960",
+    "texto": "Porque han consumido a Jacob, Y su morada han asolado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֭י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "אָכַ֣ל",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "han devorado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶֽת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3290",
+      "hebreo": "יַעֲקֹב",
+      "transliteracion": "יַעֲקֹ֑ב",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Jacob"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5116",
+      "hebreo": "נָוֶה",
+      "transliteracion": "נָוֵ֥הוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su prado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8074",
+      "hebreo": "שׁמם",
+      "transliteracion": "הֵשַֽׁמּוּ׃",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.HIF.PERF.P3.U.PL",
+      "traduccion": "han asolado"
+    }
+  ]
+}

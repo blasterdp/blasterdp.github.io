@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 6:7 Reina Valera 1960",
+    "texto": "Mis ojos están gastados de sufrir; Se han envejecido a causa de todos mis angustiadores."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6244",
+      "hebreo": "עשׁשׁ",
+      "transliteracion": "עָֽשְׁשָׁ֣ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "gastado está"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3708",
+      "hebreo": "כַּעַס",
+      "transliteracion": "כַּ֣עַס",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "la vejación"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינִ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi ojo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6275",
+      "hebreo": "עתק",
+      "transliteracion": "עָֽ֝תְקָ֗ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "se envejece"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "causa de todos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3334",
+      "hebreo": "צרר",
+      "transliteracion": "צֹורְרָֽי׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "mis enemigos"
+    }
+  ]
+}

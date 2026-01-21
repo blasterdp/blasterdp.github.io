@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Galatas 5:26 Reina Valera 1960",
+    "texto": "No nos hagamos vanagloriosos, irritándonos unos a otros, envidiándonos unos a otros."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3361",
+      "texto": "μὴ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "No"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1096",
+      "texto": "γινώμεθα",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Deponente Medio o Pasivo-Subjuntivo-1ª Persona-Plural",
+      "parsing": "V-PNS-1P",
+      "traduccion": "estemos llegando a ser"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2755",
+      "texto": "κενόδοξοι,",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino",
+      "parsing": "A-NPM",
+      "traduccion": "vanagloriosos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "240",
+      "texto": "ἀλλήλους",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Recíproco-Acusativo-Plural-Masculino",
+      "parsing": "C-APM",
+      "traduccion": "unos a otros"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4292",
+      "texto": "προκαλούμενοι,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Medio-Pasivo-Nominativo-Plural-Masculino",
+      "parsing": "V-PMP-NPM",
+      "traduccion": "provocándose (a pelea)"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "240",
+      "texto": "ἀλλήλοις",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Recíproco-Dativo-Plural-Masculino",
+      "parsing": "C-DPM",
+      "traduccion": "unos a otros"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5354",
+      "texto": "φθονοῦντες.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-PAP-NPM",
+      "traduccion": "envidiando"
+    }
+  ]
+}

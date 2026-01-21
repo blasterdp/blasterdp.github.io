@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 15:10 Reina Valera 1960",
+    "texto": "Soplaste con tu viento; los cubrió el mar; Se hundieron como plomo en las impetuosas aguas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5398",
+      "hebreo": "נשׁף",
+      "transliteracion": "נָשַׁ֥פְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "Soplaste"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "רוּחֲךָ֖",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu viento"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3680",
+      "hebreo": "כסה",
+      "transliteracion": "כִּסָּ֣מֹו",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "les cubrió"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3220",
+      "hebreo": "יָם",
+      "transliteracion": "יָ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mar"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6749",
+      "hebreo": "צלל",
+      "transliteracion": "צָֽלֲלוּ֙",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se hundieron"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5777",
+      "hebreo": "עֹופֶרֶת",
+      "transliteracion": "עֹופֶ֔רֶת",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "plomo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַ֖יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "117",
+      "hebreo": "אַדִּיר",
+      "transliteracion": "אַדִּירִֽים׃",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "impetuosas"
+    }
+  ]
+}

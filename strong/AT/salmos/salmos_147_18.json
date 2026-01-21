@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 147:18 Reina Valera 1960",
+    "texto": "Enviará su palabra, y los derretirá; Soplará su viento, y fluirán las aguas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "יִשְׁלַ֣ח",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "envía"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְּבָרֹ֣ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su palabra"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4529",
+      "hebreo": "מסה",
+      "transliteracion": "יַמְסֵ֑ם",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los derrite"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5380",
+      "hebreo": "נשׁב",
+      "transliteracion": "יַשֵּׁ֥ב",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "hace soplar"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֝וּחֹ֗ו",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su viento"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5140",
+      "hebreo": "נזל",
+      "transliteracion": "יִזְּלוּ־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "corre"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מָֽיִם׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "agua"
+    }
+  ]
+}

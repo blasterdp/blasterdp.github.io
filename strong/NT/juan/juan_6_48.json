@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Juan 6:48 Reina Valera 1960",
+    "texto": "Yo soy el pan de vida."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1473",
+      "texto": "ἐγώ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Nominativo-Singular",
+      "parsing": "P-1NS",
+      "traduccion": "Yo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1510",
+      "texto": "εἰμι",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-1ª Persona-Singular",
+      "parsing": "V-PAI-1S",
+      "traduccion": "estoy siendo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "740",
+      "texto": "ἄρτος",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "pan"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "texto": "τῆς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Femenino",
+      "parsing": "T-GSF",
+      "traduccion": "de la"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2222",
+      "texto": "ζωῆς.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Femenino",
+      "parsing": "N-GSF",
+      "traduccion": "vida"
+    }
+  ]
+}

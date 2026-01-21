@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 80:13 Reina Valera 1960",
+    "texto": "La destroza el puerco montés, Y la bestia del campo la devora."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3765",
+      "hebreo": "כרסם",
+      "transliteracion": "יְכַרְסְמֶ֣נָּֽה",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG.PRS.P3.F.SG",
+      "traduccion": "la devasta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2386",
+      "hebreo": "חֲזִיר",
+      "transliteracion": "חֲזִ֣יר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "jabalí"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3264",
+      "hebreo": "יַעַר",
+      "transliteracion": "יָּ֑עַר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "la selva"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2123",
+      "hebreo": "זִיז",
+      "transliteracion": "זִ֖יז",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "lo que se mueve"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7704",
+      "hebreo": "שָׂדַי",
+      "transliteracion": "שָׂדַ֣י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "campo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7462",
+      "hebreo": "רעה",
+      "transliteracion": "יִרְעֶֽנָּה׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P3.F.SG",
+      "traduccion": "se alimenta de ella"
+    }
+  ]
+}

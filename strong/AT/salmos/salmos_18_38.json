@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 18:38 Reina Valera 1960",
+    "texto": "Los herí de modo que no se levantasen; Cayeron debajo de mis pies."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4272",
+      "hebreo": "מחץ",
+      "transliteracion": "אֶ֭מְחָצֵם",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG.PRS.P3.M.PL",
+      "traduccion": "los destrocé"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3201",
+      "hebreo": "יכל",
+      "transliteracion": "יֻ֣כְלוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "pudieron"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "ק֑וּם",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A",
+      "traduccion": "levantarse"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "יִ֝פְּל֗וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "cayeron"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּ֣חַת",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "debajo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7272",
+      "hebreo": "רֶגֶל",
+      "transliteracion": "רַגְלָֽי׃",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "de mis pies"
+    }
+  ]
+}

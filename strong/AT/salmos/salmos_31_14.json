@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 31:14 Reina Valera 1960",
+    "texto": "Mas yo en ti confío, oh Jehová; Digo: Tú eres mi Dios."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲנִ֤י׀",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלֶ֣יךָ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "en ti"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "982",
+      "hebreo": "בטח",
+      "transliteracion": "בָטַ֣חְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "confío"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָ֝מַ֗רְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "he dicho"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהַ֥י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mi Dios"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אָֽתָּה׃",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    }
+  ]
+}

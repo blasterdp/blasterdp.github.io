@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 67:2 Reina Valera 1960",
+    "texto": "Para que sea conocido en la tierra tu camino, En todas las naciones tu salvación."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "דַ֣עַת",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A",
+      "traduccion": "que se conozca"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָ֣רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דַּרְכֶּ֑ךָ",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu camino"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּ֝ויִ֗ם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "naciones"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3444",
+      "hebreo": "יְשׁוּעָה",
+      "transliteracion": "יְשׁוּעָתֶֽךָ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu salvación"
+    }
+  ]
+}

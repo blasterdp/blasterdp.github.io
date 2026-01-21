@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 96:3 Reina Valera 1960",
+    "texto": "Proclamad entre las naciones su gloria, En todos los pueblos sus maravillas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5608",
+      "hebreo": "ספר",
+      "transliteracion": "סַפְּר֣וּ",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.PL",
+      "traduccion": "contad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּויִ֣ם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "naciones"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3519",
+      "hebreo": "כָּבֹוד",
+      "transliteracion": "כְּבֹודֹ֑ו",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su gloria"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָֽ֝",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמִּ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "pueblos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6381",
+      "hebreo": "פלא",
+      "transliteracion": "נִפְלְאֹותָֽיו׃",
+      "parsingLabel": "sustantivo nif‘al participio desconocido femenino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.NIF.PTCA.U.F.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus maravillas"
+    }
+  ]
+}

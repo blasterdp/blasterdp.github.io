@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 80:10 Reina Valera 1960",
+    "texto": "Los montes fueron cubiertos de su sombra, Y con sus sarmientos los cedros de Dios."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3680",
+      "hebreo": "כסה",
+      "transliteracion": "כָּסּ֣וּ",
+      "parsingLabel": "verbo pu“al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.PUAL.PERF.P3.U.PL",
+      "traduccion": "fueron cubiertos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הָרִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "montes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6738",
+      "hebreo": "צֵל",
+      "transliteracion": "צִלָּ֑הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "de su sombra"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6057",
+      "hebreo": "עָנָף",
+      "transliteracion": "עֲנָפֶ֗יהָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "de sarmientos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "730",
+      "hebreo": "אֶרֶז",
+      "transliteracion": "אַֽרְזֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "cedros"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "410",
+      "hebreo": "אֵל",
+      "transliteracion": "אֵֽל׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de Dios"
+    }
+  ]
+}

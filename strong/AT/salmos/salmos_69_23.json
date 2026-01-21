@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 69:23 Reina Valera 1960",
+    "texto": "Sean oscurecidos sus ojos para que no vean, Y haz temblar continuamente sus lomos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2821",
+      "hebreo": "חשׁך",
+      "transliteracion": "תֶּחְשַׁ֣כְנָה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.F.PL",
+      "traduccion": "núblense"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵ֭ינֵיהֶם",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.PL",
+      "traduccion": "sus ojos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רְאֹ֑ות",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A",
+      "traduccion": "ver"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4975",
+      "hebreo": "מָתְנַיִם",
+      "transliteracion": "מָתְנֵ֗יהֶם",
+      "parsingLabel": "sustantivo masculino dual absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.DU.A.PRS.P3.M.PL",
+      "traduccion": "que sus lomos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8548",
+      "hebreo": "תָּמִיד",
+      "transliteracion": "תָּמִ֥יד",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "continuamente"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4571",
+      "hebreo": "מעד",
+      "transliteracion": "הַמְעַֽד׃",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "se tambaleen"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "versiculo": {
+    "referencia": "Hechos 21:38 Reina Valera 1960",
+    "texto": "¿No eres tú aquel egipcio que levantó una sedición antes de estos días, y sacó al desierto los cuatro mil sicarios?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3756",
+      "texto": "οὐκ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "¿No"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "687",
+      "texto": "ἄρα",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Interrogativa",
+      "parsing": "PRT-I",
+      "traduccion": "realmente"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4771",
+      "texto": "σὺ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Nominativo-Singular",
+      "parsing": "P-2NS",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1510",
+      "texto": "εἶ",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-2ª Persona-Singular",
+      "parsing": "V-PAI-2S",
+      "traduccion": "estás siendo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "124",
+      "texto": "Αἰγύπτιος",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino",
+      "parsing": "A-NSM",
+      "traduccion": "egipcio"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4253",
+      "texto": "πρὸ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "antes"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3778",
+      "texto": "τούτων",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Demostrativo-Genitivo-Plural-Femenino",
+      "parsing": "D-GPF",
+      "traduccion": "de estos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3588",
+      "texto": "τῶν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Plural-Femenino",
+      "parsing": "T-GPF",
+      "traduccion": "los"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2250",
+      "texto": "ἡμερῶν",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Plural-Femenino",
+      "parsing": "N-GPF",
+      "traduccion": "días"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "387",
+      "texto": "ἀναστατώσας",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Activo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-AAP-NSM",
+      "traduccion": "habiendo levantado sedición"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "1806",
+      "texto": "ἐξαγαγὼν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-2AAP-NSM",
+      "traduccion": "habiendo conducido hacia afuera"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "1519",
+      "texto": "εἰς",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "hacia dentro"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3588",
+      "texto": "τὴν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Femenino",
+      "parsing": "T-ASF",
+      "traduccion": "a el"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "2048",
+      "texto": "ἔρημον",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Femenino",
+      "parsing": "A-ASF",
+      "traduccion": "desierto"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "3588",
+      "texto": "τοὺς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Plural-Masculino",
+      "parsing": "T-APM",
+      "traduccion": "a los"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "5070",
+      "texto": "τετρακισχιλίους",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Plural-Masculino",
+      "parsing": "A-APM",
+      "traduccion": "cuatro mil"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "435",
+      "texto": "ἄνδρας",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Plural-Masculino",
+      "parsing": "N-APM",
+      "traduccion": "varones"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "3588",
+      "texto": "τῶν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Plural-Masculino",
+      "parsing": "T-GPM",
+      "traduccion": "de los"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "4607",
+      "texto": "σικαρίων;",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Plural-Masculino",
+      "parsing": "N-GPM",
+      "traduccion": "varones de dagas?"
+    }
+  ]
+}

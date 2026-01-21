@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:45 Reina Valera 1960",
+    "texto": "Envió entre ellos enjambres de moscas que los devoraban, Y ranas que los destruían."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "יְשַׁלַּ֬ח",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "envió"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּהֶ֣ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "entre ellos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6157",
+      "hebreo": "עָרֹב",
+      "transliteracion": "עָ֭רֹב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "enjambres de moscas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "יֹּאכְלֵ֑ם",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los devoraban"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6854",
+      "hebreo": "צְפַרְדֵּעַ",
+      "transliteracion": "צְפַרְדֵּ֗עַ",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ranas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7843",
+      "hebreo": "שׁחת",
+      "transliteracion": "תַּשְׁחִיתֵֽם׃",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona femenino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.WAYQ.P3.F.SG.PRS.P3.M.PL",
+      "traduccion": "los destruían"
+    }
+  ]
+}

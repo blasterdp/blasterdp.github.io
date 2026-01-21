@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "2da Pedro 3:6 Reina Valera 1960",
+    "texto": "por lo cual el mundo de entonces pereció anegado en agua;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1223",
+      "texto": "δι’",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "A través"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3739",
+      "texto": "ὧν",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Relativo-Genitivo-Plural-Neutro",
+      "parsing": "R-GPN",
+      "traduccion": "de cuales (cosas)"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5119",
+      "texto": "τότε",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2889",
+      "texto": "κόσμος",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "mundo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5204",
+      "texto": "ὕδατι",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Neutro",
+      "parsing": "N-DSN",
+      "traduccion": "a agua"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2626",
+      "texto": "κατακλυσθεὶς",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-APP-NSM",
+      "traduccion": "habiendo sido inundado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "622",
+      "texto": "ἀπώλετο·",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Medio-Indicativo-3ª Persona-Singular",
+      "parsing": "V-2AMI-3S",
+      "traduccion": "se destruyó"
+    }
+  ]
+}

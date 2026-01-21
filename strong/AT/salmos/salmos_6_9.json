@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 6:9 Reina Valera 1960",
+    "texto": "Jehová ha oído mi ruego; Ha recibido Jehová mi oración."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שָׁמַ֣ע",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ha oído"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8467",
+      "hebreo": "תְּחִנָּה",
+      "transliteracion": "תְּחִנָּתִ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi súplica"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֝הוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8605",
+      "hebreo": "תְּפִלָּה",
+      "transliteracion": "תְּֽפִלָּתִ֥י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi oración"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3947",
+      "hebreo": "לקח",
+      "transliteracion": "יִקָּֽח׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "acoge"
+    }
+  ]
+}

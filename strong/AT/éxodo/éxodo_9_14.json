@@ -1,0 +1,260 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 9:14 Reina Valera 1960",
+    "texto": "Porque yo enviaré esta vez todas mis plagas a tu corazón, sobre tus siervos y sobre tu pueblo, para que entiendas que no hay otro como yo en toda la tierra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י׀",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6471",
+      "hebreo": "פַּעַם",
+      "transliteracion": "פַּ֣עַם",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "vez"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2063",
+      "hebreo": "זֹאת",
+      "transliteracion": "זֹּ֗את",
+      "parsingLabel": "demonstrative pronombre femenino singular",
+      "parsing": "PRDE.F.SG",
+      "traduccion": "ésta"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲנִ֨י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "שֹׁלֵ֜חַ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "enviando"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todas"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4046",
+      "hebreo": "מַגֵּפָה",
+      "transliteracion": "מַגֵּפֹתַי֙",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mis plagas"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶֽל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִבְּךָ֔",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu corazón"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עֲבָדֶ֖יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus servidores"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמֶּ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu pueblo"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "5668",
+      "hebreo": "עֲבוּר",
+      "transliteracion": "עֲב֣וּר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "que"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "תֵּדַ֔ע",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "conozcas"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֛י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵ֥ין",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "no hay"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "3644",
+      "hebreo": "כְּמֹו",
+      "transliteracion": "כָּמֹ֖נִי",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "como yo"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "toda"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָֽרֶץ׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    }
+  ]
+}

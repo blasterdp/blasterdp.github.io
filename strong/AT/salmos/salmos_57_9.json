@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 57:9 Reina Valera 1960",
+    "texto": "Te alabaré entre los pueblos, oh Señor; Cantaré de ti entre las naciones."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3034",
+      "hebreo": "ידה",
+      "transliteracion": "אֹודְךָ֖",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "te alabaré"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמִּ֥ים׀",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "pueblos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "136",
+      "hebreo": "אֲדֹנָי",
+      "transliteracion": "אֲדֹנָ֑י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Señor"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2167",
+      "hebreo": "זמר",
+      "transliteracion": "אֲ֝זַמֶּרְךָ֗",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "te entonaré salmos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1077",
+      "hebreo": "בַּל",
+      "transliteracion": "בַּל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "523",
+      "hebreo": "אֻמָּה",
+      "transliteracion": "אֻמִּֽים׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "las naciones"
+    }
+  ]
+}

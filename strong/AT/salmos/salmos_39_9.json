@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 39:9 Reina Valera 1960",
+    "texto": "Enmudecí, no abrí mi boca, Porque tú lo hiciste."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "481",
+      "hebreo": "אלם",
+      "transliteracion": "נֶ֭אֱלַמְתִּי",
+      "parsingLabel": "verbo nif‘al perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.NIF.PERF.P1.U.SG",
+      "traduccion": "enmudecí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6605",
+      "hebreo": "פתח",
+      "transliteracion": "אֶפְתַּח־",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "abrí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi boca"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֖י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֣ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עָשִֽׂיתָ׃",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "hiciste"
+    }
+  ]
+}

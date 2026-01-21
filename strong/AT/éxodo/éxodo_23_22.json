@@ -1,0 +1,179 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 23:22 Reina Valera 1960",
+    "texto": "Pero si en verdad oyeres su voz e hicieres todo lo que yo te dijere, seré enemigo de tus enemigos, y afligiré a los que te afligieren."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שָׁמֹ֤עַ",
+      "parsingLabel": "adverbio qal infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.QAL.INFA.U.U.U.A",
+      "traduccion": "escuchar"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "תִּשְׁמַע֙",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "escuchas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6963",
+      "hebreo": "קֹול",
+      "transliteracion": "קֹלֹ֔ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su voz"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עָשִׂ֕יתָ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "haces"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֹּ֖ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "אֲדַבֵּ֑ר",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "digo"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אָֽיַבְתִּי֙",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "seré enemigo"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹ֣יְבֶ֔יךָ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus enemigos"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "3334",
+      "hebreo": "צרר",
+      "transliteracion": "צַרְתִּ֖י",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "afligiré"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "3334",
+      "hebreo": "צרר",
+      "transliteracion": "צֹרְרֶֽיךָ׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus aflictores"
+    }
+  ]
+}

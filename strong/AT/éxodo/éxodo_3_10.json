@@ -1,0 +1,143 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 3:10 Reina Valera 1960",
+    "texto": "Ven, por tanto, ahora, y te enviaré a Faraón, para que saques de Egipto a mi pueblo, los hijos de Israel."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6258",
+      "hebreo": "עַתָּה",
+      "transliteracion": "עַתָּ֣ה",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "ahora"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "לְכָ֔ה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "ven"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "אֶֽשְׁלָחֲךָ֖",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "te envío"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6547",
+      "hebreo": "פַּרְעֹה",
+      "transliteracion": "פַּרְעֹ֑ה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Faraón"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "הֹוצֵ֛א",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "saca"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמִּ֥י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi pueblo"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְנֵֽי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵ֖ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "4714",
+      "hebreo": "מִצְרַיִם",
+      "transliteracion": "מִּצְרָֽיִם׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Egipto"
+    }
+  ]
+}

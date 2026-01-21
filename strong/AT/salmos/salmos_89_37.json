@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 89:37 Reina Valera 1960",
+    "texto": "Como la luna será firme para siempre, Y como un testigo fiel en el cielo. Selah"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3394",
+      "hebreo": "יָרֵחַ",
+      "transliteracion": "יָרֵחַ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "la luna"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3559",
+      "hebreo": "כון",
+      "transliteracion": "יִכֹּ֣ון",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "será establecido"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5769",
+      "hebreo": "עֹולָם",
+      "transliteracion": "עֹולָ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "para siempre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5707",
+      "hebreo": "עֵד",
+      "transliteracion": "עֵ֥ד",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "testigo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7834",
+      "hebreo": "שַׁחַק",
+      "transliteracion": "שַּׁ֗חַק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "firmamento"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "539",
+      "hebreo": "אמן",
+      "transliteracion": "נֶאֱמָ֥ן",
+      "parsingLabel": "verbo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.M.SG.A",
+      "traduccion": "será firme"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5542",
+      "hebreo": "סֶלָה",
+      "transliteracion": "סֶֽלָה׃",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "Selah"
+    }
+  ]
+}

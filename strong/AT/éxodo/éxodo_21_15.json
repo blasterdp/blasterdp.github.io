@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 21:15 Reina Valera 1960",
+    "texto": "El que hiriere a su padre o a su madre, morirá."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5221",
+      "hebreo": "נכה",
+      "transliteracion": "מַכֵּ֥ה",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular constructivo",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.C",
+      "traduccion": "el que hiere"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אָבִ֛יו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "a su padre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "517",
+      "hebreo": "אֵם",
+      "transliteracion": "אִמֹּ֖ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "a su madre"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "מֹ֥ות",
+      "parsingLabel": "adverbio qal infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.QAL.INFA.U.U.U.A",
+      "traduccion": "morir"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "יוּמָֽת׃",
+      "parsingLabel": "verbo hof‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HOF.IMPF.P3.M.SG",
+      "traduccion": "morirá"
+    }
+  ]
+}

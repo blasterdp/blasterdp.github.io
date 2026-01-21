@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 56:8 Reina Valera 1960",
+    "texto": "Mis huidas tú has contado; Pon mis lágrimas en tu redoma; ¿No están ellas en tu libro?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5112",
+      "hebreo": "נֹדִי",
+      "transliteracion": "נֹדִי֮",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mis huidas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5608",
+      "hebreo": "ספר",
+      "transliteracion": "סָפַ֪רְתָּ֫ה",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "has contado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אָ֥תָּה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7760",
+      "hebreo": "שׂים",
+      "transliteracion": "שִׂ֣ימָה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "pon"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1832",
+      "hebreo": "דִּמְעָה",
+      "transliteracion": "דִמְעָתִ֣י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mis lágrimas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4997",
+      "hebreo": "נֹאד",
+      "transliteracion": "נֹאדֶ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu redoma"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ֝",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֗א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5612",
+      "hebreo": "סִפְרָה",
+      "transliteracion": "סִפְרָתֶֽךָ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu libro?"
+    }
+  ]
+}

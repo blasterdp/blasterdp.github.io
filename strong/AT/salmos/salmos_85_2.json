@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 85:2 Reina Valera 1960",
+    "texto": "Perdonaste la iniquidad de tu pueblo; Todos los pecados de ellos cubriste. Selah"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5375",
+      "hebreo": "נשׂא",
+      "transliteracion": "נָ֭שָׂאתָ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "perdonaste"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5771",
+      "hebreo": "עָוֹן",
+      "transliteracion": "עֲוֹ֣ן",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "iniquidad"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמֶּ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu pueblo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3680",
+      "hebreo": "כסה",
+      "transliteracion": "כִּסִּ֖יתָ",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG",
+      "traduccion": "cubriste"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2403",
+      "hebreo": "חַטָּאת",
+      "transliteracion": "חַטָּאתָ֣ם",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "su pecado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5542",
+      "hebreo": "סֶלָה",
+      "transliteracion": "סֶֽלָה׃",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "Selah"
+    }
+  ]
+}

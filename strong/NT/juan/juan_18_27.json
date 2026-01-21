@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Juan 18:27 Reina Valera 1960",
+    "texto": "Negó Pedro otra vez; y en seguida cantó el gallo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3825",
+      "texto": "πάλιν",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "Otra vez"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3767",
+      "texto": "οὖν",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "por lo tanto"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "720",
+      "texto": "ἠρνήσατο",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Deponente Medio-Indicativo-3ª Persona-Singular",
+      "parsing": "V-ADI-3S",
+      "traduccion": "negó"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4074",
+      "texto": "Πέτρος·",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "Pedro"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2112",
+      "texto": "εὐθέως",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "inmediatamente"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "220",
+      "texto": "ἀλέκτωρ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "gallo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5455",
+      "texto": "ἐφώνησεν.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-AAI-3S",
+      "traduccion": "emitió sonido"
+    }
+  ]
+}

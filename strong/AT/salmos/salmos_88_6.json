@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 88:6 Reina Valera 1960",
+    "texto": "Me has puesto en el hoyo profundo, En tinieblas, en lugares profundos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7896",
+      "hebreo": "שׁית",
+      "transliteracion": "שַׁ֭תַּנִי",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me has puesto"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "953",
+      "hebreo": "בֹּור",
+      "transliteracion": "בֹ֣ור",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "la fosa"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8482",
+      "hebreo": "תַּחְתִּי",
+      "transliteracion": "תַּחְתִּיֹּ֑ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "más profunda"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4285",
+      "hebreo": "מַחְשָׁךְ",
+      "transliteracion": "מַחֲשַׁכִּ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "lugares tenebrosos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4688",
+      "hebreo": "מְצֹולָה",
+      "transliteracion": "מְצֹלֹֽות׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "las profundidades"
+    }
+  ]
+}

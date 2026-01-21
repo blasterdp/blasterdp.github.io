@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 3:6 Reina Valera 1960",
+    "texto": "No temeré a diez millares de gente, Que pusieren sitio contra mí."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3372",
+      "hebreo": "ירא",
+      "transliteracion": "אִ֭ירָא",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "temeré"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7233",
+      "hebreo": "רְבָבָה",
+      "transliteracion": "רִבְבֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "millares"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עָ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de gente"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֥ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5439",
+      "hebreo": "סָבִיב",
+      "transliteracion": "סָ֝בִ֗יב",
+      "parsingLabel": "adverbio desconocido singular absoluto",
+      "parsing": "ADVB.U.SG.A",
+      "traduccion": "por todos lados"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7896",
+      "hebreo": "שׁית",
+      "transliteracion": "שָׁ֣תוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se han plantado"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלָֽי׃",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra mí"
+    }
+  ]
+}

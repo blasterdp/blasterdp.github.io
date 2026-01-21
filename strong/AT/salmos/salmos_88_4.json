@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 88:4 Reina Valera 1960",
+    "texto": "Soy contado entre los que descienden al sepulcro; Soy como hombre sin fuerza,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2803",
+      "hebreo": "חשׁב",
+      "transliteracion": "נֶ֭חְשַׁבְתִּי",
+      "parsingLabel": "verbo nif‘al perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.NIF.PERF.P1.U.SG",
+      "traduccion": "soy contado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3381",
+      "hebreo": "ירד",
+      "transliteracion": "יֹ֣ורְדֵי",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "que bajan"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "953",
+      "hebreo": "בֹּור",
+      "transliteracion": "בֹ֑ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "a fosa"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָ֝יִ֗יתִי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "he venido a ser"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1397",
+      "hebreo": "גֶּבֶר",
+      "transliteracion": "גֶ֣בֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "varón"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵֽין־",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "sin"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "353",
+      "hebreo": "אֱיָל",
+      "transliteracion": "אֱיָֽל׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "fuerza"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 37:33 Reina Valera 1960",
+    "texto": "Jehová no lo dejará en sus manos, Ni lo condenará cuando le juzgaren."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5800",
+      "hebreo": "עזב",
+      "transliteracion": "יַעַזְבֶ֣נּוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "lo dejará"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדֹ֑ו",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "mano de él"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7561",
+      "hebreo": "רשׁע",
+      "transliteracion": "יַ֝רְשִׁיעֶ֗נּוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "permitirá que lo condenen"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "8199",
+      "hebreo": "שׁפט",
+      "transliteracion": "הִשָּׁפְטֹֽו׃",
+      "parsingLabel": "verbo nif‘al infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.INFC.U.U.U.A.PRS.P3.M.SG",
+      "traduccion": "sea juzgado"
+    }
+  ]
+}

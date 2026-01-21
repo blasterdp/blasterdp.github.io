@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 20:2 Reina Valera 1960",
+    "texto": "Te envíe ayuda desde el santuario, Y desde Sion te sostenga."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "יִשְׁלַֽח־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "que envíe"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5828",
+      "hebreo": "עֵזֶר",
+      "transliteracion": "עֶזְרְךָ֥",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu ayuda"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6944",
+      "hebreo": "קֹדֶשׁ",
+      "transliteracion": "קֹּ֑דֶשׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "el santuario"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6726",
+      "hebreo": "צִיֹּון",
+      "transliteracion": "צִּיֹּ֗ון",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Sión"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5582",
+      "hebreo": "סעד",
+      "transliteracion": "יִסְעָדֶֽךָּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P2.M.SG",
+      "traduccion": "te sostenga"
+    }
+  ]
+}

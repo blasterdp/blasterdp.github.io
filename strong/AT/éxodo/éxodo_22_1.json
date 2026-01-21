@@ -1,0 +1,206 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 22:1 Reina Valera 1960",
+    "texto": "Cuando alguno hurtare buey u oveja, y lo degollare o vendiere, por aquel buey pagará cinco bueyes, y por aquella oveja cuatro ovejas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֤י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1589",
+      "hebreo": "גנב",
+      "transliteracion": "יִגְנֹֽב־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "hurtare"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִישׁ֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7794",
+      "hebreo": "שֹׁור",
+      "transliteracion": "שֹׁ֣ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "toro"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "176",
+      "hebreo": "אֹו",
+      "transliteracion": "אֹו־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "u"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7716",
+      "hebreo": "שֶׂה",
+      "transliteracion": "שֶׂ֔ה",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "oveja"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2873",
+      "hebreo": "טבח",
+      "transliteracion": "טְבָחֹ֖ו",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "lo degüella"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "176",
+      "hebreo": "אֹו",
+      "transliteracion": "אֹ֣ו",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4376",
+      "hebreo": "מכר",
+      "transliteracion": "מְכָרֹ֑ו",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "lo vende"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2568",
+      "hebreo": "חָמֵשׁ",
+      "transliteracion": "חֲמִשָּׁ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "cinco"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "1241",
+      "hebreo": "בָּקָר",
+      "transliteracion": "בָקָ֗ר",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "bueyes"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "7999",
+      "hebreo": "שׁלם",
+      "transliteracion": "יְשַׁלֵּם֙",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "pagará"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּ֣חַת",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "por"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "7794",
+      "hebreo": "שֹׁור",
+      "transliteracion": "שֹּׁ֔ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "toro"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "702",
+      "hebreo": "אַרְבַּע",
+      "transliteracion": "אַרְבַּע־",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "cuatro"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "6629",
+      "hebreo": "צֹאן",
+      "transliteracion": "צֹ֖אן",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "ovejas"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּ֥חַת",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "por"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "7716",
+      "hebreo": "שֶׂה",
+      "transliteracion": "שֶּֽׂה׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "oveja"
+    }
+  ]
+}

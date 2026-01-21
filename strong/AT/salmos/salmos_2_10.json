@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 2:10 Reina Valera 1960",
+    "texto": "Ahora, pues, oh reyes, sed prudentes; Admitid amonestación, jueces de la tierra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6258",
+      "hebreo": "עַתָּה",
+      "transliteracion": "עַתָּה",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "atiempo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מְלָכִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "reyes"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7919",
+      "hebreo": "שׂכל",
+      "transliteracion": "הַשְׂכִּ֑ילוּ",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPV.P2.M.PL",
+      "traduccion": "portaos con sensatez"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3256",
+      "hebreo": "יסר",
+      "transliteracion": "הִ֝וָּסְר֗וּ",
+      "parsingLabel": "verbo nif‘al imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.NIF.IMPV.P2.M.PL",
+      "traduccion": "dejaos amonestar"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8199",
+      "hebreo": "שׁפט",
+      "transliteracion": "שֹׁ֣פְטֵי",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "jueces"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָֽרֶץ׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de tierra"
+    }
+  ]
+}

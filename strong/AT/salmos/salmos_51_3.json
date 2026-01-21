@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 51:3 Reina Valera 1960",
+    "texto": "Porque yo reconozco mis rebeliones, Y mi pecado está siempre delante de mí."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6588",
+      "hebreo": "פֶּשַׁע",
+      "transliteracion": "פְ֭שָׁעַי",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis transgresiones"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲנִ֣י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "אֵדָ֑ע",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "reconozco"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2403",
+      "hebreo": "חַטָּאת",
+      "transliteracion": "חַטָּאתִ֖י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi pecado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5048",
+      "hebreo": "נֶגֶד",
+      "transliteracion": "נֶגְדִּ֣י",
+      "parsingLabel": "preposición masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "delante de mí"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8548",
+      "hebreo": "תָּמִיד",
+      "transliteracion": "תָמִֽיד׃",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "siempre"
+    }
+  ]
+}

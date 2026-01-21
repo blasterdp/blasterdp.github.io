@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 86:3 Reina Valera 1960",
+    "texto": "Ten misericordia de mí, oh Jehová; Porque a ti clamo todo el día."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2603",
+      "hebreo": "חנן",
+      "transliteracion": "חָנֵּ֥נִי",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "ten piedad de mí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "136",
+      "hebreo": "אֲדֹנָי",
+      "transliteracion": "אֲדֹנָ֑י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Señor"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֥י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֵלֶ֥יךָ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "a ti"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7121",
+      "hebreo": "קרא",
+      "transliteracion": "אֶ֝קְרָ֗א",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "clamo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹּֽום׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    }
+  ]
+}

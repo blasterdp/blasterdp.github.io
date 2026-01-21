@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 38:13 Reina Valera 1960",
+    "texto": "Mas yo, como si fuera sordo, no oigo; Y soy como mudo que no abre la boca."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲנִ֣י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2795",
+      "hebreo": "חֵרֵשׁ",
+      "transliteracion": "חֵרֵשׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "un sordo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "אֶשְׁמָ֑ע",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "escucho"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "483",
+      "hebreo": "אִלֵּם",
+      "transliteracion": "אִלֵּ֗ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "un mudo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "6605",
+      "hebreo": "פתח",
+      "transliteracion": "יִפְתַּח־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "abre"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּֽיו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su boca"
+    }
+  ]
+}

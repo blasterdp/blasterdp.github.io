@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 44:17 Reina Valera 1960",
+    "texto": "Todo esto nos ha venido, y no nos hemos olvidado de ti, Y no hemos faltado a tu pacto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2063",
+      "hebreo": "זֹאת",
+      "transliteracion": "זֹ֣את",
+      "parsingLabel": "demonstrative pronombre femenino singular",
+      "parsing": "PRDE.F.SG",
+      "traduccion": "esto"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "בָּ֭אַתְנוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG.PRS.P1.U.PL",
+      "traduccion": "nos ha sobrevenido"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "שְׁכַחֲנ֑וּךָ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido plural pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.PL.PRS.P2.M.SG",
+      "traduccion": "te hemos olvidado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8266",
+      "hebreo": "שׁקר",
+      "transliteracion": "שִׁ֝קַּ֗רְנוּ",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.PIEL.PERF.P1.U.PL",
+      "traduccion": "hemos actuado falsamente"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1285",
+      "hebreo": "בְּרִית",
+      "transliteracion": "בְרִיתֶֽךָ׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu pacto"
+    }
+  ]
+}

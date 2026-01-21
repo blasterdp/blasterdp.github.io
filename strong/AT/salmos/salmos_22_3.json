@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 22:3 Reina Valera 1960",
+    "texto": "Pero tú eres santo, Tú que habitas entre las alabanzas de Israel."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֥ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6918",
+      "hebreo": "קָדֹושׁ",
+      "transliteracion": "קָדֹ֑ושׁ",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "santo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3427",
+      "hebreo": "ישׁב",
+      "transliteracion": "יֹ֝ושֵׁ֗ב",
+      "parsingLabel": "verbo qal participio desconocido masculino singular constructivo",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.C",
+      "traduccion": "asentado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8416",
+      "hebreo": "תְּהִלָּה",
+      "transliteracion": "תְּהִלֹּ֥ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "alabanzas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵֽל׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Israel"
+    }
+  ]
+}

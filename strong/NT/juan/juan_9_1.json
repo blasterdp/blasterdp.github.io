@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Juan 9:1 Reina Valera 1960",
+    "texto": "Al pasar Jesús, vio a un hombre ciego de nacimiento."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2532",
+      "texto": "Καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3855",
+      "texto": "παράγων",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-PAP-NSM",
+      "traduccion": "pasando al lado de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3708",
+      "texto": "εἶδεν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-2AAI-3S",
+      "traduccion": "vio"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "444",
+      "texto": "ἄνθρωπον",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Masculino",
+      "parsing": "N-ASM",
+      "traduccion": "a hombre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5185",
+      "texto": "τυφλὸν",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Masculino",
+      "parsing": "A-ASM",
+      "traduccion": "ciego"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1537",
+      "texto": "ἐκ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "procedente de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1079",
+      "texto": "γενετῆς.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Femenino",
+      "parsing": "N-GSF",
+      "traduccion": "nacimiento"
+    }
+  ]
+}

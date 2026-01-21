@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 9:26 Reina Valera 1960",
+    "texto": "Solamente en la tierra de Gosén, donde estaban los hijos de Israel, no hubo granizo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7535",
+      "hebreo": "רַק",
+      "transliteracion": "רַ֚ק",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "Sólo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֣רֶץ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "tierra de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1657",
+      "hebreo": "גֹּשֶׁן",
+      "transliteracion": "גֹּ֔שֶׁן",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Gosén"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8033",
+      "hebreo": "שָׁם",
+      "transliteracion": "שָׁ֖ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "allí"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵ֑ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָיָ֖ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "hubo"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1259",
+      "hebreo": "בָּרָד",
+      "transliteracion": "בָּרָֽד׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "granizo"
+    }
+  ]
+}

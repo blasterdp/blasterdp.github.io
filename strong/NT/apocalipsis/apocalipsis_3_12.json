@@ -1,0 +1,476 @@
+{
+  "versiculo": {
+    "referencia": "Apocalipsis 3:12 Reina Valera 1960",
+    "texto": "Al que venciere, yo lo haré columna en el templo de mi Dios, y nunca más saldrá de allí; y escribiré sobre él el nombre de mi Dios, y el nombre de la ciudad de mi Dios, la nueva Jerusalén, la cual desciende del cielo, de mi Dios, y mi nombre nuevo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "El"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3528",
+      "texto": "νικῶν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-PAP-NSM",
+      "traduccion": "ganando victoriosamente"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4160",
+      "texto": "ποιήσω",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Futuro-Activo-Indicativo-1ª Persona-Singular",
+      "parsing": "V-FAI-1S",
+      "traduccion": "haré"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "846",
+      "texto": "αὐτὸν",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Acusativo-Singular-Masculino",
+      "parsing": "P-ASM",
+      "traduccion": "a él"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4769",
+      "texto": "στῦλον",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Masculino",
+      "parsing": "N-ASM",
+      "traduccion": "columna"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1722",
+      "texto": "ἐν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3588",
+      "texto": "τῷ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Dativo-Singular-Masculino",
+      "parsing": "T-DSM",
+      "traduccion": "la"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3485",
+      "texto": "ναῷ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Masculino",
+      "parsing": "N-DSM",
+      "traduccion": "habitación divina"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "de el"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2316",
+      "texto": "θεοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1473",
+      "texto": "μου,",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Genitivo-Singular",
+      "parsing": "P-1GS",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "1854",
+      "texto": "ἔξω",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "afuera"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3756",
+      "texto": "οὐ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "3361",
+      "texto": "μὴ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "1831",
+      "texto": "ἐξέλθῃ",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Subjuntivo-3ª Persona-Singular",
+      "parsing": "V-2AAS-3S",
+      "traduccion": "salga"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "2089",
+      "texto": "ἔτι,",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "ya"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "1125",
+      "texto": "γράψω",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Futuro-Activo-Indicativo-1ª Persona-Singular",
+      "parsing": "V-FAI-1S",
+      "traduccion": "escribiré"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "1909",
+      "texto": "ἐπ’",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "846",
+      "texto": "αὐτὸν",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Acusativo-Singular-Masculino",
+      "parsing": "P-ASM",
+      "traduccion": "él"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Neutro",
+      "parsing": "T-ASN",
+      "traduccion": "el"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "3686",
+      "texto": "ὄνομα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Neutro",
+      "parsing": "N-ASN",
+      "traduccion": "nombre"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "de el"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "2316",
+      "texto": "θεοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "1473",
+      "texto": "μου",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Genitivo-Singular",
+      "parsing": "P-1GS",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Neutro",
+      "parsing": "T-ASN",
+      "traduccion": "el"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "3686",
+      "texto": "ὄνομα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Neutro",
+      "parsing": "N-ASN",
+      "traduccion": "nombre"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "3588",
+      "texto": "τῆς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Femenino",
+      "parsing": "T-GSF",
+      "traduccion": "de la"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "4172",
+      "texto": "πόλεως",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Femenino",
+      "parsing": "N-GSF",
+      "traduccion": "ciudad"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "de el"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "2316",
+      "texto": "θεοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "1473",
+      "texto": "μου,",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Genitivo-Singular",
+      "parsing": "P-1GS",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 35,
+      "strongNumber": "3588",
+      "texto": "τῆς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Femenino",
+      "parsing": "T-GSF",
+      "traduccion": "de la"
+    },
+    {
+      "numero": 36,
+      "strongNumber": "2537",
+      "texto": "καινῆς",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Genitivo-Singular-Femenino",
+      "parsing": "A-GSF",
+      "traduccion": "nueva"
+    },
+    {
+      "numero": 37,
+      "strongNumber": "2419",
+      "texto": "Ἱερουσαλήμ,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Apropiado",
+      "parsing": "N-PRI",
+      "traduccion": "Jerusalén"
+    },
+    {
+      "numero": 38,
+      "strongNumber": "3588",
+      "texto": "ἡ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Femenino",
+      "parsing": "T-NSF",
+      "traduccion": "la"
+    },
+    {
+      "numero": 39,
+      "strongNumber": "2597",
+      "texto": "καταβαίνουσα",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Singular-Femenino",
+      "parsing": "V-PAP-NSF",
+      "traduccion": "descendiendo"
+    },
+    {
+      "numero": 40,
+      "strongNumber": "1537",
+      "texto": "ἐκ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "procedente de"
+    },
+    {
+      "numero": 41,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 42,
+      "strongNumber": "3772",
+      "texto": "οὐρανοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "cielo"
+    },
+    {
+      "numero": 43,
+      "strongNumber": "575",
+      "texto": "ἀπὸ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 44,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 45,
+      "strongNumber": "2316",
+      "texto": "θεοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 46,
+      "strongNumber": "1473",
+      "texto": "μου,",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Genitivo-Singular",
+      "parsing": "P-1GS",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 47,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 48,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Neutro",
+      "parsing": "T-ASN",
+      "traduccion": "el"
+    },
+    {
+      "numero": 49,
+      "strongNumber": "3686",
+      "texto": "ὄνομά",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Neutro",
+      "parsing": "N-ASN",
+      "traduccion": "nombre"
+    },
+    {
+      "numero": 50,
+      "strongNumber": "1473",
+      "texto": "μου",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Genitivo-Singular",
+      "parsing": "P-1GS",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 51,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Neutro",
+      "parsing": "T-ASN",
+      "traduccion": "el"
+    },
+    {
+      "numero": 52,
+      "strongNumber": "2537",
+      "texto": "καινόν.",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Neutro",
+      "parsing": "A-ASN",
+      "traduccion": "nuevo"
+    }
+  ]
+}

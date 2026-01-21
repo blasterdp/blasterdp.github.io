@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 46:3 Reina Valera 1960",
+    "texto": "Aunque bramen y se turben sus aguas, Y tiemblen los montes a causa de su braveza. Selah"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1993",
+      "hebreo": "המה",
+      "transliteracion": "יֶהֱמ֣וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "aunque bramen"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2560",
+      "hebreo": "חמר",
+      "transliteracion": "יֶחְמְר֣וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "se agiten"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מֵימָ֑יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus aguas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7493",
+      "hebreo": "רעשׁ",
+      "transliteracion": "יִֽרְעֲשֽׁוּ־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "tiemblen"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הָרִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "montes"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1346",
+      "hebreo": "גַּאֲוָה",
+      "transliteracion": "גַאֲוָתֹ֣ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su ímpetu"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5542",
+      "hebreo": "סֶלָה",
+      "transliteracion": "סֶֽלָה׃",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "Selah"
+    }
+  ]
+}

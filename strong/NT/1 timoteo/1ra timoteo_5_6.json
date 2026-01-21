@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "1ra Timoteo 5:6 Reina Valera 1960",
+    "texto": "Pero la que se entrega a los placeres, viviendo está muerta."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "texto": "ἡ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Femenino",
+      "parsing": "T-NSF",
+      "traduccion": "La"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1161",
+      "texto": "δὲ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4684",
+      "texto": "σπαταλῶσα",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Singular-Femenino",
+      "parsing": "V-PAP-NSF",
+      "traduccion": "viviendo para placer"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2198",
+      "texto": "ζῶσα",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Singular-Femenino",
+      "parsing": "V-PAP-NSF",
+      "traduccion": "viviendo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2348",
+      "texto": "τέθνηκεν.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-RAI-3S",
+      "traduccion": "ha muerto"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 65:3 Reina Valera 1960",
+    "texto": "Las iniquidades prevalecen contra mí; Mas nuestras rebeliones tú las perdonarás."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דִּבְרֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "acciones"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5771",
+      "hebreo": "עָוֹן",
+      "transliteracion": "עֲ֭וֹנֹת",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "inicuas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1396",
+      "hebreo": "גבר",
+      "transliteracion": "גָּ֣בְרוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "pesan demasiado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֶ֑נִּי",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "para mí"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6588",
+      "hebreo": "פֶּשַׁע",
+      "transliteracion": "פְּ֝שָׁעֵ֗ינוּ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestras transgresiones"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֥ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3722",
+      "hebreo": "כפר",
+      "transliteracion": "תְכַפְּרֵֽם׃",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG.PRS.P3.M.PL",
+      "traduccion": "las expías"
+    }
+  ]
+}

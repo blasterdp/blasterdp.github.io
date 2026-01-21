@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:70 Reina Valera 1960",
+    "texto": "Eligió a David su siervo, Y lo tomó de las majadas de las ovejas;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "también"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "977",
+      "hebreo": "בחר",
+      "transliteracion": "יִּבְחַר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "eligió"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1732",
+      "hebreo": "דָּוִד",
+      "transliteracion": "דָוִ֣ד",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "David"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עַבְדֹּ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su siervo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3947",
+      "hebreo": "לקח",
+      "transliteracion": "יִּקָּחֵ֗הוּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "lo tomó"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de entre"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4356",
+      "hebreo": "מִכְלָא",
+      "transliteracion": "מִּכְלְאֹ֥ת",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "los apriscos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6629",
+      "hebreo": "צֹאן",
+      "transliteracion": "צֹֽאן׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de ovejas"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Hebreos 10:4 Reina Valera 1960",
+    "texto": "porque la sangre de los toros y de los machos cabríos no puede quitar los pecados."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "102",
+      "texto": "ἀδύνατον",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Neutro",
+      "parsing": "A-NSN",
+      "traduccion": "Imposible"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1063",
+      "texto": "γὰρ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "129",
+      "texto": "αἷμα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Neutro",
+      "parsing": "N-NSN",
+      "traduccion": "sangre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5022",
+      "texto": "ταύρων",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Plural-Masculino",
+      "parsing": "N-GPM",
+      "traduccion": "de toros"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5131",
+      "texto": "τράγων",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Plural-Masculino",
+      "parsing": "N-GPM",
+      "traduccion": "de machos cabríos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "851",
+      "texto": "ἀφαιρεῖν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Infinitivo",
+      "parsing": "V-PAN",
+      "traduccion": "estar alzando completamente"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "266",
+      "texto": "ἁμαρτίας.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Plural-Femenino",
+      "parsing": "N-APF",
+      "traduccion": "pecados"
+    }
+  ]
+}

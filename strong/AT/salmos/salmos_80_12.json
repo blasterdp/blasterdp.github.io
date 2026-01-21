@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 80:12 Reina Valera 1960",
+    "texto": "¿Por qué aportillaste sus vallados, Y la vendimian todos los que pasan por el camino?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4100",
+      "hebreo": "לָמָה",
+      "transliteracion": "לָ֭מָּה",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿por qué"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6555",
+      "hebreo": "פרץ",
+      "transliteracion": "פָּרַ֣צְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "has abierto brecha"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1444",
+      "hebreo": "גָּדֵר",
+      "transliteracion": "גְדֵרֶ֑יהָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "su cerca"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "717",
+      "hebreo": "ארה",
+      "transliteracion": "אָר֗וּהָ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P3.F.SG",
+      "traduccion": "la vendimian"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "עֹ֥בְרֵי",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "los que pasan"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דָֽרֶךְ׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de camino?"
+    }
+  ]
+}

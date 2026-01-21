@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 66:14 Reina Valera 1960",
+    "texto": "Que pronunciaron mis labios Y habló mi boca, cuando estaba angustiado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6475",
+      "hebreo": "פצה",
+      "transliteracion": "פָּצ֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "pronunciaron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שְׂפָתָ֑י",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "mis labios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "דִבֶּר־",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "habló"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּ֝֗י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi boca"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6862",
+      "hebreo": "צַר",
+      "transliteracion": "צַּר־",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "angustia"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִֽי׃",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "mía"
+    }
+  ]
+}

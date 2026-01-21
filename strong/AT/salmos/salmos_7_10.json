@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 7:10 Reina Valera 1960",
+    "texto": "Mi escudo está en Dios, Que salva a los rectos de corazón."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4043",
+      "hebreo": "מָגֵן",
+      "transliteracion": "מָֽגִנִּ֥י",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi escudo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "junto"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3467",
+      "hebreo": "ישׁע",
+      "transliteracion": "מֹ֝ושִׁ֗יעַ",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "que salva"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3477",
+      "hebreo": "יָשָׁר",
+      "transliteracion": "יִשְׁרֵי־",
+      "parsingLabel": "adjetivo masculino plural constructivo",
+      "parsing": "ADJV.M.PL.C",
+      "traduccion": "a rectos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לֵֽב׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de corazón"
+    }
+  ]
+}

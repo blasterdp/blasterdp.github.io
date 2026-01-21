@@ -1,0 +1,125 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 32:4 Reina Valera 1960",
+    "texto": "Porque de día y de noche se agravó sobre mí tu mano; Se volvió mi verdor en sequedades de verano. Selah"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֤י׀",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3119",
+      "hebreo": "יֹומָם",
+      "transliteracion": "יֹומָ֣ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "día"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3915",
+      "hebreo": "לַיְלָה",
+      "transliteracion": "לַיְלָה֮",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "noche"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3513",
+      "hebreo": "כבד",
+      "transliteracion": "תִּכְבַּ֥ד",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "pesaba"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלַ֗י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre mí"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָ֫דֶ֥ךָ",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu mano"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2015",
+      "hebreo": "הפך",
+      "transliteracion": "נֶהְפַּ֥ךְ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "se convirtió"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3955",
+      "hebreo": "לָשָׁד",
+      "transliteracion": "לְשַׁדִּ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi savia"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2725",
+      "hebreo": "חֲרָבֹון",
+      "transliteracion": "חַרְבֹ֖נֵי",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "ardores"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "7019",
+      "hebreo": "קַיִץ",
+      "transliteracion": "קַ֣יִץ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de verano"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "5542",
+      "hebreo": "סֶלָה",
+      "transliteracion": "סֶֽלָה׃",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "Selah"
+    }
+  ]
+}

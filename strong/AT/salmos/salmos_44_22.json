@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 44:22 Reina Valera 1960",
+    "texto": "Pero por causa de ti nos matan cada día; Somos contados como ovejas para el matadero."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָ֭לֶיךָ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "por tu causa"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2026",
+      "hebreo": "הרג",
+      "transliteracion": "הֹרַ֣גְנוּ",
+      "parsingLabel": "verbo pu“al perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.PUAL.PERF.P1.U.PL",
+      "traduccion": "se nos mata"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹּ֑ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2803",
+      "hebreo": "חשׁב",
+      "transliteracion": "נֶ֝חְשַׁ֗בְנוּ",
+      "parsingLabel": "verbo nif‘al perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P1.U.PL",
+      "traduccion": "somos considerados"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6629",
+      "hebreo": "צֹאן",
+      "transliteracion": "צֹ֣אן",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "oveja"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2878",
+      "hebreo": "טִבְחָה",
+      "transliteracion": "טִבְחָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "matadero"
+    }
+  ]
+}

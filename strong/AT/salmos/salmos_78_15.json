@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:15 Reina Valera 1960",
+    "texto": "Hendió las peñas en el desierto, Y les dio a beber como de grandes abismos,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1234",
+      "hebreo": "בקע",
+      "transliteracion": "יְבַקַּ֣ע",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "hendió"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6697",
+      "hebreo": "צוּר",
+      "transliteracion": "צֻ֭רִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "rocas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4057",
+      "hebreo": "מִדְבָּר",
+      "transliteracion": "מִּדְבָּ֑ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Desierto"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8248",
+      "hebreo": "שׁקה",
+      "transliteracion": "יַּ֗שְׁקְ",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG",
+      "traduccion": "les dio a beber"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8415",
+      "hebreo": "תְּהֹום",
+      "transliteracion": "תְהֹמֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "abismos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַבָּֽה׃",
+      "parsingLabel": "adverbio femenino singular absoluto",
+      "parsing": "ADVB.F.SG.A",
+      "traduccion": "en abundancia"
+    }
+  ]
+}

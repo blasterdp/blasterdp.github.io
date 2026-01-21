@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 33:6 Reina Valera 1960",
+    "texto": "Por la palabra de Jehová fueron hechos los cielos, Y todo el ejército de ellos por el aliento de su boca."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְבַ֣ר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "palabra de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8064",
+      "hebreo": "שָׁמַיִם",
+      "transliteracion": "שָׁמַ֣יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Cielos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "נַעֲשׂ֑וּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "fueron hechos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֥וּחַ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "aliento"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּ֝֗יו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su boca"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "toda"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "6635",
+      "hebreo": "צָבָא",
+      "transliteracion": "צְבָאָֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su hueste"
+    }
+  ]
+}

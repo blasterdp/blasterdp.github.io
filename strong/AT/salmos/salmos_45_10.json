@@ -1,0 +1,125 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 45:10 Reina Valera 1960",
+    "texto": "Oye, hija, y mira, e inclina tu oído; Olvida tu pueblo, y la casa de tu padre;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שִׁמְעִי־",
+      "parsingLabel": "verbo qal imperativo 2ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.F.SG",
+      "traduccion": "escucha"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1323",
+      "hebreo": "בַּת",
+      "transliteracion": "בַ֣ת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "hija"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רְאִי",
+      "parsingLabel": "verbo qal imperativo 2ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.F.SG",
+      "traduccion": "mira"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "e"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5186",
+      "hebreo": "נטה",
+      "transliteracion": "הַטִּ֣י",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona femenino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.F.SG",
+      "traduccion": "inclina"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אָזְנֵ֑ךְ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.F.SG",
+      "traduccion": "tu oído"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "שִׁכְחִ֥י",
+      "parsingLabel": "verbo qal imperativo 2ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.F.SG",
+      "traduccion": "olvida"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַ֝מֵּ֗ךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.F.SG",
+      "traduccion": "tu pueblo"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵ֥ית",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "casa"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אָבִֽיךְ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.F.SG",
+      "traduccion": "de tu padre"
+    }
+  ]
+}

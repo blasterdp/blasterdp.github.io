@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Galatas 5:9 Reina Valera 1960",
+    "texto": "Un poco de levadura leuda toda la masa."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3398",
+      "texto": "μικρὰ",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Femenino",
+      "parsing": "A-NSF",
+      "traduccion": "Pequeña"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2219",
+      "texto": "ζύμη",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "levadura"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3650",
+      "texto": "ὅλον",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Neutro",
+      "parsing": "A-ASN",
+      "traduccion": "entera"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Neutro",
+      "parsing": "T-ASN",
+      "traduccion": "a la"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5445",
+      "texto": "φύραμα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Neutro",
+      "parsing": "N-ASN",
+      "traduccion": "masa"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2220",
+      "texto": "ζυμοῖ.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está leudando"
+    }
+  ]
+}

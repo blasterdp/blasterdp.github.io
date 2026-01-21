@@ -1,0 +1,170 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 3:9 Reina Valera 1960",
+    "texto": "El clamor, pues, de los hijos de Israel ha venido delante de mí, y también he visto la opresión con que los egipcios los oprimen."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6258",
+      "hebreo": "עַתָּה",
+      "transliteracion": "עַתָּ֕ה",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "ahora"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנֵּ֛ה",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "he aquí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6818",
+      "hebreo": "צְעָקָה",
+      "transliteracion": "צַעֲקַ֥ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "clamor"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵ֖ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "בָּ֣אָה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "vino"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֵלָ֑י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a mi"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "también"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָאִ֨יתִי֙",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "vi"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3906",
+      "hebreo": "לַחַץ",
+      "transliteracion": "לַּ֔חַץ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "opresión"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֥ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "4714",
+      "hebreo": "מִצְרַיִם",
+      "transliteracion": "מִצְרַ֖יִם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "egipcios"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "3905",
+      "hebreo": "לחץ",
+      "transliteracion": "לֹחֲצִ֥ים",
+      "parsingLabel": "verbo qal participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.A",
+      "traduccion": "oprimiendo"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֹתָֽם׃",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "a ellos"
+    }
+  ]
+}

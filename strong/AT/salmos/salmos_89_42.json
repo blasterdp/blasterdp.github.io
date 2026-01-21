@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 89:42 Reina Valera 1960",
+    "texto": "Has exaltado la diestra de sus enemigos; Has alegrado a todos sus adversarios."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7311",
+      "hebreo": "רום",
+      "transliteracion": "הֲ֭רִימֹותָ",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG",
+      "traduccion": "has exaltado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3225",
+      "hebreo": "יָמִין",
+      "transliteracion": "יְמִ֣ין",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "diestra"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6862",
+      "hebreo": "צַר",
+      "transliteracion": "צָרָ֑יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "de sus adversarios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8055",
+      "hebreo": "שׂמח",
+      "transliteracion": "הִ֝שְׂמַ֗חְתָּ",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG",
+      "traduccion": "has hecho alegrarse"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "a todos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹויְבָֽיו׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus enemigos"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 10:6 Reina Valera 1960",
+    "texto": "Y llenará tus casas, y las casas de todos tus siervos, y las casas de todos los egipcios, cual nunca vieron tus padres ni tus abuelos, desde que ellos fueron sobre la tierra hasta hoy. Y se volvió y salió de delante de Faraón."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4390",
+      "hebreo": "מלא",
+      "transliteracion": "מָלְא֨וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "llenarán"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בָתֶּ֜יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus casas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בָתֵּ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "casas de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עֲבָדֶיךָ֮",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus siervos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בָתֵּ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "casas de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "4714",
+      "hebreo": "מִצְרַיִם",
+      "transliteracion": "מִצְרַיִם֒",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "egipcios"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֨ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָא֤וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "vieron"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אֲבֹתֶ֨יךָ֙",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus padres"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אֲבֹו֣ת",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "padres de"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אֲבֹתֶ֔יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus padres"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹּ֗ום",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "día"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הֱיֹותָם֙",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A.PRS.P3.M.PL",
+      "traduccion": "su establecer"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ֣",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "127",
+      "hebreo": "אֲדָמָה",
+      "transliteracion": "אֲדָמָ֔ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַ֖ד",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹּ֣ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶּ֑ה",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "éste"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "6437",
+      "hebreo": "פנה",
+      "transliteracion": "יִּ֥פֶן",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "se volvió"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "יֵּצֵ֖א",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "salió"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 35,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִ֥ם",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 36,
+      "strongNumber": "6547",
+      "hebreo": "פַּרְעֹה",
+      "transliteracion": "פַּרְעֹֽה׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Faraón"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 22:18 Reina Valera 1960",
+    "texto": "A la hechicera no dejarás que viva."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3784",
+      "hebreo": "כשׁף",
+      "transliteracion": "מְכַשֵּׁפָ֖ה",
+      "parsingLabel": "sustantivo pi“el participio desconocido femenino singular absoluto",
+      "parsing": "SUBS.PIEL.PTCA.U.F.SG.A",
+      "traduccion": "Hechicera"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2421",
+      "hebreo": "חיה",
+      "transliteracion": "תְחַיֶּֽה׃ ס",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG",
+      "traduccion": "vivirá"
+    }
+  ]
+}

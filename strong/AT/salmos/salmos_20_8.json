@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 20:8 Reina Valera 1960",
+    "texto": "Ellos flaquean y caen, Mas nosotros nos levantamos, y estamos en pie."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1992",
+      "hebreo": "הֵמָּה",
+      "transliteracion": "הֵ֭מָּה",
+      "parsingLabel": "pronombre personal 3ª persona masculino plural",
+      "parsing": "PRPS.P3.M.PL",
+      "traduccion": "ellos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3766",
+      "hebreo": "כרע",
+      "transliteracion": "כָּרְע֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se doblegaron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "נָפָ֑לוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "cayeron"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "587",
+      "hebreo": "אֲנַחְנוּ",
+      "transliteracion": "אֲנַ֥חְנוּ",
+      "parsingLabel": "pronombre personal 1ª persona desconocido plural",
+      "parsing": "PRPS.P1.U.PL",
+      "traduccion": "nosotros"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "קַּ֝֗מְנוּ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P1.U.PL",
+      "traduccion": "nos hemos levantado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5749",
+      "hebreo": "עוד",
+      "transliteracion": "נִּתְעֹודָֽד׃",
+      "parsingLabel": "verbo hitpa“el wayyiqtol 1ª persona desconocido plural",
+      "parsing": "VERB.HIT.WAYQ.P1.U.PL",
+      "traduccion": "nos mantenemos en pie"
+    }
+  ]
+}

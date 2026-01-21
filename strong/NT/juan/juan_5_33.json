@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Juan 5:33 Reina Valera 1960",
+    "texto": "Vosotros enviasteis mensajeros a Juan, y él dio testimonio de la verdad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5210",
+      "texto": "ὑμεῖς",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Nominativo-Plural",
+      "parsing": "P-2NP",
+      "traduccion": "Ustedes"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "649",
+      "texto": "ἀπεστάλκατε",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Activo-Indicativo-2ª Persona-Plural",
+      "parsing": "V-RAI-2P",
+      "traduccion": "han enviado (a emisarios)"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4314",
+      "texto": "πρὸς",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "hacia"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2491",
+      "texto": "Ἰωάννην,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Masculino",
+      "parsing": "N-ASM",
+      "traduccion": "Juan"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3140",
+      "texto": "μεμαρτύρηκεν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-RAI-3S",
+      "traduccion": "ha dado testimonio"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3588",
+      "texto": "τῇ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Dativo-Singular-Femenino",
+      "parsing": "T-DSF",
+      "traduccion": "a la"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "225",
+      "texto": "ἀληθείᾳ·",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Femenino",
+      "parsing": "N-DSF",
+      "traduccion": "verdad"
+    }
+  ]
+}

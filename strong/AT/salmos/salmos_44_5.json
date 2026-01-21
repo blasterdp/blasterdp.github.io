@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 44:5 Reina Valera 1960",
+    "texto": "Por medio de ti sacudiremos a nuestros enemigos; En tu nombre hollaremos a nuestros adversarios."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ֭ךָ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "mediante ti"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6862",
+      "hebreo": "צַר",
+      "transliteracion": "צָרֵ֣ינוּ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "a nuestros adversarios"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5055",
+      "hebreo": "נגח",
+      "transliteracion": "נְנַגֵּ֑חַ",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.PL",
+      "traduccion": "derribamos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שִׁמְךָ֗",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu nombre"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "947",
+      "hebreo": "בוס",
+      "transliteracion": "נָב֥וּס",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.IMPF.P1.U.PL",
+      "traduccion": "hollamos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "קָמֵֽינוּ׃",
+      "parsingLabel": "verbo qal participio desconocido masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "a los que se levantan contra nosotros"
+    }
+  ]
+}

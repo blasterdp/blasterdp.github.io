@@ -1,0 +1,125 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 3:7 Reina Valera 1960",
+    "texto": "Levántate, Jehová; sálvame, Dios mío; Porque tú heriste a todos mis enemigos en la mejilla; Los dientes de los perversos quebrantaste."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "ק֘וּמָ֤ה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "levántate"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֨ה׀",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3467",
+      "hebreo": "ישׁע",
+      "transliteracion": "הֹושִׁ֘יעֵ֤נִי",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "sálvame"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהַ֗י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios mío"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5221",
+      "hebreo": "נכה",
+      "transliteracion": "הִכִּ֣יתָ",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG",
+      "traduccion": "heriste"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹיְבַ֣י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "mis enemigos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3895",
+      "hebreo": "לְחִי",
+      "transliteracion": "לֶ֑חִי",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "la mejilla"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "8127",
+      "hebreo": "שֵׁן",
+      "transliteracion": "שִׁנֵּ֖י",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "dientes"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de impíos"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "7665",
+      "hebreo": "שׁבר",
+      "transliteracion": "שִׁבַּֽרְתָּ׃",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG",
+      "traduccion": "quebraste"
+    }
+  ]
+}

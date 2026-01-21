@@ -1,0 +1,170 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 39:12 Reina Valera 1960",
+    "texto": "Oye mi oración, oh Jehová, y escucha mi clamor. No calles ante mis lágrimas; Porque forastero soy para ti, Y advenedizo, como todos mis padres."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שִֽׁמְעָ֥ה־",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "oye"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8605",
+      "hebreo": "תְּפִלָּה",
+      "transliteracion": "תְפִלָּתִ֨י׀",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi oración"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֡ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7775",
+      "hebreo": "שַׁוְעָה",
+      "transliteracion": "שַׁוְעָתִ֨י׀",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "a mi grito de socorro"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "238",
+      "hebreo": "אזן",
+      "transliteracion": "הַאֲזִינָה֮",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "presta atención"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶֽל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1832",
+      "hebreo": "דִּמְעָה",
+      "transliteracion": "דִּמְעָתִ֗י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mis lágrimas"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַֽל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2790",
+      "hebreo": "חרשׁ",
+      "transliteracion": "תֶּ֫חֱרַ֥שׁ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "estés silencioso"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֤י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "1616",
+      "hebreo": "גֵּר",
+      "transliteracion": "גֵ֣ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "extranjero"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "595",
+      "hebreo": "אָנֹכִי",
+      "transliteracion": "אָנֹכִ֣י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִמָּ֑ךְ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "contigo"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "8453",
+      "hebreo": "תֹּושָׁב",
+      "transliteracion": "תֹּ֝ושָׁ֗ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "peregrino"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אֲבֹותָֽי׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis padres"
+    }
+  ]
+}

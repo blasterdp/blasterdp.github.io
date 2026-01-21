@@ -1,0 +1,233 @@
+{
+  "versiculo": {
+    "referencia": "Lucas 9:22 Reina Valera 1960",
+    "texto": "y diciendo: Es necesario que el Hijo del Hombre padezca muchas cosas, y sea desechado por los ancianos, por los principales sacerdotes y por los escribas, y que sea muerto, y resucite al tercer día."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3004",
+      "texto": "εἰπὼν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-2AAP-NSM",
+      "traduccion": "Habiendo dicho"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3754",
+      "texto": "ὅτι",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1163",
+      "texto": "δεῖ",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está siendo necesario"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "texto": "τὸν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Masculino",
+      "parsing": "T-ASM",
+      "traduccion": "a el"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5207",
+      "texto": "υἱὸν",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Masculino",
+      "parsing": "N-ASM",
+      "traduccion": "Hijo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "de el"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "444",
+      "texto": "ἀνθρώπου",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4183",
+      "texto": "πολλὰ",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Plural-Neutro",
+      "parsing": "A-APN",
+      "traduccion": "muchas (cosas)"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3958",
+      "texto": "παθεῖν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Infinitivo",
+      "parsing": "V-2AAN",
+      "traduccion": "sufrir"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "593",
+      "texto": "ἀποδοκιμασθῆναι",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Infinitivo",
+      "parsing": "V-APN",
+      "traduccion": "ser rechazado"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "575",
+      "texto": "ἀπὸ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3588",
+      "texto": "τῶν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Plural-Masculino",
+      "parsing": "T-GPM",
+      "traduccion": "de los"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "4245",
+      "texto": "πρεσβυτέρων",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Genitivo-Plural-Masculino-Comparativo",
+      "parsing": "A-GPM-C",
+      "traduccion": "ancianos"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "749",
+      "texto": "ἀρχιερέων",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Plural-Masculino",
+      "parsing": "N-GPM",
+      "traduccion": "gobernantes de sacerdotes"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "1122",
+      "texto": "γραμματέων",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Plural-Masculino",
+      "parsing": "N-GPM",
+      "traduccion": "escribas"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "615",
+      "texto": "ἀποκτανθῆναι",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Infinitivo",
+      "parsing": "V-APN",
+      "traduccion": "ser matado"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "3588",
+      "texto": "τῇ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Dativo-Singular-Femenino",
+      "parsing": "T-DSF",
+      "traduccion": "a el"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "5154",
+      "texto": "τρίτῃ",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Dativo-Singular-Femenino",
+      "parsing": "A-DSF",
+      "traduccion": "tercer"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "2250",
+      "texto": "ἡμέρᾳ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Femenino",
+      "parsing": "N-DSF",
+      "traduccion": "día"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "1453",
+      "texto": "ἐγερθῆναι.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Infinitivo",
+      "parsing": "V-APN",
+      "traduccion": "ser levantado"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 63:6 Reina Valera 1960",
+    "texto": "Cuando me acuerde de ti en mi lecho, Cuando medite en ti en las vigilias de la noche."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2142",
+      "hebreo": "זכר",
+      "transliteracion": "זְכַרְתִּ֥יךָ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "te recuerdo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3326",
+      "hebreo": "יָצוּעַ",
+      "transliteracion": "יְצוּעָ֑י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mi lecho"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "821",
+      "hebreo": "אַשְׁמוּרָה",
+      "transliteracion": "אַשְׁמֻרֹ֗ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "las vigilias de la noche"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1897",
+      "hebreo": "הגה",
+      "transliteracion": "אֶהְגֶּה־",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "pienso"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּֽךְ׃",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "en ti"
+    }
+  ]
+}

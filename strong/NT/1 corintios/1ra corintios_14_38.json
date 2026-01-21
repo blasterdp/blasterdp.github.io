@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "1ra Corintios 14:38 Reina Valera 1960",
+    "texto": "Mas el que ignora, ignore."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1487",
+      "texto": "εἰ",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1161",
+      "texto": "δέ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5100",
+      "texto": "τις",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Infinitivo-Nominativo-Singular-Masculino",
+      "parsing": "X-NSM",
+      "traduccion": "alguien"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "50",
+      "texto": "ἀγνοεῖ,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está siendo ignorante"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "50",
+      "texto": "ἀγνοεῖται.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PPI-3S",
+      "traduccion": "está siendo ignorante"
+    }
+  ]
+}

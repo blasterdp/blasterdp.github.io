@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 73:5 Reina Valera 1960",
+    "texto": "No pasan trabajos como los otros mortales, Ni son azotados como los demás hombres."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5999",
+      "hebreo": "עָמָל",
+      "transliteracion": "עֲמַ֣ל",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "tribulación"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "582",
+      "hebreo": "אֱנֹושׁ",
+      "transliteracion": "אֱנֹ֣ושׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de hombre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵינֵ֑מֹו",
+      "parsingLabel": "negativo partículo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "NEGA.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "no están"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָ֝דָ֗ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "humanos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5060",
+      "hebreo": "נגע",
+      "transliteracion": "יְנֻגָּֽעוּ׃",
+      "parsingLabel": "verbo pu“al imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PUAL.IMPF.P3.M.PL",
+      "traduccion": "son azotados"
+    }
+  ]
+}

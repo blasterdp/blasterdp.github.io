@@ -1,0 +1,152 @@
+{
+  "versiculo": {
+    "referencia": "Sofonías 1:6 Reina Valera 1960",
+    "texto": "y a los que se apartan de en pos de Jehová, y a los que no buscaron a Jehová, ni le consultaron."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "los que"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5472",
+      "hebreo": "סוג",
+      "transliteracion": "נְּסֹוגִ֖ים",
+      "parsingLabel": "verbo nif‘al participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.M.PL.A",
+      "traduccion": "se vuelven"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "310",
+      "hebreo": "אַחַר",
+      "transliteracion": "אַחֲרֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "pos de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֛ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1245",
+      "hebreo": "בקשׁ",
+      "transliteracion": "בִקְשׁ֥וּ",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL",
+      "traduccion": "buscan"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֖ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "1875",
+      "hebreo": "דרשׁ",
+      "transliteracion": "דְרָשֻֽׁהוּ׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P3.M.SG",
+      "traduccion": "le consultan"
+    }
+  ]
+}

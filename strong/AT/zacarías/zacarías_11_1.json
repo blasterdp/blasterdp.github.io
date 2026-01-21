@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Zacarías 11:1 Reina Valera 1960",
+    "texto": "Oh Líbano, abre tus puertas, y consuma el fuego tus cedros."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6605",
+      "hebreo": "פתח",
+      "transliteracion": "פְּתַ֥ח",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "Abre"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3844",
+      "hebreo": "לְבָנֹון",
+      "transliteracion": "לְבָנֹ֖ון",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Líbano"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1817",
+      "hebreo": "דֶּלֶת",
+      "transliteracion": "דְּלָתֶ֑יךָ",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P2.M.SG",
+      "traduccion": "tus puertas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "תֹאכַ֥ל",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "devorará"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "784",
+      "hebreo": "אֵשׁ",
+      "transliteracion": "אֵ֖שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "fuego"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "730",
+      "hebreo": "אֶרֶז",
+      "transliteracion": "אֲרָזֶֽיךָ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus cedros"
+    }
+  ]
+}

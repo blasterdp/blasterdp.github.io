@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 5:6 Reina Valera 1960",
+    "texto": "Destruirás a los que hablan mentira; Al hombre sanguinario y engañador abominará Jehová."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6",
+      "hebreo": "אבד",
+      "transliteracion": "תְּאַבֵּד֮",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG",
+      "traduccion": "destruyes"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "דֹּבְרֵ֪י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "a los que hablan"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3577",
+      "hebreo": "כָּזָב",
+      "transliteracion": "כָ֫זָ֥ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "falsedad"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִישׁ־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1818",
+      "hebreo": "דָּם",
+      "transliteracion": "דָּמִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de sangres"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4820",
+      "hebreo": "מִרְמָה",
+      "transliteracion": "מִרְמָ֗ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "engaño"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8581",
+      "hebreo": "תעב",
+      "transliteracion": "יְתָ֘עֵ֥ב׀",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "aborrece"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָֽה׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    }
+  ]
+}

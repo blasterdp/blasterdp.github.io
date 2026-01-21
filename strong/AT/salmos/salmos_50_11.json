@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 50:11 Reina Valera 1960",
+    "texto": "Conozco a todas las aves de los montes, Y todo lo que se mueve en los campos me pertenece."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָ֭דַעְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "conozco"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "toda"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5775",
+      "hebreo": "עֹוף",
+      "transliteracion": "עֹ֣וף",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "ave"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הָרִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de montess"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2123",
+      "hebreo": "זִיז",
+      "transliteracion": "זִ֥יז",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "lo que mueve"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7704",
+      "hebreo": "שָׂדַי",
+      "transliteracion": "שָׂ֝דַ֗י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "campo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5978",
+      "hebreo": "עִמָּד",
+      "transliteracion": "עִמָּדִֽי׃",
+      "parsingLabel": "preposición masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "es mío"
+    }
+  ]
+}

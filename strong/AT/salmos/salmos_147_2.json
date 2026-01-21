@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 147:2 Reina Valera 1960",
+    "texto": "Jehová edifica a Jerusalén; A los desterrados de Israel recogerá."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1129",
+      "hebreo": "בנה",
+      "transliteracion": "בֹּונֵ֣ה",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.C",
+      "traduccion": "edifica"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3389",
+      "hebreo": "יְרוּשָׁלִַם",
+      "transliteracion": "יְרוּשָׁלִַ֣ם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "a Jerusalén"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5080",
+      "hebreo": "נדח",
+      "transliteracion": "נִדְחֵ֖י",
+      "parsingLabel": "sustantivo nif‘al participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.NIF.PTCA.U.M.PL.C",
+      "traduccion": "a dispersos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵ֣ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Israel"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3664",
+      "hebreo": "כנס",
+      "transliteracion": "יְכַנֵּֽס׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "congrega"
+    }
+  ]
+}

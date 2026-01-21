@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 8:8 Reina Valera 1960",
+    "texto": "Las aves de los cielos y los peces del mar; Todo cuanto pasa por los senderos del mar."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6833",
+      "hebreo": "צִפֹּור",
+      "transliteracion": "צִפֹּ֣ור",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "ave"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8064",
+      "hebreo": "שָׁמַיִם",
+      "transliteracion": "שָׁ֭מַיִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de cielos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1709",
+      "hebreo": "דָּג",
+      "transliteracion": "דְגֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "peces de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3220",
+      "hebreo": "יָם",
+      "transliteracion": "יָּ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mar"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "עֹ֝בֵ֗ר",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "lo que surca"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "734",
+      "hebreo": "אֹרַח",
+      "transliteracion": "אָרְחֹ֥ות",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "sendas"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3220",
+      "hebreo": "יָם",
+      "transliteracion": "יַמִּֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de mares"
+    }
+  ]
+}

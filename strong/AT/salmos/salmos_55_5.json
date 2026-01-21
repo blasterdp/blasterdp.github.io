@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 55:5 Reina Valera 1960",
+    "texto": "Temor y temblor vinieron sobre mí, Y terror me ha cubierto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3374",
+      "hebreo": "יִרְאָה",
+      "transliteracion": "יִרְאָ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "temor"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7461",
+      "hebreo": "רַעַד",
+      "transliteracion": "רַעַד",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "temblor"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "יָ֣בֹא",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "entran"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִ֑י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "en mí"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3680",
+      "hebreo": "כסה",
+      "transliteracion": "תְּכַסֵּ֗נִי",
+      "parsingLabel": "verbo pi“el wayyiqtol 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.WAYQ.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "me ha abrumado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6427",
+      "hebreo": "פַּלָּצוּת",
+      "transliteracion": "פַּלָּצֽוּת׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "horror"
+    }
+  ]
+}

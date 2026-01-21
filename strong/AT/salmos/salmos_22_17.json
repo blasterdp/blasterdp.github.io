@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 22:17 Reina Valera 1960",
+    "texto": "Contar puedo todos mis huesos; Entre tanto, ellos me miran y me observan."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5608",
+      "hebreo": "ספר",
+      "transliteracion": "אֲסַפֵּ֥ר",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "puedo contar"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6106",
+      "hebreo": "עַצְמָה",
+      "transliteracion": "עַצְמֹותָ֑י",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mis huesos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1992",
+      "hebreo": "הֵמָּה",
+      "transliteracion": "הֵ֥מָּה",
+      "parsingLabel": "pronombre personal 3ª persona masculino plural",
+      "parsing": "PRPS.P3.M.PL",
+      "traduccion": "ellos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5027",
+      "hebreo": "נבט",
+      "transliteracion": "יַ֝בִּ֗יטוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL",
+      "traduccion": "miran"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "יִרְאוּ־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "observan"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִֽי׃",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "en mí"
+    }
+  ]
+}

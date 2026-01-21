@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 82:5 Reina Valera 1960",
+    "texto": "No saben, no entienden, Andan en tinieblas; Tiemblan todos los cimientos de la tierra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֤א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָֽדְע֨וּ׀",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "saben"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "יָבִ֗ינוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "entienden"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2824",
+      "hebreo": "חֲשֵׁכָה",
+      "transliteracion": "חֲשֵׁכָ֥ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "tiniebla"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "יִתְהַלָּ֑כוּ",
+      "parsingLabel": "verbo hitpa“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIT.IMPF.P3.M.PL",
+      "traduccion": "andan"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4131",
+      "hebreo": "מוט",
+      "transliteracion": "יִ֝מֹּ֗וטוּ",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.NIF.IMPF.P3.M.PL",
+      "traduccion": "son sacudidos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "4144",
+      "hebreo": "מֹוסָד",
+      "transliteracion": "מֹ֥וסְדֵי",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "cimientos"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָֽרֶץ׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de tierra"
+    }
+  ]
+}

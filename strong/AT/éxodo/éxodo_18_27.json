@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 18:27 Reina Valera 1960",
+    "texto": "Y despidió Moisés a su suegro, y éste se fue a su tierra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "יְשַׁלַּ֥ח",
+      "parsingLabel": "verbo pi“el wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.WAYQ.P3.M.SG",
+      "traduccion": "envió"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4872",
+      "hebreo": "מֹשֶׁה",
+      "transliteracion": "מֹשֶׁ֖ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Moisés"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2859",
+      "hebreo": "חתן",
+      "transliteracion": "חֹתְנֹ֑ו",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su suegro"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "יֵּ֥לֶךְ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "fue"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֹ֖ו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "a él"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אַרְצֹֽו׃ פ",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su tierra"
+    }
+  ]
+}

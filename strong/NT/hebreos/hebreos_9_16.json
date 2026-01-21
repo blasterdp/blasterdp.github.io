@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Hebreos 9:16 Reina Valera 1960",
+    "texto": "Porque donde hay testamento, es necesario que intervenga muerte del testador."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3699",
+      "texto": "ὅπου",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "Donde"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1063",
+      "texto": "γὰρ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1242",
+      "texto": "διαθήκη,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "pacto"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2288",
+      "texto": "θάνατον",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Masculino",
+      "parsing": "N-ASM",
+      "traduccion": "muerte"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "318",
+      "texto": "ἀνάγκη",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "necesidad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5342",
+      "texto": "φέρεσθαι",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Pasivo-Infinitivo",
+      "parsing": "V-PPN",
+      "traduccion": "ser llevado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "de el"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1303",
+      "texto": "διαθεμένου·",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Medio-Participio-Genitivo-Singular-Masculino",
+      "parsing": "V-2AMP-GSM",
+      "traduccion": "habiendo hecho para sí pacto"
+    }
+  ]
+}

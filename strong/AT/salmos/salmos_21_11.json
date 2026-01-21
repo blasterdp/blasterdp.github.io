@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 21:11 Reina Valera 1960",
+    "texto": "Porque intentaron el mal contra ti; Fraguaron maquinaciones, mas no prevalecerán,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5186",
+      "hebreo": "נטה",
+      "transliteracion": "נָט֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "intentaron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלֶ֣יךָ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "contra ti"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7451",
+      "hebreo": "רָעָה",
+      "transliteracion": "רָעָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "mal"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2803",
+      "hebreo": "חשׁב",
+      "transliteracion": "חָֽשְׁב֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "fraguaron"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4209",
+      "hebreo": "מְזִמָּה",
+      "transliteracion": "מְ֝זִמָּ֗ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "maquinación"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1077",
+      "hebreo": "בַּל",
+      "transliteracion": "בַּל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3201",
+      "hebreo": "יכל",
+      "transliteracion": "יוּכָֽלוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "podrán"
+    }
+  ]
+}

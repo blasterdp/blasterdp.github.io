@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 18:26 Reina Valera 1960",
+    "texto": "Limpio te mostrarás para con el limpio, Y severo serás para con el perverso."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1305",
+      "hebreo": "ברר",
+      "transliteracion": "נָבָ֥ר",
+      "parsingLabel": "sustantivo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.NIF.PTCA.U.M.SG.A",
+      "traduccion": "puro"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1305",
+      "hebreo": "ברר",
+      "transliteracion": "תִּתְבָּרָ֑ר",
+      "parsingLabel": "verbo hitpa“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIT.IMPF.P2.M.SG",
+      "traduccion": "te muestras puro"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6141",
+      "hebreo": "עִקֵּשׁ",
+      "transliteracion": "עִ֝קֵּ֗שׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "tortuoso"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6617",
+      "hebreo": "פתל",
+      "transliteracion": "תִּתְפַּתָּֽל׃",
+      "parsingLabel": "verbo hitpa“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIT.IMPF.P2.M.SG",
+      "traduccion": "te muestras astuto"
+    }
+  ]
+}

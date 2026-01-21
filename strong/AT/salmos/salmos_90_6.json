@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 90:6 Reina Valera 1960",
+    "texto": "En la mañana florece y crece; A la tarde es cortada, y se seca."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1242",
+      "hebreo": "בֹּקֶר",
+      "transliteracion": "בֹּקֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Mañana"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6692",
+      "hebreo": "צוץ",
+      "transliteracion": "יָצִ֣יץ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "florece"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2498",
+      "hebreo": "חלף",
+      "transliteracion": "חָלָ֑ף",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "reverdece"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6153",
+      "hebreo": "עֶרֶב",
+      "transliteracion": "עֶ֗רֶב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "tarde"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5243",
+      "hebreo": "מלל",
+      "transliteracion": "יְמֹולֵ֥ל",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "se marchita"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3001",
+      "hebreo": "יבשׁ",
+      "transliteracion": "יָבֵֽשׁ׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "se seca"
+    }
+  ]
+}

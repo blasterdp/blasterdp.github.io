@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 76:6 Reina Valera 1960",
+    "texto": "A tu reprensión, oh Dios de Jacob, El carro y el caballo fueron entorpecidos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a tu"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1606",
+      "hebreo": "גְּעָרָה",
+      "transliteracion": "גַּעֲרָ֣תְךָ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "reprensión"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3290",
+      "hebreo": "יַעֲקֹב",
+      "transliteracion": "יַעֲקֹ֑ב",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "de Jacob"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7290",
+      "hebreo": "רדם",
+      "transliteracion": "נִ֝רְדָּ֗ם",
+      "parsingLabel": "verbo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.M.SG.A",
+      "traduccion": "caen en profundo sueño"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7393",
+      "hebreo": "רֶכֶב",
+      "transliteracion": "רֶ֣כֶב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "carro"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5483",
+      "hebreo": "סוּס",
+      "transliteracion": "סֽוּס׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "caballo"
+    }
+  ]
+}

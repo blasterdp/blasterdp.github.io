@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 85:3 Reina Valera 1960",
+    "texto": "Reprimiste todo tu enojo; Te apartaste del ardor de tu ira."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "622",
+      "hebreo": "אסף",
+      "transliteracion": "אָסַ֥פְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "contuviste"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5678",
+      "hebreo": "עֶבְרָה",
+      "transliteracion": "עֶבְרָתֶ֑ךָ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu enojo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "הֱ֝שִׁיבֹ֗ותָ",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG",
+      "traduccion": "te apartaste"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2740",
+      "hebreo": "חָרֹון",
+      "transliteracion": "חֲרֹ֥ון",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "ardor"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "639",
+      "hebreo": "אַף",
+      "transliteracion": "אַפֶּֽךָ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu ira"
+    }
+  ]
+}

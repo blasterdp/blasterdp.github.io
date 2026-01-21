@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 21:16 Reina Valera 1960",
+    "texto": "Asimismo el que robare una persona y la vendiere, o si fuere hallada en sus manos, morirá."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1589",
+      "hebreo": "גנב",
+      "transliteracion": "גֹנֵ֨ב",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "el que secuestra"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִ֧ישׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4376",
+      "hebreo": "מכר",
+      "transliteracion": "מְכָרֹ֛ו",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "lo vende"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "נִמְצָ֥א",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "es hallado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדֹ֖ו",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su mano"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "מֹ֥ות",
+      "parsingLabel": "adverbio qal infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.QAL.INFA.U.U.U.A",
+      "traduccion": "morir"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "יוּמָֽת׃ ס",
+      "parsingLabel": "verbo hof‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HOF.IMPF.P3.M.SG",
+      "traduccion": "morirá"
+    }
+  ]
+}

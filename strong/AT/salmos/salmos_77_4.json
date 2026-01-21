@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 77:4 Reina Valera 1960",
+    "texto": "No me dejabas pegar los ojos; Estaba yo quebrantado, y no hablaba."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "270",
+      "hebreo": "אחז",
+      "transliteracion": "אָ֭חַזְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "sujetas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8109",
+      "hebreo": "שְׁמֻרָה",
+      "transliteracion": "שְׁמֻרֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "párpados"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינָ֑י",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "de mis ojos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6470",
+      "hebreo": "פעם",
+      "transliteracion": "נִ֝פְעַ֗מְתִּי",
+      "parsingLabel": "verbo nif‘al perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.NIF.PERF.P1.U.SG",
+      "traduccion": "estoy turbado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "אֲדַבֵּֽר׃",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "puedo hablar"
+    }
+  ]
+}

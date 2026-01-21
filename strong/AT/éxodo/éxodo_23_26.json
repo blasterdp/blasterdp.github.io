@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 23:26 Reina Valera 1960",
+    "texto": "No habrá mujer que aborte, ni estéril en tu tierra; y yo completaré el número de tus días."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "No"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "תִהְיֶ֛ה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "tendrás"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7921",
+      "hebreo": "שׁכל",
+      "transliteracion": "מְשַׁכֵּלָ֥ה",
+      "parsingLabel": "sustantivo pi“el participio desconocido femenino singular absoluto",
+      "parsing": "SUBS.PIEL.PTCA.U.F.SG.A",
+      "traduccion": "abortante"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6135",
+      "hebreo": "עָקָר",
+      "transliteracion": "עֲקָרָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "estéril"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אַרְצֶ֑ךָ",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu tierra"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4557",
+      "hebreo": "מִסְפָּר",
+      "transliteracion": "מִסְפַּ֥ר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "número de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יָמֶ֖יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus días"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "4390",
+      "hebreo": "מלא",
+      "transliteracion": "אֲמַלֵּֽא׃",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "completaré"
+    }
+  ]
+}

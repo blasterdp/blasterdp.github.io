@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 69:7 Reina Valera 1960",
+    "texto": "Porque por amor de ti he sufrido afrenta; Confusión ha cubierto mi rostro."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָ֭לֶיךָ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "por ti"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5375",
+      "hebreo": "נשׂא",
+      "transliteracion": "נָשָׂ֣אתִי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "he sufrido"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2781",
+      "hebreo": "חֶרְפָּה",
+      "transliteracion": "חֶרְפָּ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "afrenta"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3680",
+      "hebreo": "כסה",
+      "transliteracion": "כִּסְּתָ֖ה",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.F.SG",
+      "traduccion": "ha cubierto"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3639",
+      "hebreo": "כְּלִמָּה",
+      "transliteracion": "כְלִמָּ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "confusión"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָנָֽי׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mi rostro"
+    }
+  ]
+}

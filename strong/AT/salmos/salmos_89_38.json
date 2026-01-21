@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 89:38 Reina Valera 1960",
+    "texto": "Mas tú desechaste y menospreciaste a tu ungido, Y te has airado con él."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֣ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2186",
+      "hebreo": "זנח",
+      "transliteracion": "זָ֭נַחְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "has desechado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3988",
+      "hebreo": "מאס",
+      "transliteracion": "תִּמְאָ֑ס",
+      "parsingLabel": "verbo qal wayyiqtol 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P2.M.SG",
+      "traduccion": "rechazado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "הִ֝תְעַבַּ֗רְתָּ",
+      "parsingLabel": "verbo hitpa“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIT.PERF.P2.M.SG",
+      "traduccion": "te has airado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4899",
+      "hebreo": "מָשִׁיחַ",
+      "transliteracion": "מְשִׁיחֶֽךָ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu ungido"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 22:26 Reina Valera 1960",
+    "texto": "Si tomares en prenda el vestido de tu prójimo, a la puesta del sol se lo devolverás."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2254",
+      "hebreo": "חבל",
+      "transliteracion": "חָבֹ֥ל",
+      "parsingLabel": "adverbio qal infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.QAL.INFA.U.U.U.A",
+      "traduccion": "tomar en prenda"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2254",
+      "hebreo": "חבל",
+      "transliteracion": "תַּחְבֹּ֖ל",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "tomas en prenda"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8008",
+      "hebreo": "שַׂלְמָה",
+      "transliteracion": "שַׂלְמַ֣ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "vestido de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7453",
+      "hebreo": "רֵעַ",
+      "transliteracion": "רֵעֶ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu prójimo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "בֹּ֥א",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "puesta de"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8121",
+      "hebreo": "שֶׁמֶשׁ",
+      "transliteracion": "שֶּׁ֖מֶשׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "sol"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "תְּשִׁיבֶ֥נּוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "devolverás"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֹֽו׃",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "a él"
+    }
+  ]
+}

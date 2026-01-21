@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 74:21 Reina Valera 1960",
+    "texto": "No vuelva avergonzado el abatido; El afligido y el menesteroso alabarán tu nombre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "יָשֹׁ֣ב",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "vuelva"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1790",
+      "hebreo": "דַּךְ",
+      "transliteracion": "דַּ֣ךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "oprimido"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3637",
+      "hebreo": "כלם",
+      "transliteracion": "נִכְלָ֑ם",
+      "parsingLabel": "verbo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.M.SG.A",
+      "traduccion": "avergonzado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6041",
+      "hebreo": "עָנִי",
+      "transliteracion": "עָנִ֥י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pobre"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "34",
+      "hebreo": "אֶבְיֹון",
+      "transliteracion": "אֶבְיֹ֗ון",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "necesitado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "יְֽהַלְל֥וּ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "alaben"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שְׁמֶֽךָ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu nombre"
+    }
+  ]
+}

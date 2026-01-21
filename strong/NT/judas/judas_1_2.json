@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Judas 1:2 Reina Valera 1960",
+    "texto": "Misericordia y paz y amor os sean multiplicados."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1656",
+      "texto": "ἔλεος",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Neutro",
+      "parsing": "N-NSN",
+      "traduccion": "Misericordia"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5210",
+      "texto": "ὑμῖν",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Dativo-Plural",
+      "parsing": "P-2DP",
+      "traduccion": "a ustedes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1515",
+      "texto": "εἰρήνη",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "paz"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "26",
+      "texto": "ἀγάπη",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "amor"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4129",
+      "texto": "πληθυνθείη.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Optativo-3ª Persona-Singular",
+      "parsing": "V-APO-3S",
+      "traduccion": "sea aumentado"
+    }
+  ]
+}

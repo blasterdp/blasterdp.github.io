@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 35:21 Reina Valera 1960",
+    "texto": "Ensancharon contra mí su boca; Dijeron: ¡Ea, ea, nuestros ojos lo han visto!"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7337",
+      "hebreo": "רחב",
+      "transliteracion": "יַּרְחִ֥יבוּ",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.PL",
+      "traduccion": "abren de par en par"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלַ֗י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra mí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּ֫יהֶ֥ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su boca"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָ֭מְרוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "dicen"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1889",
+      "hebreo": "הֶאָח",
+      "transliteracion": "הֶאָ֣ח׀",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "ja"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1889",
+      "hebreo": "הֶאָח",
+      "transliteracion": "הֶאָ֑ח",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "ja"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָאֲתָ֥ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "lo ha visto"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינֵֽינוּ׃",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.F.DU.A.PRS.P1.U.PL",
+      "traduccion": "nuestro ojo"
+    }
+  ]
+}

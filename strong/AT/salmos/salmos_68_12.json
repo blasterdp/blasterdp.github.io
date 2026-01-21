@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 68:12 Reina Valera 1960",
+    "texto": "Huyeron, huyeron reyes de ejércitos, Y las que se quedaban en casa repartían los despojos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מַלְכֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "reyes"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6635",
+      "hebreo": "צָבָא",
+      "transliteracion": "צְ֭בָאֹות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "De los ejércitos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5074",
+      "hebreo": "נדד",
+      "transliteracion": "יִדֹּד֣וּן",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "huyen"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5074",
+      "hebreo": "נדד",
+      "transliteracion": "יִדֹּד֑וּן",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "huyen"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4999",
+      "hebreo": "נָוֶה",
+      "transliteracion": "נְוַת",
+      "parsingLabel": "adjetivo femenino singular constructivo",
+      "parsing": "ADJV.F.SG.C",
+      "traduccion": "la que se queda"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בַּ֝֗יִת",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "en casa"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2505",
+      "hebreo": "חלק",
+      "transliteracion": "תְּחַלֵּ֥ק",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG",
+      "traduccion": "retus estatutos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7998",
+      "hebreo": "שָׁלָל",
+      "transliteracion": "שָׁלָֽל׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "botín"
+    }
+  ]
+}

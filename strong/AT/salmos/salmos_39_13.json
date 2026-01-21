@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 39:13 Reina Valera 1960",
+    "texto": "Déjame, y tomaré fuerzas, Antes que vaya y perezca."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8159",
+      "hebreo": "שׁעה",
+      "transliteracion": "הָשַׁ֣ע",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "haz que tu mirada"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִמֶּ֣נִּי",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1082",
+      "hebreo": "בלג",
+      "transliteracion": "אַבְלִ֑יגָה",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG",
+      "traduccion": "tomaré ánimos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2962",
+      "hebreo": "טֶרֶם",
+      "transliteracion": "טֶ֖רֶם",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "antes que"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "אֵלֵ֣ךְ",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "me vaya"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵינֶֽנִּי׃",
+      "parsingLabel": "negativo partículo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "NEGA.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "no exista"
+    }
+  ]
+}

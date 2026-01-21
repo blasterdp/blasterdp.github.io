@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 64:7 Reina Valera 1960",
+    "texto": "Mas Dios los herirá con saeta; De repente serán sus plagas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3384",
+      "hebreo": "ירה",
+      "transliteracion": "יֹּרֵ֗ם",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "les disparará"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹ֫הִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2671",
+      "hebreo": "חֵץ",
+      "transliteracion": "חֵ֥ץ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "saeta"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6597",
+      "hebreo": "פִּתְאֹם",
+      "transliteracion": "פִּתְאֹ֑ום",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "de repente"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָ֝י֗וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "venido a ser"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4347",
+      "hebreo": "מַכָּה",
+      "transliteracion": "מַכֹּותָֽם׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus heridas"
+    }
+  ]
+}

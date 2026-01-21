@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 34:17 Reina Valera 1960",
+    "texto": "No te harás dioses de fundición."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "Dioses de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4541",
+      "hebreo": "מַסֵּכָה",
+      "transliteracion": "מַסֵּכָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "fundición"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "תַעֲשֶׂה־",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "hagas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָּֽךְ׃",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "para tí"
+    }
+  ]
+}

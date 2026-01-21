@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 94:5 Reina Valera 1960",
+    "texto": "A tu pueblo, oh Jehová, quebrantan, Y a tu heredad afligen."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמְּךָ֣",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "a tu pueblo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1792",
+      "hebreo": "דכא",
+      "transliteracion": "יְדַכְּא֑וּ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "aplastan"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5159",
+      "hebreo": "נַחֲלָה",
+      "transliteracion": "נַחֲלָתְךָ֥",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu heredad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6031",
+      "hebreo": "ענה",
+      "transliteracion": "יְעַנּֽוּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "afligen"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 16:36 Reina Valera 1960",
+    "texto": "Y un gomer es la décima parte de un efa."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6016",
+      "hebreo": "עֹמֶר",
+      "transliteracion": "עֹ֕מֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "gomer"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6224",
+      "hebreo": "עֲשִׂירִי",
+      "transliteracion": "עֲשִׂרִ֥ית",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "décimo de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "374",
+      "hebreo": "אֵיפָה",
+      "transliteracion": "אֵיפָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "efa"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "הֽוּא׃ פ",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    }
+  ]
+}

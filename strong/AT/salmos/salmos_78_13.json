@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:13 Reina Valera 1960",
+    "texto": "Dividió el mar y los hizo pasar; Detuvo las aguas como en un montón."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1234",
+      "hebreo": "בקע",
+      "transliteracion": "בָּ֣קַע",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "hendió"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3220",
+      "hebreo": "יָם",
+      "transliteracion": "יָ֭ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mar"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "יַּֽעֲבִירֵ֑ם",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los hizo pasar"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5324",
+      "hebreo": "נצב",
+      "transliteracion": "יַּצֶּב־",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG",
+      "traduccion": "contuvo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַ֥יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3644",
+      "hebreo": "כְּמֹו",
+      "transliteracion": "כְּמֹו־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5067",
+      "hebreo": "נֵד",
+      "transliteracion": "נֵֽד׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "montón"
+    }
+  ]
+}

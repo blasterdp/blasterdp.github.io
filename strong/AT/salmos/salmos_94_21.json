@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 94:21 Reina Valera 1960",
+    "texto": "Se juntan contra la vida del justo, Y condenan la sangre inocente."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1413",
+      "hebreo": "גדד",
+      "transliteracion": "יָ֭גֹודּוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "se unen"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נֶ֣פֶשׁ",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "vida"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַדִּ֑יק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del justo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1818",
+      "hebreo": "דָּם",
+      "transliteracion": "דָ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "sangre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5355",
+      "hebreo": "נָקִי",
+      "transliteracion": "נָקִ֣י",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "inocente"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7561",
+      "hebreo": "רשׁע",
+      "transliteracion": "יַרְשִֽׁיעוּ׃",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL",
+      "traduccion": "condenan"
+    }
+  ]
+}

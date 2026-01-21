@@ -1,0 +1,197 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 40:12 Reina Valera 1960",
+    "texto": "Porque me han rodeado males sin número; Me han alcanzado mis maldades, y no puedo levantar la vista. Se han aumentado más que los cabellos de mi cabeza, y mi corazón me falla."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֤י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "661",
+      "hebreo": "אפף",
+      "transliteracion": "אָפְפ֥וּ־",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "han cercado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלַ֨י׀",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "me"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7451",
+      "hebreo": "רָעָה",
+      "transliteracion": "רָעֹ֡ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "males"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵ֬ין",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "no haber"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4557",
+      "hebreo": "מִסְפָּר",
+      "transliteracion": "מִסְפָּ֗ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "número"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5381",
+      "hebreo": "נשׂג",
+      "transliteracion": "הִשִּׂיג֣וּנִי",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me han alcanzado"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5771",
+      "hebreo": "עָוֹן",
+      "transliteracion": "עֲ֭וֹנֹתַי",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis iniquidades"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3201",
+      "hebreo": "יכל",
+      "transliteracion": "יָכֹ֣לְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "puedo"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רְאֹ֑ות",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A",
+      "traduccion": "ver"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "6105",
+      "hebreo": "עצם",
+      "transliteracion": "עָצְמ֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "son más"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "que"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "8185",
+      "hebreo": "שַׂעֲרָה",
+      "transliteracion": "שַּֽׂעֲרֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "los cabellos"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "7218",
+      "hebreo": "רֹאשׁ",
+      "transliteracion": "רֹ֝אשִׁ֗י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "de mi cabeza"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִבִּ֥י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi corazón"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "5800",
+      "hebreo": "עזב",
+      "transliteracion": "עֲזָבָֽנִי׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me falla"
+    }
+  ]
+}

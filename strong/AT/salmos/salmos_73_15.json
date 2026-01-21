@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 73:15 Reina Valera 1960",
+    "texto": "Si dijera yo: Hablaré como ellos, He aquí, a la generación de tus hijos engañaría."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָ֭מַרְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "yo dijera"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5608",
+      "hebreo": "ספר",
+      "transliteracion": "אֲסַפְּרָ֥ה",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "hablaré"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3644",
+      "hebreo": "כְּמֹו",
+      "transliteracion": "כְמֹ֑ו",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "así"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנֵּ֤ה",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "He aquí"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1755",
+      "hebreo": "דֹּור",
+      "transliteracion": "דֹ֭ור",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "a generación"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בָּנֶ֣יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "de tus hijos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "898",
+      "hebreo": "בגד",
+      "transliteracion": "בָגָֽדְתִּי׃",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "había traicionado"
+    }
+  ]
+}

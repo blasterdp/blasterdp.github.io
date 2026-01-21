@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 74:16 Reina Valera 1960",
+    "texto": "Tuyo es el día, tuya también es la noche; Tú estableciste la luna y el sol."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְךָ֣",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "tuyo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹ֭ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "637",
+      "hebreo": "אַף",
+      "transliteracion": "אַף־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "también"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְךָ֥",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "tuya"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3915",
+      "hebreo": "לַיְלָה",
+      "transliteracion": "לָ֑יְלָה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "noche"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֥ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3559",
+      "hebreo": "כון",
+      "transliteracion": "הֲ֝כִינֹ֗ותָ",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG",
+      "traduccion": "estableciste"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3974",
+      "hebreo": "מָאֹור",
+      "transliteracion": "מָאֹ֥ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "luna"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "8121",
+      "hebreo": "שֶׁמֶשׁ",
+      "transliteracion": "שָֽׁמֶשׁ׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "sol"
+    }
+  ]
+}

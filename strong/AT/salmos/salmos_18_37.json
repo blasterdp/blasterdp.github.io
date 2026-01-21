@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 18:37 Reina Valera 1960",
+    "texto": "Perseguí a mis enemigos, y los alcancé, Y no volví hasta acabarlos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7291",
+      "hebreo": "רדף",
+      "transliteracion": "אֶרְדֹּ֣וף",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "perseguí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹ֭ויְבַי",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "a mis enemigos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5381",
+      "hebreo": "נשׂג",
+      "transliteracion": "אַשִּׂיגֵ֑ם",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG.PRS.P3.M.PL",
+      "traduccion": "los alcancé"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "אָ֝שׁוּב",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "me volví"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3615",
+      "hebreo": "כלה",
+      "transliteracion": "כַּלֹּותָֽם׃",
+      "parsingLabel": "verbo pi“el infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.INFC.U.U.U.A.PRS.P3.M.PL",
+      "traduccion": "consumirlos"
+    }
+  ]
+}

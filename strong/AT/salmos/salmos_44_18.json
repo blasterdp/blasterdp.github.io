@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 44:18 Reina Valera 1960",
+    "texto": "No se ha vuelto atrás nuestro corazón, Ni se han apartado de tus caminos nuestros pasos,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5472",
+      "hebreo": "סוג",
+      "transliteracion": "נָסֹ֣וג",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "se ha vuelto"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "268",
+      "hebreo": "אָחֹור",
+      "transliteracion": "אָחֹ֣ור",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "atrás"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִבֵּ֑נוּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.PL",
+      "traduccion": "nuestro corazón"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "ni"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5186",
+      "hebreo": "נטה",
+      "transliteracion": "תֵּ֥ט",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.F.SG",
+      "traduccion": "se han desviado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "838",
+      "hebreo": "אָשׁוּר",
+      "transliteracion": "אֲשֻׁרֵ֗ינוּ",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.F.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestros pasos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִנִּ֥י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "734",
+      "hebreo": "אֹרַח",
+      "transliteracion": "אָרְחֶֽךָ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu senda"
+    }
+  ]
+}

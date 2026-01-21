@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 37:22 Reina Valera 1960",
+    "texto": "Porque los benditos de él heredarán la tierra; Y los malditos de él serán destruidos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "מְ֭בֹרָכָיו",
+      "parsingLabel": "sustantivo pu“al participio (passive) desconocido masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.PUAL.PTCP.U.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "los bendecidos por él"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3423",
+      "hebreo": "ירשׁ",
+      "transliteracion": "יִ֣ירְשׁוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "heredarán"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָ֑רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7043",
+      "hebreo": "קלל",
+      "transliteracion": "מְקֻלָּלָ֗יו",
+      "parsingLabel": "sustantivo pu“al participio (passive) desconocido masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.PUAL.PTCP.U.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "los maldecidos por él"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3772",
+      "hebreo": "כרת",
+      "transliteracion": "יִכָּרֵֽתוּ׃",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.NIF.IMPF.P3.M.PL",
+      "traduccion": "serán cortados"
+    }
+  ]
+}

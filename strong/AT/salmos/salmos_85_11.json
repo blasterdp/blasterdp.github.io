@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 85:11 Reina Valera 1960",
+    "texto": "La verdad brotará de la tierra, Y la justicia mirará desde los cielos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "571",
+      "hebreo": "אֶמֶת",
+      "transliteracion": "אֱ֭מֶת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "verdad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֣רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6779",
+      "hebreo": "צמח",
+      "transliteracion": "תִּצְמָ֑ח",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "brota"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6664",
+      "hebreo": "צֶדֶק",
+      "transliteracion": "צֶ֗דֶק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "justicia"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8064",
+      "hebreo": "שָׁמַיִם",
+      "transliteracion": "שָּׁמַ֥יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "los cielos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8259",
+      "hebreo": "שׁקף",
+      "transliteracion": "נִשְׁקָֽף׃",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "Mira"
+    }
+  ]
+}

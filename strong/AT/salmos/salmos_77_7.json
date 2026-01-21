@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 77:7 Reina Valera 1960",
+    "texto": "¿Desechará el Señor para siempre, Y no volverá más a sernos propicio?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הַֽ֭",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5769",
+      "hebreo": "עֹולָם",
+      "transliteracion": "עֹולָמִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "siempre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2186",
+      "hebreo": "זנח",
+      "transliteracion": "יִזְנַ֥ח׀",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "rechazará"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "136",
+      "hebreo": "אֲדֹנָי",
+      "transliteracion": "אֲדֹנָ֑י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Señor"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3254",
+      "hebreo": "יסף",
+      "transliteracion": "יֹסִ֖יף",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "añadirá"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7521",
+      "hebreo": "רצה",
+      "transliteracion": "רְצֹ֣ות",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A",
+      "traduccion": "favor"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5750",
+      "hebreo": "עֹוד",
+      "transliteracion": "עֹֽוד׃",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "aún?"
+    }
+  ]
+}

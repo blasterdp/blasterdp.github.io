@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 37:38 Reina Valera 1960",
+    "texto": "Mas los transgresores serán todos a una destruidos; La posteridad de los impíos será extinguida."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6586",
+      "hebreo": "פשׁע",
+      "transliteracion": "פֹשְׁעִים",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "a los transgresores"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8045",
+      "hebreo": "שׁמד",
+      "transliteracion": "נִשְׁמְד֣וּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "serán destruidos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3162",
+      "hebreo": "יַחְדָּו",
+      "transliteracion": "יַחְדָּ֑ו",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "a una"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "319",
+      "hebreo": "אַחֲרִית",
+      "transliteracion": "אַחֲרִ֖ית",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "porvenir"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְשָׁעִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de impíos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3772",
+      "hebreo": "כרת",
+      "transliteracion": "נִכְרָֽתָה׃",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.NIF.PERF.P3.F.SG",
+      "traduccion": "será cortado"
+    }
+  ]
+}

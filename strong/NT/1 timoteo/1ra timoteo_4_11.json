@@ -1,0 +1,44 @@
+{
+  "versiculo": {
+    "referencia": "1ra Timoteo 4:11 Reina Valera 1960",
+    "texto": "Esto manda y enseña."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3853",
+      "texto": "Παράγγελλε",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Imperativo-2ª Persona-Singular",
+      "parsing": "V-PAM-2S",
+      "traduccion": "Estés dando instrucción"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3778",
+      "texto": "ταῦτα",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Demostrativo-Acusativo-Plural-Neutro",
+      "parsing": "D-APN",
+      "traduccion": "a estas (cosas)"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1321",
+      "texto": "δίδασκε.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Imperativo-2ª Persona-Singular",
+      "parsing": "V-PAM-2S",
+      "traduccion": "estés enseñando"
+    }
+  ]
+}

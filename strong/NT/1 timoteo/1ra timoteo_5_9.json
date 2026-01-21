@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "1ra Timoteo 5:9 Reina Valera 1960",
+    "texto": "Sea puesta en la lista sólo la viuda no menor de sesenta años, que haya sido esposa de un solo marido,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5503",
+      "texto": "Χήρα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "Viuda"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2639",
+      "texto": "καταλεγέσθω",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Pasivo-Imperativo-3ª Persona-Singular",
+      "parsing": "V-PPM-3S",
+      "traduccion": "esté siendo puesta en lista"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3361",
+      "texto": "μὴ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1640",
+      "texto": "ἔλαττον",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Neutro",
+      "parsing": "A-NSN",
+      "traduccion": "menor"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2094",
+      "texto": "ἐτῶν",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Plural-Neutro",
+      "parsing": "N-GPN",
+      "traduccion": "de años"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1835",
+      "texto": "ἑξήκοντα",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Numeral-Indeclinable",
+      "parsing": "A-NUI",
+      "traduccion": "sesenta"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1096",
+      "texto": "γεγονυῖα,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Perfecto-Activo-Participio-Nominativo-Singular-Femenino",
+      "parsing": "V-2RAP-NSF",
+      "traduccion": "ha llegado a ser"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1520",
+      "texto": "ἑνὸς",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Genitivo-Singular-Masculino",
+      "parsing": "A-GSM",
+      "traduccion": "de uno"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "435",
+      "texto": "ἀνδρὸς",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "esposo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1135",
+      "texto": "γυνή,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "mujer"
+    }
+  ]
+}

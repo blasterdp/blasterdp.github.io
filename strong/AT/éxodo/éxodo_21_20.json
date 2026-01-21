@@ -1,0 +1,161 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 21:20 Reina Valera 1960",
+    "texto": "Y si alguno hiriere a su siervo o a su sierva con palo, y muriere bajo su mano, será castigado;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5221",
+      "hebreo": "נכה",
+      "transliteracion": "יַכֶּה֩",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "hiere"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִ֨ישׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עַבְדֹּ֜ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su siervo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "176",
+      "hebreo": "אֹו",
+      "transliteracion": "אֹ֤ו",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "519",
+      "hebreo": "אָמָה",
+      "transliteracion": "אֲמָתֹו֙",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su sierva"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7626",
+      "hebreo": "שֵׁבֶט",
+      "transliteracion": "שֵּׁ֔בֶט",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "vara"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "מֵ֖ת",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "muere"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּ֣חַת",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "bajo"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדֹ֑ו",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su mano"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "5358",
+      "hebreo": "נקם",
+      "transliteracion": "נָקֹ֖ם",
+      "parsingLabel": "adverbio qal infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.QAL.INFA.U.U.U.A",
+      "traduccion": "castigar"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "5358",
+      "hebreo": "נקם",
+      "transliteracion": "יִנָּקֵֽם׃",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "será castigado"
+    }
+  ]
+}

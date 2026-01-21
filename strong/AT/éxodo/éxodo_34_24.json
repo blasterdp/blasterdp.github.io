@@ -1,0 +1,251 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 34:24 Reina Valera 1960",
+    "texto": "Porque yo arrojaré a las naciones de tu presencia, y ensancharé tu territorio; y ninguno codiciará tu tierra, cuando subas para presentarte delante de Jehová tu Dios tres veces en el año."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3423",
+      "hebreo": "ירשׁ",
+      "transliteracion": "אֹורִ֤ישׁ",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG",
+      "traduccion": "expulsaré"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּויִם֙",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "naciones"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָּנֶ֔יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "delante de tí"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7337",
+      "hebreo": "רחב",
+      "transliteracion": "הִרְחַבְתִּ֖י",
+      "parsingLabel": "verbo hif‘il perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P1.U.SG",
+      "traduccion": "aumentaré"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1366",
+      "hebreo": "גְּבוּל",
+      "transliteracion": "גְּבוּלֶ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu territorio"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "2530",
+      "hebreo": "חמד",
+      "transliteracion": "יַחְמֹ֥ד",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "codiciará"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִישׁ֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "nadie"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶֽת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אַרְצְךָ֔",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu tierra"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "5927",
+      "hebreo": "עלה",
+      "transliteracion": "עֲלֹֽתְךָ֗",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A.PRS.P2.M.SG",
+      "traduccion": "tu subir"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָאֹות֙",
+      "parsingLabel": "verbo nif‘al infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.NIF.INFC.U.U.U.A",
+      "traduccion": "comparecer"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "854",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": ""
+    },
+    {
+      "numero": 21,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פְּנֵי֙",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "ante"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֶ֔יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tu Dios"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "7969",
+      "hebreo": "שָׁלֹשׁ",
+      "transliteracion": "שָׁלֹ֥שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tres"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "6471",
+      "hebreo": "פַּעַם",
+      "transliteracion": "פְּעָמִ֖ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "veces"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "8141",
+      "hebreo": "שָׁנָה",
+      "transliteracion": "שָּׁנָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "año"
+    }
+  ]
+}

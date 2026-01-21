@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 87:3 Reina Valera 1960",
+    "texto": "Cosas gloriosas se han dicho de ti, Ciudad de Dios. Selah"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3513",
+      "hebreo": "כבד",
+      "transliteracion": "נִ֭כְבָּדֹות",
+      "parsingLabel": "sustantivo nif‘al participio desconocido femenino plural absoluto",
+      "parsing": "SUBS.NIF.PTCA.U.F.PL.A",
+      "traduccion": "cosas gloriosas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "מְדֻבָּ֣ר",
+      "parsingLabel": "verbo pu“al participio (passive) desconocido masculino singular absoluto",
+      "parsing": "VERBO.PUAL.PTCP.U.M.SG.A",
+      "traduccion": "se hablan"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ֑ךְ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona femenino singular",
+      "parsing": "PREP.PRS.P2.F.SG",
+      "traduccion": "de ti"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5892",
+      "hebreo": "עִיר",
+      "transliteracion": "עִ֖יר",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "ciudad de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5542",
+      "hebreo": "סֶלָה",
+      "transliteracion": "סֶֽלָה׃",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "Selah"
+    }
+  ]
+}

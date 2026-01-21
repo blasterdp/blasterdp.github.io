@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 4:22 Reina Valera 1960",
+    "texto": "Y dirás a Faraón: Jehová ha dicho así: Israel es mi hijo, mi primogénito."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָמַרְתָּ֖",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "dirás"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6547",
+      "hebreo": "פַּרְעֹה",
+      "transliteracion": "פַּרְעֹ֑ה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Faraón"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3541",
+      "hebreo": "כֹּה",
+      "transliteracion": "כֹּ֚ה",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "así"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָמַ֣ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "dice"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֔ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנִ֥י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi hijo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1060",
+      "hebreo": "בְּכֹר",
+      "transliteracion": "בְכֹרִ֖י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi primogénito"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵֽל׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 44:2 Reina Valera 1960",
+    "texto": "Tú con tu mano echaste las naciones, y los plantaste a ellos; Afligiste a los pueblos, y los arrojaste."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֤ה׀",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדְךָ֡",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu mano"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּויִ֣ם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "naciones"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3423",
+      "hebreo": "ירשׁ",
+      "transliteracion": "הֹ֭ורַשְׁתָּ",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG",
+      "traduccion": "echaste los sacó"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5193",
+      "hebreo": "נטע",
+      "transliteracion": "תִּטָּעֵ֑ם",
+      "parsingLabel": "verbo qal wayyiqtol 2ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P2.M.SG.PRS.P3.M.PL",
+      "traduccion": "los plantaste"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7489",
+      "hebreo": "רעע",
+      "transliteracion": "תָּרַ֥ע",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG",
+      "traduccion": "quebrantaste"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3816",
+      "hebreo": "לְאֹם",
+      "transliteracion": "לְ֝אֻמִּ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "a los pueblos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "תְּשַׁלְּחֵֽם׃",
+      "parsingLabel": "verbo pi“el wayyiqtol 2ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.WAYQ.P2.M.SG.PRS.P3.M.PL",
+      "traduccion": "los extendiste"
+    }
+  ]
+}

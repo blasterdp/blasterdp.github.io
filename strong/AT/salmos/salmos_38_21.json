@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 38:21 Reina Valera 1960",
+    "texto": "No me desampares, oh Jehová; Dios mío, no te alejes de mí."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5800",
+      "hebreo": "עזב",
+      "transliteracion": "תַּֽעַזְבֵ֥נִי",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me desampares"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱ֝לֹהַ֗י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios mío"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7368",
+      "hebreo": "רחק",
+      "transliteracion": "תִּרְחַ֥ק",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "estés lejos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִמֶּֽנִּי׃",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "de mí"
+    }
+  ]
+}

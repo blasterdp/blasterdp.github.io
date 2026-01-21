@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 26:9 Reina Valera 1960",
+    "texto": "No arrebates con los pecadores mi alma, Ni mi vida con hombres sanguinarios,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "622",
+      "hebreo": "אסף",
+      "transliteracion": "תֶּאֱסֹ֣ף",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "juntes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2400",
+      "hebreo": "חַטָּא",
+      "transliteracion": "חַטָּאִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "pecadores"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשִׁ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi alma"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִם־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אַנְשֵׁ֖י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hombres"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1818",
+      "hebreo": "דָּם",
+      "transliteracion": "דָמִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de sangres"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2416",
+      "hebreo": "חַיִּים",
+      "transliteracion": "חַיָּֽי׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mi vida"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 70:3 Reina Valera 1960",
+    "texto": "Sean vueltos atrás, en pago de su afrenta hecha, Los que dicen: ¡Ah! ¡Ah!"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "יָ֭שׁוּבוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "vuélvanse"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6118",
+      "hebreo": "עֵקֶב",
+      "transliteracion": "עֵ֣קֶב",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "causa"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1322",
+      "hebreo": "בֹּשֶׁת",
+      "transliteracion": "בָּשְׁתָּ֑ם",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "de su vergüenza"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "los"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אֹמְרִ֗ים",
+      "parsingLabel": "verbo qal participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.A",
+      "traduccion": "que dicen"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1889",
+      "hebreo": "הֶאָח",
+      "transliteracion": "הֶ֘אָ֥ח׀",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "ajá"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1889",
+      "hebreo": "הֶאָח",
+      "transliteracion": "הֶאָֽח׃",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "ajá"
+    }
+  ]
+}

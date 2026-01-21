@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 66:2 Reina Valera 1960",
+    "texto": "Cantad la gloria de su nombre; Poned gloria en su alabanza."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2167",
+      "hebreo": "זמר",
+      "transliteracion": "זַמְּר֥וּ",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.PL",
+      "traduccion": "cantad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3519",
+      "hebreo": "כָּבֹוד",
+      "transliteracion": "כְבֹֽוד־",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "gloria"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שְׁמֹ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su nombre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7760",
+      "hebreo": "שׂים",
+      "transliteracion": "שִׂ֥ימוּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "haced"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3519",
+      "hebreo": "כָּבֹוד",
+      "transliteracion": "כָ֝בֹ֗וד",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "gloriosa"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8416",
+      "hebreo": "תְּהִלָּה",
+      "transliteracion": "תְּהִלָּתֹֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su alabanza"
+    }
+  ]
+}

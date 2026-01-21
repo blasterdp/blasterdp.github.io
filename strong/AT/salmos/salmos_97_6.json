@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 97:6 Reina Valera 1960",
+    "texto": "Los cielos anunciaron su justicia, Y todos los pueblos vieron su gloria."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5046",
+      "hebreo": "נגד",
+      "transliteracion": "הִגִּ֣ידוּ",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.HIF.PERF.P3.U.PL",
+      "traduccion": "declararon"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8064",
+      "hebreo": "שָׁמַיִם",
+      "transliteracion": "שָּׁמַ֣יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Cielos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6664",
+      "hebreo": "צֶדֶק",
+      "transliteracion": "צִדְקֹ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su justicia"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָא֖וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "vieron"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמִּ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "pueblos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3519",
+      "hebreo": "כָּבֹוד",
+      "transliteracion": "כְּבֹודֹֽו׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su gloria"
+    }
+  ]
+}

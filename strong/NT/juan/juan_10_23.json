@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Juan 10:23 Reina Valera 1960",
+    "texto": "y Jesús andaba en el templo por el pórtico de Salomón."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4043",
+      "texto": "περιεπάτει",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Imperfecto-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-IAI-3S",
+      "traduccion": "estaba caminando alrededor"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2424",
+      "texto": "Ἰησοῦς",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "Jesús"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1722",
+      "texto": "ἐν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "τῷ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Dativo-Singular-Neutro",
+      "parsing": "T-DSN",
+      "traduccion": "el"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2411",
+      "texto": "ἱερῷ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Neutro",
+      "parsing": "N-DSN",
+      "traduccion": "templo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1722",
+      "texto": "ἐν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3588",
+      "texto": "τῇ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Dativo-Singular-Femenino",
+      "parsing": "T-DSF",
+      "traduccion": "la"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4745",
+      "texto": "στοᾷ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Femenino",
+      "parsing": "N-DSF",
+      "traduccion": "columnata"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "4672",
+      "texto": "Σολομῶνος.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "de Salomón"
+    }
+  ]
+}

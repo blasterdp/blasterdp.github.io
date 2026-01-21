@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:34 Reina Valera 1960",
+    "texto": "Si los hacía morir, entonces buscaban a Dios; Entonces se volvían solícitos en busca suya,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2026",
+      "hebreo": "הרג",
+      "transliteracion": "הֲרָגָ֥ם",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los mataba"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1875",
+      "hebreo": "דרשׁ",
+      "transliteracion": "דְרָשׁ֑וּהוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P3.M.SG",
+      "traduccion": "le buscaban"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "שָׁ֗בוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se volvían"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7836",
+      "hebreo": "שׁחר",
+      "transliteracion": "שִֽׁחֲרוּ־",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL",
+      "traduccion": "solicitaban"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "410",
+      "hebreo": "אֵל",
+      "transliteracion": "אֵֽל׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "a Dios"
+    }
+  ]
+}

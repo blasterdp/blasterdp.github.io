@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 83:10 Reina Valera 1960",
+    "texto": "Que perecieron en Endor, Fueron hechos como estiércol para la tierra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8045",
+      "hebreo": "שׁמד",
+      "transliteracion": "נִשְׁמְד֥וּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "perecieron"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5874",
+      "hebreo": "עֵין דֹּור",
+      "transliteracion": "עֵין־דֹּ֑אר",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Endor"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָ֥יוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "vinieron a ser"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1828",
+      "hebreo": "דֹּמֶן",
+      "transliteracion": "דֹּ֝֗מֶן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "estiércol"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "127",
+      "hebreo": "אֲדָמָה",
+      "transliteracion": "אֲדָמָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "suelo"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 50:9 Reina Valera 1960",
+    "texto": "No tomaré de tu casa becerros, Ni machos cabríos de tus apriscos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3947",
+      "hebreo": "לקח",
+      "transliteracion": "אֶקַּ֣ח",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "tomaré"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּיתְךָ֣",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu casa"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6499",
+      "hebreo": "פַּר",
+      "transliteracion": "פָ֑ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "novillo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4356",
+      "hebreo": "מִכְלָא",
+      "transliteracion": "מִּכְלְאֹתֶ֗יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus apriscos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6260",
+      "hebreo": "עַתּוּד",
+      "transliteracion": "עַתּוּדִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "machos cabríos"
+    }
+  ]
+}

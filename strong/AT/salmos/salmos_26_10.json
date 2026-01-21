@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 26:10 Reina Valera 1960",
+    "texto": "En cuyas manos está el mal, Y su diestra está llena de sobornos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "ידֵיהֶ֥ם",
+      "parsingLabel": "sustantivo desconocido dual absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.U.DU.A.PRS.P3.M.PL",
+      "traduccion": "sus manos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2154",
+      "hebreo": "זִמָּה",
+      "transliteracion": "זִמָּ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "plan malvado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וִֽ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3225",
+      "hebreo": "יָמִין",
+      "transliteracion": "ימִינָ֗ם",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "su diestra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4390",
+      "hebreo": "מלא",
+      "transliteracion": "מָ֣לְאָה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "está llena"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7810",
+      "hebreo": "שֹׁחַד",
+      "transliteracion": "שֹּֽׁחַד׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de soborno"
+    }
+  ]
+}

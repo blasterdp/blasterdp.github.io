@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 49:20 Reina Valera 1960",
+    "texto": "El hombre que está en honra y no entiende, Semejante es a las bestias que perecen."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָדָ֣ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3366",
+      "hebreo": "יְקָר",
+      "transliteracion": "יקָר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "honor"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "יָבִ֑ין",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "entiende"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4911",
+      "hebreo": "משׁל",
+      "transliteracion": "נִמְשַׁ֖ל",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "se asemeja"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "929",
+      "hebreo": "בְּהֵמָה",
+      "transliteracion": "בְּהֵמֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "bestias"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1820",
+      "hebreo": "דמה",
+      "transliteracion": "נִדְמֽוּ׃",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "que perecen"
+    }
+  ]
+}

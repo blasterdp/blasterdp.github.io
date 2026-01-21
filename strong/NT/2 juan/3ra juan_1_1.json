@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "3ra Juan 1:1 Reina Valera 1960",
+    "texto": "El anciano a Gayo, el amado, a quien amo en la verdad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "texto": "Ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "El"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4245",
+      "texto": "πρεσβύτερος",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino-Comparativo",
+      "parsing": "A-NSM-C",
+      "traduccion": "anciano"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1050",
+      "texto": "Γαΐῳ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Masculino",
+      "parsing": "N-DSM",
+      "traduccion": "a Gayo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "texto": "τῷ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Dativo-Singular-Masculino",
+      "parsing": "T-DSM",
+      "traduccion": "a el"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "27",
+      "texto": "ἀγαπητῷ,",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Dativo-Singular-Masculino",
+      "parsing": "A-DSM",
+      "traduccion": "amado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3739",
+      "texto": "ὃν",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Relativo-Acusativo-Singular-Masculino",
+      "parsing": "R-ASM",
+      "traduccion": "cual"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1473",
+      "texto": "ἐγὼ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Nominativo-Singular",
+      "parsing": "P-1NS",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "25",
+      "texto": "ἀγαπῶ",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-1ª Persona-Singular",
+      "parsing": "V-PAI-1S",
+      "traduccion": "estoy amando"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1722",
+      "texto": "ἐν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "225",
+      "texto": "ἀληθείᾳ.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Femenino",
+      "parsing": "N-DSF",
+      "traduccion": "verdad"
+    }
+  ]
+}

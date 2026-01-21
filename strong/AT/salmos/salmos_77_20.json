@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 77:20 Reina Valera 1960",
+    "texto": "Condujiste a tu pueblo como ovejas Por mano de Moisés y de Aarón."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5148",
+      "hebreo": "נחה",
+      "transliteracion": "נָחִ֣יתָ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "condujiste"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6629",
+      "hebreo": "צֹאן",
+      "transliteracion": "צֹּ֣אן",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "rebaño"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמֶּ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "a tu pueblo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יַד־",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "mano"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4872",
+      "hebreo": "מֹשֶׁה",
+      "transliteracion": "מֹשֶׁ֥ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "de Moisés"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "175",
+      "hebreo": "אַהֲרֹן",
+      "transliteracion": "אַהֲרֹֽן׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "de Aarón"
+    }
+  ]
+}

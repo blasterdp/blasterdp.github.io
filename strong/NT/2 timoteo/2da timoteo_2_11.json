@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "2da Timoteo 2:11 Reina Valera 1960",
+    "texto": "Palabra fiel es esta: Si somos muertos con él, también viviremos con él;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4103",
+      "texto": "Πιστὸς",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino",
+      "parsing": "A-NSM",
+      "traduccion": "Digna de fe"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "la"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3056",
+      "texto": "λόγος·",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "palabra"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1487",
+      "texto": "εἰ",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1063",
+      "texto": "γὰρ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4880",
+      "texto": "συναπεθάνομεν,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Indicativo-1ª Persona-Plural",
+      "parsing": "V-2AAI-1P",
+      "traduccion": "morimos juntos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "también"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4800",
+      "texto": "συζήσομεν·",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Futuro-Activo-Indicativo-1ª Persona-Plural",
+      "parsing": "V-FAI-1P",
+      "traduccion": "viviremos juntos"
+    }
+  ]
+}

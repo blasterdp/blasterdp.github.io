@@ -1,0 +1,125 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 55:12 Reina Valera 1960",
+    "texto": "Porque no me afrentó un enemigo, Lo cual habría soportado; Ni se alzó contra mí el que me aborrecía, Porque me hubiera ocultado de él;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֤י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹויֵ֥ב",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "un enemigo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2778",
+      "hebreo": "חרף",
+      "transliteracion": "יְחָֽרְפֵ֗נִי",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "el que me agravia"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5375",
+      "hebreo": "נשׂא",
+      "transliteracion": "אֶ֫שָּׂ֥א",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "soportaría yo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "מְ֭שַׂנְאִי",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.PIEL.PTCA.U.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "uno que me odia"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלַ֣י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra mí"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1431",
+      "hebreo": "גדל",
+      "transliteracion": "הִגְדִּ֑יל",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG",
+      "traduccion": "se ha alzado"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5641",
+      "hebreo": "סתר",
+      "transliteracion": "אֶסָּתֵ֥ר",
+      "parsingLabel": "verbo nif‘al imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.NIF.IMPF.P1.U.SG",
+      "traduccion": "me hubiera ocultado"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִמֶּֽנּוּ׃",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "de él"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Juan 1:24 Reina Valera 1960",
+    "texto": "Y los que habían sido enviados eran de los fariseos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "649",
+      "texto": "ἀπεσταλμένοι",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Pasivo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-RPP-NPM",
+      "traduccion": "habiendo sido enviados como emisarios"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1510",
+      "texto": "ἦσαν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Imperfecto-Activo-Indicativo-3ª Persona-Plural",
+      "parsing": "V-IAI-3P",
+      "traduccion": "estaban siendo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1537",
+      "texto": "ἐκ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "procedente de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "texto": "τῶν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Plural-Masculino",
+      "parsing": "T-GPM",
+      "traduccion": "los"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5330",
+      "texto": "Φαρισαίων.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Plural-Masculino",
+      "parsing": "N-GPM",
+      "traduccion": "fariseos"
+    }
+  ]
+}

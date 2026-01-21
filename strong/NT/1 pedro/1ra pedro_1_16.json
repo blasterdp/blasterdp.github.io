@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "1ra Pedro 1:16 Reina Valera 1960",
+    "texto": "porque escrito está: Sed santos, porque yo soy santo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1360",
+      "texto": "διότι",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1125",
+      "texto": "γέγραπται",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-RPI-3S",
+      "traduccion": "ha sido escrito"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "40",
+      "texto": "ἅγιοι",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino",
+      "parsing": "A-NPM",
+      "traduccion": "Santos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1510",
+      "texto": "ἔσεσθε,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Futuro-Deponente Medio-Indicativo-2ª Persona-Plural",
+      "parsing": "V-FDI-2P",
+      "traduccion": "serán"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1360",
+      "texto": "διότι",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1473",
+      "texto": "ἐγὼ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Nominativo-Singular",
+      "parsing": "P-1NS",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "40",
+      "texto": "ἅγιος.",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino",
+      "parsing": "A-NSM",
+      "traduccion": "Santo"
+    }
+  ]
+}

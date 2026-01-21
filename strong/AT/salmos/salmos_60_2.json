@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 60:2 Reina Valera 1960",
+    "texto": "Hiciste temblar la tierra, la has hendido; Sana sus roturas, porque titubea."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7493",
+      "hebreo": "רעשׁ",
+      "transliteracion": "הִרְעַ֣שְׁתָּה",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG",
+      "traduccion": "has hecho temblar"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֣רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6480",
+      "hebreo": "פצם",
+      "transliteracion": "פְּצַמְתָּ֑הּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG.PRS.P3.F.SG",
+      "traduccion": "la has rendido"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7495",
+      "hebreo": "רפא",
+      "transliteracion": "רְפָ֖ה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "sana"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7667",
+      "hebreo": "שֶׁבֶר",
+      "transliteracion": "שְׁבָרֶ֣יהָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus roturas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4131",
+      "hebreo": "מוט",
+      "transliteracion": "מָֽטָה׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "se tambalea"
+    }
+  ]
+}

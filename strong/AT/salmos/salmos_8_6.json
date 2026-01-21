@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 8:6 Reina Valera 1960",
+    "texto": "Le hiciste señorear sobre las obras de tus manos; Todo lo pusiste debajo de sus pies:"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4910",
+      "hebreo": "משׁל",
+      "transliteracion": "תַּ֭מְשִׁילֵהוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "le haces señorear"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4639",
+      "hebreo": "מַעֲשֶׂה",
+      "transliteracion": "מַעֲשֵׂ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "obras"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדֶ֑יךָ",
+      "parsingLabel": "sustantivo desconocido dual absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.DU.A.PRS.P2.M.SG",
+      "traduccion": "de tus manos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֹּ֝ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7896",
+      "hebreo": "שׁית",
+      "transliteracion": "שַׁ֣תָּה",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "pusiste"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַֽחַת־",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "debajo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7272",
+      "hebreo": "רֶגֶל",
+      "transliteracion": "רַגְלָֽיו׃",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.SG",
+      "traduccion": "de sus pies"
+    }
+  ]
+}

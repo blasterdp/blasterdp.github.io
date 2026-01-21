@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 85:13 Reina Valera 1960",
+    "texto": "La justicia irá delante de él, Y sus pasos nos pondrá por camino."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6664",
+      "hebreo": "צֶדֶק",
+      "transliteracion": "צֶ֭דֶק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "justicia"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָנָ֣יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "delante de él"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "יְהַלֵּ֑ךְ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "irá"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7760",
+      "hebreo": "שׂים",
+      "transliteracion": "יָשֵׂ֖ם",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "pondrá"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דֶ֣רֶךְ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "camino"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6471",
+      "hebreo": "פַּעַם",
+      "transliteracion": "פְּעָמָֽיו׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus pasos"
+    }
+  ]
+}

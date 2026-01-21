@@ -1,0 +1,215 @@
+{
+  "versiculo": {
+    "referencia": "Hechos 5:10 Reina Valera 1960",
+    "texto": "Al instante ella cayó a los pies de él, y expiró; y cuando entraron los jóvenes, la hallaron muerta; y la sacaron, y la sepultaron junto a su marido."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4098",
+      "texto": "ἔπεσεν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-2AAI-3S",
+      "traduccion": "Cayó"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1161",
+      "texto": "δὲ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3916",
+      "texto": "παραχρῆμα",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "instantáneamente"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4314",
+      "texto": "πρὸς",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "hacia"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "texto": "τοὺς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Plural-Masculino",
+      "parsing": "T-APM",
+      "traduccion": "a los"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4228",
+      "texto": "πόδας",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Plural-Masculino",
+      "parsing": "N-APM",
+      "traduccion": "pies"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "846",
+      "texto": "αὐτοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Genitivo-Singular-Masculino",
+      "parsing": "P-GSM",
+      "traduccion": "de él"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1634",
+      "texto": "ἐξέψυξεν·",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-AAI-3S",
+      "traduccion": "expiró"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1525",
+      "texto": "εἰσελθόντες",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-2AAP-NPM",
+      "traduccion": "habiendo entrado"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1161",
+      "texto": "δὲ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3588",
+      "texto": "οἱ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Plural-Masculino",
+      "parsing": "T-NPM",
+      "traduccion": "los"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3495",
+      "texto": "νεανίσκοι",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Plural-Masculino",
+      "parsing": "N-NPM",
+      "traduccion": "hombres jóvenes"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "2147",
+      "texto": "εὗρον",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Indicativo-3ª Persona-Plural",
+      "parsing": "V-2AAI-3P",
+      "traduccion": "hallaron"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "846",
+      "texto": "αὐτὴν",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Acusativo-Singular-Femenino",
+      "parsing": "P-ASF",
+      "traduccion": "a ella"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3498",
+      "texto": "νεκράν,",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Femenino",
+      "parsing": "A-ASF",
+      "traduccion": "muerta"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "1627",
+      "texto": "ἐξενέγκαντες",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Activo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-AAP-NPM",
+      "traduccion": "habiendo llevado hacia afuera"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "2290",
+      "texto": "ἔθαψαν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Activo-Indicativo-3ª Persona-Plural",
+      "parsing": "V-AAI-3P",
+      "traduccion": "sepultaron"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "4314",
+      "texto": "πρὸς",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "hacia"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "3588",
+      "texto": "τὸν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Masculino",
+      "parsing": "T-ASM",
+      "traduccion": "a el"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "435",
+      "texto": "ἄνδρα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Masculino",
+      "parsing": "N-ASM",
+      "traduccion": "esposo"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "846",
+      "texto": "αὐτῆς.",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Genitivo-Singular-Femenino",
+      "parsing": "P-GSF",
+      "traduccion": "de ella"
+    }
+  ]
+}

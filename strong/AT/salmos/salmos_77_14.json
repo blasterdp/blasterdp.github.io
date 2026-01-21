@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 77:14 Reina Valera 1960",
+    "texto": "Tú eres el Dios que hace maravillas; Hiciste notorio en los pueblos tu poder."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֣ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ֭",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "410",
+      "hebreo": "אֵל",
+      "transliteracion": "אֵל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עֹ֣שֵׂה",
+      "parsingLabel": "verbo qal participio desconocido masculino singular constructivo",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.C",
+      "traduccion": "que hace"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6382",
+      "hebreo": "פֶּלֶא",
+      "transliteracion": "פֶ֑לֶא",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "maravillas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "הֹודַ֖עְתָּ",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG",
+      "traduccion": "has hecho conocer"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמִּ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "pueblos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5797",
+      "hebreo": "עֹז",
+      "transliteracion": "עֻזֶּֽךָ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu poder"
+    }
+  ]
+}

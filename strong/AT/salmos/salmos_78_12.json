@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:12 Reina Valera 1960",
+    "texto": "Delante de sus padres hizo maravillas En la tierra de Egipto, en el campo de Zoán."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5048",
+      "hebreo": "נֶגֶד",
+      "transliteracion": "נֶ֣גֶד",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "ante"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אֲ֭בֹותָם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus padres"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עָ֣שָׂה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "hizo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6382",
+      "hebreo": "פֶּלֶא",
+      "transliteracion": "פֶ֑לֶא",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "maravillas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֖רֶץ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "al tierra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4714",
+      "hebreo": "מִצְרַיִם",
+      "transliteracion": "מִצְרַ֣יִם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Egipto"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7704",
+      "hebreo": "שָׂדֶה",
+      "transliteracion": "שְׂדֵה־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "campo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6814",
+      "hebreo": "צֹעַן",
+      "transliteracion": "צֹֽעַן׃",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Zoán"
+    }
+  ]
+}

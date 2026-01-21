@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 20:3 Reina Valera 1960",
+    "texto": "Haga memoria de todas tus ofrendas, Y acepte tu holocausto. Selah"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2142",
+      "hebreo": "זכר",
+      "transliteracion": "יִזְכֹּ֥ר",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "que recuerde"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4503",
+      "hebreo": "מִנְחָה",
+      "transliteracion": "מִנְחֹתֶ֑ךָ",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus ofrendas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5930",
+      "hebreo": "עֹלָה",
+      "transliteracion": "עֹולָתְךָ֖",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "grosura de tu holocausto"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1878",
+      "hebreo": "דשׁן",
+      "transliteracion": "יְדַשְּׁנֶ֣ה",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "acepte"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5542",
+      "hebreo": "סֶלָה",
+      "transliteracion": "סֶֽלָה׃",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "Selah"
+    }
+  ]
+}

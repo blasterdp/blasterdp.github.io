@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 7:3 Reina Valera 1960",
+    "texto": "Jehová Dios mío, si yo he hecho esto, Si hay en mis manos iniquidad;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱ֭לֹהַי",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios mío"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עָשִׂ֣יתִי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "he hecho"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2063",
+      "hebreo": "זֹאת",
+      "transliteracion": "זֹ֑את",
+      "parsingLabel": "demonstrative pronombre femenino singular",
+      "parsing": "PRDE.F.SG",
+      "traduccion": "esto"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִֽם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3426",
+      "hebreo": "יֵשׁ",
+      "transliteracion": "יֶשׁ־",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "hay"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5766",
+      "hebreo": "עָוֶל",
+      "transliteracion": "עָ֥וֶל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "iniquidad"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3709",
+      "hebreo": "כַּף",
+      "transliteracion": "כַפָּֽי׃",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "mis manos"
+    }
+  ]
+}

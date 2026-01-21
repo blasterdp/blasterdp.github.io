@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Juan 15:17 Reina Valera 1960",
+    "texto": "Esto os mando: Que os améis unos a otros."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3778",
+      "texto": "ταῦτα",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Demostrativo-Acusativo-Plural-Neutro",
+      "parsing": "D-APN",
+      "traduccion": "Estas (cosas)"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1781",
+      "texto": "ἐντέλλομαι",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Deponente Medio o Pasivo-Indicativo-1ª Persona-Singular",
+      "parsing": "V-PNI-1S",
+      "traduccion": "estoy mandando"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5210",
+      "texto": "ὑμῖν,",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Dativo-Plural",
+      "parsing": "P-2DP",
+      "traduccion": "a ustedes"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2443",
+      "texto": "ἵνα",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "para que"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "25",
+      "texto": "ἀγαπᾶτε",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Subjuntivo-2ª Persona-Plural",
+      "parsing": "V-PAS-2P",
+      "traduccion": "estén amando"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "240",
+      "texto": "ἀλλήλους.",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Recíproco-Acusativo-Plural-Masculino",
+      "parsing": "C-APM",
+      "traduccion": "unos a otros"
+    }
+  ]
+}

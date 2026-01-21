@@ -1,0 +1,161 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 35:10 Reina Valera 1960",
+    "texto": "Todos mis huesos dirán: Jehová, ¿quién como tú, Que libras al afligido del más fuerte que él, Y al pobre y menesteroso del que le despoja?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּ֥ל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6106",
+      "hebreo": "עֶצֶם",
+      "transliteracion": "עַצְמֹותַ֨י׀",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mis huesos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "תֹּאמַרְנָה֮",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.F.PL",
+      "traduccion": "dirán"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִ֥י",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿quién"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3644",
+      "hebreo": "כְּמֹו",
+      "transliteracion": "כָ֫מֹ֥וךָ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "como tú"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "מַצִּ֣יל",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "que libras"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6041",
+      "hebreo": "עָנִי",
+      "transliteracion": "עָ֭נִי",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pobre"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "del"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2389",
+      "hebreo": "חָזָק",
+      "transliteracion": "חָזָ֣ק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "que es fuerte"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִמֶּ֑נּוּ",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "más que él"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "sí"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "6041",
+      "hebreo": "עָנִי",
+      "transliteracion": "עָנִ֥י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "al pobre"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "34",
+      "hebreo": "אֶבְיֹון",
+      "transliteracion": "אֶבְיֹ֗ון",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "al necesitado"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "del"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "1497",
+      "hebreo": "גזל",
+      "transliteracion": "גֹּזְלֹֽו׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "que se le despoja?"
+    }
+  ]
+}

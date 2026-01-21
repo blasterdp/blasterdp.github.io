@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 65:6 Reina Valera 1960",
+    "texto": "Tú, el que afirma los montes con su poder, Ceñido de valentía;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3559",
+      "hebreo": "כון",
+      "transliteracion": "מֵכִ֣ין",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "que asienta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הָרִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "montes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3581",
+      "hebreo": "כֹּחַ",
+      "transliteracion": "כֹחֹ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su poder"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "247",
+      "hebreo": "אזר",
+      "transliteracion": "נֶ֝אְזָ֗ר",
+      "parsingLabel": "verbo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.M.SG.A",
+      "traduccion": "ceñido"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1369",
+      "hebreo": "גְּבוּרָה",
+      "transliteracion": "גְבוּרָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "potencia"
+    }
+  ]
+}

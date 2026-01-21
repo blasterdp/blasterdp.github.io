@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Apocalipsis 13:9 Reina Valera 1960",
+    "texto": "Si alguno tiene oído, oiga."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1487",
+      "texto": "εἴ",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5100",
+      "texto": "τις",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Infinitivo-Nominativo-Singular-Masculino",
+      "parsing": "X-NSM",
+      "traduccion": "alguien"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2192",
+      "texto": "ἔχει",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está teniendo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3775",
+      "texto": "οὖς",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Neutro",
+      "parsing": "N-ASN",
+      "traduccion": "oído"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "191",
+      "texto": "ἀκουσάτω.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Activo-Imperativo-3ª Persona-Singular",
+      "parsing": "V-AAM-3S",
+      "traduccion": "oiga"
+    }
+  ]
+}

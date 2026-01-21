@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 7:11 Reina Valera 1960",
+    "texto": "Dios es juez justo, Y Dios está airado contra el impío todos los días."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱ֭לֹהִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8199",
+      "hebreo": "שׁפט",
+      "transliteracion": "שֹׁופֵ֣ט",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "juez"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַדִּ֑יק",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "justo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "410",
+      "hebreo": "אֵל",
+      "transliteracion": "אֵ֗ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2194",
+      "hebreo": "זעם",
+      "transliteracion": "זֹעֵ֥ם",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "que se indigna"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "cada"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹֽום׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 86:7 Reina Valera 1960",
+    "texto": "En el día de mi angustia te llamaré, Porque tú me respondes."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹ֣ום",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "el día"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6869",
+      "hebreo": "צָרָה",
+      "transliteracion": "צָ֭רָתִ֥י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "de mi angustia"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7121",
+      "hebreo": "קרא",
+      "transliteracion": "אֶקְרָאֶ֗ךָּ",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "te invoco"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6030",
+      "hebreo": "ענה",
+      "transliteracion": "תַעֲנֵֽנִי׃",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me responderás"
+    }
+  ]
+}

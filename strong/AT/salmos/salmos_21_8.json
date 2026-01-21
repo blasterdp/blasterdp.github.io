@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 21:8 Reina Valera 1960",
+    "texto": "Alcanzará tu mano a todos tus enemigos; Tu diestra alcanzará a los que te aborrecen."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "תִּמְצָ֣א",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "alcanzará"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָ֭דְךָ",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu mano"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹיְבֶ֑יךָ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus enemigos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3225",
+      "hebreo": "יָמִין",
+      "transliteracion": "יְ֝מִֽינְךָ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu diestra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4672",
+      "hebreo": "מצא",
+      "transliteracion": "תִּמְצָ֥א",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "alcanzará"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "שֹׂנְאֶֽיךָ׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "a los que te odian"
+    }
+  ]
+}

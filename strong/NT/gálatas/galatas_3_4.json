@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Galatas 3:4 Reina Valera 1960",
+    "texto": "¿Tantas cosas habéis padecido en vano? si es que realmente fue en vano."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5118",
+      "texto": "τοσαῦτα",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Demostrativo-Acusativo-Plural-Neutro",
+      "parsing": "D-APN",
+      "traduccion": "¿Tal cantidad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3958",
+      "texto": "ἐπάθετε",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Indicativo-2ª Persona-Plural",
+      "parsing": "V-2AAI-2P",
+      "traduccion": "sufrieron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1500",
+      "texto": "εἰκῇ;",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "en vano?"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1489",
+      "texto": "εἴγε",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "también"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1500",
+      "texto": "εἰκῇ.",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "en vano"
+    }
+  ]
+}

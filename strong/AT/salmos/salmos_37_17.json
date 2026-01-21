@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 37:17 Reina Valera 1960",
+    "texto": "Porque los brazos de los impíos serán quebrados; Mas el que sostiene a los justos es Jehová."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֤י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2220",
+      "hebreo": "זְרֹועַ",
+      "transliteracion": "זְרֹועֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "brazos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רְ֭שָׁעִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de los impíos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7665",
+      "hebreo": "שׁבר",
+      "transliteracion": "תִּשָּׁבַ֑רְנָה",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona femenino plural",
+      "parsing": "VERBO.NIF.IMPF.P3.F.PL",
+      "traduccion": "serán quebrados"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5564",
+      "hebreo": "סמך",
+      "transliteracion": "סֹומֵ֖ךְ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "sostiene"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַדִּיקִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "a los justos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָֽה׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    }
+  ]
+}

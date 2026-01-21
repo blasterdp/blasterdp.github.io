@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 34:19 Reina Valera 1960",
+    "texto": "Muchas son las aflicciones del justo, Pero de todas ellas le librará Jehová."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַ֭בֹּות",
+      "parsingLabel": "adjetivo femenino plural absoluto",
+      "parsing": "ADJV.F.PL.A",
+      "traduccion": "muchas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7451",
+      "hebreo": "רָעָה",
+      "transliteracion": "רָעֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "aflicciones"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַדִּ֑יק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del justo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֻּלָּ֗ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "todas ellas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "יַצִּילֶ֥נּוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "librará"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָֽה׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    }
+  ]
+}

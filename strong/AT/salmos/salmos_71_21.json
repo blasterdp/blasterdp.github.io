@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 71:21 Reina Valera 1960",
+    "texto": "Aumentarás mi grandeza, Y volverás a consolarme."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7235",
+      "hebreo": "רבה",
+      "transliteracion": "תֶּ֤רֶב׀",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG",
+      "traduccion": "aumenta tú"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1420",
+      "hebreo": "גְּדוּלָּה",
+      "transliteracion": "גְּֽדֻלָּתִ֗י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi grandeza"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5437",
+      "hebreo": "סבב",
+      "transliteracion": "תִסֹּ֥ב",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "torna"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5162",
+      "hebreo": "נחם",
+      "transliteracion": "תְּֽנַחֲמֵֽנִי׃",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERB.PIEL.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "consolarme"
+    }
+  ]
+}

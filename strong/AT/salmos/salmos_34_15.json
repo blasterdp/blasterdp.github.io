@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 34:15 Reina Valera 1960",
+    "texto": "Los ojos de Jehová están sobre los justos, Y atentos sus oídos al clamor de ellos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינֵ֣י",
+      "parsingLabel": "sustantivo femenino dual constructivo",
+      "parsing": "SUBS.F.DU.C",
+      "traduccion": "ojos de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hacia"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַדִּיקִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "justos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אָזְנָ֗יו",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.SG",
+      "traduccion": "sus oídos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hacia"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7775",
+      "hebreo": "שַׁוְעָה",
+      "transliteracion": "שַׁוְעָתָֽם׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "clamor de ellos"
+    }
+  ]
+}

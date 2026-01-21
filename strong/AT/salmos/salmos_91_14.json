@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 91:14 Reina Valera 1960",
+    "texto": "Por cuanto en mí ha puesto su amor, yo también lo libraré; Le pondré en alto, por cuanto ha conocido mi nombre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֤י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִ֣י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "en mí"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2836",
+      "hebreo": "חשׁק",
+      "transliteracion": "חָ֭שַׁק",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ha puesto su amor"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "por tano"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6403",
+      "hebreo": "פלט",
+      "transliteracion": "אֲפַלְּטֵ֑הוּ",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG.PRS.P3.M.SG",
+      "traduccion": "yo lo libraré"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7682",
+      "hebreo": "שׂגב",
+      "transliteracion": "אֲ֝שַׂגְּבֵ֗הוּ",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG.PRS.P3.M.SG",
+      "traduccion": "lo exaltaré"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָדַ֥ע",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ha conocido"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שְׁמִֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi nombre"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 34:9 Reina Valera 1960",
+    "texto": "Temed a Jehová, vosotros sus santos, Pues nada falta a los que le temen."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3372",
+      "hebreo": "ירא",
+      "transliteracion": "יְר֣אוּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "temed"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6918",
+      "hebreo": "קָדֹושׁ",
+      "transliteracion": "קְדֹשָׁ֑יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus santos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵ֥ין",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "nada"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4270",
+      "hebreo": "מַחְסֹור",
+      "transliteracion": "מַ֝חְסֹ֗ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "falta"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3373",
+      "hebreo": "יָרֵא",
+      "transliteracion": "ירֵאָֽיו׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "los que le temen"
+    }
+  ]
+}

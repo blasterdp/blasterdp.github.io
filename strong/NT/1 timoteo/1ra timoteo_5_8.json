@@ -1,0 +1,161 @@
+{
+  "versiculo": {
+    "referencia": "1ra Timoteo 5:8 Reina Valera 1960",
+    "texto": "porque si alguno no provee para los suyos, y mayormente para los de su casa, ha negado la fe, y es peor que un incrédulo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1487",
+      "texto": "εἰ",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1161",
+      "texto": "δέ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5100",
+      "texto": "τις",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Infinitivo-Nominativo-Singular-Masculino",
+      "parsing": "X-NSM",
+      "traduccion": "alguien"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "texto": "τῶν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Plural-Masculino",
+      "parsing": "T-GPM",
+      "traduccion": "de los"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2398",
+      "texto": "ἰδίων",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Genitivo-Plural-Masculino",
+      "parsing": "A-GPM",
+      "traduccion": "propios"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3122",
+      "texto": "μάλιστα",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio-Superlativo",
+      "parsing": "ADV-S",
+      "traduccion": "mayormente"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3609",
+      "texto": "οἰκείων",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Genitivo-Plural-Masculino",
+      "parsing": "A-GPM",
+      "traduccion": "de (miembros de) casa"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3756",
+      "texto": "οὐ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4306",
+      "texto": "προνοεῖται,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Medio-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PMI-3S",
+      "traduccion": "está proveyendo para sí"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3588",
+      "texto": "τὴν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Femenino",
+      "parsing": "T-ASF",
+      "traduccion": "a la"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "4102",
+      "texto": "πίστιν",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Femenino",
+      "parsing": "N-ASF",
+      "traduccion": "fe"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "720",
+      "texto": "ἤρνηται",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Deponente Medio-Indicativo-3ª Persona-Singular",
+      "parsing": "V-RDI-3S",
+      "traduccion": "ha negado"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "1510",
+      "texto": "ἔστιν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está siendo"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "571",
+      "texto": "ἀπίστου",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Genitivo-Singular-Masculino",
+      "parsing": "A-GSM",
+      "traduccion": "carente de fe"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "5501",
+      "texto": "χείρων.",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino-Comparativo",
+      "parsing": "A-NSM-C",
+      "traduccion": "peor que"
+    }
+  ]
+}

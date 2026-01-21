@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Juan 1:3 Reina Valera 1960",
+    "texto": "Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3956",
+      "texto": "πάντα",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Neutro",
+      "parsing": "A-NPN",
+      "traduccion": "Todas (cosas)"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1223",
+      "texto": "δι’",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "a través"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "846",
+      "texto": "αὐτοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Genitivo-Singular-Masculino",
+      "parsing": "P-GSM",
+      "traduccion": "de él"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1096",
+      "texto": "ἐγένετο,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Deponente Medio-Indicativo-3ª Persona-Singular",
+      "parsing": "V-2ADI-3S",
+      "traduccion": "llegó a ser"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5565",
+      "texto": "χωρὶς",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "aparte de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "846",
+      "texto": "αὐτοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Genitivo-Singular-Masculino",
+      "parsing": "P-GSM",
+      "traduccion": "él"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1096",
+      "texto": "ἐγένετο",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Deponente Medio-Indicativo-3ª Persona-Singular",
+      "parsing": "V-2ADI-3S",
+      "traduccion": "llegó a ser"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3761",
+      "texto": "οὐδὲ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción-Negativo",
+      "parsing": "CONJ-N",
+      "traduccion": "ni"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1520",
+      "texto": "ἕν",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Neutro",
+      "parsing": "A-NSN",
+      "traduccion": "uno (cosa)"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3739",
+      "texto": "ὃ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Relativo-Nominativo-Singular-Neutro",
+      "parsing": "R-NSN",
+      "traduccion": "cual"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "1096",
+      "texto": "γέγονεν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Perfecto-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-2RAI-3S",
+      "traduccion": "ha llegado a ser"
+    }
+  ]
+}

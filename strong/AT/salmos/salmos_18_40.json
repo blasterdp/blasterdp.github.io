@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 18:40 Reina Valera 1960",
+    "texto": "Has hecho que mis enemigos me vuelvan las espaldas, Para que yo destruya a los que me aborrecen."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹיְבַ֗י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "a mis enemigos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "נָתַ֣תָּה",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "has dado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִּ֣י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "me"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6203",
+      "hebreo": "עֹרֶף",
+      "transliteracion": "עֹ֑רֶף",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "espada"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "מְשַׂנְאַ֗י",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.A",
+      "traduccion": "a quienes me odiaban"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6789",
+      "hebreo": "צמת",
+      "transliteracion": "אַצְמִיתֵֽם׃",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG.PRS.P3.M.PL",
+      "traduccion": "los aniquilé"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 87:7 Reina Valera 1960",
+    "texto": "Y cantores y tañedores en ella dirán: Todas mis fuentes están en ti."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7891",
+      "hebreo": "שׁיר",
+      "transliteracion": "שָׁרִ֥ים",
+      "parsingLabel": "verbo qal participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.A",
+      "traduccion": "cantores"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2342",
+      "hebreo": "חול",
+      "transliteracion": "חֹלְלִ֑ים",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.A",
+      "traduccion": "los danzantes"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּֽל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4599",
+      "hebreo": "מַעְיָן",
+      "transliteracion": "מַעְיָנַ֥י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis fuentes"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּֽךְ׃",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona femenino singular",
+      "parsing": "PREP.PRS.P2.F.SG",
+      "traduccion": "en ti"
+    }
+  ]
+}

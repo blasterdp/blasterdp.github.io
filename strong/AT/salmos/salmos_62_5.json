@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 62:5 Reina Valera 1960",
+    "texto": "Alma mía, en Dios solamente reposa, Porque de él es mi esperanza."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "389",
+      "hebreo": "אַךְ",
+      "transliteracion": "אַ֣ךְ",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "sólo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֵ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אלֹהִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1826",
+      "hebreo": "דמם",
+      "transliteracion": "דֹּ֣ומִּי",
+      "parsingLabel": "verbo qal imperativo 2ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.F.SG",
+      "traduccion": "espera en silencio"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשִׁ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "alma mía"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ֝מֶּ֗נּוּ",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "de él"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8615",
+      "hebreo": "תִּקְוָה",
+      "transliteracion": "תִּקְוָתִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi esperanza"
+    }
+  ]
+}

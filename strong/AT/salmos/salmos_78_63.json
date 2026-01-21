@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:63 Reina Valera 1960",
+    "texto": "El fuego devoró a sus jóvenes, Y sus vírgenes no fueron loadas en cantos nupciales."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "970",
+      "hebreo": "בָּחוּר",
+      "transliteracion": "בַּחוּרָ֥יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "a sus jóvenes"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "אָֽכְלָה־",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "devoró"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "784",
+      "hebreo": "אֵשׁ",
+      "transliteracion": "אֵ֑שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "fuego"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1330",
+      "hebreo": "בְּתוּלָה",
+      "transliteracion": "בְתוּלֹתָ֗יו",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus vírgenes"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "הוּלָּֽלוּ׃",
+      "parsingLabel": "verbo pu“al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.PUAL.PERF.P3.U.PL",
+      "traduccion": "tuvieron canciones de boda"
+    }
+  ]
+}

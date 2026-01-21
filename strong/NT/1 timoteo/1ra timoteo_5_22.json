@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "1ra Timoteo 5:22 Reina Valera 1960",
+    "texto": "No impongas con ligereza las manos a ninguno, ni participes en pecados ajenos. Consérvate puro."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5495",
+      "texto": "Χεῖρας",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Plural-Femenino",
+      "parsing": "N-APF",
+      "traduccion": "Manos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5030",
+      "texto": "ταχέως",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "rápidamente"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3367",
+      "texto": "μηδενὶ",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Dativo-Singular-Masculino-Negativo",
+      "parsing": "A-DSM-N",
+      "traduccion": "a nadie"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2007",
+      "texto": "ἐπιτίθει,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Imperativo-2ª Persona-Singular",
+      "parsing": "V-PAM-2S",
+      "traduccion": "estés imponiendo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3366",
+      "texto": "μηδὲ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción-Negativo",
+      "parsing": "CONJ-N",
+      "traduccion": "ni"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2841",
+      "texto": "κοινώνει",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Imperativo-2ª Persona-Singular",
+      "parsing": "V-PAM-2S",
+      "traduccion": "estés compartiendo en común"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "266",
+      "texto": "ἁμαρτίαις",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Plural-Femenino",
+      "parsing": "N-DPF",
+      "traduccion": "a pecados"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "245",
+      "texto": "ἀλλοτρίαις·",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Dativo-Plural-Femenino",
+      "parsing": "A-DPF",
+      "traduccion": "de otros"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4572",
+      "texto": "σεαυτὸν",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Reflexivo-2ª Persona-Acusativo-Singular-Masculino",
+      "parsing": "F-2ASM",
+      "traduccion": "a ti mismo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "53",
+      "texto": "ἁγνὸν",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Singular-Masculino",
+      "parsing": "A-ASM",
+      "traduccion": "puro"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5083",
+      "texto": "τήρει.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Imperativo-2ª Persona-Singular",
+      "parsing": "V-PAM-2S",
+      "traduccion": "estés guardando"
+    }
+  ]
+}

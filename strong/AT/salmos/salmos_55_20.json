@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 55:20 Reina Valera 1960",
+    "texto": "Extendió el inicuo sus manos contra los que estaban en paz con él; Violó su pacto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "שָׁלַ֣ח",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "extendió"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָ֭דָיו",
+      "parsingLabel": "sustantivo desconocido dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.DU.A.PRS.P3.M.SG",
+      "traduccion": "sus manos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7965",
+      "hebreo": "שָׁלֹום",
+      "transliteracion": "שְׁלֹמָ֗יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "los que estaban en paz con él"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2490",
+      "hebreo": "חלל",
+      "transliteracion": "חִלֵּ֥ל",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "violó"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1285",
+      "hebreo": "בְּרִית",
+      "transliteracion": "בְּרִיתֹֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su pacto"
+    }
+  ]
+}

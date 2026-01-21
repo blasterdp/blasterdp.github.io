@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 66:8 Reina Valera 1960",
+    "texto": "Bendecid, pueblos, a nuestro Dios, Y haced oír la voz de su alabanza."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "בָּרְכ֖וּ",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.PL",
+      "traduccion": "bendecid"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמִּ֥ים׀",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "pueblos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֵ֑ינוּ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "a nuestros Dios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "הַשְׁמִ֗יעוּ",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPV.P2.M.PL",
+      "traduccion": "haced oír"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6963",
+      "hebreo": "קֹול",
+      "transliteracion": "קֹ֣ול",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "voz"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8416",
+      "hebreo": "תְּהִלָּה",
+      "transliteracion": "תְּהִלָּתֹֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su alabanza"
+    }
+  ]
+}

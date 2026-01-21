@@ -1,0 +1,233 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 32:23 Reina Valera 1960",
+    "texto": "Porque me dijeron: Haznos dioses que vayan delante de nosotros; porque a este Moisés, el varón que nos sacó de la tierra de Egipto, no sabemos qué le haya acontecido."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּ֣אמְרוּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "dijeron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֔י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "a mí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עֲשֵׂה־",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "haz"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ֣נוּ",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "PREP.PRS.P1.U.PL",
+      "traduccion": "a nosotros"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֔ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "dioses"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֥ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "יֵלְכ֖וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "vayan"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "ante"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָנֵ֑ינוּ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "nosotros"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶ֣ה׀",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "éste"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4872",
+      "hebreo": "מֹשֶׁה",
+      "transliteracion": "מֹשֶׁ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Moisés"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִ֗ישׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֤ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "5927",
+      "hebreo": "עלה",
+      "transliteracion": "הֶֽעֱלָ֨נוּ֙",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG.PRS.P1.U.PL",
+      "traduccion": "nos sacó"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֣רֶץ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "tierra de"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "4714",
+      "hebreo": "מִצְרַיִם",
+      "transliteracion": "מִצְרַ֔יִם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Egipto"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָדַ֖עְנוּ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P1.U.PL",
+      "traduccion": "sabemos"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מֶה־",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "qué"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הָ֥יָה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "fue"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֹֽו׃",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "a él"
+    }
+  ]
+}

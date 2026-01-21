@@ -1,0 +1,332 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 16:8 Reina Valera 1960",
+    "texto": "Dijo también Moisés: Jehová os dará en la tarde carne para comer, y en la mañana pan hasta saciaros; porque Jehová ha oído vuestras murmuraciones con que habéis murmurado contra él; porque nosotros, ¿qué somos? Vuestras murmuraciones no son contra nosotros, sino contra Jehová."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּ֣אמֶר",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4872",
+      "hebreo": "מֹשֶׁה",
+      "transliteracion": "מֹשֶׁ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Moisés"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "תֵ֣ת",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "Dará"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָה֩",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָכֶ֨ם",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino plural",
+      "parsing": "PREP.PRS.P2.M.PL",
+      "traduccion": "a vosotros"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6153",
+      "hebreo": "עֶרֶב",
+      "transliteracion": "עֶ֜רֶב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "tarde"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1320",
+      "hebreo": "בָּשָׂר",
+      "transliteracion": "בָּשָׂ֣ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "carne"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לֶ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "אֱכֹ֗ל",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A",
+      "traduccion": "comer"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3899",
+      "hebreo": "לֶחֶם",
+      "transliteracion": "לֶ֤חֶם",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "pan"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "1242",
+      "hebreo": "בֹּקֶר",
+      "transliteracion": "בֹּ֨קֶר֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mañana"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "7646",
+      "hebreo": "שׂבע",
+      "transliteracion": "שְׂבֹּ֔עַ",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A",
+      "traduccion": "saciar"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שְׁמֹ֤עַ",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "oír"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָה֙",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "8519",
+      "hebreo": "תְּלֻנֹּות",
+      "transliteracion": "תְּלֻנֹּ֣תֵיכֶ֔ם",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.PL",
+      "traduccion": "vuestras murmuraciones"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "859",
+      "hebreo": "אַתֶּם",
+      "transliteracion": "אַתֶּ֥ם",
+      "parsingLabel": "pronombre personal 2ª persona masculino plural",
+      "parsing": "PRPS.P2.M.PL",
+      "traduccion": "vosotros"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "3885",
+      "hebreo": "לון",
+      "transliteracion": "מַלִּינִ֖ם",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.PL.A",
+      "traduccion": "murmurando"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלָ֑יו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "contra él"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "5168",
+      "hebreo": "נַחְנוּ",
+      "transliteracion": "נַ֣חְנוּ",
+      "parsingLabel": "pronombre personal 1ª persona desconocido plural",
+      "parsing": "PRPS.P1.U.PL",
+      "traduccion": "nosotros"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מָ֔ה",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "quién"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלֵ֥ינוּ",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "PREP.PRS.P1.U.PL",
+      "traduccion": "contra nosotros"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "8519",
+      "hebreo": "תְּלֻנֹּות",
+      "transliteracion": "תְלֻנֹּתֵיכֶ֖ם",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.PL",
+      "traduccion": "muramurasteis"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֥י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "sino"
+    },
+    {
+      "numero": 35,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 36,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָֽה׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 85:10 Reina Valera 1960",
+    "texto": "La misericordia y la verdad se encontraron; La justicia y la paz se besaron."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2617",
+      "hebreo": "חֶסֶד",
+      "transliteracion": "חֶֽסֶד־",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "misericordia"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וֶ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "571",
+      "hebreo": "אֶמֶת",
+      "transliteracion": "אֱמֶ֥ת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "verdad"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6298",
+      "hebreo": "פגשׁ",
+      "transliteracion": "נִפְגָּ֑שׁוּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "se han encontrado"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6664",
+      "hebreo": "צֶדֶק",
+      "transliteracion": "צֶ֖דֶק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "justicia"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7965",
+      "hebreo": "שָׁלֹום",
+      "transliteracion": "שָׁלֹ֣ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "paz"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5401",
+      "hebreo": "נשׁק",
+      "transliteracion": "נָשָֽׁקוּ׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se han besado"
+    }
+  ]
+}

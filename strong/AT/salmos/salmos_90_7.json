@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 90:7 Reina Valera 1960",
+    "texto": "Porque con tu furor somos consumidos, Y con tu ira somos turbados."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3615",
+      "hebreo": "כלה",
+      "transliteracion": "כָלִ֥ינוּ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P1.U.PL",
+      "traduccion": "somos consumidos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "639",
+      "hebreo": "אַף",
+      "transliteracion": "אַפֶּ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu ira"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2534",
+      "hebreo": "חֵמָה",
+      "transliteracion": "חֲמָתְךָ֥",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu furor"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "926",
+      "hebreo": "בהל",
+      "transliteracion": "נִבְהָֽלְנוּ׃",
+      "parsingLabel": "verbo nif‘al perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P1.U.PL",
+      "traduccion": "hemos sido conturbados"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 72:20 Reina Valera 1960",
+    "texto": "Aquí terminan las oraciones de David, hijo de Isaí."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3634",
+      "hebreo": "כלל",
+      "transliteracion": "כָּלּ֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "terminaron"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8605",
+      "hebreo": "תְּפִלָּה",
+      "transliteracion": "תְפִלֹּ֑ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "oraciones"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1732",
+      "hebreo": "דָּוִד",
+      "transliteracion": "דָּ֝וִ֗ד",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "de David"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בֶּן־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hijo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3448",
+      "hebreo": "יִשַׁי",
+      "transliteracion": "יִשָֽׁי׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "de Isaí"
+    }
+  ]
+}

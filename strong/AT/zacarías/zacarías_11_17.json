@@ -1,0 +1,206 @@
+{
+  "versiculo": {
+    "referencia": "Zacarías 11:17 Reina Valera 1960",
+    "texto": "¡Ay del pastor inútil que abandona el ganado! Hiera la espada su brazo, y su ojo derecho; del todo se secará su brazo, y su ojo derecho será enteramente oscurecido."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1945",
+      "hebreo": "הֹוי",
+      "transliteracion": "הֹ֣וי",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "Ay¡"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7473",
+      "hebreo": "רעה",
+      "transliteracion": "רֹעִ֤י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.C",
+      "traduccion": "pastor"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "457",
+      "hebreo": "אֱלִיל",
+      "transliteracion": "אֱלִיל֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "inutil"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5800",
+      "hebreo": "עזב",
+      "transliteracion": "עֹזְבִ֣י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.C",
+      "traduccion": "abandonador de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6629",
+      "hebreo": "צֹאן",
+      "transliteracion": "צֹּ֔אן",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "!rebaño"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2719",
+      "hebreo": "חֶרֶב",
+      "transliteracion": "חֶ֥רֶב",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "Espada"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2220",
+      "hebreo": "זְרֹועַ",
+      "transliteracion": "זְרֹועֹ֖ו",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su brazo"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵ֣ין",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "ojo de"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3225",
+      "hebreo": "יָמִין",
+      "transliteracion": "יְמִינֹ֑ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su derecho"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "2220",
+      "hebreo": "זְרֹועַ",
+      "transliteracion": "זְרֹעֹו֙",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su brazo"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3001",
+      "hebreo": "יבשׁ",
+      "transliteracion": "יָבֹ֣ושׁ",
+      "parsingLabel": "adverbio qal infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.QAL.INFA.U.U.U.A",
+      "traduccion": "secar"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "3001",
+      "hebreo": "יבשׁ",
+      "transliteracion": "תִּיבָ֔שׁ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "se seque"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵ֥ין",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "ojo"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "3225",
+      "hebreo": "יָמִין",
+      "transliteracion": "יְמִינֹ֖ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su derecho"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "3543",
+      "hebreo": "כהה",
+      "transliteracion": "כָּהֹ֥ה",
+      "parsingLabel": "adverbio qal infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "ADVB.QAL.INFA.U.U.U.A",
+      "traduccion": "ser ciego"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "3543",
+      "hebreo": "כהה",
+      "transliteracion": "תִכְהֶֽה׃ ס",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "sea ciego"
+    }
+  ]
+}

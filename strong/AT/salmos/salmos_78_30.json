@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:30 Reina Valera 1960",
+    "texto": "No habían quitado de sí su anhelo, Aún estaba la comida en su boca,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2114",
+      "hebreo": "זור",
+      "transliteracion": "זָר֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se habían separado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8378",
+      "hebreo": "תַּאֲוָה",
+      "transliteracion": "תַּאֲוָתָ֑ם",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "su anhelo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5750",
+      "hebreo": "עֹוד",
+      "transliteracion": "עֹ֝֗וד",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "aún"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "400",
+      "hebreo": "אֹכֶל",
+      "transliteracion": "אָכְלָ֥ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su comida"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִיהֶֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "la boca de ellos"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 45:3 Reina Valera 1960",
+    "texto": "Ciñe tu espada sobre el muslo, oh valiente, Con tu gloria y con tu majestad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2296",
+      "hebreo": "חגר",
+      "transliteracion": "חֲגֹֽור־",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "ciñe"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2719",
+      "hebreo": "חֶרֶב",
+      "transliteracion": "חַרְבְּךָ֣",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu espada"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3409",
+      "hebreo": "יָרֵךְ",
+      "transliteracion": "יָרֵ֣ךְ",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "cadera"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1368",
+      "hebreo": "גִּבֹּור",
+      "transliteracion": "גִּבֹּ֑ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "valiente"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1935",
+      "hebreo": "הֹוד",
+      "transliteracion": "הֹ֝ודְךָ֗",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu esplendor"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1926",
+      "hebreo": "הָדָר",
+      "transliteracion": "הֲדָרֶֽךָ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu majestad"
+    }
+  ]
+}

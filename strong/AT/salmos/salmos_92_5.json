@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 92:5 Reina Valera 1960",
+    "texto": "¡Cuán grandes son tus obras, oh Jehová! Muy profundos son tus pensamientos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מַה־",
+      "parsingLabel": "interrogativo partículo desconocido desconocido",
+      "parsing": "INRG.U.U",
+      "traduccion": "cuán"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1431",
+      "hebreo": "גדל",
+      "transliteracion": "גָּדְל֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "grandes son"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4639",
+      "hebreo": "מַעֲשֶׂה",
+      "transliteracion": "מַעֲשֶׂ֣יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus obras"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3966",
+      "hebreo": "מְאֹד",
+      "transliteracion": "מְ֝אֹ֗ד",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "muy"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6009",
+      "hebreo": "עמק",
+      "transliteracion": "עָמְק֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "profundos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4284",
+      "hebreo": "מַחֲשָׁבָה",
+      "transliteracion": "מַחְשְׁבֹתֶֽיךָ׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus pensamientos"
+    }
+  ]
+}

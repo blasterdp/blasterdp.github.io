@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 50:12 Reina Valera 1960",
+    "texto": "Si yo tuviese hambre, no te lo diría a ti; Porque mío es el mundo y su plenitud."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7456",
+      "hebreo": "רעב",
+      "transliteracion": "אֶ֭רְעַב",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "tuviera hambre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אֹ֣מַר",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "diría"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ֑ךְ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "te"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֥י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "mío"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8398",
+      "hebreo": "תֵּבֵל",
+      "transliteracion": "תֵ֝בֵ֗ל",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "orbe"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4393",
+      "hebreo": "מְלֹא",
+      "transliteracion": "מְלֹאָֽהּ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "cuanto lo llena"
+    }
+  ]
+}

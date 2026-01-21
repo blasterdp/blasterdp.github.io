@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 45:8 Reina Valera 1960",
+    "texto": "Mirra, áloe y casia exhalan todos tus vestidos; Desde palacios de marfil te recrean."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4753",
+      "hebreo": "מֹר",
+      "transliteracion": "מֹר־",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mirra"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "174",
+      "hebreo": "אָהָל",
+      "transliteracion": "אֲהָלֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "áloe"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7102",
+      "hebreo": "קְצִיעָה",
+      "transliteracion": "קְ֭צִיעֹות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "casia"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "899",
+      "hebreo": "בֶּגֶד",
+      "transliteracion": "בִּגְדֹתֶ֑יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus vestidos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִֽן־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1964",
+      "hebreo": "הֵיכָל",
+      "transliteracion": "הֵ֥יכְלֵי",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "palacios"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8127",
+      "hebreo": "שֵׁן",
+      "transliteracion": "שֵׁ֝֗ן",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de marfil"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִנִּ֥י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "de cuerda"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "8055",
+      "hebreo": "שׂמח",
+      "transliteracion": "שִׂמְּחֽוּךָ׃",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL.PRS.P2.M.SG",
+      "traduccion": "te alegran"
+    }
+  ]
+}

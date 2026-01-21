@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 40:11 Reina Valera 1960",
+    "texto": "Jehová, no retengas de mí tus misericordias; Tu misericordia y tu verdad me guarden siempre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֤ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3607",
+      "hebreo": "כלא",
+      "transliteracion": "תִכְלָ֣א",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "retengas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7356",
+      "hebreo": "רַחֲמִים",
+      "transliteracion": "רַחֲמֶ֣יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus compasiones"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִמֶּ֑נִּי",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2617",
+      "hebreo": "חֶסֶד",
+      "transliteracion": "חַסְדְּךָ֥",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu misericordia"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "571",
+      "hebreo": "אֶמֶת",
+      "transliteracion": "אֲמִתְּךָ֗",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu verdad"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "8548",
+      "hebreo": "תָּמִיד",
+      "transliteracion": "תָּמִ֥יד",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "siempre"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5341",
+      "hebreo": "נצר",
+      "transliteracion": "יִצְּרֽוּנִי׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL.PRS.P1.U.SG",
+      "traduccion": "me guarden"
+    }
+  ]
+}

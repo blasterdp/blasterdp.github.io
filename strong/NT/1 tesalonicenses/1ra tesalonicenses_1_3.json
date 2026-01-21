@@ -1,0 +1,260 @@
+{
+  "versiculo": {
+    "referencia": "1ra Tesalonicenses 1:3 Reina Valera 1960",
+    "texto": "acordándonos sin cesar delante del Dios y Padre nuestro de la obra de vuestra fe, del trabajo de vuestro amor y de vuestra constancia en la esperanza en nuestro Señor Jesucristo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "89",
+      "texto": "ἀδιαλείπτως",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "incesantemente"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3421",
+      "texto": "μνημονεύοντες",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Plural-Masculino",
+      "parsing": "V-PAP-NPM",
+      "traduccion": "recordando"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5210",
+      "texto": "ὑμῶν",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Genitivo-Plural",
+      "parsing": "P-2GP",
+      "traduccion": "de ustedes"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Neutro",
+      "parsing": "T-GSN",
+      "traduccion": "la"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2041",
+      "texto": "ἔργου",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Neutro",
+      "parsing": "N-GSN",
+      "traduccion": "obra"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "τῆς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Femenino",
+      "parsing": "T-GSF",
+      "traduccion": "de la"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4102",
+      "texto": "πίστεως",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Femenino",
+      "parsing": "N-GSF",
+      "traduccion": "fe"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "de la"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2873",
+      "texto": "κόπου",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "labor"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3588",
+      "texto": "τῆς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Femenino",
+      "parsing": "T-GSF",
+      "traduccion": "de el"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "26",
+      "texto": "ἀγάπης",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Femenino",
+      "parsing": "N-GSF",
+      "traduccion": "amor"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3588",
+      "texto": "τῆς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Femenino",
+      "parsing": "T-GSF",
+      "traduccion": "de el"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "5281",
+      "texto": "ὑπομονῆς",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Femenino",
+      "parsing": "N-GSF",
+      "traduccion": "aguante"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3588",
+      "texto": "τῆς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Femenino",
+      "parsing": "T-GSF",
+      "traduccion": "de la"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "1680",
+      "texto": "ἐλπίδος",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Femenino",
+      "parsing": "N-GSF",
+      "traduccion": "esperanza"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "de el"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "2962",
+      "texto": "κυρίου",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "Señor"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "2249",
+      "texto": "ἡμῶν",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Genitivo-Plural",
+      "parsing": "P-1GP",
+      "traduccion": "de nosotros"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "2424",
+      "texto": "Ἰησοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "Jesús"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "5547",
+      "texto": "Χριστοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "Cristo"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "1715",
+      "texto": "ἔμπροσθεν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "enfrente"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "de el"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "2316",
+      "texto": "θεοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "3962",
+      "texto": "πατρὸς",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "Padre"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "2249",
+      "texto": "ἡμῶν,",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Genitivo-Plural",
+      "parsing": "P-1GP",
+      "traduccion": "de nosotros"
+    }
+  ]
+}

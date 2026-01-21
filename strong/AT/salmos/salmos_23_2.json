@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 23:2 Reina Valera 1960",
+    "texto": "En lugares de delicados pastos me hará descansar; Junto a aguas de reposo me pastoreará."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4999",
+      "hebreo": "נָוָה",
+      "transliteracion": "נְאֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "pastos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1877",
+      "hebreo": "דֶּשֶׁא",
+      "transliteracion": "דֶּ֭שֶׁא",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "verdes"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7257",
+      "hebreo": "רבץ",
+      "transliteracion": "יַרְבִּיצֵ֑נִי",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me hace recostar"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "junto a"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מֵ֖י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "aguas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4496",
+      "hebreo": "מְנוּחָה",
+      "transliteracion": "מְנֻחֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "tranquilas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5095",
+      "hebreo": "נהל",
+      "transliteracion": "יְנַהֲלֵֽנִי׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me conduce"
+    }
+  ]
+}

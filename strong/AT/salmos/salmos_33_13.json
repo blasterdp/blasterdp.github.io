@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 33:13 Reina Valera 1960",
+    "texto": "Desde los cielos miró Jehová; Vio a todos los hijos de los hombres;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8064",
+      "hebreo": "שָׁמַיִם",
+      "transliteracion": "שָּׁמַיִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Cielos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5027",
+      "hebreo": "נבט",
+      "transliteracion": "הִבִּ֣יט",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG",
+      "traduccion": "mira"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָ֝אָ֗ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ve"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶֽת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָדָֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    }
+  ]
+}

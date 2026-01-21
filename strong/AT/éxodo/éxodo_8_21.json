@@ -1,0 +1,323 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 8:21 Reina Valera 1960",
+    "texto": "Porque si no dejas ir a mi pueblo, he aquí yo enviaré sobre ti, sobre tus siervos, sobre tu pueblo y sobre tus casas toda clase de moscas; y las casas de los egipcios se llenarán de toda clase de moscas, y asimismo la tierra donde ellos estén."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵינְךָ֮",
+      "parsingLabel": "negativo partículo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "NEGA.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tú no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "מְשַׁלֵּ֣חַ",
+      "parsingLabel": "verbo pi“el participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.PIEL.PTCA.U.M.SG.A",
+      "traduccion": "enviando"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמִּי֒",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi pueblo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנְנִי֩",
+      "parsingLabel": "interjeción pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "INTJ.PRS.P1.U.SG",
+      "traduccion": "he aquí"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "מַשְׁלִ֨יחַ",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "enviando"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּךָ֜",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "contra ti"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עֲבָדֶ֧יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus siervos"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמְּךָ֛",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu pueblo"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בָתֶּ֖יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tu casa"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הֶ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "6157",
+      "hebreo": "עָרֹב",
+      "transliteracion": "עָרֹ֑ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mosca"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "4390",
+      "hebreo": "מלא",
+      "transliteracion": "מָ֨לְא֜וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se llenarán"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בָּתֵּ֤י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "casa de"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "4714",
+      "hebreo": "מִצְרַיִם",
+      "transliteracion": "מִצְרַ֨יִם֙",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "egipcios"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הֶ֣",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "6157",
+      "hebreo": "עָרֹב",
+      "transliteracion": "עָרֹ֔ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mosca"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַ֥ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "tambien"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "127",
+      "hebreo": "אֲדָמָה",
+      "transliteracion": "אֲדָמָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "1992",
+      "hebreo": "הֵם",
+      "transliteracion": "הֵ֥ם",
+      "parsingLabel": "pronombre personal 3ª persona masculino plural",
+      "parsing": "PRPS.P3.M.PL",
+      "traduccion": "ellas"
+    },
+    {
+      "numero": 35,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלֶֽיהָ׃",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona femenino singular",
+      "parsing": "PREP.PRS.P3.F.SG",
+      "traduccion": "sobre ella"
+    }
+  ]
+}

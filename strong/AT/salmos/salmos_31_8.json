@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 31:8 Reina Valera 1960",
+    "texto": "No me entregaste en mano del enemigo; Pusiste mis pies en lugar espacioso."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5462",
+      "hebreo": "סגר",
+      "transliteracion": "הִ֭סְגַּרְתַּנִי",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me has entregado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יַד־",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "mano"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹויֵ֑ב",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "del enemigo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5975",
+      "hebreo": "עמד",
+      "transliteracion": "הֶֽעֱמַ֖דְתָּ",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG",
+      "traduccion": "has puesto"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4800",
+      "hebreo": "מֶרְחָב",
+      "transliteracion": "מֶּרְחָ֣ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "lugar espacioso"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7272",
+      "hebreo": "רֶגֶל",
+      "transliteracion": "רַגְלָֽי׃",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "mis pies"
+    }
+  ]
+}

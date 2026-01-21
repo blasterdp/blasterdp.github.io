@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 65:7 Reina Valera 1960",
+    "texto": "El que sosiega el estruendo de los mares, el estruendo de sus ondas, Y el alboroto de las naciones."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7623",
+      "hebreo": "שׁבח",
+      "transliteracion": "מַשְׁבִּ֤יחַ׀",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "el que calma"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7588",
+      "hebreo": "שָׁאֹון",
+      "transliteracion": "שְׁאֹ֣ון",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "rugido"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3220",
+      "hebreo": "יָם",
+      "transliteracion": "יַ֭מִּים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de mares"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7588",
+      "hebreo": "שָׁאֹון",
+      "transliteracion": "שְׁאֹ֥ון",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "rugido"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1531",
+      "hebreo": "גַּל",
+      "transliteracion": "גַּלֵּיהֶ֗ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "de sus olas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1995",
+      "hebreo": "הָמֹון",
+      "transliteracion": "הֲמֹ֥ון",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "tumulto"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3816",
+      "hebreo": "לְאֹם",
+      "transliteracion": "לְאֻמִּֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de pueblos"
+    }
+  ]
+}

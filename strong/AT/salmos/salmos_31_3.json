@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 31:3 Reina Valera 1960",
+    "texto": "Porque tú eres mi roca y mi castillo; Por tu nombre me guiarás y me encaminarás."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5553",
+      "hebreo": "סֶלַע",
+      "transliteracion": "סַלְעִ֣י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi roca"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4686",
+      "hebreo": "מְצוּדָה",
+      "transliteracion": "מְצוּדָתִ֣י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi castillo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אָ֑תָּה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4616",
+      "hebreo": "לְמַעַן",
+      "transliteracion": "לְמַ֥עַן",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en atención a"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שִׁ֝מְךָ֗",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu nombre"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5148",
+      "hebreo": "נחה",
+      "transliteracion": "תַּֽנְחֵ֥נִי",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me conducirás"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5095",
+      "hebreo": "נהל",
+      "transliteracion": "תְנַהֲלֵֽנִי׃",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me guiarás"
+    }
+  ]
+}

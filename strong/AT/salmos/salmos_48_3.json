@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 48:3 Reina Valera 1960",
+    "texto": "En sus palacios Dios es conocido por refugio."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "759",
+      "hebreo": "אַרְמֹון",
+      "transliteracion": "אַרְמְנֹותֶ֗יהָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus palacios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "נֹודַ֥ע",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "se dio a conocer"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4869",
+      "hebreo": "מִשְׂגָּב",
+      "transliteracion": "מִשְׂגָּֽב׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "baluarte"
+    }
+  ]
+}

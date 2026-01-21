@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "1ra Corintios 15:16 Reina Valera 1960",
+    "texto": "Porque si los muertos no resucitan, tampoco Cristo resucitó;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1487",
+      "texto": "εἰ",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1063",
+      "texto": "γὰρ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3498",
+      "texto": "νεκροὶ",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino",
+      "parsing": "A-NPM",
+      "traduccion": "muertos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3756",
+      "texto": "οὐκ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1453",
+      "texto": "ἐγείρονται,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Pasivo-Indicativo-3ª Persona-Plural",
+      "parsing": "V-PPI-3P",
+      "traduccion": "están siendo levantados"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3761",
+      "texto": "οὐδὲ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción-Negativo",
+      "parsing": "CONJ-N",
+      "traduccion": "tampoco"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5547",
+      "texto": "Χριστὸς",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "Cristo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1453",
+      "texto": "ἐγήγερται·",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-RPI-3S",
+      "traduccion": "ha sido levantado"
+    }
+  ]
+}

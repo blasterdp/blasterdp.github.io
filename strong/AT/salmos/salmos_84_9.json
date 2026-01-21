@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 84:9 Reina Valera 1960",
+    "texto": "Mira, oh Dios, escudo nuestro, Y pon los ojos en el rostro de tu ungido."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4043",
+      "hebreo": "מָגֵן",
+      "transliteracion": "מָ֭גִנֵּנוּ",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.PL",
+      "traduccion": "escudo nuestro"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רְאֵ֣ה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "mira"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5027",
+      "hebreo": "נבט",
+      "transliteracion": "הַבֵּ֗ט",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "contempla"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פְּנֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "rostro"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4899",
+      "hebreo": "מָשִׁיחַ",
+      "transliteracion": "מְשִׁיחֶֽךָ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu ungido"
+    }
+  ]
+}

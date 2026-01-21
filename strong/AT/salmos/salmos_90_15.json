@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 90:15 Reina Valera 1960",
+    "texto": "Alégranos conforme a los días que nos afligiste, Y los años en que vimos el mal."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8055",
+      "hebreo": "שׂמח",
+      "transliteracion": "שַׂ֭מְּחֵנוּ",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG.PRS.P1.U.PL",
+      "traduccion": "alégranos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "conforme a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "ימֹ֣ות",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "los días"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6031",
+      "hebreo": "ענה",
+      "transliteracion": "עִנִּיתָ֑נוּ",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG.PRS.P1.U.PL",
+      "traduccion": "nos afligiste"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8141",
+      "hebreo": "שָׁנָה",
+      "transliteracion": "שְׁ֝נֹ֗ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "años"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָאִ֥ינוּ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P1.U.PL",
+      "traduccion": "vimos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7451",
+      "hebreo": "רָעָה",
+      "transliteracion": "רָעָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "mal"
+    }
+  ]
+}

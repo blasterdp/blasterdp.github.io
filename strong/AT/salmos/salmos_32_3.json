@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 32:3 Reina Valera 1960",
+    "texto": "Mientras callé, se envejecieron mis huesos En mi gemir todo el día."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mientras"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2790",
+      "hebreo": "חרשׁ",
+      "transliteracion": "הֶ֭חֱרַשְׁתִּי",
+      "parsingLabel": "verbo hif‘il perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P1.U.SG",
+      "traduccion": "guarde silencio"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1086",
+      "hebreo": "בלה",
+      "transliteracion": "בָּל֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se consumieron"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6106",
+      "hebreo": "עֶצֶם",
+      "transliteracion": "עֲצָמָ֑י",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mis huesos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7581",
+      "hebreo": "שְׁאָגָה",
+      "transliteracion": "שַׁאֲגָתִ֗י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi rugir"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹּֽום׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    }
+  ]
+}

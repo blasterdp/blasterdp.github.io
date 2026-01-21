@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 24:2 Reina Valera 1960",
+    "texto": "Porque él la fundó sobre los mares, Y la afirmó sobre los ríos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֖וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3220",
+      "hebreo": "יָם",
+      "transliteracion": "יַמִּ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "los mares"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3245",
+      "hebreo": "יסד",
+      "transliteracion": "יְסָדָ֑הּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P3.F.SG",
+      "traduccion": "fundó"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5104",
+      "hebreo": "נָהָר",
+      "transliteracion": "נְ֝הָרֹ֗ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "los ríos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3559",
+      "hebreo": "כון",
+      "transliteracion": "יְכֹונְנֶֽהָ׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG.PRS.P3.F.SG",
+      "traduccion": "afirmó"
+    }
+  ]
+}

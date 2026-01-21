@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 67:6 Reina Valera 1960",
+    "texto": "La tierra dará su fruto; Nos bendecirá Dios, el Dios nuestro."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֭רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "נָתְנָ֣ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "ha dado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2981",
+      "hebreo": "יְבוּל",
+      "transliteracion": "יְבוּלָ֑הּ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.F.SG",
+      "traduccion": "su fruto"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "יְ֝בָרְכֵ֗נוּ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG.PRS.P1.U.PL",
+      "traduccion": "nos bendice"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֵֽינוּ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestro Dios"
+    }
+  ]
+}

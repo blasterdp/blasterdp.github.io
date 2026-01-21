@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 146:4 Reina Valera 1960",
+    "texto": "Pues sale su aliento, y vuelve a la tierra; En ese mismo día perecen sus pensamientos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "תֵּצֵ֣א",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "sale"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7307",
+      "hebreo": "רוּחַ",
+      "transliteracion": "ר֭וּחֹו",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "su aliento"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "יָשֻׁ֣ב",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "él vuelve"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "127",
+      "hebreo": "אֲדָמָה",
+      "transliteracion": "אַדְמָתֹ֑ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su tierra"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹּ֥ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "día"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ֝",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "-"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֗וּא",
+      "parsingLabel": "demonstrative pronombre 3ª persona masculino singular",
+      "parsing": "PRDE.P3.M.SG",
+      "traduccion": "ese"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6",
+      "hebreo": "אבד",
+      "transliteracion": "אָבְד֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "perecen"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "6250",
+      "hebreo": "עֶשְׁתֹּנֶת",
+      "transliteracion": "עֶשְׁתֹּנֹתָֽיו׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus pensamientos"
+    }
+  ]
+}

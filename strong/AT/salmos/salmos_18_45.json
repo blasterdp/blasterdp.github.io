@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 18:45 Reina Valera 1960",
+    "texto": "Los extraños se debilitaron Y salieron temblando de sus encierros."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5236",
+      "hebreo": "נֵכָר",
+      "transliteracion": "נֵכָ֥ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del extranjero"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5034",
+      "hebreo": "נבל",
+      "transliteracion": "יִבֹּ֑לוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "desfallecen"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2727",
+      "hebreo": "חרג",
+      "transliteracion": "יַחְרְג֗וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "salen templando"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4526",
+      "hebreo": "מִסְגֶּרֶת",
+      "transliteracion": "מִּסְגְּרֹֽותֵיהֶֽם׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus encierros"
+    }
+  ]
+}

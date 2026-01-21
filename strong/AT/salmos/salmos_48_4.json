@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 48:4 Reina Valera 1960",
+    "texto": "Porque he aquí los reyes de la tierra se reunieron; Pasaron todos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנֵּ֣ה",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "He aquí"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ֭",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מְּלָכִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "reyes"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3259",
+      "hebreo": "יעד",
+      "transliteracion": "נֹֽועֲד֑וּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "se reunieron"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "עָבְר֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "pasaron"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3162",
+      "hebreo": "יַחְדָּו",
+      "transliteracion": "יַחְדָּֽו׃",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "a una"
+    }
+  ]
+}

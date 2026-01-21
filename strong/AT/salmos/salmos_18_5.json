@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 18:5 Reina Valera 1960",
+    "texto": "Ligaduras del Seol me rodearon, Me tendieron lazos de muerte."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2256",
+      "hebreo": "חֶבֶל",
+      "transliteracion": "חֶבְלֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "cuerdas de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7585",
+      "hebreo": "שְׁאֹול",
+      "transliteracion": "שְׁאֹ֣ול",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "Seol"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5437",
+      "hebreo": "סבב",
+      "transliteracion": "סְבָב֑וּנִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me rodearon"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6923",
+      "hebreo": "קדם",
+      "transliteracion": "קִ֝דְּמ֗וּנִי",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "surgieron ante mí"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4170",
+      "hebreo": "מֹוקֵשׁ",
+      "transliteracion": "מֹ֣וקְשֵׁי",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "lazos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4194",
+      "hebreo": "מָוֶת",
+      "transliteracion": "מָֽוֶת׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de muerte"
+    }
+  ]
+}

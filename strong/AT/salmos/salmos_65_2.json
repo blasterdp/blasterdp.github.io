@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 65:2 Reina Valera 1960",
+    "texto": "Tú oyes la oración; A ti vendrá toda carne."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שֹׁמֵ֥עַ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.C",
+      "traduccion": "tú escuchas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8605",
+      "hebreo": "תְּפִלָּה",
+      "transliteracion": "תְּפִלָּ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "oración"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עָ֝דֶ֗יךָ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "a ti"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "toda"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1320",
+      "hebreo": "בָּשָׂר",
+      "transliteracion": "בָּשָׂ֥ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "carne"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "יָבֹֽאוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "vendrá"
+    }
+  ]
+}

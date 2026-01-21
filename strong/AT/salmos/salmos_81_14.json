@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 81:14 Reina Valera 1960",
+    "texto": "En un momento habría yo derribado a sus enemigos, Y vuelto mi mano contra sus adversarios."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כִּ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4592",
+      "hebreo": "מְעַט",
+      "transliteracion": "מְעַט",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "un momento"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹויְבֵיהֶ֣ם",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "a sus enemigos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3665",
+      "hebreo": "כנע",
+      "transliteracion": "אַכְנִ֑יעַ",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG",
+      "traduccion": "yo derribaría"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַ֥ל",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6862",
+      "hebreo": "צַר",
+      "transliteracion": "צָ֝רֵיהֶ֗ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus adversarios"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "אָשִׁ֥יב",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG",
+      "traduccion": "volvería"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדִֽי׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi mano"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "3ra Juan 1:15 Reina Valera 1960",
+    "texto": "La paz sea contigo. Los amigos te saludan. Saluda tú a los amigos, a cada uno en particular."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1515",
+      "texto": "εἰρήνη",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "Paz"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4771",
+      "texto": "σοι.",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Dativo-Singular",
+      "parsing": "P-2DS",
+      "traduccion": "a ti"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "782",
+      "texto": "ἀσπάζονταί",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Deponente Medio o Pasivo-Indicativo-3ª Persona-Plural",
+      "parsing": "V-PNI-3P",
+      "traduccion": "están saludando"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4771",
+      "texto": "σε",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Acusativo-Singular",
+      "parsing": "P-2AS",
+      "traduccion": "a ti"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "texto": "οἱ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Plural-Masculino",
+      "parsing": "T-NPM",
+      "traduccion": "los"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5384",
+      "texto": "φίλοι.",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino",
+      "parsing": "A-NPM",
+      "traduccion": "amigos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "782",
+      "texto": "ἀσπάζου",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Deponente Medio o Pasivo-Imperativo-2ª Persona-Singular",
+      "parsing": "V-PNM-2S",
+      "traduccion": "Estés saludando"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3588",
+      "texto": "τοὺς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Plural-Masculino",
+      "parsing": "T-APM",
+      "traduccion": "a los"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5384",
+      "texto": "φίλους",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Plural-Masculino",
+      "parsing": "A-APM",
+      "traduccion": "amigos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2596",
+      "texto": "κατ’",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "según"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3686",
+      "texto": "ὄνομα.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Neutro",
+      "parsing": "N-ASN",
+      "traduccion": "nombre"
+    }
+  ]
+}

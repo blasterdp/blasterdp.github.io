@@ -1,0 +1,296 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 3:17 Reina Valera 1960",
+    "texto": "y he dicho: Yo os sacaré de la aflicción de Egipto a la tierra del cananeo, del heteo, del amorreo, del ferezeo, del heveo y del jebuseo, a una tierra que fluye leche y miel."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אֹמַ֗ר",
+      "parsingLabel": "verbo qal wayyiqtol 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.WAYQ.P1.U.SG",
+      "traduccion": "dije"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5927",
+      "hebreo": "עלה",
+      "transliteracion": "אַעֲלֶ֣ה",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG",
+      "traduccion": "haré subir"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶתְכֶם֮",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino plural",
+      "parsing": "PREP.PRS.P2.M.PL",
+      "traduccion": "a vosotros"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6040",
+      "hebreo": "עֳנִי",
+      "transliteracion": "עֳנִ֣י",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "miseria de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4714",
+      "hebreo": "מִצְרַיִם",
+      "transliteracion": "מִצְרַיִם֒",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Egipto"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֤רֶץ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "tierras de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3669",
+      "hebreo": "כְּנַעֲנִי",
+      "transliteracion": "כְּנַעֲנִי֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "cananeo"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ֣",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "2850",
+      "hebreo": "חִתִּי",
+      "transliteracion": "חִתִּ֔י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "heteo"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "567",
+      "hebreo": "אֱמֹרִי",
+      "transliteracion": "אֱמֹרִי֙",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "amorreo"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "6522",
+      "hebreo": "פְּרִזִּי",
+      "transliteracion": "פְּרִזִּ֔י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "ferezeo"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "2340",
+      "hebreo": "חִוִּי",
+      "transliteracion": "חִוִּ֖י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "heveo"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "2983",
+      "hebreo": "יְבוּסִי",
+      "transliteracion": "יְבוּסִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "jebuseo"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֛רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "2100",
+      "hebreo": "זוב",
+      "transliteracion": "זָבַ֥ת",
+      "parsingLabel": "adjetivo qal participio desconocido femenino singular constructivo",
+      "parsing": "ADJV.QAL.PTCA.U.F.SG.C",
+      "traduccion": "fluyendo"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "2461",
+      "hebreo": "חָלָב",
+      "transliteracion": "חָלָ֖ב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "leche"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "1706",
+      "hebreo": "דְּבַשׁ",
+      "transliteracion": "דְבָֽשׁ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "miel"
+    }
+  ]
+}

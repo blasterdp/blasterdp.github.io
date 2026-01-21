@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 148:10 Reina Valera 1960",
+    "texto": "La bestia y todo animal, Reptiles y volátiles;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַֽ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "las"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2416",
+      "hebreo": "חַיָּה",
+      "transliteracion": "חַיָּ֥ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "bestias"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "929",
+      "hebreo": "בְּהֵמָה",
+      "transliteracion": "בְּהֵמָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ganado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7431",
+      "hebreo": "רֶמֶשׂ",
+      "transliteracion": "רֶ֝֗מֶשׂ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "reptil"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6833",
+      "hebreo": "צִפֹּור",
+      "transliteracion": "צִפֹּ֥ור",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "ave"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3671",
+      "hebreo": "כָּנָף",
+      "transliteracion": "כָּנָֽף׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de ala"
+    }
+  ]
+}

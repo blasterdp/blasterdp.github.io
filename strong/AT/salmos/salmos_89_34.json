@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 89:34 Reina Valera 1960",
+    "texto": "No olvidaré mi pacto, Ni mudaré lo que ha salido de mis labios."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2490",
+      "hebreo": "חלל",
+      "transliteracion": "אֲחַלֵּ֥ל",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "profanaré"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1285",
+      "hebreo": "בְּרִית",
+      "transliteracion": "בְּרִיתִ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi pacto"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4161",
+      "hebreo": "מֹוצָא",
+      "transliteracion": "מֹוצָ֥א",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "lo que salió"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שְׂ֝פָתַ֗י",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "mis labios"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8138",
+      "hebreo": "שׁנה",
+      "transliteracion": "אֲשַׁנֶּֽה׃",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "mudaré"
+    }
+  ]
+}

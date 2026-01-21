@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 145:7 Reina Valera 1960",
+    "texto": "Proclamarán la memoria de tu inmensa bondad, Y cantarán tu justicia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2143",
+      "hebreo": "זֵכֶר",
+      "transliteracion": "זֵ֣כֶר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "memoria"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַב־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "de mucha"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2898",
+      "hebreo": "טוּב",
+      "transliteracion": "טוּבְךָ֣",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "bondad tuya"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5042",
+      "hebreo": "נבע",
+      "transliteracion": "יַבִּ֑יעוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL",
+      "traduccion": "proclamarán"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6666",
+      "hebreo": "צְדָקָה",
+      "transliteracion": "צִדְקָתְךָ֥",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu justicia"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7442",
+      "hebreo": "רנן",
+      "transliteracion": "יְרַנֵּֽנוּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "cantarán gozosos"
+    }
+  ]
+}

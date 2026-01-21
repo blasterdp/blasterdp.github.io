@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 66:18 Reina Valera 1960",
+    "texto": "Si en mi corazón hubiese yo mirado a la iniquidad, El Señor no me habría escuchado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "205",
+      "hebreo": "אָוֶן",
+      "transliteracion": "אָ֭וֶן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "iniquidad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָאִ֣יתִי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "hubiese observado yo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִבִּ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi corazón"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֖א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "יִשְׁמַ֣ע׀",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "habría escuchado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "136",
+      "hebreo": "אֲדֹנָי",
+      "transliteracion": "אֲדֹנָֽי׃",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Señor"
+    }
+  ]
+}

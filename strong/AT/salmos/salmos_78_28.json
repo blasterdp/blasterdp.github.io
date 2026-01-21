@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:28 Reina Valera 1960",
+    "texto": "Las hizo caer en medio del campamento, Alrededor de sus tiendas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "e"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5307",
+      "hebreo": "נפל",
+      "transliteracion": "יַּפֵּל",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG",
+      "traduccion": "hizo caer"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7130",
+      "hebreo": "קֶרֶב",
+      "transliteracion": "קֶ֣רֶב",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "medio"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4264",
+      "hebreo": "מַחֲנֶה",
+      "transliteracion": "מַחֲנֵ֑הוּ",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.SG",
+      "traduccion": "de su campamento"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5439",
+      "hebreo": "סָבִיב",
+      "transliteracion": "סָ֝בִ֗יב",
+      "parsingLabel": "adverbio desconocido singular absoluto",
+      "parsing": "ADVB.U.SG.A",
+      "traduccion": "alrededor de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4908",
+      "hebreo": "מִשְׁכָּן",
+      "transliteracion": "מִשְׁכְּנֹתָֽיו׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus viviendas"
+    }
+  ]
+}

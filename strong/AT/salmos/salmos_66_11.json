@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 66:11 Reina Valera 1960",
+    "texto": "Nos metiste en la red; Pusiste sobre nuestros lomos pesada carga."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "הֲבֵאתָ֥נוּ",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG.PRS.P1.U.PL",
+      "traduccion": "nos metiste"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4686",
+      "hebreo": "מְצוּדָה",
+      "transliteracion": "מְּצוּדָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "red"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7760",
+      "hebreo": "שׂים",
+      "transliteracion": "שַׂ֖מְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "pusiste"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4157",
+      "hebreo": "מוּעָקָה",
+      "transliteracion": "מוּעָקָ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "carga pesada"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4975",
+      "hebreo": "מָתְנַיִם",
+      "transliteracion": "מָתְנֵֽינוּ׃",
+      "parsingLabel": "sustantivo masculino dual absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.DU.A.PRS.P1.U.PL",
+      "traduccion": "nuestros lomos"
+    }
+  ]
+}

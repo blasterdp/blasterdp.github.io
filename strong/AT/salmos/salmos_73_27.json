@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 73:27 Reina Valera 1960",
+    "texto": "Porque he aquí, los que se alejan de ti perecerán; Tú destruirás a todo aquel que de ti se aparta."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנֵּ֣ה",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "He aquí"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7369",
+      "hebreo": "רָחֵק",
+      "transliteracion": "רְחֵקֶ֣יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "los que se alejan de ti"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6",
+      "hebreo": "אבד",
+      "transliteracion": "יֹאבֵ֑דוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "perecerán"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6789",
+      "hebreo": "צמת",
+      "transliteracion": "הִ֝צְמַ֗תָּה",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG",
+      "traduccion": "destruyes"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "a todos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2181",
+      "hebreo": "זנה",
+      "transliteracion": "זֹונֶ֥ה",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "los que se prostituyen"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִמֶּֽךָּ׃",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "de ti"
+    }
+  ]
+}

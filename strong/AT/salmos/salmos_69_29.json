@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 69:29 Reina Valera 1960",
+    "texto": "Mas a mí, afligido y miserable, Tu salvación, oh Dios, me ponga en alto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲנִי",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6041",
+      "hebreo": "עָנִי",
+      "transliteracion": "עָנִ֣י",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "afligido"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3510",
+      "hebreo": "כאב",
+      "transliteracion": "כֹואֵ֑ב",
+      "parsingLabel": "adjetivo qal participio desconocido masculino singular absoluto",
+      "parsing": "ADJV.QAL.PTCA.U.M.SG.A",
+      "traduccion": "adolorido"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3444",
+      "hebreo": "יְשׁוּעָה",
+      "transliteracion": "יְשׁוּעָתְךָ֖",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu salvación"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7682",
+      "hebreo": "שׂגב",
+      "transliteracion": "תְּשַׂגְּבֵֽנִי׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG.PRS.P1.U.SG",
+      "traduccion": "me ponga en alto"
+    }
+  ]
+}

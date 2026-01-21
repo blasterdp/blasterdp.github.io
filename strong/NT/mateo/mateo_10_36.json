@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Mateo 10:36 Reina Valera 1960",
+    "texto": "y los enemigos del hombre serán los de su casa."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2190",
+      "texto": "ἐχθροὶ",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Plural-Masculino",
+      "parsing": "A-NPM",
+      "traduccion": "enemigos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "de el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "444",
+      "texto": "ἀνθρώπου",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "texto": "οἱ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Plural-Masculino",
+      "parsing": "T-NPM",
+      "traduccion": "los"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3615",
+      "texto": "οἰκιακοὶ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Plural-Masculino",
+      "parsing": "N-NPM",
+      "traduccion": "miembros de casa"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "846",
+      "texto": "αὐτοῦ.",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Genitivo-Singular-Masculino",
+      "parsing": "P-GSM",
+      "traduccion": "de él"
+    }
+  ]
+}

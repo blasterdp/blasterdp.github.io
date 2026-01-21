@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 80:4 Reina Valera 1960",
+    "texto": "Jehová, Dios de los ejércitos, ¿Hasta cuándo mostrarás tu indignación contra la oración de tu pueblo?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6635",
+      "hebreo": "צָבָא",
+      "transliteracion": "צְבָאֹ֑ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "De los ejércitos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "¿hasta"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4970",
+      "hebreo": "מָתַי",
+      "transliteracion": "מָתַ֥י",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "cuándo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6225",
+      "hebreo": "עשׁן",
+      "transliteracion": "עָ֝שַׁ֗נְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "echarás humo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8605",
+      "hebreo": "תְּפִלָּה",
+      "transliteracion": "תְפִלַּ֥ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "la oración"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמֶּֽךָ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu pueblo?"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 16:18 Reina Valera 1960",
+    "texto": "y lo medían por gomer, y no sobró al que había recogido mucho, ni faltó al que había recogido poco; cada uno recogió conforme a lo que había de comer."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4058",
+      "hebreo": "מדד",
+      "transliteracion": "יָּמֹ֣דּוּ",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.PL",
+      "traduccion": "midieron"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6016",
+      "hebreo": "עֹמֶר",
+      "transliteracion": "עֹ֔מֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "gomer"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֤א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5736",
+      "hebreo": "עדף",
+      "transliteracion": "הֶעְדִּיף֙",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG",
+      "traduccion": "tuvo demasiado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "el"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7235",
+      "hebreo": "רבה",
+      "transliteracion": "מַּרְבֶּ֔ה",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "que mucho"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "el"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "4591",
+      "hebreo": "מעט",
+      "transliteracion": "מַּמְעִ֖יט",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "que poco"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "2637",
+      "hebreo": "חסר",
+      "transliteracion": "הֶחְסִ֑יר",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG",
+      "traduccion": "faltó"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִ֥ישׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "cada uno"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "según"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִֽי־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "boca"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "400",
+      "hebreo": "אֹכֶל",
+      "transliteracion": "אָכְלֹ֖ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su comer"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "3950",
+      "hebreo": "לקט",
+      "transliteracion": "לָקָֽטוּ׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "recogieron"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 25:17 Reina Valera 1960",
+    "texto": "Las angustias de mi corazón se han aumentado; Sácame de mis congojas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6869",
+      "hebreo": "צָרָה",
+      "transliteracion": "צָרֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "angustias"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3824",
+      "hebreo": "לֵבָב",
+      "transliteracion": "לְבָבִ֣י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "de mi corazón"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7337",
+      "hebreo": "רחב",
+      "transliteracion": "הִרְחִ֑יבוּ",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.HIF.PERF.P3.U.PL",
+      "traduccion": "han aumentado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4691",
+      "hebreo": "מְצוּקָה",
+      "transliteracion": "מְּצֽוּקֹותַ֗י",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mis congojas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "הֹוצִיאֵֽנִי׃",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "sácame"
+    }
+  ]
+}

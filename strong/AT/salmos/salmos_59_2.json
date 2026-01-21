@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 59:2 Reina Valera 1960",
+    "texto": "Líbrame de los que cometen iniquidad, Y sálvame de hombres sanguinarios."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "הַ֭צִּילֵנִי",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "líbrame"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6466",
+      "hebreo": "פעל",
+      "transliteracion": "פֹּ֣עֲלֵי",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "los obradores"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "205",
+      "hebreo": "אָוֶן",
+      "transliteracion": "אָ֑וֶן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de iniquidad"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אַנְשֵׁ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hombres"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1818",
+      "hebreo": "דָּם",
+      "transliteracion": "דָ֝מִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de sangre"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3467",
+      "hebreo": "ישׁע",
+      "transliteracion": "הֹושִׁיעֵֽנִי׃",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "sálvame"
+    }
+  ]
+}

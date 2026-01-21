@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Juan 5:31 Reina Valera 1960",
+    "texto": "Si yo doy testimonio acerca de mí mismo, mi testimonio no es verdadero."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1437",
+      "texto": "ἐὰν",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "Si alguna vez"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1473",
+      "texto": "ἐγὼ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Nominativo-Singular",
+      "parsing": "P-1NS",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3140",
+      "texto": "μαρτυρῶ",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Subjuntivo-1ª Persona-Singular",
+      "parsing": "V-PAS-1S",
+      "traduccion": "esté dando testimonio"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4012",
+      "texto": "περὶ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "acerca de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1683",
+      "texto": "ἐμαυτοῦ,",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Reflexivo-1ª Persona-Genitivo-Singular-Masculino",
+      "parsing": "F-1GSM",
+      "traduccion": "mí mismo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "ἡ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Femenino",
+      "parsing": "T-NSF",
+      "traduccion": "el"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3141",
+      "texto": "μαρτυρία",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "testimonio"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1473",
+      "texto": "μου",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Genitivo-Singular",
+      "parsing": "P-1GS",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3756",
+      "texto": "οὐκ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1510",
+      "texto": "ἔστιν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está siendo"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "227",
+      "texto": "ἀληθής·",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Femenino",
+      "parsing": "A-NSF",
+      "traduccion": "verdadero"
+    }
+  ]
+}

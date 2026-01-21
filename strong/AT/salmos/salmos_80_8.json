@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 80:8 Reina Valera 1960",
+    "texto": "Hiciste venir una vid de Egipto; Echaste las naciones, y la plantaste."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1612",
+      "hebreo": "גֶּפֶן",
+      "transliteracion": "גֶּ֭פֶן",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "vid"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4714",
+      "hebreo": "מִצְרַיִם",
+      "transliteracion": "מִּצְרַ֣יִם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Egipto"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5265",
+      "hebreo": "נסע",
+      "transliteracion": "תַּסִּ֑יעַ",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG",
+      "traduccion": "sacaste"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1644",
+      "hebreo": "גרשׁ",
+      "transliteracion": "תְּגָרֵ֥שׁ",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG",
+      "traduccion": "expulsaste"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּ֝ויִ֗ם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "naciones"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5193",
+      "hebreo": "נטע",
+      "transliteracion": "תִּטָּעֶֽהָ׃",
+      "parsingLabel": "verbo qal wayyiqtol 2ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.WAYQ.P2.M.SG.PRS.P3.F.SG",
+      "traduccion": "la plantaste"
+    }
+  ]
+}

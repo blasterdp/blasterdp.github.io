@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 54:6 Reina Valera 1960",
+    "texto": "Voluntariamente sacrificaré a ti; Alabaré tu nombre, oh Jehová, porque es bueno."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5071",
+      "hebreo": "נְדָבָה",
+      "transliteracion": "נְדָבָ֥ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ofrenda voluntaria"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2076",
+      "hebreo": "זבח",
+      "transliteracion": "אֶזְבְּחָה־",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "ofreceré sacrificios"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָּ֑ךְ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "te"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3034",
+      "hebreo": "ידה",
+      "transliteracion": "אֹ֤ודֶה",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG",
+      "traduccion": "alabaré"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שִּׁמְךָ֖",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "a tu nombre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2895",
+      "hebreo": "טוב",
+      "transliteracion": "טֹֽוב׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "bueno"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 38:5 Reina Valera 1960",
+    "texto": "Hieden y supuran mis llagas, A causa de mi locura."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "887",
+      "hebreo": "באשׁ",
+      "transliteracion": "הִבְאִ֣ישׁוּ",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.HIF.PERF.P3.U.PL",
+      "traduccion": "hieden"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4743",
+      "hebreo": "מקק",
+      "transliteracion": "נָ֭מַקּוּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "supuran"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2250",
+      "hebreo": "חַבּוּרָה",
+      "transliteracion": "חַבּוּרֹתָ֑י",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mis llagas"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פְּנֵ֗י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "causa de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "200",
+      "hebreo": "אִוֶּלֶת",
+      "transliteracion": "אִוַּלְתִּֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi necedad"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 54:5 Reina Valera 1960",
+    "texto": "Él devolverá el mal a mis enemigos; Córtalos por tu verdad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "יָשִׁ֣יב",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "él devolverá"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ֭",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7451",
+      "hebreo": "רַע",
+      "transliteracion": "רַע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mal"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8324",
+      "hebreo": "שֹׁורֵר",
+      "transliteracion": "שֹׁרְרָ֑י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "los que me acechan"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "571",
+      "hebreo": "אֶמֶת",
+      "transliteracion": "אֲמִתְּךָ֗",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu verdad"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6789",
+      "hebreo": "צמת",
+      "transliteracion": "הַצְמִיתֵֽם׃",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P3.M.PL",
+      "traduccion": "destrúyelos"
+    }
+  ]
+}

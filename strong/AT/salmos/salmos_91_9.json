@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 91:9 Reina Valera 1960",
+    "texto": "Porque has puesto a Jehová, que es mi esperanza, Al Altísimo por tu habitación,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֣ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4268",
+      "hebreo": "מַחְסֶה",
+      "transliteracion": "מַחְסִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi refugio"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5945",
+      "hebreo": "עֶלְיֹון",
+      "transliteracion": "עֶ֝לְיֹ֗ון",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "a Altísimo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7760",
+      "hebreo": "שׂים",
+      "transliteracion": "שַׂ֣מְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "has hecho"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4583",
+      "hebreo": "מָעֹון",
+      "transliteracion": "מְעֹונֶֽךָ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu habitación"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 17:5 Reina Valera 1960",
+    "texto": "Sustenta mis pasos en tus caminos, Para que mis pies no resbalen."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8551",
+      "hebreo": "תמך",
+      "transliteracion": "תָּמֹ֣ךְ",
+      "parsingLabel": "verbo qal infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFA.U.U.U.A",
+      "traduccion": "fijos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "838",
+      "hebreo": "אָשׁוּר",
+      "transliteracion": "אֲ֭שֻׁרַי",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mis pasos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4570",
+      "hebreo": "מַעְגָּל",
+      "transliteracion": "מַעְגְּלֹותֶ֑יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus veredas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1077",
+      "hebreo": "בַּל",
+      "transliteracion": "בַּל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4131",
+      "hebreo": "מוט",
+      "transliteracion": "נָמֹ֥וטּוּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "han resbalado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6471",
+      "hebreo": "פַּעַם",
+      "transliteracion": "פְעָמָֽי׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mis pies"
+    }
+  ]
+}

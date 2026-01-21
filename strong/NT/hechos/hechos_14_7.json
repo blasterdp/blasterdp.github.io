@@ -1,0 +1,35 @@
+{
+  "versiculo": {
+    "referencia": "Hechos 14:7 Reina Valera 1960",
+    "texto": "y allí predicaban el evangelio."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2546",
+      "texto": "κἀκεῖ",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio-Contracción",
+      "parsing": "ADV-K",
+      "traduccion": "Y allí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2097",
+      "texto": "εὐαγγελιζόμενοι",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Medio-Pasivo-Nominativo-Plural-Masculino",
+      "parsing": "V-PMP-NPM",
+      "traduccion": "proclamando buen mensaje"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1510",
+      "texto": "ἦσαν.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Imperfecto-Activo-Indicativo-3ª Persona-Plural",
+      "parsing": "V-IAI-3P",
+      "traduccion": "estaban siendo"
+    }
+  ]
+}

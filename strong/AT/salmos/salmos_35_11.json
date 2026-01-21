@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 35:11 Reina Valera 1960",
+    "texto": "Se levantan testigos malvados; De lo que no sé me preguntan;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "יְ֭קוּמוּן",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "se levantan"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5707",
+      "hebreo": "עֵד",
+      "transliteracion": "עֵדֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "testigos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2555",
+      "hebreo": "חָמָס",
+      "transliteracion": "חָמָ֑ס",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "violentos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֥ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יָ֝דַ֗עְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "sé"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7592",
+      "hebreo": "שׁאל",
+      "transliteracion": "יִשְׁאָלֽוּנִי׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL.PRS.P1.U.SG",
+      "traduccion": "me preguntan"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 22:9 Reina Valera 1960",
+    "texto": "Pero tú eres el que me sacó del vientre; El que me hizo estar confiado desde que estaba a los pechos de mi madre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֣ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1518",
+      "hebreo": "גחה",
+      "transliteracion": "גֹחִ֣י",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "el que me sacó"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "990",
+      "hebreo": "בֶּטֶן",
+      "transliteracion": "בָּ֑טֶן",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "vientre"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "982",
+      "hebreo": "בטח",
+      "transliteracion": "מַ֝בְטִיחִ֗י",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "haciéndome confiar"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7699",
+      "hebreo": "שַׁד",
+      "transliteracion": "שְׁדֵ֥י",
+      "parsingLabel": "sustantivo masculino dual constructivo",
+      "parsing": "SUBS.M.DU.C",
+      "traduccion": "pechos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "517",
+      "hebreo": "אֵם",
+      "transliteracion": "אִמִּֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "de mi madre"
+    }
+  ]
+}

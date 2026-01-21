@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 83:2 Reina Valera 1960",
+    "texto": "Porque he aquí que rugen tus enemigos, Y los que te aborrecen alzan cabeza."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנֵּ֣ה",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "mira"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹ֭ויְבֶיךָ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus enemigos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1993",
+      "hebreo": "המה",
+      "transliteracion": "יֶהֱמָי֑וּן",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "se alborotan"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "מְשַׂנְאֶ֗יךָ",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "los que te odian"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5375",
+      "hebreo": "נשׂא",
+      "transliteracion": "נָ֣שְׂאוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "han alzado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7218",
+      "hebreo": "רֹאשׁ",
+      "transliteracion": "רֹֽאשׁ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "cabeza"
+    }
+  ]
+}

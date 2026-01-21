@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 65:12 Reina Valera 1960",
+    "texto": "Destilan sobre los pastizales del desierto, Y los collados se ciñen de alegría."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7491",
+      "hebreo": "רעף",
+      "transliteracion": "יִ֭רְעֲפוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "destilan"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4999",
+      "hebreo": "נָוָה",
+      "transliteracion": "נְאֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "pastos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4057",
+      "hebreo": "מִדְבָּר",
+      "transliteracion": "מִדְבָּ֑ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del desierto"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1524",
+      "hebreo": "גִּיל",
+      "transliteracion": "גִ֗יל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de gozo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1389",
+      "hebreo": "גִּבְעָה",
+      "transliteracion": "גְּבָעֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "collados"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2296",
+      "hebreo": "חגר",
+      "transliteracion": "תַּחְגֹּֽרְנָה׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.F.PL",
+      "traduccion": "se ciñen"
+    }
+  ]
+}

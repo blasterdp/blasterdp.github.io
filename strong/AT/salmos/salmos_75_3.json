@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 75:3 Reina Valera 1960",
+    "texto": "Se arruinaban la tierra y sus moradores; Yo sostengo sus columnas. Selah"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4127",
+      "hebreo": "מוג",
+      "transliteracion": "נְֽמֹגִ֗ים",
+      "parsingLabel": "verbo nif‘al participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.M.PL.A",
+      "traduccion": "se disuelven"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֥רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3427",
+      "hebreo": "ישׁב",
+      "transliteracion": "יֹשְׁבֶ֑יהָ",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus habitantes"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "595",
+      "hebreo": "אָנֹכִי",
+      "transliteracion": "אָנֹכִ֨י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8505",
+      "hebreo": "תכן",
+      "transliteracion": "תִכַּ֖נְתִּי",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P1.U.SG",
+      "traduccion": "sostengo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5982",
+      "hebreo": "עַמּוּד",
+      "transliteracion": "עַמּוּדֶ֣יהָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus columnas"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5542",
+      "hebreo": "סֶלָה",
+      "transliteracion": "סֶּֽלָה׃",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "Selah"
+    }
+  ]
+}

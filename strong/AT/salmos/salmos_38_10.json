@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 38:10 Reina Valera 1960",
+    "texto": "Mi corazón está acongojado, me ha dejado mi vigor, Y aun la luz de mis ojos me falta ya."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִבִּ֣י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi corazón"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5503",
+      "hebreo": "סחר",
+      "transliteracion": "סְ֭חַרְחַר",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "palpita"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5800",
+      "hebreo": "עזב",
+      "transliteracion": "עֲזָבַ֣נִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me ha dejado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3581",
+      "hebreo": "כֹּחַ",
+      "transliteracion": "כֹחִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi vigor"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "216",
+      "hebreo": "אֹור",
+      "transliteracion": "אֹור־",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "luz"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינַ֥י",
+      "parsingLabel": "sustantivo femenino dual absoluto",
+      "parsing": "SUBS.F.DU.A",
+      "traduccion": "de mis ojos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "también"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1992",
+      "hebreo": "הֵם",
+      "transliteracion": "הֵ֝֗ם",
+      "parsingLabel": "pronombre personal 3ª persona masculino plural",
+      "parsing": "PRPS.P3.M.PL",
+      "traduccion": "ellos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵ֣ין",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "no están"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "854",
+      "hebreo": "אֵת",
+      "transliteracion": "אִתִּֽי׃",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "conmigo"
+    }
+  ]
+}

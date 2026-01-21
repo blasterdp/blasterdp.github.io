@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 44:9 Reina Valera 1960",
+    "texto": "Pero nos has desechado, y nos has hecho avergonzar; Y no sales con nuestros ejércitos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "637",
+      "hebreo": "אַף",
+      "transliteracion": "אַף־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2186",
+      "hebreo": "זנח",
+      "transliteracion": "זָ֭נַחְתָּ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "nos has desechado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3637",
+      "hebreo": "כלם",
+      "transliteracion": "תַּכְלִימֵ֑נוּ",
+      "parsingLabel": "verbo hif‘il wayyiqtol 2ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.HIF.WAYQ.P2.M.SG.PRS.P1.U.PL",
+      "traduccion": "nos has puesto en confusión"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "תֵ֝צֵ֗א",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "sales"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6635",
+      "hebreo": "צָבָא",
+      "transliteracion": "צִבְאֹותֵֽינוּ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestros ejércitos"
+    }
+  ]
+}

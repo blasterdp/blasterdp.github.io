@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 20:4 Reina Valera 1960",
+    "texto": "Te dé conforme al deseo de tu corazón, Y cumpla todo tu consejo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "יִֽתֶּן־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "que otorgue"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְךָ֥",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "te"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "según"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3824",
+      "hebreo": "לֵבָב",
+      "transliteracion": "לְבָבֶ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu corazón"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6098",
+      "hebreo": "עֵצָה",
+      "transliteracion": "עֲצָתְךָ֥",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu plan"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4390",
+      "hebreo": "מלא",
+      "transliteracion": "יְמַלֵּֽא׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "cumpla"
+    }
+  ]
+}

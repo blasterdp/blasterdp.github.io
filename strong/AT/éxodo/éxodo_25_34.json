@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 25:34 Reina Valera 1960",
+    "texto": "y en la caña central del candelero cuatro copas en forma de flor de almendro, sus manzanas y sus flores."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4501",
+      "hebreo": "מְנֹורָה",
+      "transliteracion": "מְּנֹרָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "candelabro"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "702",
+      "hebreo": "אַרְבַּע",
+      "transliteracion": "אַרְבָּעָ֣ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "cuatro"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1375",
+      "hebreo": "גָּבִיעַ",
+      "transliteracion": "גְבִעִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "copas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8246",
+      "hebreo": "מְשֻׁקָּד",
+      "transliteracion": "מְשֻׁקָּדִ֔ים",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "como almendras"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3730",
+      "hebreo": "כַּפְתֹּור",
+      "transliteracion": "כַּפְתֹּרֶ֖יהָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus capullos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6525",
+      "hebreo": "פֶּרַח",
+      "transliteracion": "פְרָחֶֽיהָ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus flores"
+    }
+  ]
+}

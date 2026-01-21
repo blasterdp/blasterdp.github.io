@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 5:12 Reina Valera 1960",
+    "texto": "Porque tú, oh Jehová, bendecirás al justo; Como con un escudo lo rodearás de tu favor."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּה֮",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "תְּבָרֵ֪ךְ",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG",
+      "traduccion": "bendices"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַ֫דִּ֥יק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "al justo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como con"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6793",
+      "hebreo": "צִנָּה",
+      "transliteracion": "צִּנָּ֗ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "escudo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7522",
+      "hebreo": "רָצֹון",
+      "transliteracion": "רָצֹ֥ון",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de favor"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5849",
+      "hebreo": "עטר",
+      "transliteracion": "תַּעְטְרֶֽנּוּ׃",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "lo rodeas"
+    }
+  ]
+}

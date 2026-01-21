@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 22:12 Reina Valera 1960",
+    "texto": "Me han rodeado muchos toros; Fuertes toros de Basán me han cercado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5437",
+      "hebreo": "סבב",
+      "transliteracion": "סְ֭בָבוּנִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me han rodeado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6499",
+      "hebreo": "פַּר",
+      "transliteracion": "פָּרִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "toros"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַבִּ֑ים",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "muchos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "47",
+      "hebreo": "אַבִּיר",
+      "transliteracion": "אַבִּירֵ֖י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "fuertes"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1316",
+      "hebreo": "בָּשָׁן",
+      "transliteracion": "בָשָׁ֣ן",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Basán"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3803",
+      "hebreo": "כתר",
+      "transliteracion": "כִּתְּרֽוּנִי׃",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me han cercado"
+    }
+  ]
+}

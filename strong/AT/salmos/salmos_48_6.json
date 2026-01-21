@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 48:6 Reina Valera 1960",
+    "texto": "Les tomó allí temblor; Dolor como de mujer que da a luz."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7461",
+      "hebreo": "רְעָדָה",
+      "transliteracion": "רְ֭עָדָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "un temblor"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "270",
+      "hebreo": "אחז",
+      "transliteracion": "אֲחָזָ֣תַם",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG.PRS.P3.M.PL",
+      "traduccion": "se apoderó de ellos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8033",
+      "hebreo": "שָׁם",
+      "transliteracion": "שָׁ֑ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "allí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2427",
+      "hebreo": "חִיל",
+      "transliteracion": "חִ֝֗יל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "dolor"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3205",
+      "hebreo": "ילד",
+      "transliteracion": "יֹּולֵֽדָה׃",
+      "parsingLabel": "sustantivo qal participio desconocido femenino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.F.SG.A",
+      "traduccion": "de la que está de parto"
+    }
+  ]
+}

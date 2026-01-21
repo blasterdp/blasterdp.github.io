@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 2:5 Reina Valera 1960",
+    "texto": "Luego hablará a ellos en su furor, Y los turbará con su ira."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "227",
+      "hebreo": "אָז",
+      "transliteracion": "אָ֤ז",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "luego"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "יְדַבֵּ֣ר",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "hablará"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֵלֵ֣ימֹו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "les"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "639",
+      "hebreo": "אַף",
+      "transliteracion": "אַפֹּ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su ira"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2740",
+      "hebreo": "חָרֹון",
+      "transliteracion": "חֲרֹונֹ֥ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su furor"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "926",
+      "hebreo": "בהל",
+      "transliteracion": "יְבַהֲלֵֽמֹו׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los aterrará"
+    }
+  ]
+}

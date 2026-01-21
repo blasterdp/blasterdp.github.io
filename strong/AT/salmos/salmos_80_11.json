@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 80:11 Reina Valera 1960",
+    "texto": "Extendió sus vástagos hasta el mar, Y hasta el río sus renuevos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "תְּשַׁלַּ֣ח",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG",
+      "traduccion": "extendió"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7105",
+      "hebreo": "קָצִיר",
+      "transliteracion": "קְצִירֶ֣הָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.F.SG",
+      "traduccion": "su ramaje"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3220",
+      "hebreo": "יָם",
+      "transliteracion": "יָ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mar"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "hasta"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5104",
+      "hebreo": "נָהָר",
+      "transliteracion": "נָ֝הָ֗ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "río"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3127",
+      "hebreo": "יֹונֶקֶת",
+      "transliteracion": "יֹֽונְקֹותֶֽיהָ׃",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 3ª persona femenino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P3.F.SG",
+      "traduccion": "sus renuevos"
+    }
+  ]
+}

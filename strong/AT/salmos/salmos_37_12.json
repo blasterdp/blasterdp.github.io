@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 37:12 Reina Valera 1960",
+    "texto": "Maquina el impío contra el justo, Y cruje contra él sus dientes;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2161",
+      "hebreo": "זמם",
+      "transliteracion": "זֹמֵ֣ם",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "maquina"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רָ֭שָׁע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "impío"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַּדִּ֑יק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "justo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2786",
+      "hebreo": "חרק",
+      "transliteracion": "חֹרֵ֖ק",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "rechina"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלָ֣יו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "contra él"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8127",
+      "hebreo": "שֵׁן",
+      "transliteracion": "שִׁנָּֽיו׃",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.SG",
+      "traduccion": "sus dientes"
+    }
+  ]
+}

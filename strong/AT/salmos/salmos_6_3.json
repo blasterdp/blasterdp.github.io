@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 6:3 Reina Valera 1960",
+    "texto": "Mi alma también está muy turbada; Y tú, Jehová, ¿hasta cuándo?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "también"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשִׁי",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi alma"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "926",
+      "hebreo": "בהל",
+      "transliteracion": "נִבְהֲלָ֣ה",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.NIF.PERF.P3.F.SG",
+      "traduccion": "está turbada"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3966",
+      "hebreo": "מְאֹד",
+      "transliteracion": "מְאֹ֑ד",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "mucho"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֥ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֝הוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5704",
+      "hebreo": "עַד",
+      "transliteracion": "עַד־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "¿hasta"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4970",
+      "hebreo": "מָתַי",
+      "transliteracion": "מָתָֽי׃",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "cuándo?"
+    }
+  ]
+}

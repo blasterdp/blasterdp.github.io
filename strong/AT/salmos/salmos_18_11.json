@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 18:11 Reina Valera 1960",
+    "texto": "Puso tinieblas por su escondedero, por cortina suya alrededor de sí; Oscuridad de aguas, nubes de los cielos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7896",
+      "hebreo": "שׁית",
+      "transliteracion": "יָ֤שֶׁת",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "hizo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2822",
+      "hebreo": "חֹשֶׁךְ",
+      "transliteracion": "חֹ֨שֶׁךְ׀",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "oscuridad"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5643",
+      "hebreo": "סֵתֶר",
+      "transliteracion": "סִתְרֹ֗ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su escondedero"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5439",
+      "hebreo": "סָבִיב",
+      "transliteracion": "סְבִֽיבֹותָ֥יו",
+      "parsingLabel": "adverbio femenino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "ADVB.F.PL.A.PRS.P3.M.SG",
+      "traduccion": "rodeándole"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5521",
+      "hebreo": "סֻכָּה",
+      "transliteracion": "סֻכָּתֹ֑ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su pabellón"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2824",
+      "hebreo": "חֲשֵׁכָה",
+      "transliteracion": "חֶשְׁכַת־",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "tiniebla"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַ֝֗יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de aguas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5645",
+      "hebreo": "עָב",
+      "transliteracion": "עָבֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "nubes densas"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7834",
+      "hebreo": "שַׁחַק",
+      "transliteracion": "שְׁחָקִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de los cielos"
+    }
+  ]
+}

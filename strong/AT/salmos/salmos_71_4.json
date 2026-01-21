@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 71:4 Reina Valera 1960",
+    "texto": "Dios mío, líbrame de la mano del impío, De la mano del perverso y violento."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱֽלֹהַ֗י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios mío"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6403",
+      "hebreo": "פלט",
+      "transliteracion": "פַּ֭לְּטֵנִי",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "rescátame"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יַּ֣ד",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "la mano"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רָשָׁ֑ע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del impío"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3709",
+      "hebreo": "כַּף",
+      "transliteracion": "כַּ֖ף",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "la palma"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5765",
+      "hebreo": "עול",
+      "transliteracion": "מְעַוֵּ֣ל",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.PIEL.PTCA.U.M.SG.A",
+      "traduccion": "del malhechor"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2556",
+      "hebreo": "חמץ",
+      "transliteracion": "חֹומֵץ׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "del implacable"
+    }
+  ]
+}

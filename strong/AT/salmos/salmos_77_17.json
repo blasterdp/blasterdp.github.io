@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 77:17 Reina Valera 1960",
+    "texto": "Las nubes echaron inundaciones de aguas; Tronaron los cielos, Y discurrieron tus rayos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2229",
+      "hebreo": "זרם",
+      "transliteracion": "זֹ֤רְמוּ",
+      "parsingLabel": "verbo po“el perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.POEL.PERF.P3.U.PL",
+      "traduccion": "derramaron"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַ֨יִם׀",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5645",
+      "hebreo": "עָב",
+      "transliteracion": "עָבֹ֗ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "nubes"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6963",
+      "hebreo": "קֹול",
+      "transliteracion": "קֹ֖ול",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "voz"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "נָתְנ֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "dieron"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7834",
+      "hebreo": "שַׁחַק",
+      "transliteracion": "שְׁחָקִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cielos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "637",
+      "hebreo": "אַף",
+      "transliteracion": "אַף־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "también"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2671",
+      "hebreo": "חֵץ",
+      "transliteracion": "חֲ֝צָצֶ֗יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus saetas"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "יִתְהַלָּֽכוּ׃",
+      "parsingLabel": "verbo hitpa“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIT.IMPF.P3.M.PL",
+      "traduccion": "salieron"
+    }
+  ]
+}

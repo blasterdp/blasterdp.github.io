@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 51:8 Reina Valera 1960",
+    "texto": "Hazme oír gozo y alegría, Y se recrearán los huesos que has abatido."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "תַּ֭שְׁמִיעֵנִי",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "hazme oír"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8342",
+      "hebreo": "שָׂשֹׂון",
+      "transliteracion": "שָׂשֹׂ֣ון",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "gozo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8057",
+      "hebreo": "שִׂמְחָה",
+      "transliteracion": "שִׂמְחָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "alegría"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1523",
+      "hebreo": "גיל",
+      "transliteracion": "תָּ֝גֵ֗לְנָה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.F.PL",
+      "traduccion": "que se regocijen"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6106",
+      "hebreo": "עֶצֶם",
+      "transliteracion": "עֲצָמֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "huesos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1794",
+      "hebreo": "דכה",
+      "transliteracion": "דִּכִּֽיתָ׃",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG",
+      "traduccion": "que has machacado"
+    }
+  ]
+}

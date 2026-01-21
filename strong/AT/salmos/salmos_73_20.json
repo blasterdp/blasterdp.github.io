@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 73:20 Reina Valera 1960",
+    "texto": "Como sueño del que despierta, Así, Señor, cuando despertares, menospreciarás su apariencia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2472",
+      "hebreo": "חֲלֹום",
+      "transliteracion": "חֲלֹ֥ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "sueño"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "al"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6972",
+      "hebreo": "קיץ",
+      "transliteracion": "הָקִ֑יץ",
+      "parsingLabel": "verbo hif‘il infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.HIF.INFC.U.U.U.A",
+      "traduccion": "despertar"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "136",
+      "hebreo": "אֲדֹנָי",
+      "transliteracion": "אֲ֝דֹנָי",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Señor"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "al"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5782",
+      "hebreo": "עור",
+      "transliteracion": "עִ֤יר׀",
+      "parsingLabel": "verbo hif‘il infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.HIF.INFC.U.U.U.A",
+      "traduccion": "despertarse"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6754",
+      "hebreo": "צֶלֶם",
+      "transliteracion": "צַלְמָ֬ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su apariencia"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "959",
+      "hebreo": "בזה",
+      "transliteracion": "תִּבְזֶֽה׃",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "despreciarás"
+    }
+  ]
+}

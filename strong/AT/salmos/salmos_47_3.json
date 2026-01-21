@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 47:3 Reina Valera 1960",
+    "texto": "Él someterá a los pueblos debajo de nosotros, Y a las naciones debajo de nuestros pies."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "יַדְבֵּ֣ר",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "somete"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמִּ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "pueblos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּחְתֵּ֑ינוּ",
+      "parsingLabel": "preposición masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "PREP.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "debajo de nosotros"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3816",
+      "hebreo": "לְאֹם",
+      "transliteracion": "לְאֻמִּ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "naciones"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8478",
+      "hebreo": "תַּחַת",
+      "transliteracion": "תַּ֣חַת",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "bajo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7272",
+      "hebreo": "רֶגֶל",
+      "transliteracion": "רַגְלֵֽינוּ׃",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.F.DU.A.PRS.P1.U.PL",
+      "traduccion": "nuestros pies"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 76:8 Reina Valera 1960",
+    "texto": "Desde los cielos hiciste oír juicio; La tierra tuvo temor y quedó suspensa"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8064",
+      "hebreo": "שָׁמַיִם",
+      "transliteracion": "שָּׁמַיִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "los cielos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "הִשְׁמַ֣עְתָּ",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG",
+      "traduccion": "hiciste oír"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1779",
+      "hebreo": "דִּין",
+      "transliteracion": "דִּ֑ין",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "juicio"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֖רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3372",
+      "hebreo": "ירא",
+      "transliteracion": "יָֽרְאָ֣ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "temió"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8252",
+      "hebreo": "שׁקט",
+      "transliteracion": "שָׁקָֽטָה׃",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "permaneció suspensa"
+    }
+  ]
+}

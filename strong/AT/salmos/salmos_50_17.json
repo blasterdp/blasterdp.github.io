@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 50:17 Reina Valera 1960",
+    "texto": "Pues tú aborreces la corrección, Y echas a tu espalda mis palabras."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "שָׂנֵ֣אתָ",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P2.M.SG",
+      "traduccion": "odias"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4148",
+      "hebreo": "מוּסָר",
+      "transliteracion": "מוּסָ֑ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "disciplina"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7993",
+      "hebreo": "שׁלך",
+      "transliteracion": "תַּשְׁלֵ֖ךְ",
+      "parsingLabel": "verbo hif‘il wayyiqtol 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.WAYQ.P2.M.SG",
+      "traduccion": "echas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְּבָרַ֣י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis palabras"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "310",
+      "hebreo": "אַחַר",
+      "transliteracion": "אַחֲרֶֽיךָ׃",
+      "parsingLabel": "preposición masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "a tus espaldas"
+    }
+  ]
+}

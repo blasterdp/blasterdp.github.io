@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Marcos 3:25 Reina Valera 1960",
+    "texto": "Y si una casa está dividida contra sí misma, tal casa no puede permanecer."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1437",
+      "texto": "ἐὰν",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "si alguna vez"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3614",
+      "texto": "οἰκία",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "casa"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1909",
+      "texto": "ἐφ’",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1438",
+      "texto": "ἑαυτὴν",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Reflexivo-3ª Persona-Acusativo-Singular-Femenino",
+      "parsing": "F-3ASF",
+      "traduccion": "sí misma"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3307",
+      "texto": "μερισθῇ,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Subjuntivo-3ª Persona-Singular",
+      "parsing": "V-APS-3S",
+      "traduccion": "sea dividida"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3756",
+      "texto": "οὐ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1410",
+      "texto": "δυνήσεται",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Futuro-Deponente Medio-Indicativo-3ª Persona-Singular",
+      "parsing": "V-FDI-3S",
+      "traduccion": "será capaz"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3588",
+      "texto": "ἡ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Femenino",
+      "parsing": "T-NSF",
+      "traduccion": "la"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3614",
+      "texto": "οἰκία",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "casa"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "1565",
+      "texto": "ἐκείνη",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Demostrativo-Nominativo-Singular-Femenino",
+      "parsing": "D-NSF",
+      "traduccion": "aquella"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "2476",
+      "texto": "σταθῆναι.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Infinitivo",
+      "parsing": "V-APN",
+      "traduccion": "ser de pie"
+    }
+  ]
+}

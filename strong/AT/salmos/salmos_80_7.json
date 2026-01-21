@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 80:7 Reina Valera 1960",
+    "texto": "Oh Dios de los ejércitos, restáuranos; Haz resplandecer tu rostro, y seremos salvos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6635",
+      "hebreo": "צָבָא",
+      "transliteracion": "צְבָאֹ֣ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "De los ejércitos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "הֲשִׁיבֵ֑נוּ",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P1.U.PL",
+      "traduccion": "restáuranos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "215",
+      "hebreo": "אור",
+      "transliteracion": "הָאֵ֥ר",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "haz resplandecer"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָּ֝נֶ֗יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tu rostro"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3467",
+      "hebreo": "ישׁע",
+      "transliteracion": "נִוָּשֵֽׁעָה׃",
+      "parsingLabel": "verbo nif‘al imperfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.NIF.IMPF.P1.U.PL",
+      "traduccion": "seremos salvos"
+    }
+  ]
+}

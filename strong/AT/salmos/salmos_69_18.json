@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 69:18 Reina Valera 1960",
+    "texto": "Acércate a mi alma, redímela; Líbrame a causa de mis enemigos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7126",
+      "hebreo": "קרב",
+      "transliteracion": "קָרְבָ֣ה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "acércate"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשִׁ֣י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi alma"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1350",
+      "hebreo": "גאל",
+      "transliteracion": "גְאָלָ֑הּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG.PRS.P3.F.SG",
+      "traduccion": "redímela"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4616",
+      "hebreo": "לְמַעַן",
+      "transliteracion": "לְמַ֖עַן",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a causa"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹיְבַ֣י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "de mis enemigos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6299",
+      "hebreo": "פדה",
+      "transliteracion": "פְּדֵֽנִי׃",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "rescátame"
+    }
+  ]
+}

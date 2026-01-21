@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 89:26 Reina Valera 1960",
+    "texto": "Él me clamará: Mi padre eres tú, Mi Dios, y la roca de mi salvación."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֣וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7121",
+      "hebreo": "קרא",
+      "transliteracion": "יִ֭קְרָאֵנִי",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "clamará a mí"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אָ֣בִי",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi padre"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אָ֑תָּה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "410",
+      "hebreo": "אֵל",
+      "transliteracion": "אֵ֝לִ֗י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi Dios"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6697",
+      "hebreo": "צוּר",
+      "transliteracion": "צ֣וּר",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "roca"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3444",
+      "hebreo": "יְשׁוּעָה",
+      "transliteracion": "יְשׁוּעָתִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "de mi salvación"
+    }
+  ]
+}

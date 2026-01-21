@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Galatas 5:8 Reina Valera 1960",
+    "texto": "Esta persuasión no procede de aquel que os llama."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "texto": "ἡ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Femenino",
+      "parsing": "T-NSF",
+      "traduccion": "La"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3988",
+      "texto": "πεισμονὴ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "persuación"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3756",
+      "texto": "οὐκ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1537",
+      "texto": "ἐκ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "procedente de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Masculino",
+      "parsing": "T-GSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2564",
+      "texto": "καλοῦντος",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Genitivo-Singular-Masculino",
+      "parsing": "V-PAP-GSM",
+      "traduccion": "llamando"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5210",
+      "texto": "ὑμᾶς.",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Acusativo-Plural",
+      "parsing": "P-2AP",
+      "traduccion": "a ustedes"
+    }
+  ]
+}

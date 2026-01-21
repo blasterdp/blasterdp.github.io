@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 56:12 Reina Valera 1960",
+    "texto": "Sobre mí, oh Dios, están tus votos; Te tributaré alabanzas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלַ֣י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre mí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5088",
+      "hebreo": "נֶדֶר",
+      "transliteracion": "נְדָרֶ֑יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus votos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7999",
+      "hebreo": "שׁלם",
+      "transliteracion": "אֲשַׁלֵּ֖ם",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "cumpliré"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8426",
+      "hebreo": "תֹּודָה",
+      "transliteracion": "תֹּודֹ֣ת",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "ofrendas de gratitud"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָֽךְ׃",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "te"
+    }
+  ]
+}

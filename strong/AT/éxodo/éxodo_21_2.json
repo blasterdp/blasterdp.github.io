@@ -1,0 +1,134 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 21:2 Reina Valera 1960",
+    "texto": "Si comprares siervo hebreo, seis años servirá; mas al séptimo saldrá libre, de balde."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֤י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7069",
+      "hebreo": "קנה",
+      "transliteracion": "תִקְנֶה֙",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "compras"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עֶ֣בֶד",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "siervo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5680",
+      "hebreo": "עִבְרִי",
+      "transliteracion": "עִבְרִ֔י",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "hebreo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8337",
+      "hebreo": "שֵׁשׁ",
+      "transliteracion": "שֵׁ֥שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "seis"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8141",
+      "hebreo": "שָׁנָה",
+      "transliteracion": "שָׁנִ֖ים",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "años"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5647",
+      "hebreo": "עבד",
+      "transliteracion": "יַעֲבֹ֑ד",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERB.QAL.IMPF.P3.M.SG",
+      "traduccion": "servirá"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ֨",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7637",
+      "hebreo": "שְׁבִיעִי",
+      "transliteracion": "שְּׁבִעִ֔ת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "séptimo"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3318",
+      "hebreo": "יצא",
+      "transliteracion": "יֵצֵ֥א",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "saldrá"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לַֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "2670",
+      "hebreo": "חָפְשִׁי",
+      "transliteracion": "חָפְשִׁ֖י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "libertad"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "2600",
+      "hebreo": "חִנָּם",
+      "transliteracion": "חִנָּֽם׃",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "de balde"
+    }
+  ]
+}

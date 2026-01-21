@@ -1,0 +1,161 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 23:25 Reina Valera 1960",
+    "texto": "Mas a Jehová vuestro Dios serviréis, y él bendecirá tu pan y tus aguas; y yo quitaré toda enfermedad de en medio de ti."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5647",
+      "hebreo": "עבד",
+      "transliteracion": "עֲבַדְתֶּ֗ם",
+      "parsingLabel": "verbo qal perfecto 2ª persona masculino plural",
+      "parsing": "VERB.QAL.PERF.P2.M.PL",
+      "traduccion": "serviréis"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֵ֚ת",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹֽהֵיכֶ֔ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.PL",
+      "traduccion": "vuestro Dios"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "בֵרַ֥ךְ",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P3.M.SG",
+      "traduccion": "bendecirá"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶֽת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3899",
+      "hebreo": "לֶחֶם",
+      "transliteracion": "לַחְמְךָ֖",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu pan"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מֵימֶ֑יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus aguas"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "5493",
+      "hebreo": "סור",
+      "transliteracion": "הֲסִרֹתִ֥י",
+      "parsingLabel": "verbo hif‘il perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P1.U.SG",
+      "traduccion": "quitaré"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "4245",
+      "hebreo": "מַחֲלָה",
+      "transliteracion": "מַחֲלָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "enfermedad"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "7130",
+      "hebreo": "קֶרֶב",
+      "transliteracion": "קִּרְבֶּֽךָ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "en medio de ti"
+    }
+  ]
+}

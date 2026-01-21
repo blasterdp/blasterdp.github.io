@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 77:9 Reina Valera 1960",
+    "texto": "¿Ha olvidado Dios el tener misericordia? ¿Ha encerrado con ira sus piedades? Selah"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "שָׁכַ֣ח",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ha olvidado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2589",
+      "hebreo": "חנה",
+      "transliteracion": "חַנֹּ֣ות",
+      "parsingLabel": "verbo pi“el infinitivo (construct) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.PIEL.INFC.U.U.U.A",
+      "traduccion": "tener piedad"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "410",
+      "hebreo": "אֵל",
+      "transliteracion": "אֵ֑ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7092",
+      "hebreo": "קפץ",
+      "transliteracion": "קָפַ֥ץ",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ha cerrado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "639",
+      "hebreo": "אַף",
+      "transliteracion": "אַ֗ף",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "la ira"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7356",
+      "hebreo": "רַחֲמִים",
+      "transliteracion": "רַחֲמָ֥יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus compasiones?"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5542",
+      "hebreo": "סֶלָה",
+      "transliteracion": "סֶֽלָה׃",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "Selah"
+    }
+  ]
+}

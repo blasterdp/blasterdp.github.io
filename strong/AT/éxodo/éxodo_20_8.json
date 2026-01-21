@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 20:8 Reina Valera 1960",
+    "texto": "Acuérdate del día de reposo para santificarlo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2142",
+      "hebreo": "זכר",
+      "transliteracion": "זָכֹ֛ור֩",
+      "parsingLabel": "verbo qal infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFA.U.U.U.A",
+      "traduccion": "Recuerda"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "יֹ֥֨ום",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "día de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7676",
+      "hebreo": "שַׁבָּת",
+      "transliteracion": "שַּׁבָּ֖֜ת",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "sábado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6942",
+      "hebreo": "קדשׁ",
+      "transliteracion": "קַדְּשֹֽׁ֗ו׃",
+      "parsingLabel": "verbo pi“el infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.INFC.U.U.U.A.PRS.P3.M.SG",
+      "traduccion": "santificarlo"
+    }
+  ]
+}

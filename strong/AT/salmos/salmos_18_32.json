@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 18:32 Reina Valera 1960",
+    "texto": "Dios es el que me ciñe de poder, Y quien hace perfecto mi camino;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ֭",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "410",
+      "hebreo": "אֵל",
+      "transliteracion": "אֵל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "247",
+      "hebreo": "אזר",
+      "transliteracion": "מְאַזְּרֵ֣נִי",
+      "parsingLabel": "verbo pi“el participio desconocido masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PTCA.U.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "me ciñe"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2428",
+      "hebreo": "חַיִל",
+      "transliteracion": "חָ֑יִל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de fuerza"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "יִּתֵּ֖ן",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "hace"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8549",
+      "hebreo": "תָּמִים",
+      "transliteracion": "תָּמִ֣ים",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "perfecto"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דַּרְכִּֽי׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi camino"
+    }
+  ]
+}

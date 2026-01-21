@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 18:48 Reina Valera 1960",
+    "texto": "El que me libra de mis enemigos, Y aun me eleva sobre los que se levantan contra mí; Me libraste de varón violento."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6403",
+      "hebreo": "פלט",
+      "transliteracion": "מְפַלְּטִ֗י",
+      "parsingLabel": "verbo pi“el participio desconocido masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PTCA.U.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "el que me libra"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹ֫יְבָ֥י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "mis enemigos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "637",
+      "hebreo": "אַף",
+      "transliteracion": "אַ֣ף",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "de cierto"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִן־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "קָ֭מַי",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "que se alzan contra mí"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7311",
+      "hebreo": "רום",
+      "transliteracion": "תְּרֹומְמֵ֑נִי",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me levantas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִ֥ישׁ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2555",
+      "hebreo": "חָמָס",
+      "transliteracion": "חָ֝מָ֗ס",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de violencia"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "תַּצִּילֵֽנִי׃",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me rescatas"
+    }
+  ]
+}

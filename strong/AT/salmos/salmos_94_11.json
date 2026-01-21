@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 94:11 Reina Valera 1960",
+    "texto": "Jehová conoce los pensamientos de los hombres, Que son vanidad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְֽהוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יֹ֭דֵעַ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "conoce"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4284",
+      "hebreo": "מַחֲשָׁבָה",
+      "transliteracion": "מַחְשְׁבֹ֣ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "pensamientos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "120",
+      "hebreo": "אָדָם",
+      "transliteracion": "אָדָ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del hombre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1992",
+      "hebreo": "הֵמָּה",
+      "transliteracion": "הֵ֥מָּה",
+      "parsingLabel": "pronombre personal 3ª persona masculino plural",
+      "parsing": "PRPS.P3.M.PL",
+      "traduccion": "ellos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1892",
+      "hebreo": "הֶבֶל",
+      "transliteracion": "הָֽבֶל׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "vanidad"
+    }
+  ]
+}

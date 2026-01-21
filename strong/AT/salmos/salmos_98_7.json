@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 98:7 Reina Valera 1960",
+    "texto": "Brame el mar y su plenitud, El mundo y los que en él habitan;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7481",
+      "hebreo": "רעם",
+      "transliteracion": "יִרְעַ֣ם",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "ruja"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ֭",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3220",
+      "hebreo": "יָם",
+      "transliteracion": "יָּם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "mar"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4393",
+      "hebreo": "מְלֹא",
+      "transliteracion": "מְלֹאֹ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su plenitud"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8398",
+      "hebreo": "תֵּבֵל",
+      "transliteracion": "תֵּ֝בֵ֗ל",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "el mundo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3427",
+      "hebreo": "ישׁב",
+      "transliteracion": "יֹ֣שְׁבֵי",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "que habitan"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָֽהּ׃",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona femenino singular",
+      "parsing": "PREP.PRS.P3.F.SG",
+      "traduccion": "en él"
+    }
+  ]
+}

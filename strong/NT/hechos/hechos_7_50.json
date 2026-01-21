@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Hechos 7:50 Reina Valera 1960",
+    "texto": "¿No hizo mi mano todas estas cosas?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3780",
+      "texto": "οὐχὶ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Interrogativa",
+      "parsing": "PRT-I",
+      "traduccion": "¿No"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3588",
+      "texto": "ἡ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Femenino",
+      "parsing": "T-NSF",
+      "traduccion": "la"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5495",
+      "texto": "χείρ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "mano"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1473",
+      "texto": "μου",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Genitivo-Singular",
+      "parsing": "P-1GS",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4160",
+      "texto": "ἐποίησεν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-AAI-3S",
+      "traduccion": "hizo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3778",
+      "texto": "ταῦτα",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Demostrativo-Acusativo-Plural-Neutro",
+      "parsing": "D-APN",
+      "traduccion": "estas (cosas)"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3956",
+      "texto": "πάντα;",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Plural-Neutro",
+      "parsing": "A-APN",
+      "traduccion": "todas?"
+    }
+  ]
+}

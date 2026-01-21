@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 35:25 Reina Valera 1960",
+    "texto": "No digan en su corazón: ¡Ea, alma nuestra! No digan: ¡Le hemos devorado!"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹאמְר֣וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "digan"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3820",
+      "hebreo": "לֵב",
+      "transliteracion": "לִבָּם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su corazón"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1889",
+      "hebreo": "הֶאָח",
+      "transliteracion": "הֶאָ֣ח",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "ja"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשֵׁ֑נוּ",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.PL",
+      "traduccion": "lo que anhelábamos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹ֝אמְר֗וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "digan"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1104",
+      "hebreo": "בלע",
+      "transliteracion": "בִּֽלַּעֲנֽוּהוּ׃",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P1.U.PL.PRS.P3.M.SG",
+      "traduccion": "lo hemos devorado"
+    }
+  ]
+}

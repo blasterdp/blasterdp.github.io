@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "1ra Corintios 5:12 Reina Valera 1960",
+    "texto": "Porque ¿qué razón tendría yo para juzgar a los que están fuera? ¿No juzgáis vosotros a los que están dentro?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5101",
+      "texto": "τί",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Interrogativo-Nominativo-Singular-Neutro",
+      "parsing": "I-NSN",
+      "traduccion": "¿Qué"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1063",
+      "texto": "γάρ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1473",
+      "texto": "μοι",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Dativo-Singular",
+      "parsing": "P-1DS",
+      "traduccion": "a mí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "texto": "τοὺς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Plural-Masculino",
+      "parsing": "T-APM",
+      "traduccion": "a los"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1854",
+      "texto": "ἔξω",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "afuera"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2919",
+      "texto": "κρίνειν;",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Infinitivo",
+      "parsing": "V-PAN",
+      "traduccion": "estar juzgando?"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3780",
+      "texto": "οὐχὶ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Interrogativa",
+      "parsing": "PRT-I",
+      "traduccion": "¿No"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3588",
+      "texto": "τοὺς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Plural-Masculino",
+      "parsing": "T-APM",
+      "traduccion": "a los"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2080",
+      "texto": "ἔσω",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "interior"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5210",
+      "texto": "ὑμεῖς",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Nominativo-Plural",
+      "parsing": "P-2NP",
+      "traduccion": "ustedes"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2919",
+      "texto": "κρίνετε;",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-2ª Persona-Plural",
+      "parsing": "V-PAI-2P",
+      "traduccion": "están juzgando"
+    }
+  ]
+}

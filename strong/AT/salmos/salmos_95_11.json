@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 95:11 Reina Valera 1960",
+    "texto": "Por tanto, juré en mi furor Que no entrarían en mi reposo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁר־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "por tanto"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7650",
+      "hebreo": "שׁבע",
+      "transliteracion": "נִשְׁבַּ֥עְתִּי",
+      "parsingLabel": "verbo nif‘al perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.NIF.PERF.P1.U.SG",
+      "traduccion": "juré"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "639",
+      "hebreo": "אַף",
+      "transliteracion": "אַפִּ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi ira"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "יְ֝בֹא֗וּן",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "habían de entrar"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4496",
+      "hebreo": "מְנוּחָה",
+      "transliteracion": "מְנוּחָתִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi reposo"
+    }
+  ]
+}

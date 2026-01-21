@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 31:15 Reina Valera 1960",
+    "texto": "En tu mano están mis tiempos; Líbrame de la mano de mis enemigos y de mis perseguidores."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָדְךָ֥",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu mano"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6256",
+      "hebreo": "עֵת",
+      "transliteracion": "עִתֹּתָ֑י",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mis tiempos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "הַצִּ֘ילֵ֤נִי",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "líbrame"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יַּד־",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "la mano"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹ֝ויְבַ֗י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "de mis enemigos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "7291",
+      "hebreo": "רדף",
+      "transliteracion": "רֹדְפָֽי׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "los que me persiguen"
+    }
+  ]
+}

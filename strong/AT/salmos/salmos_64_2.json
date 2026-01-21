@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 64:2 Reina Valera 1960",
+    "texto": "Escóndeme del consejo secreto de los malignos, De la conspiración de los que hacen iniquidad,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5641",
+      "hebreo": "סתר",
+      "transliteracion": "תַּ֭סְתִּירֵנִי",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "escóndeme"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5475",
+      "hebreo": "סֹוד",
+      "transliteracion": "סֹּ֣וד",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "la conjura"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7489",
+      "hebreo": "רעע",
+      "transliteracion": "מְרֵעִ֑ים",
+      "parsingLabel": "sustantivo hif‘il participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.HIF.PTCA.U.M.PL.A",
+      "traduccion": "de malignos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7285",
+      "hebreo": "רִגְשָׁה",
+      "transliteracion": "רִגְשַׁ֗ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "tumulto"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6466",
+      "hebreo": "פעל",
+      "transliteracion": "פֹּ֣עֲלֵי",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "de los obradores"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "205",
+      "hebreo": "אָוֶן",
+      "transliteracion": "אָֽוֶן׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de iniquidad"
+    }
+  ]
+}

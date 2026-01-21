@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 149:5 Reina Valera 1960",
+    "texto": "Regocíjense los santos por su gloria, Y canten aun sobre sus camas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5937",
+      "hebreo": "עלז",
+      "transliteracion": "יַעְלְז֣וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "regocíjense"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2623",
+      "hebreo": "חָסִיד",
+      "transliteracion": "חֲסִידִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "piadosos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3519",
+      "hebreo": "כָּבֹוד",
+      "transliteracion": "כָבֹ֑וד",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "gloria"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7442",
+      "hebreo": "רנן",
+      "transliteracion": "יְ֝רַנְּנ֗וּ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "canten con gozo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4904",
+      "hebreo": "מִשְׁכָּב",
+      "transliteracion": "מִשְׁכְּבֹותָֽם׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.PL",
+      "traduccion": "sus camas"
+    }
+  ]
+}

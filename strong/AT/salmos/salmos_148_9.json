@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 148:9 Reina Valera 1960",
+    "texto": "Los montes y todos los collados, El árbol de fruto y todos los cedros;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הֶ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "los"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הָרִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "montes"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1389",
+      "hebreo": "גִּבְעָה",
+      "transliteracion": "גְּבָעֹ֑ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "collados"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6086",
+      "hebreo": "עֵץ",
+      "transliteracion": "עֵ֥ץ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "árbol"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6529",
+      "hebreo": "פְּרִי",
+      "transliteracion": "פְּ֝רִ֗י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de fruto"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "730",
+      "hebreo": "אֶרֶז",
+      "transliteracion": "אֲרָזִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "cedros"
+    }
+  ]
+}

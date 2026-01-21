@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 69:24 Reina Valera 1960",
+    "texto": "Derrama sobre ellos tu ira, Y el furor de tu enojo los alcance."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8210",
+      "hebreo": "שׁפך",
+      "transliteracion": "שְׁפָךְ־",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "derrama"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עֲלֵיהֶ֥ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "sobre ellos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2195",
+      "hebreo": "זַעַם",
+      "transliteracion": "זַעְמֶ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu enojo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2740",
+      "hebreo": "חָרֹון",
+      "transliteracion": "חֲרֹ֥ון",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "que el furor"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "639",
+      "hebreo": "אַף",
+      "transliteracion": "אַ֝פְּךָ֗",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu ira"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5381",
+      "hebreo": "נשׂג",
+      "transliteracion": "יַשִּׂיגֵֽם׃",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los alcance"
+    }
+  ]
+}

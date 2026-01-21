@@ -1,0 +1,134 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 41:2 Reina Valera 1960",
+    "texto": "Jehová lo guardará, y le dará vida; Será bienaventurado en la tierra, Y no lo entregarás a la voluntad de sus enemigos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֤ה׀",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "יִשְׁמְרֵ֣הוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "lo guardará"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וִֽ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2421",
+      "hebreo": "חיה",
+      "transliteracion": "יחַיֵּהוּ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "lo mantendrá con vida"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "833",
+      "hebreo": "אשׁר",
+      "transliteracion": "אֻשַּׁ֣ר",
+      "parsingLabel": "verbo pu“al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PUAL.PERF.P3.M.SG",
+      "traduccion": "bienaventurado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָ֑רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַֽל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "תִּ֝תְּנֵ֗הוּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P3.M.SG",
+      "traduccion": "lo entregarás"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נֶ֣פֶשׁ",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "el deseo"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹיְבָֽיו׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "de sus enemigos"
+    }
+  ]
+}

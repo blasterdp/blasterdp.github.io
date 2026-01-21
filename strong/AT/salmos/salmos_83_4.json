@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 83:4 Reina Valera 1960",
+    "texto": "Han dicho: Venid, y destruyámoslos para que no sean nación, Y no haya más memoria del nombre de Israel."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָמְר֗וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "han dicho"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "לְ֭כוּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "venid"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3582",
+      "hebreo": "כחד",
+      "transliteracion": "נַכְחִידֵ֣ם",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido plural pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P1.U.PL.PRS.P3.M.PL",
+      "traduccion": "destruyámoslos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para que no sean"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1471",
+      "hebreo": "גֹּוי",
+      "transliteracion": "גֹּ֑וי",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "nación"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2142",
+      "hebreo": "זכר",
+      "transliteracion": "יִזָּכֵ֖ר",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "haya memoria"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שֵֽׁם־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "del nombre"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵ֣ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Israel"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5750",
+      "hebreo": "עֹוד",
+      "transliteracion": "עֹֽוד׃",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "ya más"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 35:20 Reina Valera 1960",
+    "texto": "Porque no hablan paz; Y contra los mansos de la tierra piensan palabras engañosas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֤י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֥א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7965",
+      "hebreo": "שָׁלֹום",
+      "transliteracion": "שָׁלֹ֗ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "paz"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1696",
+      "hebreo": "דבר",
+      "transliteracion": "יְדַ֫בֵּ֥רוּ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "hablan"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "sino"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַ֥ל",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "que contra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7282",
+      "hebreo": "רָגֵעַ",
+      "transliteracion": "רִגְעֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "tranquilos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֑רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de tierra"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דִּבְרֵ֥י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "alegaciones"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4820",
+      "hebreo": "מִרְמָה",
+      "transliteracion": "מִ֝רְמֹות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "falsas"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2803",
+      "hebreo": "חשׁב",
+      "transliteracion": "יַחֲשֹׁבֽוּן׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "urden"
+    }
+  ]
+}

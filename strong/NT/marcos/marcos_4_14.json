@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Marcos 4:14 Reina Valera 1960",
+    "texto": "El sembrador es el que siembra la palabra."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "El"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4687",
+      "texto": "σπείρων",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-PAP-NSM",
+      "traduccion": "sembrando"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3588",
+      "texto": "τὸν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Masculino",
+      "parsing": "T-ASM",
+      "traduccion": "a la"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3056",
+      "texto": "λόγον",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Masculino",
+      "parsing": "N-ASM",
+      "traduccion": "palabra"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4687",
+      "texto": "σπείρει.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está sembrando"
+    }
+  ]
+}

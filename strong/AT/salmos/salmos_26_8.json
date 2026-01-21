@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 26:8 Reina Valera 1960",
+    "texto": "Jehová, la habitación de tu casa he amado, Y el lugar de la morada de tu gloria."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְֽהוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "אָ֭הַבְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "amo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4583",
+      "hebreo": "מָעֹון",
+      "transliteracion": "מְעֹ֣ון",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "habitación"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵּיתֶ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu casa"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4725",
+      "hebreo": "מָקֹום",
+      "transliteracion": "מְקֹ֗ום",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "lugar"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4908",
+      "hebreo": "מִשְׁכָּן",
+      "transliteracion": "מִשְׁכַּ֥ן",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "de morada"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3519",
+      "hebreo": "כָּבֹוד",
+      "transliteracion": "כְּבֹודֶֽךָ׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu gloria"
+    }
+  ]
+}

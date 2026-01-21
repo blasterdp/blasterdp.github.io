@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 34:2 Reina Valera 1960",
+    "texto": "En Jehová se gloriará mi alma; Lo oirán los mansos, y se alegrarán."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יהוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "תִּתְהַלֵּ֣ל",
+      "parsingLabel": "verbo hitpa“el imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.HIT.IMPF.P3.F.SG",
+      "traduccion": "se gloría"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשִׁ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi alma"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "יִשְׁמְע֖וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "oigan"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6035",
+      "hebreo": "עָנָו",
+      "transliteracion": "עֲנָוִ֣ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "humildes"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8055",
+      "hebreo": "שׂמח",
+      "transliteracion": "יִשְׂמָֽחוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "se alegren"
+    }
+  ]
+}

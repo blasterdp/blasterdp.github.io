@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 88:16 Reina Valera 1960",
+    "texto": "Sobre mí han pasado tus iras, Y me oprimen tus terrores."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָ֭לַי",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre mí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "עָבְר֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "ha pasado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2740",
+      "hebreo": "חָרֹון",
+      "transliteracion": "חֲרֹונֶ֑יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tu ardiente ira"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1161",
+      "hebreo": "בִּעוּת",
+      "transliteracion": "בִּ֝עוּתֶ֗יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus terrores"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6789",
+      "hebreo": "צמת",
+      "transliteracion": "צִמְּתוּתֻֽנִי׃",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "han acabado conmigo"
+    }
+  ]
+}

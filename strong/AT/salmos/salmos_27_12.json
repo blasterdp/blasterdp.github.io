@@ -1,0 +1,125 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 27:12 Reina Valera 1960",
+    "texto": "No me entregues a la voluntad de mis enemigos; Porque se han levantado contra mí testigos falsos, y los que respiran crueldad."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַֽל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "תִּ֭תְּנֵנִי",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "me entregues"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נֶ֣פֶשׁ",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "la voluntad"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6862",
+      "hebreo": "צַר",
+      "transliteracion": "צָרָ֑י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de mis adversarios"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֥י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6965",
+      "hebreo": "קום",
+      "transliteracion": "קָֽמוּ־",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se han levantado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִ֥י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "contra mí"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5707",
+      "hebreo": "עֵד",
+      "transliteracion": "עֵֽדֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "testigos"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "8267",
+      "hebreo": "שֶׁקֶר",
+      "transliteracion": "שֶׁ֝֗קֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de falsía"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וִ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3307",
+      "hebreo": "יָפֵחַ",
+      "transliteracion": "יפֵ֥חַ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "los que respiran"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "2555",
+      "hebreo": "חָמָס",
+      "transliteracion": "חָמָֽס׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "violencia"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 8:3 Reina Valera 1960",
+    "texto": "Cuando veo tus cielos, obra de tus dedos, La luna y las estrellas que tú formaste,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "אֶרְאֶ֣ה",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "veo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8064",
+      "hebreo": "שָׁמַיִם",
+      "transliteracion": "שָׁ֭מֶיךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus cielos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4639",
+      "hebreo": "מַעֲשֶׂה",
+      "transliteracion": "מַעֲשֵׂ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hechura"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "676",
+      "hebreo": "אֶצְבַּע",
+      "transliteracion": "אֶצְבְּעֹתֶ֑יךָ",
+      "parsingLabel": "sustantivo femenino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.PL.A.PRS.P2.M.SG",
+      "traduccion": "de tus dedos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3394",
+      "hebreo": "יָרֵחַ",
+      "transliteracion": "יָרֵ֥חַ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "luna"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3556",
+      "hebreo": "כֹּוכָב",
+      "transliteracion": "כֹוכָבִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "estrellas"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3559",
+      "hebreo": "כון",
+      "transliteracion": "כֹּונָֽנְתָּה׃",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG",
+      "traduccion": "estableciste"
+    }
+  ]
+}

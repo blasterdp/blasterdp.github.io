@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 30:8 Reina Valera 1960",
+    "texto": "A ti, oh Jehová, clamaré, Y al Señor suplicaré."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֵלֶ֣יךָ",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "a ti"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7121",
+      "hebreo": "קרא",
+      "transliteracion": "אֶקְרָ֑א",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "clamé"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "136",
+      "hebreo": "אֲדֹנָי",
+      "transliteracion": "אֲ֝דֹנָ֗י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Señor"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2603",
+      "hebreo": "חנן",
+      "transliteracion": "אֶתְחַנָּֽן׃",
+      "parsingLabel": "verbo hitpa“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIT.IMPF.P1.U.SG",
+      "traduccion": "dirigí mi súplica"
+    }
+  ]
+}

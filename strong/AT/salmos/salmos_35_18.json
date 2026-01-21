@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 35:18 Reina Valera 1960",
+    "texto": "Te confesaré en grande congregación; Te alabaré entre numeroso pueblo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3034",
+      "hebreo": "ידה",
+      "transliteracion": "אֹ֭ודְךָ",
+      "parsingLabel": "verbo hif‘il imperfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "te daré gracias"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6951",
+      "hebreo": "קָהָל",
+      "transliteracion": "קָהָ֣ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "congregación"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רָ֑ב",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "grande"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "entre"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "pueblo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6099",
+      "hebreo": "עָצוּם",
+      "transliteracion": "עָצ֣וּם",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "numeroso"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "אֲהַֽלְלֶֽךָּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "te alabaré"
+    }
+  ]
+}

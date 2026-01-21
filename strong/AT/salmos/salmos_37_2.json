@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 37:2 Reina Valera 1960",
+    "texto": "Porque como hierba serán pronto cortados, Y como la hierba verde se secarán."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כֶ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2682",
+      "hebreo": "חָצִיר",
+      "transliteracion": "חָצִיר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hierba"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4120",
+      "hebreo": "מְהֵרָה",
+      "transliteracion": "מְהֵרָ֣ה",
+      "parsingLabel": "adverbio femenino singular absoluto",
+      "parsing": "ADVB.F.SG.A",
+      "traduccion": "pronto"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5243",
+      "hebreo": "מלל",
+      "transliteracion": "יִמָּ֑לוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "se secarán"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3418",
+      "hebreo": "יֶרֶק",
+      "transliteracion": "יֶ֥רֶק",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "el verde"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1877",
+      "hebreo": "דֶּשֶׁא",
+      "transliteracion": "דֶּ֝֗שֶׁא",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "césped"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5034",
+      "hebreo": "נבל",
+      "transliteracion": "יִבֹּולֽוּן׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "se marchitarán"
+    }
+  ]
+}

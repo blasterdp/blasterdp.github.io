@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 24:6 Reina Valera 1960",
+    "texto": "Tal es la generación de los que le buscan, De los que buscan tu rostro, oh Dios de Jacob. Selah"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶ֭ה",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "esta"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1755",
+      "hebreo": "דֹּור",
+      "transliteracion": "דֹּ֣ור",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "la generación"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1875",
+      "hebreo": "דרשׁ",
+      "transliteracion": "דֹּרְשָׁ֑יו",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "de los que le buscan"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1245",
+      "hebreo": "בקשׁ",
+      "transliteracion": "מְבַקְשֵׁ֨י",
+      "parsingLabel": "sustantivo pi“el participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.PIEL.PTCA.U.M.PL.C",
+      "traduccion": "de los que buscan"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָנֶ֖יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tu rostro"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3290",
+      "hebreo": "יַעֲקֹב",
+      "transliteracion": "יַעֲקֹ֣ב",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Jacob"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5542",
+      "hebreo": "סֶלָה",
+      "transliteracion": "סֶֽלָה׃",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "Selah"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 59:12 Reina Valera 1960",
+    "texto": "Por el pecado de su boca, por la palabra de sus labios, Sean ellos presos en su soberbia, Y por la maldición y mentira que profieren."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2403",
+      "hebreo": "חַטָּאת",
+      "transliteracion": "חַטַּאת־",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "pecado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6310",
+      "hebreo": "פֶּה",
+      "transliteracion": "פִּ֗ימֹו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "de su boca"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דְּֽבַר־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "la palabra"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8193",
+      "hebreo": "שָׂפָה",
+      "transliteracion": "שְׂפָ֫תֵ֥ימֹו",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.PL",
+      "traduccion": "de sus labios"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3920",
+      "hebreo": "לכד",
+      "transliteracion": "יִלָּכְד֥וּ",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.NIF.IMPF.P3.M.PL",
+      "traduccion": "sean apresados"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1347",
+      "hebreo": "גָּאֹון",
+      "transliteracion": "גְאֹונָ֑ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su orgullo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "423",
+      "hebreo": "אָלָה",
+      "transliteracion": "אָלָ֖ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "la maldición"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "3585",
+      "hebreo": "כַּחַשׁ",
+      "transliteracion": "כַּ֣חַשׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "la mentira"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "5608",
+      "hebreo": "ספר",
+      "transliteracion": "יְסַפֵּֽרוּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "que profieren"
+    }
+  ]
+}

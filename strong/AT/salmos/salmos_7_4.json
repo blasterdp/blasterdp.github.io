@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 7:4 Reina Valera 1960",
+    "texto": "Si he dado mal pago al que estaba en paz conmigo (Antes he libertado al que sin causa era mi enemigo),"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1580",
+      "hebreo": "גמל",
+      "transliteracion": "גָּ֭מַלְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "pagué"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7999",
+      "hebreo": "שׁלם",
+      "transliteracion": "שֹֽׁולְמִ֥י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "al que estaba en paz conmigo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7451",
+      "hebreo": "רַע",
+      "transliteracion": "רָ֑ע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "con mal"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2502",
+      "hebreo": "חלץ",
+      "transliteracion": "אֲחַלְּצָ֖ה",
+      "parsingLabel": "verbo pi“el wayyiqtol 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.WAYQ.P1.U.SG",
+      "traduccion": "despojé"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3334",
+      "hebreo": "צרר",
+      "transliteracion": "צֹורְרִ֣י",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "a mi adversario"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7387",
+      "hebreo": "רֵיקָם",
+      "transliteracion": "רֵיקָֽם׃",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "sin causa"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 89:3 Reina Valera 1960",
+    "texto": "Hice pacto con mi escogido; Juré a David mi siervo, diciendo:"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3772",
+      "hebreo": "כרת",
+      "transliteracion": "כָּרַ֣תִּֽי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "he concertado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1285",
+      "hebreo": "בְּרִית",
+      "transliteracion": "בְ֭רִית",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "pacto"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "972",
+      "hebreo": "בָּחִיר",
+      "transliteracion": "בְחִירִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi elegido"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7650",
+      "hebreo": "שׁבע",
+      "transliteracion": "נִ֝שְׁבַּ֗עְתִּי",
+      "parsingLabel": "verbo nif‘al perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.NIF.PERF.P1.U.SG",
+      "traduccion": "he jurado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1732",
+      "hebreo": "דָּוִד",
+      "transliteracion": "דָוִ֥ד",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "David"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עַבְדִּֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi siervo"
+    }
+  ]
+}

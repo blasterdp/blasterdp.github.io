@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Lucas 20:22 Reina Valera 1960",
+    "texto": "¿Nos es lícito dar tributo a César, o no?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1832",
+      "texto": "ἔξεστιν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "¿Es permisible"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2249",
+      "texto": "ἡμᾶς",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Acusativo-Plural",
+      "parsing": "P-1AP",
+      "traduccion": "a nosotros"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2541",
+      "texto": "Καίσαρι",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Masculino",
+      "parsing": "N-DSM",
+      "traduccion": "a Cesar"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5411",
+      "texto": "φόρον",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Masculino",
+      "parsing": "N-ASM",
+      "traduccion": "impuesto"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1325",
+      "texto": "δοῦναι",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Infinitivo",
+      "parsing": "V-2AAN",
+      "traduccion": "dar"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2228",
+      "texto": "ἢ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula",
+      "parsing": "PRT",
+      "traduccion": "o"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3756",
+      "texto": "οὔ;",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no?"
+    }
+  ]
+}

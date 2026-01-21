@@ -1,0 +1,188 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 10:24 Reina Valera 1960",
+    "texto": "Entonces Faraón hizo llamar a Moisés, y dijo: Id, servid a Jehová; solamente queden vuestras ovejas y vuestras vacas; vayan también vuestros niños con vosotros."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7121",
+      "hebreo": "קרא",
+      "transliteracion": "יִּקְרָ֨א",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "llamó"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6547",
+      "hebreo": "פַּרְעֹה",
+      "transliteracion": "פַרְעֹ֜ה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Faraón"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4872",
+      "hebreo": "מֹשֶׁה",
+      "transliteracion": "מֹשֶׁ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Moisés"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "יֹּ֨אמֶר֙",
+      "parsingLabel": "verbo qal wayyiqtol 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.WAYQ.P3.M.SG",
+      "traduccion": "dijo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "לְכוּ֙",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "id"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5647",
+      "hebreo": "עבד",
+      "transliteracion": "עִבְד֣וּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERB.QAL.IMPV.P2.M.PL",
+      "traduccion": "servid"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֔ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "7535",
+      "hebreo": "רַק",
+      "transliteracion": "רַ֛ק",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "sólo"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "6629",
+      "hebreo": "צֹאן",
+      "transliteracion": "צֹאנְכֶ֥ם",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestras ovejas"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "1241",
+      "hebreo": "בָּקָר",
+      "transliteracion": "בְקַרְכֶ֖ם",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.PL",
+      "traduccion": "vustras vacas"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "3322",
+      "hebreo": "יצג",
+      "transliteracion": "יֻצָּ֑ג",
+      "parsingLabel": "verbo hof‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HOF.IMPF.P3.M.SG",
+      "traduccion": "queden"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּֽם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "también"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "2945",
+      "hebreo": "טַף",
+      "transliteracion": "טַפְּכֶ֖ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.PL",
+      "traduccion": "vuestros niños"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "יֵלֵ֥ךְ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "vayan"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִמָּכֶֽם׃",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino plural",
+      "parsing": "PREP.PRS.P2.M.PL",
+      "traduccion": "con vosotros"
+    }
+  ]
+}

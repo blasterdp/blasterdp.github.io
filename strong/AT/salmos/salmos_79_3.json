@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 79:3 Reina Valera 1960",
+    "texto": "Derramaron su sangre como agua en los alrededores de Jerusalén, Y no hubo quien los enterrase."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8210",
+      "hebreo": "שׁפך",
+      "transliteracion": "שָׁפְכ֬וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "han derramado"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1818",
+      "hebreo": "דָּם",
+      "transliteracion": "דָמָ֨ם׀",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su sangre"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַּ֗יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "agua"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5439",
+      "hebreo": "סָבִיב",
+      "transliteracion": "סְֽבִ֘יבֹ֤ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "en torno"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3389",
+      "hebreo": "יְרוּשָׁלִַם",
+      "transliteracion": "יְֽרוּשָׁלִָ֗ם",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "a Jerusalén"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵ֣ין",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "no hay"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6912",
+      "hebreo": "קבר",
+      "transliteracion": "קֹובֵֽר׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.A",
+      "traduccion": "quien sepulte"
+    }
+  ]
+}

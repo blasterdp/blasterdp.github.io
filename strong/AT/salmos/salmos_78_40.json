@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:40 Reina Valera 1960",
+    "texto": "¡Cuántas veces se rebelaron contra él en el desierto, Lo enojaron en el yermo!"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַּ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4100",
+      "hebreo": "מָה",
+      "transliteracion": "מָּה",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "cuántas veces"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4784",
+      "hebreo": "מרה",
+      "transliteracion": "יַמְר֣וּהוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL.PRS.P3.M.SG",
+      "traduccion": "se rebelaron contra él"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4057",
+      "hebreo": "מִדְבָּר",
+      "transliteracion": "מִּדְבָּ֑ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "Desierto"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6087",
+      "hebreo": "עצב",
+      "transliteracion": "יַ֝עֲצִיב֗וּהוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL.PRS.P3.M.SG",
+      "traduccion": "le contristaron"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3452",
+      "hebreo": "יְשִׁימֹון",
+      "transliteracion": "ישִׁימֹֽון׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "el yermo"
+    }
+  ]
+}

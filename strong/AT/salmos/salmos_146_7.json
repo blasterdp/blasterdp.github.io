@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 146:7 Reina Valera 1960",
+    "texto": "Que hace justicia a los agraviados, Que da pan a los hambrientos. Jehová liberta a los cautivos;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עֹשֶׂ֤ה",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "que hace"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4941",
+      "hebreo": "מִשְׁפָּט",
+      "transliteracion": "מִשְׁפָּ֨ט׀",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "juicio"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6231",
+      "hebreo": "עשׁק",
+      "transliteracion": "עֲשׁוּקִ֗ים",
+      "parsingLabel": "sustantivo qal participio (passive) desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCP.U.M.PL.A",
+      "traduccion": "oprimidos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5414",
+      "hebreo": "נתן",
+      "transliteracion": "נֹתֵ֣ן",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "da"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3899",
+      "hebreo": "לֶחֶם",
+      "transliteracion": "לֶ֭חֶם",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "pan"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7457",
+      "hebreo": "רָעֵב",
+      "transliteracion": "רְעֵבִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "hambrientos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֝הוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5425",
+      "hebreo": "נתר",
+      "transliteracion": "מַתִּ֥יר",
+      "parsingLabel": "verbo hif‘il participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.HIF.PTCA.U.M.SG.A",
+      "traduccion": "suelta"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "631",
+      "hebreo": "אסר",
+      "transliteracion": "אֲסוּרִֽים׃",
+      "parsingLabel": "sustantivo qal participio (passive) desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCP.U.M.PL.A",
+      "traduccion": "a cautivos"
+    }
+  ]
+}

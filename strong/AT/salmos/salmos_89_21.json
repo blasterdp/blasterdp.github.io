@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 89:21 Reina Valera 1960",
+    "texto": "Mi mano estará siempre con él, Mi brazo también lo fortalecerá."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָ֭דִי",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi mano"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3559",
+      "hebreo": "כון",
+      "transliteracion": "תִּכֹּ֣ון",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.F.SG",
+      "traduccion": "será establecida"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5973",
+      "hebreo": "עִם",
+      "transliteracion": "עִמֹּ֑ו",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "con él"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "637",
+      "hebreo": "אַף",
+      "transliteracion": "אַף־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "también"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2220",
+      "hebreo": "זְרֹועַ",
+      "transliteracion": "זְרֹועִ֥י",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi brazo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "553",
+      "hebreo": "אמץ",
+      "transliteracion": "תְאַמְּצֶֽנּוּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG.PRS.P3.M.SG",
+      "traduccion": "lo fortalecerá"
+    }
+  ]
+}

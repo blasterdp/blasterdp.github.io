@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 50:2 Reina Valera 1960",
+    "texto": "De Sion, perfección de hermosura, Dios ha resplandecido."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6726",
+      "hebreo": "צִיֹּון",
+      "transliteracion": "צִּיֹּ֥ון",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Sión"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4359",
+      "hebreo": "מִכְלָל",
+      "transliteracion": "מִכְלַל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "dechado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3308",
+      "hebreo": "יֳפִי",
+      "transliteracion": "יֹ֗פִי",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de hermosura"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהִ֥ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3313",
+      "hebreo": "יפע",
+      "transliteracion": "הֹופִֽיעַ׃",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG",
+      "traduccion": "ha resplandecido"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 147:4 Reina Valera 1960",
+    "texto": "Él cuenta el número de las estrellas; A todas ellas llama por sus nombres."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4487",
+      "hebreo": "מנה",
+      "transliteracion": "מֹונֶ֣ה",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "determina"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4557",
+      "hebreo": "מִסְפָּר",
+      "transliteracion": "מִ֭סְפָּר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "número"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3556",
+      "hebreo": "כֹּוכָב",
+      "transliteracion": "כֹּוכָבִ֑ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "estrellas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֻלָּ֗ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "todas ellas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שֵׁמֹ֥ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "nombres"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7121",
+      "hebreo": "קרא",
+      "transliteracion": "יִקְרָֽא׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "llama"
+    }
+  ]
+}

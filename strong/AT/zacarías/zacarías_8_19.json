@@ -1,0 +1,359 @@
+{
+  "versiculo": {
+    "referencia": "Zacarías 8:19 Reina Valera 1960",
+    "texto": "Así ha dicho Jehová de los ejércitos: El ayuno del cuarto mes, el ayuno del quinto, el ayuno del séptimo, y el ayuno del décimo, se convertirán para la casa de Judá en gozo y alegría, y en festivas solemnidades. Amad, pues, la verdad y la paz."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3541",
+      "hebreo": "כֹּה",
+      "transliteracion": "כֹּֽה־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "Así"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אָמַ֞ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "dice"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6635",
+      "hebreo": "צָבָא",
+      "transliteracion": "צְבָאֹ֗ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": ":ejércitos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6685",
+      "hebreo": "צֹום",
+      "transliteracion": "צֹ֣ום",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "ayuno de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7243",
+      "hebreo": "רְבִיעִי",
+      "transliteracion": "רְבִיעִ֡י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "cuarto (mes)"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6685",
+      "hebreo": "צֹום",
+      "transliteracion": "צֹ֣ום",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "ayuno de"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "2549",
+      "hebreo": "חֲמִישִׁי",
+      "transliteracion": "חֲמִישִׁי֩",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "quinto"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "6685",
+      "hebreo": "צֹום",
+      "transliteracion": "צֹ֨ום",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "ayuno de"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "7637",
+      "hebreo": "שְׁבִיעִי",
+      "transliteracion": "שְּׁבִיעִ֜י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "séptimo"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "6685",
+      "hebreo": "צֹום",
+      "transliteracion": "צֹ֣ום",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "ayuno de"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "6224",
+      "hebreo": "עֲשִׂירִי",
+      "transliteracion": "עֲשִׂירִ֗י",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "décimo"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "יִהְיֶ֤ה",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "será"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "1004",
+      "hebreo": "בַּיִת",
+      "transliteracion": "בֵית־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "casa de"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "3063",
+      "hebreo": "יְהוּדָה",
+      "transliteracion": "יְהוּדָה֙",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Judá"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "8342",
+      "hebreo": "שָׂשֹׂון",
+      "transliteracion": "שָׂשֹׂ֣ון",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "alegría"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 27,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 28,
+      "strongNumber": "8057",
+      "hebreo": "שִׂמְחָה",
+      "transliteracion": "שִׂמְחָ֔ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "gozo"
+    },
+    {
+      "numero": 29,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 30,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 31,
+      "strongNumber": "4150",
+      "hebreo": "מֹועֵד",
+      "transliteracion": "מֹעֲדִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "festivales"
+    },
+    {
+      "numero": 32,
+      "strongNumber": "2896",
+      "hebreo": "טֹוב",
+      "transliteracion": "טֹובִ֑ים",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "buenos"
+    },
+    {
+      "numero": 33,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 34,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 35,
+      "strongNumber": "571",
+      "hebreo": "אֶמֶת",
+      "transliteracion": "אֱמֶ֥ת",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "verdad"
+    },
+    {
+      "numero": 36,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 37,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 38,
+      "strongNumber": "7965",
+      "hebreo": "שָׁלֹום",
+      "transliteracion": "שָּׁלֹ֖ום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "paz"
+    },
+    {
+      "numero": 39,
+      "strongNumber": "157",
+      "hebreo": "אהב",
+      "transliteracion": "אֱהָֽבוּ׃ פ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "amad"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 83:15 Reina Valera 1960",
+    "texto": "Persíguelos así con tu tempestad, Y atérralos con tu torbellino."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3651",
+      "hebreo": "כֵּן",
+      "transliteracion": "כֵּ֭ן",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "así"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7291",
+      "hebreo": "רדף",
+      "transliteracion": "תִּרְדְּפֵ֣ם",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG.PRS.P3.M.PL",
+      "traduccion": "persíguelos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5591",
+      "hebreo": "סַעַר",
+      "transliteracion": "סַעֲרֶ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu tempestad"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5492",
+      "hebreo": "סוּפָה",
+      "transliteracion": "סוּפָתְךָ֥",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu torbellino"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "926",
+      "hebreo": "בהל",
+      "transliteracion": "תְבַהֲלֵֽם׃",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG.PRS.P3.M.PL",
+      "traduccion": "aterrorízalos"
+    }
+  ]
+}

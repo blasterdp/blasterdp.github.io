@@ -1,0 +1,44 @@
+{
+  "versiculo": {
+    "referencia": "1ra Tesalonicenses 5:19 Reina Valera 1960",
+    "texto": "No apaguéis al Espíritu."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Neutro",
+      "parsing": "T-ASN",
+      "traduccion": "A el"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4151",
+      "texto": "πνεῦμα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Neutro",
+      "parsing": "N-ASN",
+      "traduccion": "espíritu"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3361",
+      "texto": "μὴ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4570",
+      "texto": "σβέννυτε,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Imperativo-2ª Persona-Plural",
+      "parsing": "V-PAM-2P",
+      "traduccion": "estén extinguiendo"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 149:2 Reina Valera 1960",
+    "texto": "Alégrese Israel en su Hacedor; Los hijos de Sion se gocen en su Rey."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8055",
+      "hebreo": "שׂמח",
+      "transliteracion": "יִשְׂמַ֣ח",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "alégrese"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵ֣ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עֹשָׂ֑יו",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "su hacedor"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵֽי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "hijos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6726",
+      "hebreo": "צִיֹּון",
+      "transliteracion": "צִ֝יֹּ֗ון",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Sión"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1523",
+      "hebreo": "גיל",
+      "transliteracion": "יָגִ֥ילוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "regocíjense"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מַלְכָּֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su rey"
+    }
+  ]
+}

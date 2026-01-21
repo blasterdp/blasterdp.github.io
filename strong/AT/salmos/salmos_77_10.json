@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 77:10 Reina Valera 1960",
+    "texto": "Dije: Enfermedad mía es esta; Traeré, pues, a la memoria los años de la diestra del Altísimo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "entonces"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "559",
+      "hebreo": "אמר",
+      "transliteracion": "אֹמַר",
+      "parsingLabel": "verbo qal wayyiqtol 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.WAYQ.P1.U.SG",
+      "traduccion": "dije"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2470",
+      "hebreo": "חלה",
+      "transliteracion": "חַלֹּ֣ותִי",
+      "parsingLabel": "sustantivo pi“el infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.PIEL.INFC.U.U.U.A.PRS.P1.U.SG",
+      "traduccion": "mi debilidad"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1931",
+      "hebreo": "הִיא",
+      "transliteracion": "הִ֑יא",
+      "parsingLabel": "pronombre personal 3ª persona femenino singular",
+      "parsing": "PRPS.P3.F.SG",
+      "traduccion": "esta"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8138",
+      "hebreo": "שׁנה",
+      "transliteracion": "שְׁ֝נֹ֗ות",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "años"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3225",
+      "hebreo": "יָמִין",
+      "transliteracion": "יְמִ֣ין",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "de diestra"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5945",
+      "hebreo": "עֶלְיֹון",
+      "transliteracion": "עֶלְיֹֽון׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del Altísimo"
+    }
+  ]
+}

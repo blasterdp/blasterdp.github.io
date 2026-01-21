@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 71:2 Reina Valera 1960",
+    "texto": "Socórreme y líbrame en tu justicia; Inclina tu oído y sálvame."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "6666",
+      "hebreo": "צְדָקָה",
+      "transliteracion": "צִדְקָתְךָ֗",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu justicia"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "תַּצִּילֵ֥נִי",
+      "parsingLabel": "verbo hif‘il imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "líbrame"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6403",
+      "hebreo": "פלט",
+      "transliteracion": "תְפַלְּטֵ֑נִי",
+      "parsingLabel": "verbo pi“el imperfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "rescátame"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5186",
+      "hebreo": "נטה",
+      "transliteracion": "הַטֵּֽה־",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "inclina"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֵלַ֥י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a mí"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אָ֝זְנְךָ֗",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu oído"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3467",
+      "hebreo": "ישׁע",
+      "transliteracion": "הֹושִׁיעֵֽנִי׃",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "sálvame"
+    }
+  ]
+}

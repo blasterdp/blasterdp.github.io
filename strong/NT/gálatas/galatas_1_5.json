@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Galatas 1:5 Reina Valera 1960",
+    "texto": "a quien sea la gloria por los siglos de los siglos. Amén."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3739",
+      "texto": "ᾧ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Relativo-Dativo-Singular-Masculino",
+      "parsing": "R-DSM",
+      "traduccion": "a quien"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3588",
+      "texto": "ἡ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Femenino",
+      "parsing": "T-NSF",
+      "traduccion": "el"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1391",
+      "texto": "δόξα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "esplendor"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1519",
+      "texto": "εἰς",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "hacia dentro"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "texto": "τοὺς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Plural-Masculino",
+      "parsing": "T-APM",
+      "traduccion": "a las"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "165",
+      "texto": "αἰῶνας",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Plural-Masculino",
+      "parsing": "N-APM",
+      "traduccion": "edades"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3588",
+      "texto": "τῶν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Plural-Masculino",
+      "parsing": "T-GPM",
+      "traduccion": "de las"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "165",
+      "texto": "αἰώνων·",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Plural-Masculino",
+      "parsing": "N-GPM",
+      "traduccion": "edades"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "281",
+      "texto": "ἀμήν.",
+      "transliteracion": "",
+      "parsingLabel": "Hebreo",
+      "parsing": "HEB",
+      "traduccion": "amén"
+    }
+  ]
+}

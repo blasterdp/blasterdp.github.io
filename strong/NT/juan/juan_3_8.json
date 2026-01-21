@@ -1,0 +1,242 @@
+{
+  "versiculo": {
+    "referencia": "Juan 3:8 Reina Valera 1960",
+    "texto": "El viento sopla de donde quiere, y oyes su sonido; mas ni sabes de dónde viene, ni a dónde va; así es todo aquel que es nacido del Espíritu."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "texto": "τὸ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Neutro",
+      "parsing": "T-NSN",
+      "traduccion": "El"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4151",
+      "texto": "πνεῦμα",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Neutro",
+      "parsing": "N-NSN",
+      "traduccion": "viento"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3699",
+      "texto": "ὅπου",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "donde"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2309",
+      "texto": "θέλει",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está queriendo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4154",
+      "texto": "πνεῖ,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está soplando"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3588",
+      "texto": "τὴν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Femenino",
+      "parsing": "T-ASF",
+      "traduccion": "el"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5456",
+      "texto": "φωνὴν",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Femenino",
+      "parsing": "N-ASF",
+      "traduccion": "sonido"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "846",
+      "texto": "αὐτοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-Genitivo-Singular-Neutro",
+      "parsing": "P-GSN",
+      "traduccion": "de él"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "191",
+      "texto": "ἀκούεις,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-2ª Persona-Singular",
+      "parsing": "V-PAI-2S",
+      "traduccion": "estás oyendo"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "235",
+      "texto": "ἀλλ’",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "3756",
+      "texto": "οὐκ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "1492",
+      "texto": "οἶδας",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Activo-Indicativo-2ª Persona-Singular",
+      "parsing": "V-RAI-2S",
+      "traduccion": "has sabido"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "4159",
+      "texto": "πόθεν",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio-Interrogativo",
+      "parsing": "ADV-I",
+      "traduccion": "de dónde"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "2064",
+      "texto": "ἔρχεται",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Deponente Medio o Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PNI-3S",
+      "traduccion": "está viniendo"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "4226",
+      "texto": "ποῦ",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio-Interrogativo",
+      "parsing": "ADV-I",
+      "traduccion": "dónde"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "5217",
+      "texto": "ὑπάγει·",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está yendo"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "3779",
+      "texto": "οὕτως",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "así"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "1510",
+      "texto": "ἐστὶν",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está siendo"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "3956",
+      "texto": "πᾶς",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino",
+      "parsing": "A-NSM",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "1080",
+      "texto": "γεγεννημένος",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Pasivo-Participio-Nominativo-Singular-Masculino",
+      "parsing": "V-RPP-NSM",
+      "traduccion": "ha sido nacido"
+    },
+    {
+      "numero": 24,
+      "strongNumber": "1537",
+      "texto": "ἐκ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "procedente de"
+    },
+    {
+      "numero": 25,
+      "strongNumber": "3588",
+      "texto": "τοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Singular-Neutro",
+      "parsing": "T-GSN",
+      "traduccion": "el"
+    },
+    {
+      "numero": 26,
+      "strongNumber": "4151",
+      "texto": "πνεύματος.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Neutro",
+      "parsing": "N-GSN",
+      "traduccion": "espíritu"
+    }
+  ]
+}

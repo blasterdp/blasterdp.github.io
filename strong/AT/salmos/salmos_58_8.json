@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 58:8 Reina Valera 1960",
+    "texto": "Pasen ellos como el caracol que se deslíe; Como el que nace muerto, no vean el sol."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3644",
+      "hebreo": "כְּמֹו",
+      "transliteracion": "כְּמֹ֣ו",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7642",
+      "hebreo": "שַׁבְּלוּל",
+      "transliteracion": "שַׁ֭בְּלוּל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "caracol"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8557",
+      "hebreo": "תֶּמֶס",
+      "transliteracion": "תֶּ֣מֶס",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "que se delíe"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "יַהֲלֹ֑ךְ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "al arrastrarse"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5309",
+      "hebreo": "נֵפֶל",
+      "transliteracion": "נֵ֥פֶל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "aborto"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "802",
+      "hebreo": "אִשָּׁה",
+      "transliteracion": "אֵ֝֗שֶׁת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "de mujer"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1077",
+      "hebreo": "בַּל",
+      "transliteracion": "בַּל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2372",
+      "hebreo": "חזה",
+      "transliteracion": "חָ֥זוּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "vean"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "8121",
+      "hebreo": "שֶׁמֶשׁ",
+      "transliteracion": "שָֽׁמֶשׁ׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "sol"
+    }
+  ]
+}

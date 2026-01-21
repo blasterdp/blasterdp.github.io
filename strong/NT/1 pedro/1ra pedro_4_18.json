@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "1ra Pedro 4:18 Reina Valera 1960",
+    "texto": "Y: Si el justo con dificultad se salva, ¿En dónde aparecerá el impío y el pecador?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "Y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1487",
+      "texto": "εἰ",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "si"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1342",
+      "texto": "δίκαιος",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino",
+      "parsing": "A-NSM",
+      "traduccion": "recto"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3433",
+      "texto": "μόλις",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio",
+      "parsing": "ADV",
+      "traduccion": "con esfuerzo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4982",
+      "texto": "σῴζεται,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PPI-3S",
+      "traduccion": "está siendo librado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "¿El"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "765",
+      "texto": "ἀσεβὴς",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino",
+      "parsing": "A-NSM",
+      "traduccion": "irreverente"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "268",
+      "texto": "ἁμαρτωλὸς",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino",
+      "parsing": "A-NSM",
+      "traduccion": "pecador"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "4226",
+      "texto": "ποῦ",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio-Interrogativo",
+      "parsing": "ADV-I",
+      "traduccion": "dónde"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5316",
+      "texto": "φανεῖται;",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Futuro-Deponente Medio-Indicativo-3ª Persona-Singular",
+      "parsing": "V-FDI-3S",
+      "traduccion": "aparecerá?"
+    }
+  ]
+}

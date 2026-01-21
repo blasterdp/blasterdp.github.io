@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:54 Reina Valera 1960",
+    "texto": "Los trajo después a las fronteras de su tierra santa, A este monte que ganó su mano derecha."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "יְבִיאֵם",
+      "parsingLabel": "verbo hif‘il wayyiqtol 3ª persona masculino singular pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.WAYQ.P3.M.SG.PRS.P3.M.PL",
+      "traduccion": "los trajo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "413",
+      "hebreo": "אֶל",
+      "transliteracion": "אֶל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1366",
+      "hebreo": "גְּבוּל",
+      "transliteracion": "גְּב֣וּל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "frontera"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6944",
+      "hebreo": "קֹדֶשׁ",
+      "transliteracion": "קָדְשֹׁ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "santa suya"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הַר־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "al país montañoso"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶ֝֗ה",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "este"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7069",
+      "hebreo": "קנה",
+      "transliteracion": "קָנְתָ֥ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "que había adquirido"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3225",
+      "hebreo": "יָמִין",
+      "transliteracion": "יְמִינֹֽו׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su diestra"
+    }
+  ]
+}

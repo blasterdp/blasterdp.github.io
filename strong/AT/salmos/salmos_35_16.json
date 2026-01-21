@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 35:16 Reina Valera 1960",
+    "texto": "Como lisonjeros, escarnecedores y truhanes, Crujieron contra mí sus dientes."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2611",
+      "hebreo": "חָנֵף",
+      "transliteracion": "חַנְפֵי",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "profanos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3934",
+      "hebreo": "לָעֵג",
+      "transliteracion": "לַעֲגֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "burlones"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4580",
+      "hebreo": "מָעֹוג",
+      "transliteracion": "מָעֹ֑וג",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de fiesta"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2786",
+      "hebreo": "חרק",
+      "transliteracion": "חָרֹ֖ק",
+      "parsingLabel": "verbo qal infinitivo (absolute) desconocido desconocido desconocido absoluto",
+      "parsing": "VERBO.QAL.INFA.U.U.U.A",
+      "traduccion": "rechinan"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלַ֣י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra mí"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8127",
+      "hebreo": "שֵׁן",
+      "transliteracion": "שִׁנֵּֽימֹו׃",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.PL",
+      "traduccion": "sus dientes"
+    }
+  ]
+}

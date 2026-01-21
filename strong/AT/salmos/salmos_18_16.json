@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 18:16 Reina Valera 1960",
+    "texto": "Envió desde lo alto; me tomó, Me sacó de las muchas aguas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7971",
+      "hebreo": "שׁלח",
+      "transliteracion": "יִשְׁלַ֣ח",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "envió"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4791",
+      "hebreo": "מָרֹום",
+      "transliteracion": "מָּרֹום",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "lo alto"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3947",
+      "hebreo": "לקח",
+      "transliteracion": "יִקָּחֵ֑נִי",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me tomó"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4871",
+      "hebreo": "משׁה",
+      "transliteracion": "יַֽ֝מְשֵׁ֗נִי",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me sacó"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4325",
+      "hebreo": "מַיִם",
+      "transliteracion": "מַּ֥יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "aguas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רַבִּֽים׃",
+      "parsingLabel": "adjetivo masculino plural absoluto",
+      "parsing": "ADJV.M.PL.A",
+      "traduccion": "muchas"
+    }
+  ]
+}

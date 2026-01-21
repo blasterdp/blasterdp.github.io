@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 88:2 Reina Valera 1960",
+    "texto": "Llegue mi oración a tu presencia; Inclina tu oído a mi clamor."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "תָּבֹ֣וא",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "llegue"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָנֶיךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "ante tu presencia"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8605",
+      "hebreo": "תְּפִלָּה",
+      "transliteracion": "תְּפִלָּתִ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi oración"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5186",
+      "hebreo": "נטה",
+      "transliteracion": "הַטֵּֽה־",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "inclina"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אָ֝זְנְךָ֗",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu oído"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7440",
+      "hebreo": "רִנָּה",
+      "transliteracion": "רִנָּתִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi clamor"
+    }
+  ]
+}

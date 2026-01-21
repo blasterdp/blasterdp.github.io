@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 79:11 Reina Valera 1960",
+    "texto": "Llegue delante de ti el gemido de los presos; Conforme a la grandeza de tu brazo preserva a los sentenciados a muerte,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "935",
+      "hebreo": "בוא",
+      "transliteracion": "תָּ֤בֹ֣וא",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.F.SG",
+      "traduccion": "llegue"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָנֶיךָ֮",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tu presencia"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "603",
+      "hebreo": "אֲנָקָה",
+      "transliteracion": "אֶנְקַ֪ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "gemido"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "615",
+      "hebreo": "אָסִיר",
+      "transliteracion": "אָ֫סִ֥יר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de cautivo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "conforme a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1433",
+      "hebreo": "גֹּדֶל",
+      "transliteracion": "גֹ֥דֶל",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "la grandeza"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2220",
+      "hebreo": "זְרֹועַ",
+      "transliteracion": "זְרֹועֲךָ֑",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu brazo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3498",
+      "hebreo": "יתר",
+      "transliteracion": "הֹ֝ותֵ֗ר",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "preserva"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בְּנֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "a los hijos"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "8546",
+      "hebreo": "תְּמוּתָה",
+      "transliteracion": "תְמוּתָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de muerte"
+    }
+  ]
+}

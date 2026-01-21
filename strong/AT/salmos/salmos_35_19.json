@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 35:19 Reina Valera 1960",
+    "texto": "No se alegren de mí los que sin causa son mis enemigos, Ni los que me aborrecen sin causa guiñen el ojo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "408",
+      "hebreo": "אַל",
+      "transliteracion": "אַֽל־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8055",
+      "hebreo": "שׂמח",
+      "transliteracion": "יִשְׂמְחוּ־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "se alegren"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֣י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "a costa mía"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹיְבַ֣י",
+      "parsingLabel": "verbo qal participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.A",
+      "traduccion": "mis enemigos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8267",
+      "hebreo": "שֶׁקֶר",
+      "transliteracion": "שֶׁ֑קֶר",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "con perfidia"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "שֹׂנְאַ֥י",
+      "parsingLabel": "verbo qal participio desconocido masculino plural absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.PL.A",
+      "traduccion": "los que me odian"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2600",
+      "hebreo": "חִנָּם",
+      "transliteracion": "חִ֝נָּ֗ם",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "sin causa"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7169",
+      "hebreo": "קרץ",
+      "transliteracion": "יִקְרְצוּ־",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "guiñen"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עָֽיִן׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "ojo"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Juan 5:3 Reina Valera 1960",
+    "texto": "En éstos yacía una multitud de enfermos, ciegos, cojos y paralíticos, que esperaban el movimiento del agua."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1722",
+      "texto": "ἐν",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "En"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3778",
+      "texto": "ταύταις",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Demostrativo-Dativo-Plural-Femenino",
+      "parsing": "D-DPF",
+      "traduccion": "estas"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2621",
+      "texto": "κατέκειτο",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Imperfecto-Deponente Medio o Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-INI-3S",
+      "traduccion": "estaba acostada"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4128",
+      "texto": "πλῆθος",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Neutro",
+      "parsing": "N-NSN",
+      "traduccion": "multitud"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "texto": "τῶν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Genitivo-Plural-Masculino",
+      "parsing": "T-GPM",
+      "traduccion": "de los"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "770",
+      "texto": "ἀσθενούντων,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Participio-Genitivo-Plural-Masculino",
+      "parsing": "V-PAP-GPM",
+      "traduccion": "siendo débiles"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5185",
+      "texto": "τυφλῶν,",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Genitivo-Plural-Masculino",
+      "parsing": "A-GPM",
+      "traduccion": "de ciegos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5560",
+      "texto": "χωλῶν,",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Genitivo-Plural-Masculino",
+      "parsing": "A-GPM",
+      "traduccion": "de cojos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3584",
+      "texto": "ξηρῶν.",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Genitivo-Plural-Masculino",
+      "parsing": "A-GPM",
+      "traduccion": "de secos"
+    }
+  ]
+}

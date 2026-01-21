@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 94:20 Reina Valera 1960",
+    "texto": "¿Se juntará contigo el trono de iniquidades Que hace agravio bajo forma de ley?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הַֽ֭",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2266",
+      "hebreo": "חבר",
+      "transliteracion": "יְחָבְרְךָ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P2.M.SG",
+      "traduccion": "será aliado tuyo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3678",
+      "hebreo": "כִּסֵּא",
+      "transliteracion": "כִּסֵּ֣א",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "un trono"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1962",
+      "hebreo": "הַוָּה",
+      "transliteracion": "הַוֹּ֑ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "de corrupciones"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3335",
+      "hebreo": "יצר",
+      "transliteracion": "יֹצֵ֖ר",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "que maquina"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5999",
+      "hebreo": "עָמָל",
+      "transliteracion": "עָמָ֣ל",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "daño"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עֲלֵי־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2706",
+      "hebreo": "חֹק",
+      "transliteracion": "חֹֽק׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "ordenanza?"
+    }
+  ]
+}

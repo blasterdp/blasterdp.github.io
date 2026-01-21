@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 92:6 Reina Valera 1960",
+    "texto": "El hombre necio no sabe, Y el insensato no entiende esto."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִֽישׁ־",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1198",
+      "hebreo": "בַּעַר",
+      "transliteracion": "בַּ֭עַר",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "necio"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יֵדָ֑ע",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "conoce"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3684",
+      "hebreo": "כְּסִיל",
+      "transliteracion": "כְסִ֗יל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "insensato"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "995",
+      "hebreo": "בין",
+      "transliteracion": "יָבִ֥ין",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "entiende"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2063",
+      "hebreo": "זֹאת",
+      "transliteracion": "זֹֽאת׃",
+      "parsingLabel": "demonstrative pronombre femenino singular",
+      "parsing": "PRDE.F.SG",
+      "traduccion": "esto"
+    }
+  ]
+}

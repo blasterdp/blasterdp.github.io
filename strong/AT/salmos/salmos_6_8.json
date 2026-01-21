@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 6:8 Reina Valera 1960",
+    "texto": "Apartaos de mí, todos los hacedores de iniquidad; Porque Jehová ha oído la voz de mi lloro."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5493",
+      "hebreo": "סור",
+      "transliteracion": "ס֣וּרוּ",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPV.P2.M.PL",
+      "traduccion": "apartaos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ֭מֶּנִּי",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6466",
+      "hebreo": "פעל",
+      "transliteracion": "פֹּ֣עֲלֵי",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "hacedores"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "205",
+      "hebreo": "אָוֶן",
+      "transliteracion": "אָ֑וֶן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de iniquidad"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שָׁמַ֥ע",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ha oído"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֝הוָ֗ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6963",
+      "hebreo": "קֹול",
+      "transliteracion": "קֹ֣ול",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "voz"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1065",
+      "hebreo": "בְּכִי",
+      "transliteracion": "בִּכְיִֽי׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "de mi llanto"
+    }
+  ]
+}

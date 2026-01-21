@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 12:20 Reina Valera 1960",
+    "texto": "Ninguna cosa leudada comeréis; en todas vuestras habitaciones comeréis panes sin levadura."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "Todo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2556",
+      "hebreo": "חמץ",
+      "transliteracion": "מַחְמֶ֖צֶת",
+      "parsingLabel": "sustantivo hif‘il participio desconocido femenino singular absoluto",
+      "parsing": "SUBS.HIF.PTCA.U.F.SG.A",
+      "traduccion": "leudado"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "תֹאכֵ֑לוּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.PL",
+      "traduccion": "comeréis"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֹל֙",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todas"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4186",
+      "hebreo": "מֹושָׁב",
+      "transliteracion": "מֹושְׁבֹ֣תֵיכֶ֔ם",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino plural",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.PL",
+      "traduccion": "vuestras viviendas"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "תֹּאכְל֖וּ",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P2.M.PL",
+      "traduccion": "comerás"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4682",
+      "hebreo": "מַצָּה",
+      "transliteracion": "מַצֹּֽות׃ פ",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "ácimos"
+    }
+  ]
+}

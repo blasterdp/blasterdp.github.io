@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 25:21 Reina Valera 1960",
+    "texto": "Integridad y rectitud me guarden, Porque en ti he esperado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8537",
+      "hebreo": "תֹּם",
+      "transliteracion": "תֹּם־",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "verdad"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3476",
+      "hebreo": "יֹשֶׁר",
+      "transliteracion": "יֹ֥שֶׁר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "rectitud"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5341",
+      "hebreo": "נצר",
+      "transliteracion": "יִצְּר֑וּנִי",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL.PRS.P1.U.SG",
+      "traduccion": "me preserven"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֝֗י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6960",
+      "hebreo": "קוה",
+      "transliteracion": "קִוִּיתִֽיךָ׃",
+      "parsingLabel": "verbo pi“el perfecto 1ª persona desconocido singular pronominal sufijo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P1.U.SG.PRS.P2.M.SG",
+      "traduccion": "he puesto mi esperanza en ti"
+    }
+  ]
+}

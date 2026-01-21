@@ -1,0 +1,44 @@
+{
+  "versiculo": {
+    "referencia": "Marcos 9:49 Reina Valera 1960",
+    "texto": "Porque todos serán salados con fuego, y todo sacrificio será salado con Sal."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3956",
+      "texto": "πᾶς",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino",
+      "parsing": "A-NSM",
+      "traduccion": "Todo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1063",
+      "texto": "γὰρ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4442",
+      "texto": "πυρὶ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Neutro",
+      "parsing": "N-DSN",
+      "traduccion": "a fuego"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "233",
+      "texto": "ἁλισθήσεται.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Futuro-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-FPI-3S",
+      "traduccion": "será hecho salado"
+    }
+  ]
+}

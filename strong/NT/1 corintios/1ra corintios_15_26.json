@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "1ra Corintios 15:26 Reina Valera 1960",
+    "texto": "Y el postrer enemigo que será destruido es la muerte."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2078",
+      "texto": "ἔσχατος",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino-Superlativo",
+      "parsing": "A-NSM-S",
+      "traduccion": "último"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2190",
+      "texto": "ἐχθρὸς",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino",
+      "parsing": "A-NSM",
+      "traduccion": "enemigo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2673",
+      "texto": "καταργεῖται",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PPI-3S",
+      "traduccion": "está siendo hecha inefectiva"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "la"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2288",
+      "texto": "θάνατος·",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "muerte"
+    }
+  ]
+}

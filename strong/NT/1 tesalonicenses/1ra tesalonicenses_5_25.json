@@ -1,0 +1,44 @@
+{
+  "versiculo": {
+    "referencia": "1ra Tesalonicenses 5:25 Reina Valera 1960",
+    "texto": "Hermanos, orad por nosotros."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "80",
+      "texto": "Ἀδελφοί,",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Vocativo-Plural-Masculino",
+      "parsing": "N-VPM",
+      "traduccion": "Hermanos"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4336",
+      "texto": "προσεύχεσθε",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Deponente Medio o Pasivo-Imperativo-2ª Persona-Plural",
+      "parsing": "V-PNM-2P",
+      "traduccion": "estén orando"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4012",
+      "texto": "περὶ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "acerca de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2249",
+      "texto": "ἡμῶν.",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-1ª Persona-Genitivo-Plural",
+      "parsing": "P-1GP",
+      "traduccion": "nosotros"
+    }
+  ]
+}

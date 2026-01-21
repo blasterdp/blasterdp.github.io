@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 89:18 Reina Valera 1960",
+    "texto": "Porque Jehová es nuestro escudo, Y nuestro rey es el Santo de Israel."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לַֽ֭",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יהוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4043",
+      "hebreo": "מָגֵן",
+      "transliteracion": "מָֽגִנֵּ֑נוּ",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.U.SG.A.PRS.P1.U.PL",
+      "traduccion": "nuestro escudo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "del"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6918",
+      "hebreo": "קָדֹושׁ",
+      "transliteracion": "קְדֹ֖ושׁ",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "santo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִשְׂרָאֵ֣ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "de Israel"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4428",
+      "hebreo": "מֶלֶךְ",
+      "transliteracion": "מַלְכֵּֽנוּ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.PL",
+      "traduccion": "nuestro rey"
+    }
+  ]
+}

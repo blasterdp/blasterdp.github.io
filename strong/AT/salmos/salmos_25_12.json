@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 25:12 Reina Valera 1960",
+    "texto": "¿Quién es el hombre que teme a Jehová? Él le enseñará el camino que ha de escoger."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4310",
+      "hebreo": "מִי",
+      "transliteracion": "מִי־",
+      "parsingLabel": "interrogativo pronombre desconocido desconocido",
+      "parsing": "PRIN.U.U",
+      "traduccion": "¿quién"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶ֣ה",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "este"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הָ֭",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "el"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "376",
+      "hebreo": "אִישׁ",
+      "transliteracion": "אִישׁ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "hombre"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3373",
+      "hebreo": "יָרֵא",
+      "transliteracion": "יְרֵ֣א",
+      "parsingLabel": "adjetivo masculino singular constructivo",
+      "parsing": "ADJV.M.SG.C",
+      "traduccion": "que teme a"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh?"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3384",
+      "hebreo": "ירה",
+      "transliteracion": "יֹ֝ורֶ֗נּוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "le instruirá"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דֶ֣רֶךְ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "el camino"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "977",
+      "hebreo": "בחר",
+      "transliteracion": "יִבְחָֽר׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "ha de escoger"
+    }
+  ]
+}

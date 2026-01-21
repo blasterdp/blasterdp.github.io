@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Mateo 1:1 Reina Valera 1960",
+    "texto": "Libro de la genealogía de Jesucristo, hijo de David, hijo de Abraham."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "976",
+      "texto": "Βίβλος",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "Libro"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1078",
+      "texto": "γενέσεως",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Femenino",
+      "parsing": "N-GSF",
+      "traduccion": "de origen"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2424",
+      "texto": "Ἰησοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "de Jesús"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5547",
+      "texto": "Χριστοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "Cristo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5207",
+      "texto": "υἱοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "hijo"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1138",
+      "texto": "Δαυεὶδ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Apropiado",
+      "parsing": "N-PRI",
+      "traduccion": "de David"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5207",
+      "texto": "υἱοῦ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "hijo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "11",
+      "texto": "Ἀβραάμ.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Apropiado",
+      "parsing": "N-PRI",
+      "traduccion": "de Abrahán"
+    }
+  ]
+}

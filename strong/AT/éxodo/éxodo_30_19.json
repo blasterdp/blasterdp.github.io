@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 30:19 Reina Valera 1960",
+    "texto": "Y de ella se lavarán Aarón y sus hijos las manos y los pies."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7364",
+      "hebreo": "רחץ",
+      "transliteracion": "רָחֲצ֛וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "se lavarán"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "175",
+      "hebreo": "אַהֲרֹן",
+      "transliteracion": "אַהֲרֹ֥ן",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Aarón"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1121",
+      "hebreo": "בֵּן",
+      "transliteracion": "בָנָ֖יו",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "sus hijos"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִמֶּ֑נּוּ",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino singular",
+      "parsing": "PREP.PRS.P3.M.SG",
+      "traduccion": "en él"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יְדֵיהֶ֖ם",
+      "parsingLabel": "sustantivo desconocido dual absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.U.DU.A.PRS.P3.M.PL",
+      "traduccion": "sus manos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "7272",
+      "hebreo": "רֶגֶל",
+      "transliteracion": "רַגְלֵיהֶֽם׃",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.PL",
+      "traduccion": "sus pies"
+    }
+  ]
+}

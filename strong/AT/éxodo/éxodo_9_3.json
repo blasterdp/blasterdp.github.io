@@ -1,0 +1,215 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 9:3 Reina Valera 1960",
+    "texto": "he aquí la mano de Jehová estará sobre tus ganados que están en el campo, caballos, asnos, camellos, vacas y ovejas, con plaga gravísima."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2009",
+      "hebreo": "הִנֵּה",
+      "transliteracion": "הִנֵּ֨ה",
+      "parsingLabel": "interjeción",
+      "parsing": "INTJ",
+      "traduccion": "he aquí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יַד־",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "mano de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֜ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1961",
+      "hebreo": "היה",
+      "transliteracion": "הֹויָ֗ה",
+      "parsingLabel": "verbo qal participio desconocido femenino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.F.SG.A",
+      "traduccion": "estará"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4735",
+      "hebreo": "מִקְנֶה",
+      "transliteracion": "מִקְנְךָ֙",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu ganado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "[relativo]"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7704",
+      "hebreo": "שָׂדֶה",
+      "transliteracion": "שָּׂדֶ֔ה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "campo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "5483",
+      "hebreo": "סוּס",
+      "transliteracion": "סּוּסִ֤ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "caballos"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "2543",
+      "hebreo": "חֲמֹור",
+      "transliteracion": "חֲמֹרִים֙",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "asnos"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "1581",
+      "hebreo": "גָּמָל",
+      "transliteracion": "גְּמַלִּ֔ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "camellos"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 17,
+      "strongNumber": "1241",
+      "hebreo": "בָּקָר",
+      "transliteracion": "בָּקָ֖ר",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "vacas"
+    },
+    {
+      "numero": 18,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 19,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 20,
+      "strongNumber": "6629",
+      "hebreo": "צֹאן",
+      "transliteracion": "צֹּ֑אן",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "ovejas"
+    },
+    {
+      "numero": 21,
+      "strongNumber": "1698",
+      "hebreo": "דֶּבֶר",
+      "transliteracion": "דֶּ֖בֶר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "plaga"
+    },
+    {
+      "numero": 22,
+      "strongNumber": "3515",
+      "hebreo": "כָּבֵד",
+      "transliteracion": "כָּבֵ֥ד",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "grave"
+    },
+    {
+      "numero": 23,
+      "strongNumber": "3966",
+      "hebreo": "מְאֹד",
+      "transliteracion": "מְאֹֽד׃",
+      "parsingLabel": "adverbio masculino singular absoluto",
+      "parsing": "ADVB.M.SG.A",
+      "traduccion": "mucho"
+    }
+  ]
+}

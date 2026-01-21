@@ -1,0 +1,35 @@
+{
+  "versiculo": {
+    "referencia": "Lucas 24:48 Reina Valera 1960",
+    "texto": "Y vosotros sois testigos de estas cosas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5210",
+      "texto": "ὑμεῖς",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Nominativo-Plural",
+      "parsing": "P-2NP",
+      "traduccion": "Ustedes"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3144",
+      "texto": "μάρτυρες",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Plural-Masculino",
+      "parsing": "N-NPM",
+      "traduccion": "testigos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3778",
+      "texto": "τούτων.",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Demostrativo-Genitivo-Plural-Neutro",
+      "parsing": "D-GPN",
+      "traduccion": "de estas (cosas)"
+    }
+  ]
+}

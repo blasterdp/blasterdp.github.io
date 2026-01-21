@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 34:21 Reina Valera 1960",
+    "texto": "Matará al malo la maldad, Y los que aborrecen al justo serán condenados."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4191",
+      "hebreo": "מות",
+      "transliteracion": "תְּמֹותֵ֣ת",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.F.SG",
+      "traduccion": "matará"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7563",
+      "hebreo": "רָשָׁע",
+      "transliteracion": "רָשָׁ֣ע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "impío"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7451",
+      "hebreo": "רָעָה",
+      "transliteracion": "רָעָ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "maldad"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8130",
+      "hebreo": "שׂנא",
+      "transliteracion": "שֹׂנְאֵ֖י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.C",
+      "traduccion": "los que odian"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6662",
+      "hebreo": "צַדִּיק",
+      "transliteracion": "צַדִּ֣יק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "al justo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "816",
+      "hebreo": "אשׁם",
+      "transliteracion": "יֶאְשָֽׁמוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "serán condenados"
+    }
+  ]
+}

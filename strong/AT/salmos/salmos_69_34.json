@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 69:34 Reina Valera 1960",
+    "texto": "Alábenle los cielos y la tierra, Los mares, y todo lo que se mueve en ellos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "יְֽ֭הַלְלוּהוּ",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL.PRS.P3.M.SG",
+      "traduccion": "alábenle"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8064",
+      "hebreo": "שָׁמַיִם",
+      "transliteracion": "שָׁמַ֣יִם",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Cielos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אָ֑רֶץ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3220",
+      "hebreo": "יָם",
+      "transliteracion": "יַ֝מִּ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mares"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7430",
+      "hebreo": "רמשׂ",
+      "transliteracion": "רֹמֵ֥שׂ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "lo que se mueve"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּֽם׃",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "en ellos"
+    }
+  ]
+}

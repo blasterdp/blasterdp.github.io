@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Lucas 20:32 Reina Valera 1960",
+    "texto": "Finalmente murió también la mujer."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5305",
+      "texto": "ὕστερον",
+      "transliteracion": "",
+      "parsingLabel": "Adverbio-Comparativo",
+      "parsing": "ADV-C",
+      "traduccion": "Posteriormente"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "también"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3588",
+      "texto": "ἡ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Femenino",
+      "parsing": "T-NSF",
+      "traduccion": "la"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "1135",
+      "texto": "γυνὴ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "mujer"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "599",
+      "texto": "ἀπέθανεν.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-2º Aoristo-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-2AAI-3S",
+      "traduccion": "murió"
+    }
+  ]
+}

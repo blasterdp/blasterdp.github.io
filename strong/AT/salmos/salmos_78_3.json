@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 78:3 Reina Valera 1960",
+    "texto": "Las cuales hemos oído y entendido; Que nuestros padres nos las contaron."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שָׁ֭מַעְנוּ",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P1.U.PL",
+      "traduccion": "hemos oído"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "נֵּדָעֵ֑ם",
+      "parsingLabel": "verbo qal wayyiqtol 1ª persona desconocido plural pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.WAYQ.P1.U.PL.PRS.P3.M.PL",
+      "traduccion": "conocido"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1",
+      "hebreo": "אָב",
+      "transliteracion": "אֲבֹותֵ֗ינוּ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "SUBS.M.PL.A.PRS.P1.U.PL",
+      "traduccion": "nuestros padres"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5608",
+      "hebreo": "ספר",
+      "transliteracion": "סִפְּרוּ־",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL",
+      "traduccion": "contaron"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לָֽנוּ׃",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "PREP.PRS.P1.U.PL",
+      "traduccion": "a nosotros"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 18:3 Reina Valera 1960",
+    "texto": "Invocaré a Jehová, quien es digno de ser alabado, Y seré salvo de mis enemigos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1984",
+      "hebreo": "הלל",
+      "transliteracion": "מְ֭הֻלָּל",
+      "parsingLabel": "sustantivo pu“al participio (passive) desconocido masculino singular absoluto",
+      "parsing": "SUBS.PUAL.PTCP.U.M.SG.A",
+      "traduccion": "al que es digno de loa"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7121",
+      "hebreo": "קרא",
+      "transliteracion": "אֶקְרָ֣א",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "invoco"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֑ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִן־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹ֝יְבַ֗י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "mis enemigos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3467",
+      "hebreo": "ישׁע",
+      "transliteracion": "אִוָּשֵֽׁעַ׃",
+      "parsingLabel": "verbo nif‘al imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.NIF.IMPF.P1.U.SG",
+      "traduccion": "soy salvo"
+    }
+  ]
+}

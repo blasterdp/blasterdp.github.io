@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 39:10 Reina Valera 1960",
+    "texto": "Quita de sobre mí tu plaga; Estoy consumido bajo los golpes de tu mano."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5493",
+      "hebreo": "סור",
+      "transliteracion": "הָסֵ֣ר",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "retira"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלַ֣י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de mí"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5061",
+      "hebreo": "נֶגַע",
+      "transliteracion": "נִגְעֶ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu plaga"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8409",
+      "hebreo": "תִּגְרָה",
+      "transliteracion": "תִּגְרַ֥ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "la dureza"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3027",
+      "hebreo": "יָד",
+      "transliteracion": "יָ֝דְךָ֗",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu mano"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲנִ֣י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3615",
+      "hebreo": "כלה",
+      "transliteracion": "כָלִֽיתִי׃",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "estoy consumido"
+    }
+  ]
+}

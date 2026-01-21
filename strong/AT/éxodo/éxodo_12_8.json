@@ -1,0 +1,152 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 12:8 Reina Valera 1960",
+    "texto": "Y aquella noche comerán la carne asada al fuego, y panes sin levadura; con hierbas amargas lo comerán."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "אָכְל֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "coman"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "[Marcador de objeto]"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1320",
+      "hebreo": "בָּשָׂר",
+      "transliteracion": "בָּשָׂ֖ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "carne"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3915",
+      "hebreo": "לַיְלָה",
+      "transliteracion": "לַּ֣יְלָה",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "noche"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "la"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "2088",
+      "hebreo": "זֶה",
+      "transliteracion": "זֶּ֑ה",
+      "parsingLabel": "demonstrative pronombre masculino singular",
+      "parsing": "PRDE.M.SG",
+      "traduccion": "esa"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "6748",
+      "hebreo": "צָלִי",
+      "transliteracion": "צְלִי־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "asado de"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "784",
+      "hebreo": "אֵשׁ",
+      "transliteracion": "אֵ֣שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "fuego"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4682",
+      "hebreo": "מַצָּה",
+      "transliteracion": "מַצֹּ֔ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "panes sin levadura"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 15,
+      "strongNumber": "4844",
+      "hebreo": "מָרֹר",
+      "transliteracion": "מְרֹרִ֖ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "hierbas amargas"
+    },
+    {
+      "numero": 16,
+      "strongNumber": "398",
+      "hebreo": "אכל",
+      "transliteracion": "יֹאכְלֻֽהוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL.PRS.P3.M.SG",
+      "traduccion": "lo comerán"
+    }
+  ]
+}

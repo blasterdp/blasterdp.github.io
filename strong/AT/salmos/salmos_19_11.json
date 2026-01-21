@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 19:11 Reina Valera 1960",
+    "texto": "Tu siervo es además amonestado con ellos; En guardarlos hay grande galardón."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּֽם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "además"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5650",
+      "hebreo": "עֶבֶד",
+      "transliteracion": "עַ֭בְדְּךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu siervo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2094",
+      "hebreo": "זהר",
+      "transliteracion": "נִזְהָ֣ר",
+      "parsingLabel": "verbo nif‘al participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.NIF.PTCA.U.M.SG.A",
+      "traduccion": "es amonestado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָּהֶ֑ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "por ellos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ֝",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8104",
+      "hebreo": "שׁמר",
+      "transliteracion": "שָׁמְרָ֗ם",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.INFC.U.U.U.A.PRS.P3.M.PL",
+      "traduccion": "guardarlos"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6118",
+      "hebreo": "עֵקֶב",
+      "transliteracion": "עֵ֣קֶב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "recompensa"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רָֽב׃",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "grande"
+    }
+  ]
+}

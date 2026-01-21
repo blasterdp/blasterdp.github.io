@@ -1,0 +1,134 @@
+{
+  "versiculo": {
+    "referencia": "1ra Timoteo 5:23 Reina Valera 1960",
+    "texto": "Ya no bebas agua, sino usa de un poco de vino por causa de tu estómago y de tus frecuentes enfermedades."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3371",
+      "texto": "μηκέτι",
+      "transliteracion": "",
+      "parsingLabel": "Advervio-Negativo",
+      "parsing": "ADV-N",
+      "traduccion": "Ya no"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5202",
+      "texto": "ὑδροπότει,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Imperativo-2ª Persona-Singular",
+      "parsing": "V-PAM-2S",
+      "traduccion": "estés bebiendo agua"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "235",
+      "texto": "ἀλλὰ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "sino"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3631",
+      "texto": "οἴνῳ",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Dativo-Singular-Masculino",
+      "parsing": "N-DSM",
+      "traduccion": "a vino"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3641",
+      "texto": "ὀλίγῳ",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Dativo-Singular-Masculino",
+      "parsing": "A-DSM",
+      "traduccion": "poco"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5530",
+      "texto": "χρῶ",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Deponente Medio o Pasivo-Imperativo-2ª Persona-Singular",
+      "parsing": "V-PNM-2S",
+      "traduccion": "estés usando"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1223",
+      "texto": "διὰ",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3588",
+      "texto": "τὸν",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Singular-Masculino",
+      "parsing": "T-ASM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4751",
+      "texto": "στόμαχον",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Singular-Masculino",
+      "parsing": "N-ASM",
+      "traduccion": "estómago"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "2532",
+      "texto": "καὶ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3588",
+      "texto": "τὰς",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Acusativo-Plural-Femenino",
+      "parsing": "T-APF",
+      "traduccion": "las"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "4437",
+      "texto": "πυκνάς",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Plural-Femenino",
+      "parsing": "A-APF",
+      "traduccion": "frecuentes"
+    },
+    {
+      "numero": 13,
+      "strongNumber": "4771",
+      "texto": "σου",
+      "transliteracion": "",
+      "parsingLabel": "Pronombre Personal-2ª Persona-Genitivo-Singular",
+      "parsing": "P-2GS",
+      "traduccion": "de ti"
+    },
+    {
+      "numero": 14,
+      "strongNumber": "769",
+      "texto": "ἀσθενείας.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Acusativo-Plural-Femenino",
+      "parsing": "N-APF",
+      "traduccion": "enfermedades"
+    }
+  ]
+}

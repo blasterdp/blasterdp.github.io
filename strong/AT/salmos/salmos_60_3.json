@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 60:3 Reina Valera 1960",
+    "texto": "Has hecho ver a tu pueblo cosas duras; Nos hiciste beber vino de aturdimiento."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "הִרְאִ֣יתָה",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG",
+      "traduccion": "has hecho ver"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַמְּךָ֣",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "a tu pueblo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7186",
+      "hebreo": "קָשֶׁה",
+      "transliteracion": "קָשָׁ֑ה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "cosas duras"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8248",
+      "hebreo": "שׁקה",
+      "transliteracion": "הִ֝שְׁקִיתָ֗נוּ",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular pronominal sufijo 1ª persona desconocido plural",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG.PRS.P1.U.PL",
+      "traduccion": "nos has hecho beber"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3196",
+      "hebreo": "יַיִן",
+      "transliteracion": "יַ֣יִן",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "vino"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8653",
+      "hebreo": "תַּרְעֵלָה",
+      "transliteracion": "תַּרְעֵלָֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de vértigo"
+    }
+  ]
+}

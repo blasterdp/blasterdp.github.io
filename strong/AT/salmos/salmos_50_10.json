@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 50:10 Reina Valera 1960",
+    "texto": "Porque mía es toda bestia del bosque, Y los millares de animales en los collados."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֥י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "mío"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "todo"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2416",
+      "hebreo": "חַיָּה",
+      "transliteracion": "חַיְתֹו־",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "animal"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3264",
+      "hebreo": "יַעַר",
+      "transliteracion": "יָ֑עַר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "del bosque"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "929",
+      "hebreo": "בְּהֵמָה",
+      "transliteracion": "בְּ֝הֵמֹ֗ות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "bestias"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "sobre"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2022",
+      "hebreo": "הַר",
+      "transliteracion": "הַרְרֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "colinas"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "505",
+      "hebreo": "אֶלֶף",
+      "transliteracion": "אָֽלֶף׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "mil"
+    }
+  ]
+}

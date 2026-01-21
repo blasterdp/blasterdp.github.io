@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 62:6 Reina Valera 1960",
+    "texto": "Él solamente es mi roca y mi salvación. Es mi refugio, no resbalaré."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "389",
+      "hebreo": "אַךְ",
+      "transliteracion": "אַךְ־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "sólo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1931",
+      "hebreo": "הוּא",
+      "transliteracion": "ה֣וּא",
+      "parsingLabel": "pronombre personal 3ª persona masculino singular",
+      "parsing": "PRPS.P3.M.SG",
+      "traduccion": "él"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6697",
+      "hebreo": "צוּר",
+      "transliteracion": "צ֭וּרִי",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi roca"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וִֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3444",
+      "hebreo": "יְשׁוּעָה",
+      "transliteracion": "ישׁוּעָתִ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi salvación"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4869",
+      "hebreo": "מִשְׂגָּב",
+      "transliteracion": "מִ֝שְׂגַּבִּ֗י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi baluarte"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4131",
+      "hebreo": "מוט",
+      "transliteracion": "אֶמֹּֽוט׃",
+      "parsingLabel": "verbo nif‘al imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.NIF.IMPF.P1.U.SG",
+      "traduccion": "seré sacudido"
+    }
+  ]
+}

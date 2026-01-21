@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 54:7 Reina Valera 1960",
+    "texto": "Porque él me ha librado de toda angustia, Y mis ojos han visto la ruina de mis enemigos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֣י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כָּל־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "toda"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "6869",
+      "hebreo": "צָרָה",
+      "transliteracion": "צָ֭רָה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "angustia"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "הִצִּילָ֑נִי",
+      "parsingLabel": "verbo hif‘il perfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me ha librado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹיְבַ֗י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "mis enemigos"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "רָאֲתָ֥ה",
+      "parsingLabel": "verbo qal perfecto 3ª persona femenino singular",
+      "parsing": "VERBO.QAL.PERF.P3.F.SG",
+      "traduccion": "se ha fijado"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עֵינִֽי׃",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi ojo"
+    }
+  ]
+}

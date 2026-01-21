@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 59:10 Reina Valera 1960",
+    "texto": "El Dios de mi misericordia irá delante de mí; Dios hará que vea en mis enemigos mi deseo."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱלֹהֵ֣י",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "mi Dios"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2617",
+      "hebreo": "חֶסֶד",
+      "transliteracion": "חַסְדִּ֣י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "su misericordia"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6923",
+      "hebreo": "קדם",
+      "transliteracion": "יְקַדְּמֵ֑נִי",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "vendrá a mi encuentro"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "430",
+      "hebreo": "אֱלֹהִים",
+      "transliteracion": "אֱ֝לֹהִ֗ים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "Dios"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7200",
+      "hebreo": "ראה",
+      "transliteracion": "יַרְאֵ֥נִי",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "hará que yo mire"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "8324",
+      "hebreo": "שֹׁורֵר",
+      "transliteracion": "שֹׁרְרָֽי׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis adversarios"
+    }
+  ]
+}

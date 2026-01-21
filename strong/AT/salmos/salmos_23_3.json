@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 23:3 Reina Valera 1960",
+    "texto": "Confortará mi alma; Me guiará por sendas de justicia por amor de su nombre."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשִׁ֥י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi alma"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "יְשֹׁובֵ֑ב",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.SG",
+      "traduccion": "él restaura"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5148",
+      "hebreo": "נחה",
+      "transliteracion": "יַֽנְחֵ֥נִי",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me guía"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4570",
+      "hebreo": "מַעְגָּל",
+      "transliteracion": "מַעְגְּלֵי־",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "veredas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6664",
+      "hebreo": "צֶדֶק",
+      "transliteracion": "צֶ֝֗דֶק",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de justicia"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4616",
+      "hebreo": "לְמַעַן",
+      "transliteracion": "לְמַ֣עַן",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en atención a"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "8034",
+      "hebreo": "שֵׁם",
+      "transliteracion": "שְׁמֹֽו׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su nombre"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 81:13 Reina Valera 1960",
+    "texto": "¡Oh, si me hubiera oído mi pueblo, Si en mis caminos hubiera andado Israel!"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3863",
+      "hebreo": "לוּ",
+      "transliteracion": "ל֗וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַ֭מִּי",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi pueblo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "שֹׁמֵ֣עַֽ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "escuchase"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לִ֑י",
+      "parsingLabel": "preposición pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "PREP.PRS.P1.U.SG",
+      "traduccion": "me"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3478",
+      "hebreo": "יִשְׂרָאֵל",
+      "transliteracion": "יִ֝שְׂרָאֵ֗ל",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "Israel"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1870",
+      "hebreo": "דֶּרֶךְ",
+      "transliteracion": "דְרָכַ֥י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis caminos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "יְהַלֵּֽכוּ׃",
+      "parsingLabel": "verbo pi“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.PIEL.IMPF.P3.M.PL",
+      "traduccion": "anduviese"
+    }
+  ]
+}

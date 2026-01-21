@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 49:5 Reina Valera 1960",
+    "texto": "¿Por qué he de temer en los días de adversidad, Cuando la iniquidad de mis opresores me rodeare?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4100",
+      "hebreo": "לָמָה",
+      "transliteracion": "לָ֣מָּה",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿por qué"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3372",
+      "hebreo": "ירא",
+      "transliteracion": "אִ֭ירָא",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "he de temer"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ֣",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3117",
+      "hebreo": "יֹום",
+      "transliteracion": "ימֵי",
+      "parsingLabel": "sustantivo masculino plural constructivo",
+      "parsing": "SUBS.M.PL.C",
+      "traduccion": "los días"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7451",
+      "hebreo": "רַע",
+      "transliteracion": "רָ֑ע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de desdicha"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5771",
+      "hebreo": "עָוֹן",
+      "transliteracion": "עֲוֹ֖ן",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "iniquidad"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6120",
+      "hebreo": "עָקֵב",
+      "transliteracion": "עֲקֵבַ֣י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de los que me engañan"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5437",
+      "hebreo": "סבב",
+      "transliteracion": "יְסוּבֵּֽנִי׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me rodea"
+    }
+  ]
+}

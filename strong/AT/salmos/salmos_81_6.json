@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 81:6 Reina Valera 1960",
+    "texto": "Aparté su hombro de debajo de la carga; Sus manos fueron descargadas de los cestos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5493",
+      "hebreo": "סור",
+      "transliteracion": "הֲסִירֹ֣ותִי",
+      "parsingLabel": "verbo hif‘il perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P1.U.SG",
+      "traduccion": "yo retiré"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5447",
+      "hebreo": "סֵבֶל",
+      "transliteracion": "סֵּ֣בֶל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "la carga"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "7926",
+      "hebreo": "שְׁכֶם",
+      "transliteracion": "שִׁכְמֹ֑ו",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.SG",
+      "traduccion": "su hombro"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3709",
+      "hebreo": "כַּף",
+      "transliteracion": "כַּ֝פָּ֗יו",
+      "parsingLabel": "sustantivo femenino dual absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.DU.A.PRS.P3.M.SG",
+      "traduccion": "sus palmas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1731",
+      "hebreo": "דּוּד",
+      "transliteracion": "דּ֥וּד",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "cesto"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5674",
+      "hebreo": "עבר",
+      "transliteracion": "תַּעֲבֹֽרְנָה׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona femenino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.F.PL",
+      "traduccion": "se libraron"
+    }
+  ]
+}

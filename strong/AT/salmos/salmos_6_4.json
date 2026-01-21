@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 6:4 Reina Valera 1960",
+    "texto": "Vuélvete, oh Jehová, libra mi alma; Sálvame por tu misericordia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "שׁוּבָ֣ה",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG",
+      "traduccion": "vuélvete"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2502",
+      "hebreo": "חלץ",
+      "transliteracion": "חַלְּצָ֣ה",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG",
+      "traduccion": "libra"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשִׁ֑י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi alma"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3467",
+      "hebreo": "ישׁע",
+      "transliteracion": "הֹ֝ושִׁיעֵ֗נִי",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "sálvame"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4616",
+      "hebreo": "לְמַעַן",
+      "transliteracion": "לְמַ֣עַן",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en atención a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2617",
+      "hebreo": "חֶסֶד",
+      "transliteracion": "חַסְדֶּֽךָ׃",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu misericordia"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 39:2 Reina Valera 1960",
+    "texto": "Enmudecí con silencio, me callé aun respecto de lo bueno; Y se agravó mi dolor."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "481",
+      "hebreo": "אלם",
+      "transliteracion": "נֶאֱלַ֣מְתִּי",
+      "parsingLabel": "verbo nif‘al perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.NIF.PERF.P1.U.SG",
+      "traduccion": "enmudecí"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1747",
+      "hebreo": "דּוּמִיָּה",
+      "transliteracion": "ד֭וּמִיָּה",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "silencioso"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2814",
+      "hebreo": "חשׁה",
+      "transliteracion": "הֶחֱשֵׁ֣יתִי",
+      "parsingLabel": "verbo hif‘il perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P1.U.SG",
+      "traduccion": "callé"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2896",
+      "hebreo": "טֹוב",
+      "transliteracion": "טֹּ֑וב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "bueno"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3511",
+      "hebreo": "כְּאֵב",
+      "transliteracion": "כְאֵבִ֥י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi dolor"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5916",
+      "hebreo": "עכר",
+      "transliteracion": "נֶעְכָּֽר׃",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.PERF.P3.M.SG",
+      "traduccion": "se agravó"
+    }
+  ]
+}

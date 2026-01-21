@@ -1,0 +1,35 @@
+{
+  "versiculo": {
+    "referencia": "Hechos 15:18 Reina Valera 1960",
+    "texto": "Dice el Señor, que hace conocer todo esto desde tiempos antiguos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1110",
+      "texto": "γνωστὰ",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Acusativo-Plural-Neutro",
+      "parsing": "A-APN",
+      "traduccion": "conocidas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "575",
+      "texto": "ἀπ’",
+      "transliteracion": "",
+      "parsingLabel": "Preposición",
+      "parsing": "PREP",
+      "traduccion": "desde"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "165",
+      "texto": "αἰῶνος.",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Genitivo-Singular-Masculino",
+      "parsing": "N-GSM",
+      "traduccion": "edad"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 52:2 Reina Valera 1960",
+    "texto": "Agravios maquina tu lengua; Como navaja afilada hace engaño."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1962",
+      "hebreo": "הַוָּה",
+      "transliteracion": "הַ֭וֹּות",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "destrucciones"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2803",
+      "hebreo": "חשׁב",
+      "transliteracion": "תַּחְשֹׁ֣ב",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "maquina"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3956",
+      "hebreo": "לָשֹׁון",
+      "transliteracion": "לְשֹׁונֶ֑ךָ",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.U.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu lengua"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "8593",
+      "hebreo": "תַּעַר",
+      "transliteracion": "תַ֥עַר",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "navaja"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3913",
+      "hebreo": "לטשׁ",
+      "transliteracion": "מְ֝לֻטָּ֗שׁ",
+      "parsingLabel": "adjetivo pu“al participio (passive) desconocido masculino singular absoluto",
+      "parsing": "ADJV.PUAL.PTCP.U.M.SG.A",
+      "traduccion": "afilada"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עֹשֵׂ֥ה",
+      "parsingLabel": "verbo qal participio desconocido masculino singular constructivo",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.C",
+      "traduccion": "hacedor"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7423",
+      "hebreo": "רְמִיָּה",
+      "transliteracion": "רְמִיָּֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "de engaño"
+    }
+  ]
+}

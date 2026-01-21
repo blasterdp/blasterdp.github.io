@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "1ra Corintios 15:13 Reina Valera 1960",
+    "texto": "Porque si no hay resurrección de muertos, tampoco Cristo resucitó."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1487",
+      "texto": "εἰ",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "Si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1161",
+      "texto": "δὲ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "386",
+      "texto": "ἀνάστασις",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Femenino",
+      "parsing": "N-NSF",
+      "traduccion": "levantamiento"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3498",
+      "texto": "νεκρῶν",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Genitivo-Plural-Masculino",
+      "parsing": "A-GPM",
+      "traduccion": "de muertos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3756",
+      "texto": "οὐκ",
+      "transliteracion": "",
+      "parsingLabel": "Partícula-Negativa",
+      "parsing": "PRT-N",
+      "traduccion": "no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1510",
+      "texto": "ἔστιν,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-PAI-3S",
+      "traduccion": "está siendo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3761",
+      "texto": "οὐδὲ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción-Negativo",
+      "parsing": "CONJ-N",
+      "traduccion": "tampoco"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5547",
+      "texto": "Χριστὸς",
+      "transliteracion": "",
+      "parsingLabel": "Sustantivo-Nominativo-Singular-Masculino",
+      "parsing": "N-NSM",
+      "traduccion": "Cristo"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "1453",
+      "texto": "ἐγήγερται·",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Perfecto-Pasivo-Indicativo-3ª Persona-Singular",
+      "parsing": "V-RPI-3S",
+      "traduccion": "ha sido levantado"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 64:3 Reina Valera 1960",
+    "texto": "Que afilan como espada su lengua; Lanzan cual saeta suya, palabra amarga,"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֤ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "8150",
+      "hebreo": "שׁנן",
+      "transliteracion": "שָׁנְנ֣וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "afilan"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2719",
+      "hebreo": "חֶרֶב",
+      "transliteracion": "חֶ֣רֶב",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "espada"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3956",
+      "hebreo": "לָשֹׁון",
+      "transliteracion": "לְשֹׁונָ֑ם",
+      "parsingLabel": "sustantivo desconocido singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.U.SG.A.PRS.P3.M.PL",
+      "traduccion": "su lengua"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1869",
+      "hebreo": "דרך",
+      "transliteracion": "דָּרְכ֥וּ",
+      "parsingLabel": "verbo qal perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.QAL.PERF.P3.U.PL",
+      "traduccion": "lanzaron"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2671",
+      "hebreo": "חֵץ",
+      "transliteracion": "חִ֝צָּ֗ם",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.M.SG.A.PRS.P3.M.PL",
+      "traduccion": "su saeta"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "1697",
+      "hebreo": "דָּבָר",
+      "transliteracion": "דָּבָ֥ר",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "palabra"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "4751",
+      "hebreo": "מַר",
+      "transliteracion": "מָֽר׃",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "amarga"
+    }
+  ]
+}

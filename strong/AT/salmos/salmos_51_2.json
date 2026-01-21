@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 51:2 Reina Valera 1960",
+    "texto": "Lávame más y más de mi maldad, Y límpiame de mi pecado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "7235",
+      "hebreo": "רבה",
+      "transliteracion": "הֶ֭רֶב",
+      "parsingLabel": "verbo hif‘il imperativo 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPV.P2.M.SG",
+      "traduccion": "por completo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3526",
+      "hebreo": "כבס",
+      "transliteracion": "כַּבְּסֵ֣נִי",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "lávame"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5771",
+      "hebreo": "עָוֹן",
+      "transliteracion": "עֲוֹנִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi iniquidad"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וּֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2403",
+      "hebreo": "חַטָּאת",
+      "transliteracion": "חַטָּאתִ֥י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi pecado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2891",
+      "hebreo": "טהר",
+      "transliteracion": "טַהֲרֵֽנִי׃",
+      "parsingLabel": "verbo pi“el imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "límpiame"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 73:21 Reina Valera 1960",
+    "texto": "Se llenó de amargura mi alma, Y en mi corazón sentía punzadas."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֭י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2556",
+      "hebreo": "חמץ",
+      "transliteracion": "יִתְחַמֵּ֣ץ",
+      "parsingLabel": "verbo hitpa“el imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIT.IMPF.P3.M.SG",
+      "traduccion": "se amargó"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3824",
+      "hebreo": "לֵבָב",
+      "transliteracion": "לְבָבִ֑י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi corazón"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3629",
+      "hebreo": "כִּלְיָה",
+      "transliteracion": "כִלְיֹותַ֗י",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mis riñones"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8150",
+      "hebreo": "שׁנן",
+      "transliteracion": "אֶשְׁתֹּונָֽן׃",
+      "parsingLabel": "verbo hitpa“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIT.IMPF.P1.U.SG",
+      "traduccion": "sentía punzadas"
+    }
+  ]
+}

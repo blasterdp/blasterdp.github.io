@@ -1,0 +1,71 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 22:30 Reina Valera 1960",
+    "texto": "La posteridad le servirá; Esto será contado de Jehová hasta la postrera generación."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "2233",
+      "hebreo": "זֶרַע",
+      "transliteracion": "זֶ֥רַע",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "simiente"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5647",
+      "hebreo": "עבד",
+      "transliteracion": "יַֽעַבְדֶ֑נּוּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 3ª persona masculino singular",
+      "parsing": "VERB.QAL.IMPF.P3.M.SG.PRS.P3.M.SG",
+      "traduccion": "le servirá"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5608",
+      "hebreo": "ספר",
+      "transliteracion": "יְסֻפַּ֖ר",
+      "parsingLabel": "verbo pu“al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.PUAL.IMPF.P3.M.SG",
+      "traduccion": "será narrado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לַֽ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "136",
+      "hebreo": "אֲדֹנָי",
+      "transliteracion": "אדֹנָ֣י",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Señor"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לַ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1755",
+      "hebreo": "דֹּור",
+      "transliteracion": "דֹּֽור׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "siguiente generación"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 14:3 Reina Valera 1960",
+    "texto": "Todos se desviaron, a una se han corrompido; No hay quien haga lo bueno, no hay ni siquiera uno."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9006",
+      "hebreo": "הַ",
+      "transliteracion": "הַ",
+      "parsingLabel": "artículo",
+      "parsing": "ART",
+      "traduccion": "-"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3605",
+      "hebreo": "כֹּל",
+      "transliteracion": "כֹּ֥ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "todos"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "5493",
+      "hebreo": "סור",
+      "transliteracion": "סָר֮",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "se han desviado"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3162",
+      "hebreo": "יַחְדָּו",
+      "transliteracion": "יַחְדָּ֪ו",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "a una"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "444",
+      "hebreo": "אלח",
+      "transliteracion": "נֶ֫אֱלָ֥חוּ",
+      "parsingLabel": "verbo nif‘al perfecto 3ª persona desconocido plural",
+      "parsing": "VERBO.NIF.PERF.P3.U.PL",
+      "traduccion": "se han contaminado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵ֤ין",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "no hay"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6213",
+      "hebreo": "עשׂה",
+      "transliteracion": "עֹֽשֵׂה־",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.C",
+      "traduccion": "hacedor"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2896",
+      "hebreo": "טֹוב",
+      "transliteracion": "טֹ֑וב",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "de bien"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "369",
+      "hebreo": "אַיִן",
+      "transliteracion": "אֵ֝֗ין",
+      "parsingLabel": "negativo partículo masculino singular constructivo",
+      "parsing": "NEGA.M.SG.C",
+      "traduccion": "ni"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "1571",
+      "hebreo": "גַּם",
+      "transliteracion": "גַּם־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "siquiera"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "259",
+      "hebreo": "אֶחָד",
+      "transliteracion": "אֶחָֽד׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "uno"
+    }
+  ]
+}

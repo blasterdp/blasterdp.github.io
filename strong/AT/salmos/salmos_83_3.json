@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 83:3 Reina Valera 1960",
+    "texto": "Contra tu pueblo han consultado astuta y secretamente, Y han entrado en consejo contra tus protegidos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַֽל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5971",
+      "hebreo": "עַם",
+      "transliteracion": "עַ֭מְּךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu pueblo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6191",
+      "hebreo": "ערם",
+      "transliteracion": "יַעֲרִ֣ימוּ",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIF.IMPF.P3.M.PL",
+      "traduccion": "traman"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5475",
+      "hebreo": "סֹוד",
+      "transliteracion": "סֹ֑וד",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "conjura"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3289",
+      "hebreo": "יעץ",
+      "transliteracion": "יִתְיָעֲצ֗וּ",
+      "parsingLabel": "verbo hitpa“el imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.HIT.IMPF.P3.M.PL",
+      "traduccion": "conspiran"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עַל־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "contra"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6845",
+      "hebreo": "צפן",
+      "transliteracion": "צְפוּנֶֽיךָ׃",
+      "parsingLabel": "sustantivo qal participio (passive) desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCP.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "tus protegidos"
+    }
+  ]
+}

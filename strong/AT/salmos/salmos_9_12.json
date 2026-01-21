@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 9:12 Reina Valera 1960",
+    "texto": "Porque el que demanda la sangre se acordó de ellos; No se olvidó del clamor de los afligidos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1875",
+      "hebreo": "דרשׁ",
+      "transliteracion": "דֹרֵ֣שׁ",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "el vengador"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1818",
+      "hebreo": "דָּם",
+      "transliteracion": "דָּ֭מִים",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de sangres"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֹותָ֣ם",
+      "parsingLabel": "preposición pronominal sufijo 3ª persona masculino plural",
+      "parsing": "PREP.PRS.P3.M.PL",
+      "traduccion": "los"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2142",
+      "hebreo": "זכר",
+      "transliteracion": "זָכָ֑ר",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ha recordado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹֽא־",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "7911",
+      "hebreo": "שׁכח",
+      "transliteracion": "שָׁ֝כַ֗ח",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ha olvidado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6818",
+      "hebreo": "צְעָקָה",
+      "transliteracion": "צַעֲקַ֥ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "clamor"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6035",
+      "hebreo": "עָנָו",
+      "transliteracion": "עֲנָוִֽים׃",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "de humildes"
+    }
+  ]
+}

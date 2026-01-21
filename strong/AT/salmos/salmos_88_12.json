@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 88:12 Reina Valera 1960",
+    "texto": "¿Serán reconocidas en las tinieblas tus maravillas, Y tu justicia en la tierra del olvido?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3045",
+      "hebreo": "ידע",
+      "transliteracion": "יִוָּדַ֣ע",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.NIF.IMPF.P3.M.SG",
+      "traduccion": "se conocerán"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בַּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2822",
+      "hebreo": "חֹשֶׁךְ",
+      "transliteracion": "חֹ֣שֶׁךְ",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "tiniebla"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6382",
+      "hebreo": "פֶּלֶא",
+      "transliteracion": "פִּלְאֶ֑ךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tus maravillas"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6666",
+      "hebreo": "צְדָקָה",
+      "transliteracion": "צִדְקָתְךָ֗",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu justicia"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "776",
+      "hebreo": "אֶרֶץ",
+      "transliteracion": "אֶ֣רֶץ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "tierra"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "5388",
+      "hebreo": "נְשִׁיָּה",
+      "transliteracion": "נְשִׁיָּֽה׃",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "del olvido?"
+    }
+  ]
+}

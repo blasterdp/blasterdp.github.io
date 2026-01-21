@@ -1,0 +1,116 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 94:9 Reina Valera 1960",
+    "texto": "El que hizo el oído, ¿no oirá? El que formó el ojo, ¿no verá?"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "el que"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5193",
+      "hebreo": "נטע",
+      "transliteracion": "נֹ֣טַֽע",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.C",
+      "traduccion": "plantó"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "241",
+      "hebreo": "אֹזֶן",
+      "transliteracion": "אֹ֖זֶן",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "oreja"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "8085",
+      "hebreo": "שׁמע",
+      "transliteracion": "יִשְׁמָ֑ע",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "oirá?"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִֽם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "o"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3335",
+      "hebreo": "יצר",
+      "transliteracion": "יֹ֥צֵֽר",
+      "parsingLabel": "sustantivo qal participio desconocido masculino singular constructivo",
+      "parsing": "SUBS.QAL.PTCA.U.M.SG.C",
+      "traduccion": "formador"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5869",
+      "hebreo": "עַיִן",
+      "transliteracion": "עַ֝֗יִן",
+      "parsingLabel": "sustantivo femenino singular absoluto",
+      "parsing": "SUBS.F.SG.A",
+      "traduccion": "del ojo"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "9004",
+      "hebreo": "הֲ",
+      "transliteracion": "הֲ",
+      "parsingLabel": "interrogativo partículo",
+      "parsing": "INRG",
+      "traduccion": "¿"
+    },
+    {
+      "numero": 11,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 12,
+      "strongNumber": "5027",
+      "hebreo": "נבט",
+      "transliteracion": "יַבִּֽיט׃",
+      "parsingLabel": "verbo hif‘il imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.HIF.IMPF.P3.M.SG",
+      "traduccion": "verá?"
+    }
+  ]
+}

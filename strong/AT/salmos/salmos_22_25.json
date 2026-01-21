@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 22:25 Reina Valera 1960",
+    "texto": "De ti será mi alabanza en la gran congregación; Mis votos pagaré delante de los que le temen."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מֵ֥",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "854",
+      "hebreo": "אֵת",
+      "transliteracion": "אִתְּךָ֗",
+      "parsingLabel": "preposición pronominal sufijo 2ª persona masculino singular",
+      "parsing": "PREP.PRS.P2.M.SG",
+      "traduccion": "ti"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "8416",
+      "hebreo": "תְּהִלָּה",
+      "transliteracion": "תְֽהִלָּ֫תִ֥י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi alabanza"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6951",
+      "hebreo": "קָהָל",
+      "transliteracion": "קָהָ֥ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "la congregación"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7227",
+      "hebreo": "רַב",
+      "transliteracion": "רָ֑ב",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "grande"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5088",
+      "hebreo": "נֶדֶר",
+      "transliteracion": "נְדָרַ֥י",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "mis votos"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "7999",
+      "hebreo": "שׁלם",
+      "transliteracion": "אֲ֝שַׁלֵּ֗ם",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "cumpliré"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "5048",
+      "hebreo": "נֶגֶד",
+      "transliteracion": "נֶ֣גֶד",
+      "parsingLabel": "preposición masculino singular constructivo",
+      "parsing": "PREP.M.SG.C",
+      "traduccion": "delante"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "3373",
+      "hebreo": "יָרֵא",
+      "transliteracion": "יְרֵאָֽיו׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P3.M.SG",
+      "traduccion": "de los que le temen"
+    }
+  ]
+}

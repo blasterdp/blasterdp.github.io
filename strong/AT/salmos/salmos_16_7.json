@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 16:7 Reina Valera 1960",
+    "texto": "Bendeciré a Jehová que me aconseja; Aun en las noches me enseña mi conciencia."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1288",
+      "hebreo": "ברך",
+      "transliteracion": "אֲבָרֵ֗ךְ",
+      "parsingLabel": "verbo pi“el imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.IMPF.P1.U.SG",
+      "traduccion": "bendeciré"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "853",
+      "hebreo": "אֵת",
+      "transliteracion": "אֶת־",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "a"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְ֭הוָה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "834",
+      "hebreo": "אֲשֶׁר",
+      "transliteracion": "אֲשֶׁ֣ר",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "que"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3289",
+      "hebreo": "יעץ",
+      "transliteracion": "יְעָצָ֑נִי",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me aconseja"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "637",
+      "hebreo": "אַף",
+      "transliteracion": "אַף־",
+      "parsingLabel": "adverbio",
+      "parsing": "ADVB",
+      "traduccion": "en verdad"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3915",
+      "hebreo": "לַיְלָה",
+      "transliteracion": "לֵ֝ילֹ֗ות",
+      "parsingLabel": "sustantivo masculino plural absoluto",
+      "parsing": "SUBS.M.PL.A",
+      "traduccion": "noches"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "3256",
+      "hebreo": "יסר",
+      "transliteracion": "יִסְּר֥וּנִי",
+      "parsingLabel": "verbo pi“el perfecto 3ª persona desconocido plural pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.PIEL.PERF.P3.U.PL.PRS.P1.U.SG",
+      "traduccion": "me amonestan"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3629",
+      "hebreo": "כִּלְיָה",
+      "transliteracion": "כִלְיֹותָֽי׃",
+      "parsingLabel": "sustantivo femenino plural absoluto",
+      "parsing": "SUBS.F.PL.A",
+      "traduccion": "mis riñones"
+    }
+  ]
+}

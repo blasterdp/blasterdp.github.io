@@ -1,0 +1,26 @@
+{
+  "versiculo": {
+    "referencia": "Éxodo 20:14 Reina Valera 1960",
+    "texto": "No cometerás adulterio."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣֖א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "No"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "5003",
+      "hebreo": "נאף",
+      "transliteracion": "תִּֿנְאָֽ֑ף׃ ס",
+      "parsingLabel": "verbo qal imperfecto 2ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P2.M.SG",
+      "traduccion": "adulterarás"
+    }
+  ]
+}

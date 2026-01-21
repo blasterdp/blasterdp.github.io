@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 3:5 Reina Valera 1960",
+    "texto": "Yo me acosté y dormí, Y desperté, porque Jehová me sustentaba."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲנִ֥י",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7901",
+      "hebreo": "שׁכב",
+      "transliteracion": "שָׁכַ֗בְתִּי",
+      "parsingLabel": "verbo qal perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.PERF.P1.U.SG",
+      "traduccion": "me acosté"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וָֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3462",
+      "hebreo": "ישׁן",
+      "transliteracion": "אִ֫ישָׁ֥נָה",
+      "parsingLabel": "verbo qal wayyiqtol 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.WAYQ.P1.U.SG",
+      "traduccion": "me dormí"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "6972",
+      "hebreo": "קיץ",
+      "transliteracion": "הֱקִיצֹ֑ותִי",
+      "parsingLabel": "verbo hif‘il perfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.HIF.PERF.P1.U.SG",
+      "traduccion": "desperté"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּ֖י",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֣ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5564",
+      "hebreo": "סמך",
+      "transliteracion": "יִסְמְכֵֽנִי׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG.PRS.P1.U.SG",
+      "traduccion": "me sostiene"
+    }
+  ]
+}

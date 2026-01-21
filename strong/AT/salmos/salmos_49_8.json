@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 49:8 Reina Valera 1960",
+    "texto": "(Porque la redención de su vida es de gran precio, Y no se logrará jamás),"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pues"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3365",
+      "hebreo": "יקר",
+      "transliteracion": "יֵקַר",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "es muy costosa"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "6306",
+      "hebreo": "פִּדְיֹון",
+      "transliteracion": "פִּדְיֹ֥ון",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "redención"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַפְשָׁ֗ם",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino plural",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.PL",
+      "traduccion": "del alma de ellos"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "2308",
+      "hebreo": "חדל",
+      "transliteracion": "חָדַ֥ל",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "hay que dejarlo"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9003",
+      "hebreo": "לְ",
+      "transliteracion": "לְ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5769",
+      "hebreo": "עֹולָם",
+      "transliteracion": "עֹולָֽם׃",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "siempre"
+    }
+  ]
+}

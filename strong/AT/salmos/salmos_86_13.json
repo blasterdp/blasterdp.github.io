@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 86:13 Reina Valera 1960",
+    "texto": "Porque tu misericordia es grande para conmigo, Y has librado mi alma de las profundidades del Seol."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "3588",
+      "hebreo": "כִּי",
+      "transliteracion": "כִּֽי־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "porque"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "2617",
+      "hebreo": "חֶסֶד",
+      "transliteracion": "חַ֭סְדְּךָ",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "tu misericordia"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "1419",
+      "hebreo": "גָּדֹול",
+      "transliteracion": "גָּדֹ֣ול",
+      "parsingLabel": "adjetivo masculino singular absoluto",
+      "parsing": "ADJV.M.SG.A",
+      "traduccion": "grande"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "5921",
+      "hebreo": "עַל",
+      "transliteracion": "עָלָ֑י",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "para conmigo"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "5337",
+      "hebreo": "נצל",
+      "transliteracion": "הִצַּ֥לְתָּ",
+      "parsingLabel": "verbo hif‘il perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.HIF.PERF.P2.M.SG",
+      "traduccion": "has librado"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "5315",
+      "hebreo": "נֶפֶשׁ",
+      "transliteracion": "נַ֝פְשִׁ֗י",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.F.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi alma"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "de"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "7585",
+      "hebreo": "שְׁאֹול",
+      "transliteracion": "שְּׁאֹ֥ול",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "Seol"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "8482",
+      "hebreo": "תַּחְתִּי",
+      "transliteracion": "תַּחְתִּיָּֽה׃",
+      "parsingLabel": "adjetivo femenino singular absoluto",
+      "parsing": "ADJV.F.SG.A",
+      "traduccion": "más profundo"
+    }
+  ]
+}

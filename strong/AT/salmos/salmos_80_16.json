@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 80:16 Reina Valera 1960",
+    "texto": "Quemada a fuego está, asolada; Perezcan por la reprensión de tu rostro."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "8313",
+      "hebreo": "שׂרף",
+      "transliteracion": "שְׂרֻפָ֣ה",
+      "parsingLabel": "verbo qal participio (passive) desconocido femenino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.F.SG.A",
+      "traduccion": "está quemada"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בָ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "784",
+      "hebreo": "אֵשׁ",
+      "transliteracion": "אֵ֣שׁ",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "fuego"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3683",
+      "hebreo": "כסח",
+      "transliteracion": "כְּסוּחָ֑ה",
+      "parsingLabel": "verbo qal participio (passive) desconocido femenino singular absoluto",
+      "parsing": "VERBO.QAL.PTCP.U.F.SG.A",
+      "traduccion": "cortada"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "por"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "1606",
+      "hebreo": "גְּעָרָה",
+      "transliteracion": "גַּעֲרַ֖ת",
+      "parsingLabel": "sustantivo femenino singular constructivo",
+      "parsing": "SUBS.F.SG.C",
+      "traduccion": "reprensión"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָּנֶ֣יךָ",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "de tu rostro"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "6",
+      "hebreo": "אבד",
+      "transliteracion": "יֹאבֵֽדוּ׃",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "perecen"
+    }
+  ]
+}

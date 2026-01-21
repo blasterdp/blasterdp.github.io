@@ -1,0 +1,53 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 29:7 Reina Valera 1960",
+    "texto": "Voz de Jehová que derrama llamas de fuego;"
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "6963",
+      "hebreo": "קֹול",
+      "transliteracion": "קֹול־",
+      "parsingLabel": "sustantivo masculino singular constructivo",
+      "parsing": "SUBS.M.SG.C",
+      "traduccion": "voz de"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3068",
+      "hebreo": "יְהוָה",
+      "transliteracion": "יְהוָ֥ה",
+      "parsingLabel": "nombre propio masculino singular absoluto",
+      "parsing": "NMPR.M.SG.A",
+      "traduccion": "Yahweh"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "2672",
+      "hebreo": "חצב",
+      "transliteracion": "חֹצֵ֗ב",
+      "parsingLabel": "verbo qal participio desconocido masculino singular absoluto",
+      "parsing": "VERBO.QAL.PTCA.U.M.SG.A",
+      "traduccion": "enciende"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "3852",
+      "hebreo": "לֶהָבָה",
+      "transliteracion": "לַהֲבֹ֥ות",
+      "parsingLabel": "sustantivo femenino plural constructivo",
+      "parsing": "SUBS.F.PL.C",
+      "traduccion": "llamas"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "784",
+      "hebreo": "אֵשׁ",
+      "transliteracion": "אֵֽשׁ׃",
+      "parsingLabel": "sustantivo desconocido singular absoluto",
+      "parsing": "SUBS.U.SG.A",
+      "traduccion": "de fuego"
+    }
+  ]
+}

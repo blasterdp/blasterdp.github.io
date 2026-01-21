@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 7:12 Reina Valera 1960",
+    "texto": "Si no se arrepiente, él afilará su espada; Armado tiene ya su arco, y lo ha preparado."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "518",
+      "hebreo": "אִם",
+      "transliteracion": "אִם־",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "si"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "3808",
+      "hebreo": "לֹא",
+      "transliteracion": "לֹ֣א",
+      "parsingLabel": "negativo partículo",
+      "parsing": "NEGA",
+      "traduccion": "no"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "יָ֭שׁוּב",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "se vuelve"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2719",
+      "hebreo": "חֶרֶב",
+      "transliteracion": "חַרְבֹּ֣ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su espada"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3913",
+      "hebreo": "לטשׁ",
+      "transliteracion": "יִלְטֹ֑ושׁ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.IMPF.P3.M.SG",
+      "traduccion": "afilará"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "7198",
+      "hebreo": "קֶשֶׁת",
+      "transliteracion": "קַשְׁתֹּ֥ו",
+      "parsingLabel": "sustantivo femenino singular absoluto pronominal sufijo 3ª persona masculino singular",
+      "parsing": "SUBS.F.SG.A.PRS.P3.M.SG",
+      "traduccion": "su arco"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "1869",
+      "hebreo": "דרך",
+      "transliteracion": "דָ֝רַ֗ךְ",
+      "parsingLabel": "verbo qal perfecto 3ª persona masculino singular",
+      "parsing": "VERBO.QAL.PERF.P3.M.SG",
+      "traduccion": "ha tensado"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַֽ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "3559",
+      "hebreo": "כון",
+      "transliteracion": "יְכֹונְנֶֽהָ׃",
+      "parsingLabel": "verbo pi“el wayyiqtol 3ª persona masculino singular pronominal sufijo 3ª persona femenino singular",
+      "parsing": "VERBO.PIEL.WAYQ.P3.M.SG.PRS.P3.F.SG",
+      "traduccion": "tiene preparado"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 9:3 Reina Valera 1960",
+    "texto": "Mis enemigos volvieron atrás; Cayeron y perecieron delante de ti."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "cuando"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "7725",
+      "hebreo": "שׁוב",
+      "transliteracion": "שׁוּב־",
+      "parsingLabel": "verbo qal infinitivo (construct) desconocido desconocido desconocido constructivo",
+      "parsing": "VERBO.QAL.INFC.U.U.U.C",
+      "traduccion": "se vuelven"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹויְבַ֥י",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A",
+      "traduccion": "mis enemigos"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "268",
+      "hebreo": "אָחֹור",
+      "transliteracion": "אָחֹ֑ור",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "atrás"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "3782",
+      "hebreo": "כשׁל",
+      "transliteracion": "יִכָּשְׁל֥וּ",
+      "parsingLabel": "verbo nif‘al imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.NIF.IMPF.P3.M.PL",
+      "traduccion": "tropiezan"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ֝",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "6",
+      "hebreo": "אבד",
+      "transliteracion": "יֹאבְד֗וּ",
+      "parsingLabel": "verbo qal imperfecto 3ª persona masculino plural",
+      "parsing": "VERBO.QAL.IMPF.P3.M.PL",
+      "traduccion": "perecen"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4480",
+      "hebreo": "מִן",
+      "transliteracion": "מִ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "-"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6440",
+      "hebreo": "פָּנֶה",
+      "transliteracion": "פָּנֶֽיךָ׃",
+      "parsingLabel": "sustantivo masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "ante tu rostro"
+    }
+  ]
+}

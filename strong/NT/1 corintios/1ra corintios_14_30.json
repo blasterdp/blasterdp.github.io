@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "1ra Corintios 14:30 Reina Valera 1960",
+    "texto": "Y si algo le fuere revelado a otro que estuviere sentado, calle el primero."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "1437",
+      "texto": "ἐὰν",
+      "transliteracion": "",
+      "parsingLabel": "Condicional",
+      "parsing": "COND",
+      "traduccion": "si alguna vez"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1161",
+      "texto": "δὲ",
+      "transliteracion": "",
+      "parsingLabel": "Conjunción",
+      "parsing": "CONJ",
+      "traduccion": "pero"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "243",
+      "texto": "ἄλλῳ",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Dativo-Singular-Masculino",
+      "parsing": "A-DSM",
+      "traduccion": "a otro"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "601",
+      "texto": "ἀποκαλυφθῇ",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Aoristo-Pasivo-Subjuntivo-3ª Persona-Singular",
+      "parsing": "V-APS-3S",
+      "traduccion": "sea quitada cubierta"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "2521",
+      "texto": "καθημένῳ,",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Deponente Medio o Pasivo-Participio-Dativo-Singular-Masculino",
+      "parsing": "V-PNP-DSM",
+      "traduccion": "sentado"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "3588",
+      "texto": "ὁ",
+      "transliteracion": "",
+      "parsingLabel": "Artículo-Nominativo-Singular-Masculino",
+      "parsing": "T-NSM",
+      "traduccion": "el"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "4413",
+      "texto": "πρῶτος",
+      "transliteracion": "",
+      "parsingLabel": "Adjetivo-Nominativo-Singular-Masculino-Superlativo",
+      "parsing": "A-NSM-S",
+      "traduccion": "primero"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "4601",
+      "texto": "σιγάτω.",
+      "transliteracion": "",
+      "parsingLabel": "Verbo-Presente-Activo-Imperativo-3ª Persona-Singular",
+      "parsing": "V-PAM-3S",
+      "traduccion": "esté guardando silencio"
+    }
+  ]
+}

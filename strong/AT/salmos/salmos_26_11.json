@@ -1,0 +1,80 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 26:11 Reina Valera 1960",
+    "texto": "Mas yo andaré en mi integridad; Redímeme, y ten misericordia de mí."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וַ֭",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "mas"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "589",
+      "hebreo": "אֲנִי",
+      "transliteracion": "אֲנִי",
+      "parsingLabel": "pronombre personal 1ª persona desconocido singular",
+      "parsing": "PRPS.P1.U.SG",
+      "traduccion": "yo"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בְּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "en"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "8537",
+      "hebreo": "תֹּם",
+      "transliteracion": "תֻמִּ֥י",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "SUBS.M.SG.A.PRS.P1.U.SG",
+      "traduccion": "mi verdad"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "1980",
+      "hebreo": "הלך",
+      "transliteracion": "אֵלֵ֗ךְ",
+      "parsingLabel": "verbo qal imperfecto 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPF.P1.U.SG",
+      "traduccion": "andaré"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "6299",
+      "hebreo": "פדה",
+      "transliteracion": "פְּדֵ֣נִי",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "redímeme"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "9005",
+      "hebreo": "וְ",
+      "transliteracion": "וְ",
+      "parsingLabel": "conjunción",
+      "parsing": "CONJ",
+      "traduccion": "y"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "2603",
+      "hebreo": "חנן",
+      "transliteracion": "חָנֵּֽנִי׃",
+      "parsingLabel": "verbo qal imperativo 2ª persona masculino singular pronominal sufijo 1ª persona desconocido singular",
+      "parsing": "VERBO.QAL.IMPV.P2.M.SG.PRS.P1.U.SG",
+      "traduccion": "ten piedad de mí"
+    }
+  ]
+}

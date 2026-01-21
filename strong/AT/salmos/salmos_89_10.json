@@ -1,0 +1,98 @@
+{
+  "versiculo": {
+    "referencia": "Salmos 89:10 Reina Valera 1960",
+    "texto": "Tú quebrantaste a Rahab como a herido de muerte; Con tu brazo poderoso esparciste a tus enemigos."
+  },
+  "analisisInterlineal": [
+    {
+      "numero": 1,
+      "strongNumber": "859",
+      "hebreo": "אַתָּה",
+      "transliteracion": "אַתָּ֤ה",
+      "parsingLabel": "pronombre personal 2ª persona masculino singular",
+      "parsing": "PRPS.P2.M.SG",
+      "traduccion": "tú"
+    },
+    {
+      "numero": 2,
+      "strongNumber": "1792",
+      "hebreo": "דכא",
+      "transliteracion": "דִכִּ֣אתָ",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG",
+      "traduccion": "aplastaste"
+    },
+    {
+      "numero": 3,
+      "strongNumber": "9002",
+      "hebreo": "כְּ",
+      "transliteracion": "כֶ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "como"
+    },
+    {
+      "numero": 4,
+      "strongNumber": "2491",
+      "hebreo": "חָלָל",
+      "transliteracion": "חָלָ֣ל",
+      "parsingLabel": "sustantivo masculino singular absoluto",
+      "parsing": "SUBS.M.SG.A",
+      "traduccion": "herido de muerte"
+    },
+    {
+      "numero": 5,
+      "strongNumber": "7294",
+      "hebreo": "רַהַב",
+      "transliteracion": "רָ֑הַב",
+      "parsingLabel": "nombre propio desconocido singular absoluto",
+      "parsing": "NMPR.U.SG.A",
+      "traduccion": "a Rahab"
+    },
+    {
+      "numero": 6,
+      "strongNumber": "9001",
+      "hebreo": "בְּ",
+      "transliteracion": "בִּ",
+      "parsingLabel": "preposición",
+      "parsing": "PREP",
+      "traduccion": "con"
+    },
+    {
+      "numero": 7,
+      "strongNumber": "2220",
+      "hebreo": "זְרֹועַ",
+      "transliteracion": "זְרֹ֥ועַ",
+      "parsingLabel": "sustantivo desconocido singular constructivo",
+      "parsing": "SUBS.U.SG.C",
+      "traduccion": "brazo"
+    },
+    {
+      "numero": 8,
+      "strongNumber": "5797",
+      "hebreo": "עֹז",
+      "transliteracion": "עֻ֝זְּךָ֗",
+      "parsingLabel": "sustantivo masculino singular absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.M.SG.A.PRS.P2.M.SG",
+      "traduccion": "de tu fuerza"
+    },
+    {
+      "numero": 9,
+      "strongNumber": "6340",
+      "hebreo": "פזר",
+      "transliteracion": "פִּזַּ֥רְתָּ",
+      "parsingLabel": "verbo pi“el perfecto 2ª persona masculino singular",
+      "parsing": "VERBO.PIEL.PERF.P2.M.SG",
+      "traduccion": "esparciste"
+    },
+    {
+      "numero": 10,
+      "strongNumber": "340",
+      "hebreo": "איב",
+      "transliteracion": "אֹויְבֶֽיךָ׃",
+      "parsingLabel": "sustantivo qal participio desconocido masculino plural absoluto pronominal sufijo 2ª persona masculino singular",
+      "parsing": "SUBS.QAL.PTCA.U.M.PL.A.PRS.P2.M.SG",
+      "traduccion": "a tus enemigos"
+    }
+  ]
+}
