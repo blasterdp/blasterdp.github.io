@@ -28,6 +28,10 @@
 !dia_biblico/**
 !dia_biblico/
 
+# Don't ignore estudio_galatas files
+!estudio_galatas/**
+!estudio_galatas/
+
 # Don't ignore strong files
 !strong/**
 !strong/
