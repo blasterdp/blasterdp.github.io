@@ -37,6 +37,7 @@ async function loadAvailableTopics() {
         // Intentar obtener la lista de archivos desde un endpoint
         // Si no está disponible, usaremos una lista predefinida
         const topics = [
+            'flashcards_bo_2025.csv',
             'flashcards_estudio_galatas.csv',
             'flashcards_dia_biblico_2.csv',
             'flashcards_vaera.csv'
@@ -47,6 +48,7 @@ async function loadAvailableTopics() {
         console.error('Error cargando temas:', error);
         // Usar lista predefinida como fallback
         const topics = [
+            'flashcards_bo_2025.csv',
             'flashcards_estudio_galatas.csv',
             'flashcards_dia_biblico_2.csv',
             'flashcards_vaera.csv',
