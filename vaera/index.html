@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+    <link rel="prefetch" href="03.webp" as="image">
+    <link rel="prefetch" href="02.webp" as="image">
+    <link rel="prefetch" href="01.webp" as="image">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Slideshow de Imágenes</title>
@@ -36,6 +39,8 @@
             opacity: 1;
         }
         .slide img {
+            will-change: transform;
+            transition: transform 0.3s ease;
             max-width: 100%;
             max-height: 100%;
             object-fit: contain;
@@ -87,21 +92,21 @@
 
         // Lista de imágenes
         const images = [
-            '01.png',
-            '02.png',
-            '03.png',
-            '04.png',
-            '05.png',
-            '06.png',
-            '07.png',
-            '08.png',
-            '09.png',
-            '10.png',
-            '11.png',
-            '12.png',
-            '13.png',
-            '14.png',
-            '15.png'
+            '01.webp',
+            '02.webp',
+            '03.webp',
+            '04.webp',
+            '05.webp',
+            '06.webp',
+            '07.webp',
+            '08.webp',
+            '09.webp',
+            '10.webp',
+            '11.webp',
+            '12.webp',
+            '13.webp',
+            '14.webp',
+            '15.webp'
         ];
 
         let currentIndex = 0;
@@ -114,6 +119,8 @@
                 if (index === 0) slide.classList.add('active');
                 const img = document.createElement('img');
                 img.src = src;
+                    img.loading = "lazy";
+                    img.decoding = "async";
                 img.alt = `Imagen ${index + 1}`;
                 slide.appendChild(img);
                 slideshow.appendChild(slide);

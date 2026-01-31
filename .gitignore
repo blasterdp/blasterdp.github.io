@@ -40,6 +40,14 @@
 !parejas/**
 !parejas/
 
+# Don't ignore bo files
+!bo/**
+!bo/
+
+# Don't ignore beshalaj files
+!beshalaj/**
+!beshalaj/
+
 # Don't ignore directories (so we can traverse them)
 !*/
 
