@@ -1,18 +1,23 @@
 [
   {
     "id": "1",
-    "name": "David Cohen",
+    "name": "David Cohen (Perfil Falso)",
     "age": 28,
     "gender": "male",
     "maritalStatus": "single",
     "children": 0,
     "location": "Jerusalem, Israel",
     "occupation": "Software Engineer",
-    "observance": ["Observante de la Torá"],
+    "observance": [
+      "Observante de la Torá"
+    ],
     "dietary": "Kosher",
     "calendar": "Hebrew",
     "quote": "Seek peace and pursue it.",
-    "badges": ["Torah Scholar", "Tech Enthusiast"],
+    "badges": [
+      "Torah Scholar",
+      "Tech Enthusiast"
+    ],
     "shabbatObserver": true,
     "believesInYeshua": true,
     "tagline": "Caminando en la luz de la Torá y la gracia de Yeshua.",
@@ -22,32 +27,59 @@
     "spiritualReference": "Rabí Daniel ben Abraham",
     "contactInfo": "+972541234567",
     "characterAndGrowth": {
-      "spiritualGifts": ["Enseñanza", "Discernimiento"],
-      "personalGrowth": ["Lectura diaria de las Escrituras", "Oración constante"],
-      "characterTraits": ["Paciencia", "Humildad", "Integridad"],
+      "spiritualGifts": [
+        "Enseñanza",
+        "Discernimiento"
+      ],
+      "personalGrowth": [
+        "Lectura diaria de las Escrituras",
+        "Oración constante"
+      ],
+      "characterTraits": [
+        "Paciencia",
+        "Humildad",
+        "Integridad"
+      ],
       "lifeGoals": "Crecer en conocimiento de la Torá y ser un esposo fiel según los principios del Mesías"
     },
     "lifestyle": {
       "dailyRoutine": "Oración matutina, estudio de Torá, trabajo técnico, tiempo comunitario",
-      "socialPreferences": ["Pequeños grupos", "Estudio bíblico", "Conversaciones profundas"],
-      "hobbies": ["Programación", "Caminatas", "Música mesiánica"],
-      "healthHabits": ["Ejercicio regular", "Dieta balanceada", "Descanso semanal"]
+      "socialPreferences": [
+        "Pequeños grupos",
+        "Estudio bíblico",
+        "Conversaciones profundas"
+      ],
+      "hobbies": [
+        "Programación",
+        "Caminatas",
+        "Música mesiánica"
+      ],
+      "healthHabits": [
+        "Ejercicio regular",
+        "Dieta balanceada",
+        "Descanso semanal"
+      ]
     }
   },
   {
     "id": "2",
-    "name": "Sarah Levy",
+    "name": "Sarah Levy (Perfil Falso)",
     "age": 25,
     "gender": "female",
     "maritalStatus": "divorced",
     "children": 1,
     "location": "New York, USA",
     "occupation": "Teacher",
-    "observance": ["Neo-Mesiánico"],
+    "observance": [
+      "Neo-Mesiánico"
+    ],
     "dietary": "Vegetarian Kosher",
     "calendar": "Gregorian",
     "quote": "Love your neighbor as yourself.",
-    "badges": ["Educator", "Community Builder"],
+    "badges": [
+      "Educator",
+      "Community Builder"
+    ],
     "shabbatObserver": true,
     "believesInYeshua": true,
     "tagline": "Restaurando el cántico del Señor en la tierra de Israel.",
@@ -57,32 +89,59 @@
     "spiritualReference": "Pastora Miriam bat Sarah",
     "contactInfo": "+12125551234",
     "characterAndGrowth": {
-      "spiritualGifts": ["Educación", "Empatía"],
-      "personalGrowth": ["Mentoría a jóvenes", "Estudio de las Escrituras"],
-      "characterTraits": ["Compasión", "Creatividad", "Paciencia"],
+      "spiritualGifts": [
+        "Educación",
+        "Empatía"
+      ],
+      "personalGrowth": [
+        "Mentoría a jóvenes",
+        "Estudio de las Escrituras"
+      ],
+      "characterTraits": [
+        "Compasión",
+        "Creatividad",
+        "Paciencia"
+      ],
       "lifeGoals": "Inspirar a la próxima generación a conocer al Mesías y vivir según la Torá"
     },
     "lifestyle": {
       "dailyRoutine": "Oración, enseñanza, preparación de clases, tiempo comunitario",
-      "socialPreferences": ["Trabajo con jóvenes", "Grupos de estudio", "Actividades educativas"],
-      "hobbies": ["Lectura", "Artesanías", "Jardinería"],
-      "healthHabits": ["Yoga", "Meditación", "Tiempo en naturaleza"]
+      "socialPreferences": [
+        "Trabajo con jóvenes",
+        "Grupos de estudio",
+        "Actividades educativas"
+      ],
+      "hobbies": [
+        "Lectura",
+        "Artesanías",
+        "Jardinería"
+      ],
+      "healthHabits": [
+        "Estudio de la palbra",
+        "Meditación",
+        "Tiempo en naturaleza"
+      ]
     }
   },
   {
     "id": "3",
-    "name": "Michael Goldstein",
+    "name": "Michael Goldstein (Perfil Falso)",
     "age": 32,
     "gender": "male",
     "maritalStatus": "widowed",
     "children": 2,
     "location": "Los Angeles, USA",
     "occupation": "Musician",
-    "observance": ["Halájico Tradicional"],
+    "observance": [
+      "Halájico Tradicional"
+    ],
     "dietary": "Kosher",
     "calendar": "Hebrew",
     "quote": "Music is the universal language of the soul.",
-    "badges": ["Musician", "Spiritual Guide"],
+    "badges": [
+      "Musician",
+      "Spiritual Guide"
+    ],
     "shabbatObserver": true,
     "believesInYeshua": true,
     "tagline": "La música sagrada conecta el cielo con la tierra.",
@@ -92,32 +151,61 @@
     "spiritualReference": "Rabí Shlomo HaLevi",
     "contactInfo": "+13104278901",
     "characterAndGrowth": {
-      "spiritualGifts": ["Música", "Adoración", "Composición"],
-      "personalGrowth": ["Práctica musical diaria", "Estudio de salmos"],
-      "characterTraits": ["Creatividad", "Pasión", "Sensibilidad espiritual"],
+      "spiritualGifts": [
+        "Música",
+        "Adoración",
+        "Composición"
+      ],
+      "personalGrowth": [
+        "Práctica musical diaria",
+        "Estudio de salmos"
+      ],
+      "characterTraits": [
+        "Creatividad",
+        "Pasión",
+        "Sensibilidad espiritual"
+      ],
       "lifeGoals": "Usar la música para unir a las personas en adoración y conocimiento del Mesías"
     },
     "lifestyle": {
       "dailyRoutine": "Composición musical, estudio, ensayos, tiempo de oración",
-      "socialPreferences": ["Conciertos", "Grupos de adoración", "Colaboraciones artísticas"],
-      "hobbies": ["Composición", "Tocar instrumentos", "Producción musical"],
-      "healthHabits": ["Vocalización", "Ejercicio", "Descanso vocal"]
+      "socialPreferences": [
+        "Conciertos",
+        "Grupos de adoración",
+        "Colaboraciones artísticas"
+      ],
+      "hobbies": [
+        "Composición",
+        "Tocar instrumentos",
+        "Producción musical"
+      ],
+      "healthHabits": [
+        "Vocalización",
+        "Ejercicio",
+        "Descanso vocal"
+      ]
     }
   },
   {
     "id": "4",
-    "name": "Rachel Adler",
+    "name": "Rachel Adler (Perfil Falso)",
     "age": 30,
     "gender": "female",
     "maritalStatus": "single",
     "children": 0,
     "location": "Tel Aviv, Israel",
     "occupation": "Doctor",
-    "observance": ["Observante de la Torá", "Neo-Mesiánico"],
+    "observance": [
+      "Observante de la Torá",
+      "Neo-Mesiánico"
+    ],
     "dietary": "Kosher",
     "calendar": "Hebrew",
     "quote": "Healing with compassion and faith.",
-    "badges": ["Healer", "Faithful"],
+    "badges": [
+      "Healer",
+      "Faithful"
+    ],
     "shabbatObserver": true,
     "believesInYeshua": true,
     "tagline": "La medicina divina se encuentra en la fe y la compasión.",
@@ -127,156 +215,359 @@
     "spiritualReference": "Dr. Ezra ben David",
     "contactInfo": "+972539876543",
     "characterAndGrowth": {
-      "spiritualGifts": ["Sanidad", "Compasión", "Sabiduría"],
-      "personalGrowth": ["Integración fe y medicina", "Oración por pacientes"],
-      "characterTraits": ["Integridad", "Ética", "Bondad"],
+      "spiritualGifts": [
+        "Sanidad",
+        "Compasión",
+        "Sabiduría"
+      ],
+      "personalGrowth": [
+        "Integración fe y medicina",
+        "Oración por pacientes"
+      ],
+      "characterTraits": [
+        "Integridad",
+        "Ética",
+        "Bondad"
+      ],
       "lifeGoals": "Reflejar el amor sanador del Mesías en la práctica médica diaria"
     },
     "lifestyle": {
       "dailyRoutine": "Hospital, oración, estudio médico, tiempo familiar",
-      "socialPreferences": ["Consultas", "Grupos de apoyo", "Consejería"],
-      "hobbies": ["Lectura médica", "Caminata", "Tiempo con familia"],
-      "healthHabits": ["Nutrición balanceada", "Ejercicio", "Manejamiento de estrés"]
+      "socialPreferences": [
+        "Consultas",
+        "Grupos de apoyo",
+        "Consejería"
+      ],
+      "hobbies": [
+        "Lectura médica",
+        "Caminata",
+        "Tiempo con familia"
+      ],
+      "healthHabits": [
+        "Nutrición balanceada",
+        "Ejercicio",
+        "Manejo de estrés"
+      ]
     }
   },
+
   {
-    "id": "5",
-    "name": "Jonathan Weiss",
-    "age": 27,
+    "id": "1769954440156",
+    "name": "Carlos Valiente Chiang",
+    "age": 35,
     "gender": "male",
     "maritalStatus": "single",
     "children": 0,
-    "location": "London, UK",
-    "occupation": "Entrepreneur",
-    "observance": ["Neo-Mesiánico"],
+    "location": "Santiago de Cuba, Cuba",
+    "occupation": "Ing Telecomunicaciones",
+    "observance": [
+      "Neo-Mesiánico"
+    ],
     "dietary": "Kosher",
     "calendar": "Gregorian",
-    "quote": "Innovation meets tradition.",
-    "badges": ["Innovator", "Leader"],
+    "quote": "Lámpara a mis pies es tú palabra, lumbrera en mi camino",
+    "badges": [
+      "Fiel",
+      "Comunicador"
+    ],
     "shabbatObserver": true,
     "believesInYeshua": true,
-    "tagline": "La innovación bendecida por la tradición eterna.",
-    "testimony": "En el mundo empresarial moderno, descubrí que los principios de la Torá aplicados con la revelación del Mesías crean empresas con propósito. Mi llamado es equipar a la próxima generación de líderes judíos mesiánicos que puedan impactar el mercado con integridad y visión divina.",
-    "joined": "5782",
-    "congregation": "Messianic Jewish Alliance London",
-    "spiritualReference": "Pastor David Cohen",
-    "contactInfo": "+447911234567",
+    "tagline": "Lámpara a mis pies es tú palabra, lumbrera en mi camino",
+    "testimony": "Busco una conexión significativa con alguien que comparta mi fe y valores. Deseo construir una relación basada en el amor, respeto y compromiso con el camino mesiánico.",
+    "joined": "2026",
+    "congregation": "Sendas Antiguas, camino en la restauración del pueblo de Dios",
+    "spiritualReference": "Iván Martinez",
+    "contactInfo": "+53 54725947",
     "characterAndGrowth": {
-      "spiritualGifts": ["Liderazgo", "Visión", "Innovación"],
-      "personalGrowth": ["Estudio de negocios bíblicos", "Mentoría empresarial"],
-      "characterTraits": ["Integridad", "Perseverancia", "Creatividad"],
-      "lifeGoals": "Crear empresas con propósito que glorifiquen al Creador y bendigan a Israel"
+      "spiritualGifts": [
+        "Enseñanza",
+        "Servicio",
+        "Adoración",
+        "Evangelismo"
+      ],
+      "personalGrowth": [
+        "Oración diaria",
+        "Estudio bíblico",
+        "Compartir fe",
+        "Lectura espiritual",
+        "Alabanza"
+      ],
+      "characterTraits": [
+        "Paciencia",
+        "Humildad",
+        "Respeto",
+        "Honestidad",
+        "Responsabilidad",
+        "Perdón",
+        "Lealtad",
+        "Generosidad"
+      ],
+      "lifeGoals": "Seguir creciendo en mi caminar en Yeshúa, fortaleciendome y obrando de acuerdo a su voluntad, formar una familia en donde todo sea bajo la guianza de la Torah, compartir estas buenas nuevas y avansar hacia la meta, hacia el nuevo hombre cada día poniendo todos mis planes en manos de Adonai"
     },
     "lifestyle": {
-      "dailyRoutine": "Reuniones, estrategia, estudio, redes",
-      "socialPreferences": ["Networking", "Conferencias", "Grupos empresariales"],
-      "hobbies": ["Lectura de negocios", "Viajes", "Tecnología"],
-      "healthHabits": ["Gestión del tiempo", "Ejercicio", "Meditación"]
+      "dailyRoutine": "Oración, trabajo, estudio, tiempo comunitario",
+      "socialPreferences": [
+        "Pequeños grupos",
+        "Deportes",
+        "Actividades al aire libre",
+        "Noches tranquilas",
+        "Viajes",
+        "Arte y cultura"
+      ],
+      "hobbies": [
+        "Lectura",
+        "Música",
+        "Cocina",
+        "Deportes",
+        "Escritura"
+      ],
+      "healthHabits": [
+        "Ejercicio regular",
+        "Tiempo en naturaleza",
+        "Oración"
+      ]
     }
   },
   {
-    "id": "6",
-    "name": "Esther Katz",
-    "age": 29,
+    "id": "1769912096671",
+    "name": "Marlenis Peña Leyva",
+    "age": 58,
     "gender": "female",
-    "maritalStatus": "separated",
+    "maritalStatus": "divorced",
     "children": 1,
-    "location": "Toronto, Canada",
-    "occupation": "Artist",
-    "observance": ["Halájico Tradicional"],
-    "dietary": "Vegetarian",
+    "location": "Las  Tunas,  Cuba",
+    "occupation": "Economía ",
+    "observance": [
+      "Observante de la Torá"
+    ],
+    "dietary": "Vegetarian Kosher",
     "calendar": "Hebrew",
-    "quote": "Art expresses the divine.",
-    "badges": ["Artist", "Creative"],
+    "quote": "Todo lo puedo en Yeshúa que me fortalece ",
+    "badges": [
+      "Fiel",
+      "Comunicador"
+    ],
     "shabbatObserver": true,
     "believesInYeshua": true,
-    "tagline": "El arte divino se manifiesta en cada creación.",
-    "testimony": "El arte siempre fue mi lenguaje para expresar lo inexpresable. Descubrir a Yeshua como el Maestro Artista del universo transformó completamente mi creatividad. Ahora uso mi arte para revelar la belleza del Mesías en cada trazo, cada color y cada forma que mi corazón pueda imaginar.",
-    "joined": "5781",
-    "congregation": "Beit HaOmanut Toronto",
-    "spiritualReference": "Rabí Sarah bat Miriam",
-    "contactInfo": "+14167891234",
+    "tagline": "Todo lo puedo en Yeshúa que me fortalece ",
+    "testimony": "Busco una conexión significativa con alguien que comparta mi fe y valores. Deseo construir una relación basada en el amor, respeto y compromiso con el camino mesiánico.",
+    "joined": "2026",
+    "congregation": "Jazak VeEmatz",
+    "spiritualReference": "Ivan Martinez",
+    "contactInfo": "+53 55263829",
     "characterAndGrowth": {
-      "spiritualGifts": ["Creatividad", "Expresión artística", "Sensibilidad espiritual"],
-      "personalGrowth": ["Técnicas artísticas", "Estudio de la creación"],
-      "characterTraits": ["Imaginación", "Paciencia", "Percepción"],
-      "lifeGoals": "Usar el arte para revelar la belleza divina y el mensaje del Mesías"
+      "spiritualGifts": [
+        "Servicio",
+        "Compasión",
+        "Fe",
+        "Adoración",
+        "Enseñanza"
+      ],
+      "personalGrowth": [
+        "Oración diaria",
+        "Ayuno",
+        "Estudio bíblico",
+        "Comunidad",
+        "Alabanza",
+        "Compartir fe",
+        "Lectura espiritual"
+      ],
+      "characterTraits": [
+        "Amabilidad",
+        "Paciencia",
+        "Humildad",
+        "Compasión",
+        "Honestidad",
+        "Respeto",
+        "Integridad",
+        "Perseverancia",
+        "Generosidad",
+        "Lealtad",
+        "Responsabilidad",
+        "Perdón"
+      ],
+      "lifeGoals": "Vivir para honrar a nuestro Elohim en todo lo que haga,  perseverar en mi carrera hasta la meta que es la llegada de nuestro Adonai "
     },
     "lifestyle": {
-      "dailyRoutine": "Estudio, creación artística, oración, galería",
-      "socialPreferences": ["Exposiciones", "Talleres", "Colaboraciones artísticas"],
-      "hobbies": ["Pintura", "Escultura", "Fotografía"],
-      "healthHabits": ["Ergonomía", "Ejercicio visual", "Tiempo al aire libre"]
+      "dailyRoutine": "Oración matutina, en la actualidad no tengo vínculo laboral , lo que hace que pase mucho tiempo en casa , escuchando música adorando a nuestro Elohim , estudiando las enseñanzas recibidas y las escrituras,  en casa hago las labores domésticas comunes,  visito a mi hijo y mis nietos con regularidad,  estuve ocho años en España y recién he regresado a mi tierra, estas son las cosas que cotidianamente hago en mis días",
+      "socialPreferences": [
+        "Noches tranquilas",
+        "Pequeños grupos"
+      ],
+      "hobbies": [
+        "Música",
+        "Cocina"
+      ],
+      "healthHabits": [
+        "Descanso adecuado",
+        "Hidratación",
+        "Oración"
+      ]
     }
   },
   {
-    "id": "7",
-    "name": "Benjamin Rosen",
-    "age": 31,
-    "gender": "male",
-    "maritalStatus": "single",
-    "children": 0,
-    "location": "Miami, USA",
-    "occupation": "Lawyer",
-    "observance": ["Observante de la Torá"],
-    "dietary": "Kosher",
-    "calendar": "Gregorian",
-    "quote": "Justice and mercy go hand in hand.",
-    "badges": ["Justice Seeker", "Wise"],
-    "shabbatObserver": true,
-    "believesInYeshua": true,
-    "tagline": "La justicia divina se encuentra en la misericordia del Mesías.",
-    "testimony": "Como abogado, busco la justicia en un mundo imperfecto. Mi fe en Yeshua me enseñó que la verdadera justicia se manifiesta cuando la ley se cumple con amor y misericordia, como el Mesías enseñó. Cada caso es una oportunidad para reflejar el carácter justo y compasivo de nuestro Abba.",
-    "joined": "5783",
-    "congregation": "Shaarei Tzedek Miami",
-    "spiritualReference": "Rabí Abraham Levi",
-    "contactInfo": "+13054567890",
-    "characterAndGrowth": {
-      "spiritualGifts": ["Justicia", "Sabiduría", "Defensa"],
-      "personalGrowth": ["Estudio de ley bíblica", "Oración por sabiduría"],
-      "characterTraits": ["Integridad", "Fairness", "Compasión"],
-      "lifeGoals": "Administrar justicia con misericordia según los principios del Mesías"
-    },
-    "lifestyle": {
-      "dailyRoutine": "Cortes, estudio legal, oración, investigación",
-      "socialPreferences": ["Debates", "Conferencias legales", "Consejería"],
-      "hobbies": ["Lectura", "Escritura", "Deportes"],
-      "healthHabits": ["Manejo de estrés", "Ejercicio", "Tiempo familiar"]
-    }
-  },
-  {
-    "id": "8",
-    "name": "Leah Friedman",
-    "age": 26,
+    "id": "1769884573776",
+    "name": "Caridad Páez Gil ",
+    "age": 66,
     "gender": "female",
     "maritalStatus": "single",
-    "children": 0,
-    "location": "Sydney, Australia",
-    "occupation": "Chef",
-    "observance": ["Neo-Mesiánico"],
+    "children": 2,
+    "location": "Cuba",
+    "occupation": "Jubilada ",
+    "observance": [
+      "Observante de la Torá"
+    ],
     "dietary": "Kosher",
-    "calendar": "Hebrew",
-    "quote": "Food is love made edible.",
-    "badges": ["Chef", "Nurturer"],
+    "calendar": "Gregorian",
+    "quote": "Buscando una conexión basada en la fe y los valores compartidos.",
+    "badges": [
+      "Fiel",
+      "Comunicador"
+    ],
     "shabbatObserver": true,
     "believesInYeshua": true,
-    "tagline": "El amor divino se sirve en cada plato kosher.",
-    "testimony": "La cocina siempre fue mi forma de mostrar amor. Descubrir a Yeshua como el Pan de Vida transformó mi comprensión de cómo la comida puede ser un acto de adoración y comunidad divina. Cada plato kosher que preparo es una ofrenda de gratitud al Creador y una forma de nutrir tanto el cuerpo como el alma.",
-    "joined": "5782",
-    "congregation": "Kehilat HaMishpacha Sydney",
-    "spiritualReference": "Pastora Rachel Goldstein",
-    "contactInfo": "+61298765432",
+    "tagline": "Caminando en fe y verdad.",
+    "testimony": "Busco una conexión significativa con alguien que comparta mi fe y valores. Deseo construir una relación basada en el amor, respeto y compromiso con el camino mesiánico.",
+    "joined": "2026",
+    "congregation": "Obdulio Quesada Perez",
+    "spiritualReference": "",
+    "contactInfo": "carypaezgil@gmail.com",
     "characterAndGrowth": {
-      "spiritualGifts": ["Servicio", "Hospitalidad", "Cuidado"],
-      "personalGrowth": ["Cocina kosher creativa", "Estudio de hospitalidad bíblica"],
-      "characterTraits": ["Generosidad", "Creatividad", "Calidez"],
-      "lifeGoals": "Nutrir cuerpos y almas a través de la comida kosher y el amor del Mesías"
+      "spiritualGifts": [
+        "Discernimiento",
+        "Compasión",
+        "Fe",
+        "Evangelismo",
+        "Enseñanza"
+      ],
+      "personalGrowth": [
+        "Oración diaria",
+        "Lectura espiritual",
+        "Estudio bíblico",
+        "Alabanza",
+        "Compartir fe"
+      ],
+      "characterTraits": [
+        "Compasión",
+        "Generosidad",
+        "Lealtad",
+        "Respeto",
+        "Perdón",
+        "Amabilidad",
+        "Humildad",
+        "Perseverancia",
+        "Integridad",
+        "Responsabilidad"
+      ],
+      "lifeGoals": "Crecer espiritualmente y servir al Creador"
     },
     "lifestyle": {
-      "dailyRoutine": "Cocina, oración, estudio, tiempo comunitario",
-      "socialPreferences": ["Comidas comunitarias", "Eventos", "Grupos pequeños"],
-      "hobbies": ["Cocina experimental", "Nutrición", "Recepciones"],
-      "healthHabits": ["Nutrición balanceada", "Actividad física", "Tiempo social"]
+      "dailyRoutine": "Oración, trabajo, estudio, tiempo comunitario",
+      "socialPreferences": [
+        "Grupos pequeños",
+        "Estudio bíblico"
+      ],
+      "hobbies": [
+        "Música",
+        "Cocina",
+        "Jardinería",
+        "Escritura"
+      ],
+      "healthHabits": [
+        "Dieta balanceada",
+        "Descanso adecuado",
+        "Hidratación",
+        "Oración",
+        "Limitar pantalla"
+      ]
+    }
+  },
+  {
+    "id": "1769881725352",
+    "name": "Ana Bertha Rivera Mena",
+    "age": 55,
+    "gender": "female",
+    "maritalStatus": "single",
+    "children": 2,
+    "location": "Cuba",
+    "occupation": "Ama de casa",
+    "observance": [
+      "Observante de la Torá"
+    ],
+    "dietary": "Kosher",
+    "calendar": "Hebrew",
+    "quote": "YHVH= Yeshua ",
+    "badges": [
+      "Fiel",
+      "Comunicador"
+    ],
+    "shabbatObserver": true,
+    "believesInYeshua": true,
+    "tagline": "YHVH= Yeshua ",
+    "testimony": "Busco una conexión significativa con alguien que comparta mi fe y valores. Deseo construir una relación basada en el amor, respeto y compromiso con el camino mesiánico.",
+    "joined": "2026",
+    "congregation": "Jasak VeEmatz ",
+    "spiritualReference": "",
+    "contactInfo": "59090290",
+    "characterAndGrowth": {
+      "spiritualGifts": [
+        "Enseñanza",
+        "Servicio",
+        "Mentoría"
+      ],
+      "personalGrowth": [
+        "Oración diaria",
+        "Estudio bíblico",
+        "Ayuno",
+        "Mentoría",
+        "Servicio voluntario",
+        "Lectura espiritual",
+        "Alabanza",
+        "Compartir fe",
+        "Meditación",
+        "Comunidad"
+      ],
+      "characterTraits": [
+        "Amabilidad",
+        "Paciencia",
+        "Integridad",
+        "Perseverancia",
+        "Generosidad",
+        "Humildad",
+        "Responsabilidad",
+        "Compasión",
+        "Honestidad",
+        "Lealtad",
+        "Perdón",
+        "Respeto"
+      ],
+      "lifeGoals": "Poner los ojos diariamente donde el ladrón no roba ni la polilla corrompe, mi tesoro esta en el cielo, esa es mi meta."
+    },
+    "lifestyle": {
+      "dailyRoutine": "Una vida en shalom.",
+      "socialPreferences": [
+        "Pequeños grupos",
+        "Noches tranquilas",
+        "Viajes",
+        "Arte y cultura"
+      ],
+      "hobbies": [
+        "Lectura",
+        "Música",
+        "Cocina",
+        "Jardinería",
+        "Viajes",
+        "Caminatas"
+      ],
+      "healthHabits": [
+        "Ejercicio regular",
+        "Descanso adecuado",
+        "Meditación",
+        "Tiempo en naturaleza",
+        "Hidratación",
+        "Oración",
+        "Masaje"
+      ]
     }
   }
 ]
