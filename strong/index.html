@@ -81,18 +81,7 @@
             <button id="next-capitulo" class="btn btn-secondary">Capítulo Siguiente</button>
         </div>
         <!-- Indicador de carga para diccionarios Strong -->
-        <div id="loading-dictionaries" class="text-center mb-4">
-            <div class="spinner-border text-primary" role="status">
-                <span class="visually-hidden">Cargando diccionarios...</span>
-            </div>
-            <p class="mt-2">Cargando diccionarios Strong (Hebreo y Griego)...</p>
-            <div class="progress mt-3">
-                <div id="progress-hebreo" class="progress-bar bg-success" role="progressbar" style="width: 0%">Hebreo: 0%</div>
-                <div id="progress-griego" class="progress-bar bg-info" role="progressbar" style="width: 0%">Griego: 0%</div>
-            </div>
-        </div>
-
-        <div id="main-content" style="display: none;">
+        <div id="main-content">
             <div class="row">
                 <div class="col-md-6">
                     <h3>Reina Valera 1960</h3>
@@ -158,45 +147,61 @@
 
         updateVistaOptions();
 
-        async function loadStrongData() {
-            const hebrewFiles = Array.from({length: 868}, (_, i) => `strong_hebrew_pagina_${i+1}.json`);
-            const greekFiles = Array.from({length: 553}, (_, i) => `strong_greek_pagina_${i+1}.json`);
-
-            const loadFiles = async (files, path, target, progressId, totalFiles) => {
-                let loadedCount = 0;
-                const progressBar = document.getElementById(progressId);
+        // Función para cargar un diccionario Strong específico bajo demanda
+        async function loadStrongWord(code) {
+            console.log('Cargando Strong:', code);
+            
+            // Determinar si es hebreo (H) o griego (G)
+            const isHebrew = code.startsWith('H');
+            const isGreek = code.startsWith('G');
+            const prefix = isHebrew ? 'H' : 'G';
+            const basePath = isHebrew ? 'strong_hebreo' : 'strong_griego';
+            const dict = isHebrew ? strongDataHebreo : strongDataGriego;
+            
+            console.log('Es hebreo:', isHebrew, 'Es griego:', isGreek, 'Prefix:', prefix);
+            
+            // Si ya está cargado, retornar inmediatamente
+            if (dict[code]) {
+                console.log('Palabra ya cargada:', dict[code]);
+                return dict[code];
+            }
+            
+            try {
+                // Extraer el número del código Strong
+                const numberStr = isHebrew || isGreek ? code.substring(1) : code;
+                const number = parseInt(numberStr);
+                console.log('Número extraído:', number);
                 
-                for (const file of files) {
-                    try {
-                        const response = await fetch(`${path}/${file}`);
-                        const data = await response.json();
-                        data.forEach(item => {
-                            target[item.cod] = item;
-                        });
-                        loadedCount++;
-                        
-                        // Actualizar barra de progreso
-                        const progress = Math.round((loadedCount / totalFiles) * 100);
-                        if (progressBar) {
-                            progressBar.style.width = `${progress}%`;
-                            progressBar.textContent = `${progressId.includes('hebreo') ? 'Hebreo' : 'Griego'}: ${progress}%`;
-                        }
-                    } catch (e) {
-                        // Ignorar archivos que no existen
-                        loadedCount++;
-                    }
+                // Calcular el archivo que contiene este código (agrupando por 10)
+                const fileNumber = Math.ceil(number / 10);
+                const fileName = `strong_${isHebrew ? 'hebrew' : 'greek'}_pagina_${fileNumber}.json`;
+                console.log('Buscando archivo:', fileName);
+                
+                // Cargar el archivo
+                const response = await fetch(`${basePath}/${fileName}`);
+                if (!response.ok) {
+                    console.error(`No se pudo cargar el archivo ${fileName}, status:`, response.status);
+                    return null;
                 }
-            };
-
-            // Cargar diccionarios en paralelo pero actualizar progreso individualmente
-            await Promise.all([
-                loadFiles(hebrewFiles, 'strong_hebreo', strongDataHebreo, 'progress-hebreo', hebrewFiles.length),
-                loadFiles(greekFiles, 'strong_griego', strongDataGriego, 'progress-griego', greekFiles.length)
-            ]);
-
-            // Ocultar indicadores de carga y mostrar contenido principal
-            document.getElementById('loading-dictionaries').style.display = 'none';
-            document.getElementById('main-content').style.display = 'block';
+                
+                const data = await response.json();
+                console.log(`Archivo cargado con ${data.length} palabras`);
+                
+                // Almacenar todas las palabras del archivo cargado CON prefijo
+                data.forEach(item => {
+                    const key = prefix + item.cod;
+                    dict[key] = item;
+                });
+                
+                // Retornar la palabra solicitada
+                const result = dict[code];
+                console.log('Resultado:', result ? 'Encontrado' : 'No encontrado', 'para código:', code);
+                console.log('Diccionario tiene:', Object.keys(dict).length, 'entradas');
+                return result || null;
+            } catch (error) {
+                console.error('Error cargando palabra Strong:', error);
+                return null;
+            }
         }
 
         function populateLibros() {
@@ -233,32 +238,161 @@
         }
 
         function getFilePrefix(libro, testamento) {
-            if (testamento === 'AT') {
-                const prefixMapAT = {
-                    '1 samuel': '1ra',
-                    '2 samuel': '2da',
-                    '1 reyes': '1ra',
-                    '2 reyes': '2da',
-                    '1 crónicas': '1ra',
-                    '2 crónicas': '2da'
-                };
-                return prefixMapAT[libro] || libro;
-            } else {
-                const prefixMapNT = {
-                    '1 corintios': '1ra corintios',
-                    '2 corintios': '2da corintios',
-                    '1 tesalonicenses': '1ra tesalonicenses',
-                    '2 tesalonicenses': '2da tesalonicenses',
-                    '1 timoteo': '1ra timoteo',
-                    '2 timoteo': '2da timoteo',
-                    '1 pedro': '1ra pedro',
-                    '2 pedro': '2da pedro',
-                    '1 juan': '1ra juan',
-                    '2 juan': '2da juan',
-                    '3 juan': '3ra juan'
-                };
-                return prefixMapNT[libro] || libro;
-            }
+            // Mapa de prefijos para nombres de archivo (sin caracteres especiales)
+            const prefixMap = {
+                // Antiguo Testamento
+                '1 samuel': '1ra',
+                '2 samuel': '2da',
+                '1 reyes': '1ra',
+                '2 reyes': '2da',
+                '1 crónicas': '1ra',
+                '2 crónicas': '2da',
+                'levítico': 'levíticos',
+                'números': 'números',
+                'josué': 'josué',
+                'jueces': 'jueces',
+                'rut': 'rut',
+                'esdras': 'esdras',
+                'nehemías': 'nehemías',
+                'eclesiastés': 'eclesiastés',
+                'cantares': 'cantares',
+                'isaías': 'isaías',
+                'jeremías': 'jeremías',
+                'ezequiel': 'ezequiel',
+                'daniel': 'daniel',
+                'oseas': 'oseas',
+                'joel': 'joel',
+                'amós': 'amós',
+                'abdías': 'abdías',
+                'jonás': 'jonás',
+                'miqueas': 'miqueas',
+                'nahúm': 'nahúm',
+                'habacuc': 'habacuc',
+                'sofonías': 'sofonías',
+                'hageo': 'hageo',
+                'zacarías': 'zacarías',
+                'malaquías': 'malaquías',
+                'génesis': 'génesis',
+                'éxodo': 'éxodo',
+                'lamentaciones': 'lamentaciones',
+                'ester': 'ester',
+                'job': 'job',
+                'proverbios': 'proverbios',
+                'salmos': 'salmos',
+                
+                // Nuevo Testamento
+                '1 corintios': '1ra corintios',
+                '2 corintios': '2da corintios',
+                '1 tesalonicenses': '1ra tesalonicenses',
+                '2 tesalonicenses': '2da tesalonicenses',
+                '1 timoteo': '1ra timoteo',
+                '2 timoteo': '2da timoteo',
+                '1 pedro': '1ra pedro',
+                '2 pedro': '2da pedro',
+                '1 juan': '1ra juan',
+                '2 juan': '2da juan',
+                '3 juan': '3ra juan',
+                'filemón': 'filemón',
+                'mateo': 'mateo',
+                'marcos': 'marcos',
+                'lucas': 'lucas',
+                'juan': 'juan',
+                'hechos': 'hechos',
+                'romanos': 'romanos',
+                'gálatas': 'galatas',
+                'efesios': 'efesios',
+                'filipenses': 'filipenses',
+                'colosenses': 'colosenses',
+                'tito': 'tito',
+                'hebreos': 'hebreos',
+                'santiago': 'santiago',
+                'judas': 'judas',
+                'apocalipsis': 'apocalipsis'
+            };
+            
+            // Retornar el prefijo del archivo (sin modificar el nombre del libro para la ruta)
+            return prefixMap[libro.toLowerCase()] || libro;
+        }
+
+        // Función para normalizar nombres de libros según la estructura de carpetas
+        function getLibroPath(libro) {
+            // Mapa de nombres de libros a nombres de carpetas
+            const libroToFolderMap = {
+                // Antiguo Testamento
+                'génesis': 'génesis',
+                'éxodo': 'éxodo',
+                'levítico': 'levítico',
+                'números': 'números',
+                'deuteronomio': 'deuteronomio',
+                'josué': 'josué',
+                'jueces': 'jueces',
+                'rut': 'rut',
+                '1 samuel': '1 samuel',
+                '2 samuel': '2 samuel',
+                '1 reyes': '1 reyes',
+                '2 reyes': '2 reyes',
+                '1 crónicas': '1 crónicas',
+                '2 crónicas': '2 crónicas',
+                'esdras': 'esdras',
+                'nehemías': 'nehemías',
+                'ester': 'ester',
+                'job': 'job',
+                'salmos': 'salmos',
+                'proverbios': 'proverbios',
+                'eclesiastés': 'eclesiastés',
+                'cantares': 'cantares',
+                'isaías': 'isaías',
+                'jeremías': 'jeremías',
+                'lamentaciones': 'lamentaciones',
+                'ezequiel': 'ezequiel',
+                'daniel': 'daniel',
+                'oseas': 'oseas',
+                'joel': 'joel',
+                'amós': 'amós',
+                'abdías': 'abdías',
+                'jonás': 'jonás',
+                'miqueas': 'miqueas',
+                'nahúm': 'nahúm',
+                'habacuc': 'habacuc',
+                'sofonías': 'sofonías',
+                'hageo': 'hageo',
+                'zacarías': 'zacarías',
+                'malaquías': 'malaquías',
+                
+                // Nuevo Testamento (nombres de archivo sin tildes)
+                'mateo': 'mateo',
+                'marcos': 'marcos',
+                'lucas': 'lucas',
+                'juan': 'juan',
+                'hechos': 'hechos',
+                'romanos': 'romanos',
+                '1 corintios': '1 corintios',
+                '2 corintios': '2 corintios',
+                'gálatas': 'galatas',  // Sin tilde en el nombre del archivo
+                'efesios': 'efesios',
+                'filipenses': 'filipenses',
+                'colosenses': 'colosenses',
+                '1 tesalonicenses': '1 tesalonicenses',
+                '2 tesalonicenses': '2 tesalonicenses',
+                '1 timoteo': '1 timoteo',
+                '2 timoteo': '2 timoteo',
+                'tito': 'tito',
+                'filemón': 'filemón',
+                'hebreos': 'hebreos',
+                'santiago': 'santiago',
+                '1 pedro': '1 pedro',
+                '2 pedro': '2 pedro',
+                '1 juan': '1 juan',
+                '2 juan': '2 juan',
+                '3 juan': '3 juan',
+                'judas': 'judas',
+                'apocalipsis': 'apocalipsis'
+            };
+            
+            // Si el libro está en el mapa, devolver el nombre de la carpeta correspondiente
+            // De lo contrario, usar el nombre del libro en minúsculas
+            const libroLower = libro.toLowerCase();
+            return libroToFolderMap[libroLower] || libroLower;
         }
 
         async function loadCapitulo() {
@@ -270,22 +404,54 @@
 
             const testamento = document.getElementById('testamento').value;
             currentTestament = testamento;
-            const libro = document.getElementById('libro').value;
+            let libro = document.getElementById('libro').value;
             const capitulo = document.getElementById('capitulo').value;
             const prefix = getFilePrefix(libro, testamento);
+            
+            // Obtener el nombre correcto de la carpeta para el libro
+            const libroFolder = getLibroPath(libro);
+            
+            // Codificar solo la parte del libro en la URL
+            const libroPath = encodeURIComponent(libroFolder);
+            
+            console.log('Cargando capítulo:', { 
+                testamento, 
+                libro, 
+                libroFolder,
+                capitulo, 
+                prefix,
+                libroPath
+            });
 
             const versiculos = [];
             let versiculo = 1;
-            while (true) {
-                const path = `${testamento}/${libro}/${prefix}_${capitulo}_${versiculo}.json`;
+            let errorCount = 0;
+            const maxErrors = 3; // Número máximo de errores consecutivos permitidos
+
+            while (errorCount < maxErrors) {
+                // Construir la ruta con el nombre de carpeta correcto
+                // Usar el prefijo para el nombre del archivo (sin tildes) y libroPath para la carpeta (con tildes si es necesario)
+                const fileName = `${prefix}_${capitulo}_${versiculo}.json`.toLowerCase();
+                const path = `${testamento}/${libroPath}/${fileName}`;
+                console.log('Intentando cargar:', path);
+                
                 try {
                     const response = await fetch(path);
-                    if (!response.ok) break;
+                    if (!response.ok) {
+                        console.log('Respuesta no OK para versículo', versiculo, ':', response.status);
+                        errorCount++;
+                        versiculo++;
+                        continue;
+                    }
                     const data = await response.json();
                     versiculos.push(data);
+                    console.log('Versículo cargado:', versiculo);
                     versiculo++;
+                    errorCount = 0; // Reiniciar contador de errores
                 } catch (error) {
-                    break;
+                    console.error('Error cargando versículo', versiculo, ':', error);
+                    errorCount++;
+                    versiculo++;
                 }
             }
             displayCapitulo(versiculos);
@@ -334,36 +500,125 @@
                 const strongDiv = document.createElement('div');
                 strongDiv.id = `${versiculoId}-strong`;
                 strongDiv.className = 'versiculo-hover';
-                const idioma = currentTestament === 'AT' ? 'hebreo' : 'griego';
-                 const words = data.analisisInterlineal.map(item => {
-                     const original = currentTestament === 'AT' ? item.hebreo : item.texto;
-                     return `<span class="word" data-bs-toggle="popover" data-bs-placement="top" data-strong="${item.strongNumber}" data-idioma="${idioma}" data-traduccion="${item.traduccion}" data-original="${original}">${item.traduccion}</span>`;
-                 }).join(' ');
+                const idiomaEsperado = currentTestament === 'AT' ? 'hebreo' : 'griego';
+                const prefix = currentTestament === 'AT' ? 'H' : 'G';
+                const words = data.analisisInterlineal.map(item => {
+                    const original = currentTestament === 'AT' ? item.hebreo : item.texto;
+                    let strongNumber = item.strongNumber || item.strong;
+                    
+                    // Solo mostrar popover si hay un código Strong válido
+                    if (!strongNumber) {
+                        return `<span>${item.traduccion}</span>`;
+                    }
+                    
+                    // Agregar prefijo H o G según el testamento si no lo tiene
+                    if (!isNaN(strongNumber)) {
+                        strongNumber = prefix + strongNumber;
+                    }
+                    
+                    return `<span class="word" data-bs-toggle="popover" data-bs-placement="top" data-strong="${strongNumber}" data-idioma="${idiomaEsperado}" data-traduccion="${item.traduccion}" data-original="${original}">${item.traduccion}</span>`;
+                }).join(' ');
                 strongDiv.innerHTML = `<p><sup>${versiculoNum}</sup> ${words}</p>`;
                 textoStrongDiv.appendChild(strongDiv);
             });
         }
 
-
         // Función para inicializar popovers
         function initPopovers() {
             const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]');
             [...popoverTriggerList].forEach(popoverTriggerEl => {
+                // Evitar inicializar múltiples veces
+                if (popoverTriggerEl.dataset.popoverInitialized === 'true') return;
+                popoverTriggerEl.dataset.popoverInitialized = 'true';
+                
                 const strongNumber = popoverTriggerEl.dataset.strong;
+                console.log('Inicializando popover para:', strongNumber);
                 const idioma = popoverTriggerEl.dataset.idioma;
-                const data = idioma === 'hebreo' ? strongDataHebreo : strongDataGriego;
-                const def = data[strongNumber];
                 const palabraOrig = popoverTriggerEl.dataset.original;
                 const title = idioma === 'hebreo' ? `<span style="direction: rtl; display: inline-block;">${palabraOrig}</span>` : palabraOrig;
-                const content = def ? `<strong>${palabraOrig}</strong> (${def.pron})<br>${def.definicion}` : 'Definición no encontrada.';
+                
+                // Contenido inicial con spinner de carga
+                const loadingContent = `
+                    <div class="d-flex align-items-center">
+                        <div class="spinner-border spinner-border-sm me-2" role="status">
+                            <span class="visually-hidden">Cargando...</span>
+                        </div>
+                        <span>Cargando definición...</span>
+                    </div>
+                `;
+                
                 const popover = new bootstrap.Popover(popoverTriggerEl, {
                     title: title,
-                    content: content,
                     html: true,
                     placement: 'top',
-                    trigger: 'click focus'
+                    trigger: 'click',
+                    content: loadingContent
+                });
+                
+                // Cargar la definición SOLO cuando se muestra este popover específico
+                popoverTriggerEl.addEventListener('shown.bs.popover', async function() {
+                    // Evitar cargas múltiples simultáneas
+                    if (popoverTriggerEl.dataset.loading === 'true') return;
+                    
+                    // Si ya se cargó la definición, no hacer nada
+                    if (popoverTriggerEl.dataset.loaded === 'true') return;
+                    
+                    popoverTriggerEl.dataset.loading = 'true';
+                    
+                    try {
+                        const strongData = await loadStrongWord(strongNumber);
+                        let content;
+                        if (strongData) {
+                            content = `<strong>${strongData.palabra_original || palabraOrig}</strong> (${strongData.transliteracion || strongData.pron || ''})<br>${strongData.definicion || 'No disponible'}`;
+                        } else {
+                            content = '<span class="text-danger">Definición no encontrada.</span>';
+                        }
+                        
+                        // Actualizar el contenido del popover específico de este elemento
+                        const popoverInstance = bootstrap.Popover.getInstance(popoverTriggerEl);
+                        if (popoverInstance && popoverInstance.tip) {
+                            const popoverBody = popoverInstance.tip.querySelector('.popover-body');
+                            if (popoverBody) {
+                                popoverBody.innerHTML = content;
+                            }
+                        }
+                        
+                        // Marcar como cargado
+                        popoverTriggerEl.dataset.loaded = 'true';
+                    } catch (error) {
+                        console.error('Error al cargar definición:', error);
+                        const popoverInstance = bootstrap.Popover.getInstance(popoverTriggerEl);
+                        if (popoverInstance && popoverInstance.tip) {
+                            const popoverBody = popoverInstance.tip.querySelector('.popover-body');
+                            if (popoverBody) {
+                                popoverBody.innerHTML = '<span class="text-danger">Error al cargar la definición.</span>';
+                            }
+                        }
+                    } finally {
+                        popoverTriggerEl.dataset.loading = 'false';
+                    }
                 });
             });
+        }
+
+        async function updateWords(vista) {
+            const words = document.querySelectorAll('.word');
+            for (const word of words) {
+                const code = word.getAttribute('data-strong');
+                if (!code) continue;
+                
+                const isHebrew = code.startsWith('H');
+                
+                // Mostrar/ocultar según la vista seleccionada
+                if (vista !== 'todos' && 
+                    ((vista === 'hebreo' && !isHebrew) || 
+                     (vista === 'griego' && isHebrew))) {
+                    word.style.display = 'none';
+                    continue;
+                }
+                
+                word.style.display = 'inline';
+            }
         }
 
         document.addEventListener('mouseover', function(e) {
@@ -385,30 +640,11 @@
                 const baseId = id.replace('-rv', '').replace('-strong', '');
                 const rvDiv = document.getElementById(`${baseId}-rv`);
                 const strongDiv = document.getElementById(`${baseId}-strong`);
-                if (rvDiv) rvDiv.style.backgroundColor = '';
-                if (strongDiv) strongDiv.style.backgroundColor = '';
+                
+                if (rvDiv) rvDiv.classList.remove('bg-warning', 'bg-opacity-25');
+                if (strongDiv) strongDiv.classList.remove('bg-warning', 'bg-opacity-25');
             }
         });
-
-        function updateWords(vista) {
-            const words = document.querySelectorAll('.word');
-            words.forEach(word => {
-                const idioma = word.dataset.idioma;
-                if (vista === 'todos') {
-                    word.innerHTML = word.dataset.traduccion;
-                    word.style.direction = 'ltr';
-                } else if (vista === 'hebreo' && idioma === 'hebreo') {
-                    word.innerHTML = word.dataset.original;
-                    word.style.direction = 'rtl';
-                } else if (vista === 'griego' && idioma === 'griego') {
-                    word.innerHTML = word.dataset.original;
-                    word.style.direction = 'ltr';
-                } else {
-                    word.innerHTML = word.dataset.traduccion;
-                    word.style.direction = 'ltr';
-                }
-            });
-        }
 
         document.getElementById('testamento').addEventListener('change', populateLibros);
         document.getElementById('libro').addEventListener('change', populateCapitulos);
@@ -512,9 +748,7 @@
         });
 
         // Inicializar
-        loadStrongData().then(() => {
-            populateLibros();
-        });
+        populateLibros();
 
     </script>
 </body>
