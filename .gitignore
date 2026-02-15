@@ -53,3 +53,11 @@
 
 # Don't ignore .gitignore itself
 !.gitignore
+
+# Asegurarse de que los directorios de presentaciones no sean ignorados
+!presentaciones/**
+!presentaciones/slides/**
+!presentaciones/slides/mishpatim_normas_divinas/**
+!presentaciones/slides/mishpatim_orden_decretos_transformadores/**
+!presentaciones/slides/retorno_raices_hebreas/**
+!presentaciones/slides/yitro_de_esclavos_a_sacerdotes/**
