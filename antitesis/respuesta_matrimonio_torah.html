@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Un Corazón en Busca de Respuesta | Jazak Veematz</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Georgia', serif;
+            line-height: 1.8;
+            color: #333;
+            background: linear-gradient(135deg, #f5f0e8 0%, #e8e0d5 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .header {
+            text-align: center;
+            padding: 40px 0;
+            border-bottom: 3px solid #8b6914;
+            margin-bottom: 40px;
+        }
+
+        .header h1 {
+            color: #5d4e37;
+            font-size: 2.2em;
+            margin-bottom: 15px;
+            font-weight: normal;
+        }
+
+        .header .subtitle {
+            color: #8b6914;
+            font-style: italic;
+            font-size: 1.1em;
+        }
+
+        .greeting {
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+            border-left: 5px solid #8b6914;
+        }
+
+        .greeting p {
+            font-size: 1.1em;
+            color: #5d4e37;
+            margin-bottom: 15px;
+        }
+
+        .section {
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+
+        .section h2 {
+            color: #5d4e37;
+            font-size: 1.5em;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #e8e0d5;
+        }
+
+        .section h3 {
+            color: #8b6914;
+            font-size: 1.2em;
+            margin: 25px 0 15px 0;
+        }
+
+        .section p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+
+        .highlight-box {
+            background: #f9f5ed;
+            border-left: 4px solid #8b6914;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .highlight-box p {
+            margin: 0;
+            font-style: italic;
+            color: #5d4e37;
+        }
+
+        .scripture {
+            background: #f5f0e8;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            font-style: italic;
+            color: #5d4e37;
+            border: 1px solid #d4c9b8;
+        }
+
+        .scripture cite {
+            display: block;
+            margin-top: 10px;
+            font-style: normal;
+            font-weight: bold;
+            color: #8b6914;
+        }
+
+        .principles-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .principles-list li {
+            padding: 15px 0 15px 40px;
+            position: relative;
+            border-bottom: 1px solid #e8e0d5;
+        }
+
+        .principles-list li:last-child {
+            border-bottom: none;
+        }
+
+        .principles-list li::before {
+            content: "✦";
+            position: absolute;
+            left: 10px;
+            color: #8b6914;
+            font-size: 1.2em;
+        }
+
+        .counsel-box {
+            background: linear-gradient(135deg, #5d4e37 0%, #8b6914 100%);
+            color: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            margin: 30px 0;
+        }
+
+        .counsel-box h3 {
+            color: #f5f0e8;
+            margin-top: 0;
+        }
+
+        .counsel-box p {
+            color: #f5f0e8;
+        }
+
+        .reflection {
+            background: #f9f5ed;
+            padding: 25px;
+            border-radius: 10px;
+            margin: 30px 0;
+            text-align: center;
+        }
+
+        .reflection p {
+            font-size: 1.1em;
+            color: #5d4e37;
+            font-style: italic;
+        }
+
+        .closing {
+            text-align: center;
+            padding: 40px 0;
+            border-top: 3px solid #8b6914;
+            margin-top: 40px;
+        }
+
+        .closing p {
+            color: #5d4e37;
+            font-size: 1.1em;
+            margin-bottom: 15px;
+        }
+
+        .shalom {
+            font-size: 1.5em;
+            color: #8b6914;
+            font-weight: bold;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px 15px;
+            }
+
+            .header h1 {
+                font-size: 1.8em;
+            }
+
+            .section {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Un Corazón en Busca de Respuesta</h1>
+            <p class="subtitle">Sobre el matrimonio, la Torah y las celebraciones</p>
+        </header>
+
+        <div class="greeting">
+            <p>Querida hermana,</p>
+            <p>Primero, queremos reconocer la valentía que has tenido al abrir tu corazón y expresar tu dolor. Tus sentimientos son válidos, y el hecho de que busques discernimiento entre tus emociones y la obediencia a la Torah demuestra una madurez espiritual que el Eterno valora.</p>
+            <p>Has dicho: <em>"No quiero que mis sentimientos de mujer más frágiles me jueguen en contra para llevar la palabra de nuestro Señor con total obediencia."</em> Esta disposición es hermosa, pero también debemos recordarte que el Eterno creó esos sentimientos en ti, y no son enemigos de la Torah cuando se entienden correctamente.</p>
+        </div>
+
+        <section class="section">
+            <h2>📖 La Torah y los Cumpleaños</h2>
+            
+            <p>Tu esposo tiene razón en un aspecto importante: <strong>la Torah no ordena celebrar cumpleaños</strong>. Los únicos ejemplos bíblicos donde se mencionan cumpleaños están en contextos paganos:</p>
+            
+            <div class="scripture">
+                <p>"Al tercer día, que era el día de cumpleaños de Faraón, el rey hizo banquete a todos sus sirvientes..."</p>
+                <cite>Génesis 40:20</cite>
+            </div>
+            
+            <div class="scripture">
+                <p>"Pero cuando se celebraba el cumpleaños de Herodes, la hija de Herodías danzó en medio... y pidió la cabeza de Juan el Bautista."</p>
+                <cite>Mateo 14:6</cite>
+            </div>
+
+            <p>Ambos ejemplos son de gobernantes paganos, y las celebraciones están marcadas por excesos, vanidad y violencia. Los elementos modernos de cumpleaños (velitas, soplar deseos, exaltación personal) tienen raíces paganas que no honran al Eterno.</p>
+
+            <div class="highlight-box">
+                <p><strong>Sin embargo:</strong> Tampoco hay un mandamiento que prohíba agradecer al Eterno por un año más de vida. La clave está en el <strong>enfoque</strong>: ¿se trata de exaltar al yo, o de agradecer y honrar al Creador?</p>
+            </div>
+
+            <h3>¿Qué dice la Torah sobre honrar la vida?</h3>
+            
+            <div class="scripture">
+                <p>"Enséñanos de tal modo a contar nuestros días, que traigamos al corazón sabiduría."</p>
+                <cite>Salmo 90:12</cite>
+            </div>
+
+            <p>La Torah celebra la vida, pero nos llama a contar nuestros días con propósito y sabiduría, no con autoexaltación. Un día de agradecimiento al Eterno, de reflexión, de servir a otros —eso es diferente a una celebración pagana centrada en el yo.</p>
+        </section>
+
+        <section class="section">
+            <h2>💑 El Matrimonio y la Responsabilidad del Varón</h2>
+            
+            <p>Aquí es donde debemos hablar con mayor profundidad. Tu esposo está aplicando una verdad parcial (que los cumpleaños no son mandato bíblico), pero parece estar descuidando un mandamiento mucho más fundamental: <strong>el amor y cuidado hacia su esposa</strong>.</p>
+
+            <h3>La responsabilidad del varón según la Torah</h3>
+            
+            <p>En el pensamiento hebreo, la palabra <strong>Mishmeret</strong> (responsabilidad) implica guardar, proteger y custodiar lo que el Eterno ha confiado. El varón fue creado para ser <strong>cobertura espiritual</strong> de su hogar.</p>
+
+            <div class="scripture">
+                <p>"No es bueno que el hombre esté levadó [para sí mismo/centrado en sí mismo]."</p>
+                <cite>Génesis 2:18 (traducción literal del hebreo)</cite>
+            </div>
+
+            <p>La Torah enseña que el mayor enemigo del varón es el <strong>egoísmo</strong> (levadó): vivir centrado en sí mismo, buscando ser servido en lugar de servir. Un varón que aplica "obediencia" a la Torah pero descuida el bienestar emocional de su esposa está actuando con el mismo espíritu que critica: legalismo sin amor.</p>
+
+            <div class="counsel-box">
+                <h3>⚠️ Advertencia importante</h3>
+                <p>El apóstol Pablo advirtió contra una obediencia rígida a la letra sin el espíritu:</p>
+                <p style="margin-top: 15px;">"El cual asimismo nos hizo ministros competentes de un nuevo pacto, <strong>no de la letra, sino del espíritu; porque la letra mata, mas el espíritu vivifica</strong>."</p>
+                <p style="font-size: 0.9em; margin-top: 10px;">— 2 Corintios 3:6</p>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>🕯️ Entendiendo el "Espíritu de la Torah"</h2>
+            
+            <p>Cada mandamiento de la Torah tiene dos aspectos:</p>
+            
+            <ol class="principles-list">
+                <li><strong>El aspecto físico:</strong> La aplicación práctica en su contexto histórico y cultural.</li>
+                <li><strong>El aspecto espiritual:</strong> El principio eterno detrás del mandamiento que trasciende el tiempo.</li>
+            </ol>
+
+            <p>Cuando tu esposo dice "las vacaciones no son bíblicas" porque "se trabaja 6 días y el 7 es reposo", está interpretando la letra sin el espíritu. Sí, el modelo ideal es trabajar 6 días y guardar el Shabbat, pero la Torah también enseña:</p>
+
+            <div class="scripture">
+                <p>"El Shabbat fue hecho por causa del hombre, y no el hombre por causa del Shabbat."</p>
+                <cite>Marcos 2:27</cite>
+            </div>
+
+            <p>El propósito del Shabbat es bendecir al hombre, no convertirse en una carga legalista. Del mismo modo, el propósito del matrimonio es bendecirnos mutuamente, no cumplir un código sin amor.</p>
+        </section>
+
+        <section class="section">
+            <h2>❤️ El Amor Hebreo: Más Allá de las Emociones</h2>
+            
+            <p>En nuestra cultura moderna, el amor se ve como un sentimiento pasajero, algo que sentimos o dejamos de sentir. Pero en hebreo, el amor (<strong>Ahavah</strong>) es un <strong>verbo de acción</strong>.</p>
+
+            <div class="highlight-box">
+                <p>El amor hebreo significa: <strong>YO DOY, YO ME COMPROMETO</strong>. No es "qué recibo" sino "qué entrego".</p>
+            </div>
+
+            <p>Tu esposo podría no sentir "emoción" por celebrar un aniversario, pero el amor no se mide por emociones —se mide por acciones de servicio y cuidado.</p>
+
+            <h3>¿Qué dice la Torah sobre el trato al cónyuge?</h3>
+            
+            <div class="scripture">
+                <p>"Vosotros, maridos, amad a vuestras mujeres, así como el Mesías amó a la congregación y se entregó por ella."</p>
+                <cite>Efesios 5:25</cite>
+            </div>
+
+            <p>Yeshua no esperó a "sentir" amor para entregarse —Él amó con acciones, hasta el extremo. Este es el modelo para el varón: amar con acciones concretas de cuidado, atención y servicio.</p>
+        </section>
+
+        <section class="section">
+            <h2>🤝 Una Palabra para Ambos</h2>
+            
+            <h3>Para ti, querida hermana:</h3>
+            
+            <p>Tus sentimientos de tristeza no te hacen "mujer frágil" ni te alejan de la Torah. El Eterno creó en ti la necesidad de ser amada, valorada y recordada. Esto es parte de ser <strong>ezer kenegdo</strong> (ayuda idónea): complementar a tu esposo en áreas donde él necesita crecer.</p>
+
+            <div class="highlight-box">
+                <p><strong>No es pecado desear ser saludada</strong> en tu día especial o en el aniversario. Lo que sería incorrecto es exigir celebraciones paganas o volverse amargada si no sucede.</p>
+            </div>
+
+            <p>Te animamos a:</p>
+            <ul class="principles-list">
+                <li>Hablar con tu esposo con <strong>honestidad</strong> sobre cómo te sientes, no con acusación sino expresando tu necesidad de sentirte valorada.</li>
+                <li>Buscar momentos de conexión que no dependan de "días especiales" —un matrimonio sano florece en el día a día.</li>
+                <li>Recordar que tu valor no depende de ser recordada en ciertos días, sino de quién eres ante el Eterno.</li>
+            </ul>
+
+            <h3>Para tu esposo (si está leyendo esto):</h3>
+            
+            <p>Hermano, es admirable que quieras obedecer la Torah con integridad. Pero la Torah completa incluye el mandamiento de amar a tu esposa como a ti mismo. Descuidar sus necesidades emocionales no es "obediencia" —es egoísmo disfrazado de piedad.</p>
+
+            <p>El varón justo (<strong>Sadik</strong>) es descrito en Salmos 37:30:</p>
+            
+            <div class="scripture">
+                <p>"La boca del justo habla sabiduría, su lengua habla justicia. La Torá de su Elohim está en su corazón; por tanto, sus pies no resbalarán."</p>
+                <cite>Salmos 37:30-31</cite>
+            </div>
+
+            <p>Nota que el justo tiene Torá en el <strong>corazón</strong>, no solo en la cabeza. Esto se refleja en cómo trata a su familia. No se trata de celebrar cumpleaños paganos, pero sí de reconocer a tu esposa, valorarla, y cuidar su corazón.</p>
+
+            <div class="counsel-box">
+                <h3>Principio clave:</h3>
+                <p>El varón fue creado para <strong>salir de sí mismo</strong> (no vivir levadó). Cuando dices "no celebro cumpleaños porque no es bíblico" pero ignoras el dolor de tu esposa, estás viviendo para ti mismo, no para servirla.</p>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>🌱 Un Camino Posible</h2>
+            
+            <p>No se trata de elegir entre "obedecer la Torah" o "satisfacer emociones". Se trata de encontrar el <strong>espíritu de la Torah</strong>: amor, servicio, gratitud, cuidado mutuo.</p>
+
+            <h3>Algunas sugerencias prácticas:</h3>
+            
+            <ol class="principles-list">
+                <li><strong>Para aniversarios:</strong> No es necesario una gran fiesta, pero sí una pausa para agradecer al Eterno por el matrimonio y renovar el compromiso mutuo.</li>
+                <li><strong>Para cumpleaños:</strong> En lugar de celebraciones paganas, puede ser un día de oración, agradecimiento al Eterno por la vida, y actos de servicio (dar, no recibir).</li>
+                <li><strong>Para el matrimonio:</strong> Establecer momentos regulares de conexión —caminatas, estudios de Torá juntos, oración —que nutran la relación más allá de fechas específicas.</li>
+                <li><strong>Comunicación:</strong> Hablar abiertamente sobre expectativas, entendiendo que tú necesitas sentirte valorada y él necesita entender que no se trata de paganesimo, sino de conexión.</li>
+            </ol>
+        </section>
+
+        <div class="reflection">
+            <p>"El amor es paciente, es bondadoso. El amor no es envidioso ni jactancioso ni orgulloso. No se comporta con rudeza, no es egoísta, no se enoja fácilmente, no guarda rencor."</p>
+            <p style="margin-top: 15px; font-style: normal; font-weight: bold; color: #8b6914;">— 1 Corintios 13:4-5</p>
+        </div>
+
+        <section class="section">
+            <h2>✨ Palabras Finales</h2>
+            
+            <p>Querida hermana, tu corazón es precioso ante el Eterno. No estás equivocada por sentir tristeza. El Eterno diseñó el matrimonio para ser una relación de amor, cuidado y mutualidad.</p>
+
+            <p>Pero también te animamos a no dejar que esta situación te amargue. Tu esposo está en un proceso de crecimiento, como todos nosotros. Ora por él, habla con él con amor, y confía en que el Eterno puede tocar su corazón.</p>
+
+            <div class="highlight-box">
+                <p>Recuerda: <strong>La obediencia sin amor es religiosidad vacía, pero el amor sin principios es sentimentalismo sin fundamento.</strong> La Torah nos llama a ambos: a obedecer con amor, y a amar con obediencia.</p>
+            </div>
+
+            <p>Que el Eterno les dé sabiduría a ambos para encontrar el equilibrio, para construir un matrimonio que honre la Torah desde el corazón, y para crecer juntos en este camino de restauración.</p>
+        </section>
+
+        <div class="closing">
+            <p>Con amor y respeto,</p>
+            <p>La comunidad de Jazak Veematz</p>
+            <p class="shalom">Shalom U'V'rachá</p>
+            <p style="font-size: 0.9em; color: #666; margin-top: 20px;">
+                "Esfuérzate y sé valiente... porque el Eterno tu Elohim estará contigo en dondequiera que vayas."<br>
+                — Josué 1:9
+            </p>
+        </div>
+    </div>
+</body>
+</html>

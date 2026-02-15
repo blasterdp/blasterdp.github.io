@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuestionario Bíblico</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Cuestionario Bíblico</h1>
+        </header>
+        
+        <main>
+            <div class="quiz-container">
+                <div class="quiz-header">
+                    <div class="timer">
+                        Tiempo: <span id="quiz-time">00:00</span>
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-bar" id="progress-bar"></div>
+                    </div>
+                    <div class="question-counter" id="question-counter">Pregunta 1 de 3</div>
+                </div>
+                
+                <div class="question-container">
+                    <h2 id="question-text"></h2>
+                    <div id="options-container" class="options-container">
+                        <!-- Las opciones se generarán dinámicamente -->
+                    </div>
+                </div>
+                
+                <div id="feedback" class="feedback hidden">
+                    <div id="hint" class="hint"></div>
+                    <div id="explanation" class="explanation"></div>
+                    <button id="next-question" class="btn btn-primary">Siguiente Pregunta</button>
+                </div>
+                
+                <div class="quiz-actions">
+                    <button id="hint-btn" class="btn btn-secondary">Pista</button>
+                    <button id="submit-answer" class="btn btn-primary">Responder</button>
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <p>© 2026 Cuestionarios Bíblicos - Todos los derechos reservados</p>
+        </footer>
+    </div>
+    
+    <script>
+        // Variables globales
+        let currentQuestionIndex = 0;
+        let score = 0;
+        let selectedOption = null;
+        let quizData = [];
+        let timeElapsed = 0;
+        let timerInterval = null;
+        let correctAnswers = 0;
+        let incorrectAnswers = 0;
+
+        // Elementos del DOM
+        const questionText = document.getElementById('question-text');
+        const optionsContainer = document.getElementById('options-container');
+        const progressBar = document.getElementById('progress-bar');
+        const questionCounter = document.getElementById('question-counter');
+        const hintBtn = document.getElementById('hint-btn');
+        const submitBtn = document.getElementById('submit-answer');
+        const nextBtn = document.getElementById('next-question');
+        const hintDiv = document.getElementById('hint');
+        const feedbackDiv = document.getElementById('feedback');
+        const quizContainer = document.querySelector('.quiz-container');
+
+        // Cargar los datos del cuestionario
+        function loadQuizData() {
+            try {
+                const savedData = sessionStorage.getItem('quizData');
+                if (!savedData) {
+                    throw new Error('No se encontraron datos del cuestionario');
+                }
+                return JSON.parse(savedData);
+            } catch (error) {
+                console.error('Error al cargar el cuestionario:', error);
+                return [];
+            }
+        }
+
+        // Iniciar el cuestionario
+        function startQuiz() {
+            quizData = loadQuizData();
+            
+            if (quizData.length === 0) {
+                alert('No se pudo cargar el cuestionario. Por favor, vuelve a intentarlo.');
+                window.location.href = 'index.html';
+                return;
+            }
+            
+            // Iniciar temporizador
+            startTimer();
+            
+            // Mostrar la primera pregunta
+            showQuestion();
+        }
+
+        // Mostrar la pregunta actual
+        function showQuestion() {
+            if (currentQuestionIndex >= quizData.length) {
+                showResults();
+                return;
+            }
+            
+            const question = quizData[currentQuestionIndex];
+            
+            // Actualizar la barra de progreso
+            const progress = ((currentQuestionIndex) / quizData.length) * 100;
+            progressBar.style.width = `${progress}%`;
+            
+            // Actualizar el contador de preguntas
+            questionCounter.textContent = `Pregunta ${currentQuestionIndex + 1} de ${quizData.length}`;
+            
+            // Mostrar la pregunta
+            questionText.textContent = question.question;
+            
+            // Limpiar opciones anteriores
+            optionsContainer.innerHTML = '';
+            
+            Object.entries(question.options).forEach(([key, value]) => {
+                const optionElement = document.createElement('div');
+                optionElement.className = 'option';
+                optionElement.innerHTML = `
+                    <span class="option-prefix">${key}</span>
+                    <span class="option-text">${value}</span>
+                `;
+                
+                // Manejar la selección de opción
+                optionElement.addEventListener('click', () => selectOption(optionElement, key));
+                
+                optionsContainer.appendChild(optionElement);
+            });
+            
+            // Reiniciar el estado de la interfaz
+            feedbackDiv.classList.add('hidden');
+            hintDiv.textContent = '';
+            
+            // Restablecer botones
+            if (submitBtn) {
+                submitBtn.disabled = true;
+                submitBtn.textContent = 'Responder';
+                submitBtn.style.display = 'inline-block'; // Asegurar que esté visible
+            }
+            
+            if (hintBtn) {
+                hintBtn.disabled = false;
+                hintBtn.style.display = 'inline-block'; // Asegurar que esté visible
+            }
+            
+            // Asegurar que el botón de siguiente esté oculto inicialmente
+            if (nextBtn) {
+                nextBtn.style.display = 'none';
+            }
+            
+            // Desplazarse al inicio del cuestionario
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // Seleccionar una opción
+        function selectOption(optionElement, optionKey) {
+            // Deseleccionar la opción anterior si existe
+            const previousSelected = document.querySelector('.option.selected');
+            if (previousSelected) {
+                previousSelected.classList.remove('selected');
+            }
+            
+            // Seleccionar la nueva opción
+            optionElement.classList.add('selected');
+            selectedOption = optionKey;
+            submitBtn.disabled = false;
+        }
+
+        // Función para lanzar confeti
+        function triggerConfetti() {
+            if (typeof confetti === 'function') {
+                confetti({
+                    particleCount: 150,
+                    spread: 70,
+                    origin: { y: 0.6 },
+                    colors: ['#ff0000', '#00ff00', '#0000ff', '#ffff00', '#ff00ff', '#00ffff']
+                });
+            }
+        }
+
+        // Actualizar estadísticas
+        function updateStats() {
+            const correctElement = document.getElementById('correct-count');
+            const incorrectElement = document.getElementById('incorrect-count');
+            const totalAnsweredElement = document.getElementById('total-answered');
+            const totalQuestionsElement = document.getElementById('total-questions');
+            
+            console.log('Actualizando estadísticas:', { correctAnswers, incorrectAnswers, total: quizData.length });
+            
+            if (correctElement) correctElement.textContent = correctAnswers;
+            if (incorrectElement) incorrectElement.textContent = incorrectAnswers;
+            if (totalAnsweredElement) totalAnsweredElement.textContent = correctAnswers + incorrectAnswers;
+            if (totalQuestionsElement) totalQuestionsElement.textContent = quizData.length;
+            
+            // Forzar actualización del DOM
+            const statsContainer = document.querySelector('.stats-container');
+            if (statsContainer) {
+                statsContainer.style.display = 'flex';
+            }
+        }
+
+        // Verificar la respuesta
+        function checkAnswer() {
+            if (selectedOption === null) return;
+            
+            const question = quizData[currentQuestionIndex];
+            const options = document.querySelectorAll('.option');
+            
+            // Deshabilitar todos los botones de opción
+            options.forEach(option => {
+                option.style.pointerEvents = 'none';
+            });
+            
+            // Encontrar la opción correcta y la seleccionada
+            const selectedOptionElement = document.querySelector('.option.selected');
+            const correctOptionElement = Array.from(options).find(option => 
+                option.querySelector('.option-prefix').textContent === question.correctAnswer
+            );
+            
+            // Marcar la respuesta correcta en verde
+            if (correctOptionElement) {
+                correctOptionElement.classList.add('correct');
+            }
+            
+            // Verificar si la respuesta es correcta
+            const isCorrect = selectedOption === question.correctAnswer;
+            
+            // Actualizar contadores
+            if (isCorrect) {
+                score++;
+                correctAnswers++;
+                triggerConfetti(); // Lanzar confeti por respuesta correcta
+            } else {
+                incorrectAnswers++;
+                // Marcar la respuesta incorrecta en rojo
+                if (selectedOptionElement) {
+                    selectedOptionElement.classList.add('incorrect');
+                }
+            }
+            
+            // Actualizar estadísticas
+            updateStats();
+            
+            // Mostrar retroalimentación
+            if (question.hint) {
+                hintDiv.textContent = question.hint;
+                hintDiv.classList.remove('hidden');
+            }
+            
+            // Mostrar botón de siguiente pregunta
+            feedbackDiv.classList.remove('hidden');
+            
+            // Ocultar botón de responder y pista, mostrar botón de siguiente
+            if (submitBtn) submitBtn.style.display = 'none';
+            if (hintBtn) hintBtn.style.display = 'none';
+            if (nextBtn) nextBtn.style.display = 'inline-block';
+            
+            // Si es la última pregunta, cambiar el texto del botón
+            if (currentQuestionIndex === quizData.length - 1) {
+                nextBtn.textContent = 'Ver resultados';
+            }
+        }
+
+        // Mostrar pista
+        function showHint() {
+            const question = quizData[currentQuestionIndex];
+            console.log('Mostrando pista para pregunta', currentQuestionIndex + 1, ':', question);
+            
+            // Asegurarse de que el div de retroalimentación sea visible
+            if (!feedbackDiv) {
+                console.error('No se encontró el elemento de retroalimentación');
+                return;
+            }
+            
+            // Mostrar el contenedor de retroalimentación si está oculto
+            feedbackDiv.classList.remove('hidden');
+            
+            // Mostrar la pista o un mensaje si no hay pista
+            if (question.hint && question.hint.trim() !== '') {
+                hintDiv.textContent = question.hint;
+                hintDiv.classList.remove('hidden');
+            } else {
+                hintDiv.textContent = 'No hay pista disponible para esta pregunta.';
+                hintDiv.classList.remove('hidden');
+            }
+            
+            // Deshabilitar el botón de pista después de usarlo
+            if (hintBtn) {
+                hintBtn.disabled = true;
+            }
+            
+            // Desplazarse a la pista
+            hintDiv.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }
+
+        // Siguiente pregunta
+        function nextQuestion() {
+            currentQuestionIndex++;
+            selectedOption = null;
+            showQuestion();
+        }
+
+        // Mostrar resultados
+        function showResults() {
+            // Detener el temporizador
+            stopTimer();
+            
+            // Calcular puntuación
+            const percentage = Math.round((score / quizData.length) * 100);
+            
+            // Crear el HTML de resultados
+            const resultsHTML = `
+                <div class="results">
+                    <h2>Resultados del Cuestionario</h2>
+                    <div class="score-container">
+                        <div class="score-circle" style="--score-percentage: ${percentage}%">
+                            <span id="score-percentage">${percentage}</span>%
+                            <div class="score-text">Correctas</div>
+                        </div>
+                        <p id="score-message">${getScoreMessage(percentage)}</p>
+                    </div>
+                    <div class="results-details">
+                        <p>Respuestas correctas: <span id="correct-answers">${score}</span> de <span id="total-questions">${quizData.length}</span></p>
+                        <p>Tiempo: <span id="quiz-time">${formatTime(timeElapsed)}</span></p>
+                    </div>
+                    <div class="results-actions">
+                        <button id="restart-quiz" class="btn">Reintentar</button>
+                        <button id="select-quiz" class="btn btn-primary">Elegir otro cuestionario</button>
+                    </div>
+                </div>
+            `;
+            
+            // Reemplazar el contenido del contenedor del cuestionario
+            quizContainer.innerHTML = resultsHTML;
+            
+            // Agregar manejadores de eventos a los botones
+            document.getElementById('restart-quiz').addEventListener('click', restartQuiz);
+            document.getElementById('select-quiz').addEventListener('click', goToQuizSelection);
+            
+            // Desplazarse al inicio de la página
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+        
+        // Obtener mensaje según la puntuación
+        function getScoreMessage(percentage) {
+            if (percentage >= 80) {
+                return '¡Excelente trabajo! Has demostrado un gran conocimiento.';
+            } else if (percentage >= 60) {
+                return '¡Buen trabajo! Sigue así para mejorar aún más.';
+            } else if (percentage >= 40) {
+                return 'No está mal, pero hay margen de mejora. ¡Sigue practicando!';
+            } else {
+                return 'Parece que necesitas repasar un poco más. ¡No te rindas!';
+            }
+        }
+        
+        // Formatear el tiempo en minutos:segundos
+        function formatTime(seconds) {
+            const mins = Math.floor(seconds / 60);
+            const secs = seconds % 60;
+            return `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+        }
+
+        // Reiniciar el cuestionario
+        function restartQuiz() {
+            // Reiniciar variables
+            currentQuestionIndex = 0;
+            score = 0;
+            timeElapsed = 0;
+            selectedOption = null;
+            correctAnswers = 0;
+            incorrectAnswers = 0;
+            
+            // Actualizar estadísticas
+            updateStats();
+            
+            // Restaurar el HTML del cuestionario
+            quizContainer.innerHTML = `
+                <div class="quiz-header">
+                    <div class="progress-container">
+                        <div class="progress-bar" id="progress-bar"></div>
+                    </div>
+                    <div class="question-counter" id="question-counter">Pregunta 1 de ${quizData.length}</div>
+                </div>
+                
+                <div class="question-container">
+                    <h2 id="question-text"></h2>
+                    <div id="options-container" class="options-container">
+                        <!-- Las opciones se generarán dinámicamente -->
+                    </div>
+                </div>
+                
+                <div id="feedback" class="feedback hidden">
+                    <div id="hint" class="hint"></div>
+                    <div id="explanation" class="explanation"></div>
+                    <button id="next-question" class="btn btn-primary">Siguiente Pregunta</button>
+                </div>
+                
+                <div class="quiz-actions">
+                    <button id="hint-btn" class="btn btn-secondary">Pista</button>
+                    <button id="submit-answer" class="btn btn-primary">Responder</button>
+                </div>
+                
+                <div class="stats-container">
+                    <div class="stat">
+                        <span id="correct-count" class="stat-label">Correctas:</span>
+                        <span id="correct-count-value">0</span>
+                    </div>
+                    <div class="stat">
+                        <span id="incorrect-count" class="stat-label">Incorrectas:</span>
+                        <span id="incorrect-count-value">0</span>
+                    </div>
+                    <div class="stat">
+                        <span id="total-answered" class="stat-label">Total respondidas:</span>
+                        <span id="total-answered-value">0</span>
+                    </div>
+                    <div class="stat">
+                        <span id="total-questions" class="stat-label">Total preguntas:</span>
+                        <span id="total-questions-value">${quizData.length}</span>
+                    </div>
+                </div>
+            `;
+            
+            // Volver a asignar referencias a los elementos del DOM
+            Object.assign(this, {
+                questionText: document.getElementById('question-text'),
+                optionsContainer: document.getElementById('options-container'),
+                progressBar: document.getElementById('progress-bar'),
+                questionCounter: document.getElementById('question-counter'),
+                hintBtn: document.getElementById('hint-btn'),
+                submitBtn: document.getElementById('submit-answer'),
+                nextBtn: document.getElementById('next-question'),
+                hintDiv: document.getElementById('hint'),
+                feedbackDiv: document.getElementById('feedback')
+            });
+            
+            // Volver a agregar manejadores de eventos
+            this.hintBtn.addEventListener('click', showHint);
+            this.submitBtn.addEventListener('click', checkAnswer);
+            this.nextBtn.addEventListener('click', nextQuestion);
+            
+            // Iniciar el temporizador
+            startTimer();
+            
+            // Mostrar la primera pregunta
+            showQuestion();
+        }
+
+        // Volver a la selección de cuestionarios
+        function goToQuizSelection() {
+            // Detener el temporizador
+            stopTimer();
+            
+            // Redirigir a la página de inicio
+            window.location.href = 'index.html';
+        }
+
+        // Función para actualizar la visualización del temporizador
+        function updateTimerDisplay() {
+            const minutes = Math.floor(timeElapsed / 60);
+            const seconds = timeElapsed % 60;
+            const timeDisplay = document.getElementById('quiz-time');
+            if (timeDisplay) {
+                timeDisplay.textContent = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+            }
+        }
+        
+        // Temporizador
+        function startTimer() {
+            // Detener el temporizador si ya está en ejecución
+            stopTimer();
+            
+            // Reiniciar el tiempo
+            timeElapsed = 0;
+            updateTimerDisplay();
+            
+            // Actualizar el tiempo cada segundo
+            timerInterval = setInterval(() => {
+                timeElapsed++;
+                updateTimerDisplay();
+            }, 1000);
+        }
+
+        function stopTimer() {
+            if (timerInterval) {
+                clearInterval(timerInterval);
+                timerInterval = null;
+            }
+        }
+
+        // Iniciar la aplicación cuando el DOM esté cargado
+        document.addEventListener('DOMContentLoaded', () => {
+            // Llamar a updateStats al inicio para mostrar las estadísticas iniciales
+            updateStats();
+            // Inicializar referencias a los elementos del DOM
+            const questionText = document.getElementById('question-text');
+            const optionsContainer = document.getElementById('options-container');
+            const progressBar = document.getElementById('progress-bar');
+            const questionCounter = document.getElementById('question-counter');
+            const hintBtn = document.getElementById('hint-btn');
+            const submitBtn = document.getElementById('submit-answer');
+            const nextBtn = document.getElementById('next-question');
+            const hintDiv = document.getElementById('hint');
+            const feedbackDiv = document.getElementById('feedback');
+            
+            // Iniciar el cuestionario
+            startQuiz();
+            
+            // Asignar manejadores de eventos
+            if (hintBtn) {
+                hintBtn.addEventListener('click', showHint);
+            }
+            
+            if (submitBtn) {
+                submitBtn.addEventListener('click', checkAnswer);
+            }
+            
+            if (nextBtn) {
+                nextBtn.addEventListener('click', nextQuestion);
+            }
+        });
+    </script>
+</body>
+</html>

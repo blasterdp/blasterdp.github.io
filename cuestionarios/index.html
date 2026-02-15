@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuestionarios Bíblicos - Mishpatim</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Cuestionarios Bíblicos</h1>
+            <p>Pon a prueba tu conocimiento de las Escrituras</p>
+        </header>
+        
+        <main>
+            <div id="quiz-selection" class="quiz-selection">
+                <h2>Selecciona un Cuestionario</h2>
+                <div class="quiz-cards">
+                    <div class="quiz-card" data-quiz="mishpatim">
+                        <h3>Mishpatim</h3>
+                        <p>12 preguntas sobre los decretos y juicios bíblicos</p>
+                        <button class="start-quiz">Comenzar</button>
+                    </div>
+                    <!-- Se pueden agregar más cuestionarios aquí -->
+                </div>
+            </div>
+            
+            <div id="quiz-container" class="quiz-container hidden">
+                <div class="quiz-header">
+                    <div class="progress-container">
+                        <div class="progress-bar" id="progress-bar"></div>
+                    </div>
+                    <div class="question-counter" id="question-counter">Pregunta 1 de 12</div>
+                </div>
+                
+                <div class="question-container">
+                    <h2 id="question-text"></h2>
+                    <div id="options-container" class="options-container">
+                        <!-- Las opciones se generarán dinámicamente -->
+                    </div>
+                </div>
+                
+                <div id="feedback" class="feedback hidden">
+                    <div id="hint" class="hint"></div>
+                    <div id="explanation" class="explanation"></div>
+                    <button id="next-question" class="btn btn-primary">Siguiente Pregunta</button>
+                </div>
+                
+                <div class="quiz-actions">
+                    <button id="hint-btn" class="btn btn-secondary">Pista</button>
+                    <button id="submit-answer" class="btn btn-primary">Responder</button>
+                </div>
+            </div>
+            
+            <div id="results" class="results hidden">
+                <h2>Resultados del Cuestionario</h2>
+                <div class="score-container">
+                    <div class="score-circle">
+                        <span id="score-percentage">0</span>%
+                        <div class="score-text">Correctas</div>
+                    </div>
+                    <p id="score-message"></p>
+                </div>
+                <div class="results-details">
+                    <p>Respuestas correctas: <span id="correct-answers">0</span> de <span id="total-questions">0</span></p>
+                    <p>Tiempo: <span id="quiz-time">00:00</span></p>
+                </div>
+                <div class="results-actions">
+                    <button id="restart-quiz" class="btn">Reintentar</button>
+                    <button id="select-quiz" class="btn btn-primary">Elegir otro cuestionario</button>
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <p>© 2026 Cuestionarios Bíblicos - Todos los derechos reservados</p>
+        </footer>
+    </div>
+    
+    <script>
+        // Cargar el cuestionario de ejemplo
+        document.addEventListener('DOMContentLoaded', () => {
+            // Reemplazar el manejador de clic de la tarjeta del cuestionario
+            const quizCard = document.querySelector('.quiz-card');
+            if (quizCard) {
+                quizCard.addEventListener('click', () => {
+                    // Cargar el cuestionario de ejemplo
+                    fetch('data/cuestionario-mishpatim.json')
+                        .then(response => response.json())
+                        .then(data => {
+                            // Guardar los datos en sessionStorage para que estén disponibles en la aplicación
+                            sessionStorage.setItem('quizData', JSON.stringify(data));
+                            // Redirigir a la página del cuestionario
+                            window.location.href = 'quiz.html';
+                        })
+                        .catch(error => {
+                            console.error('Error al cargar el cuestionario:', error);
+                            alert('No se pudo cargar el cuestionario. Por favor, inténtalo de nuevo.');
+                        });
+                });
+            }
+        });
+    </script>
+</body>
+</html>
