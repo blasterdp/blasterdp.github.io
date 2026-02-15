@@ -9,15 +9,29 @@
 <body>
     <div id="app">
         <h1>Tarjetas de Estudio</h1>
-        <div class="selector-container">
-            <label for="topicSelector">Selecciona un tema:</label>
-            <div class="custom-select-wrapper">
-                <select id="topicSelector">
-                    <option value="">-- Selecciona un tema --</option>
-                </select>
-                <svg class="select-arrow" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
-                    <path fill="#3498db" d="M6 9L1 4h10z"/>
-                </svg>
+        <div class="selectors-container">
+            <div class="selector-container">
+                <label for="categorySelector">Categoría</label>
+                <div class="custom-select-wrapper">
+                    <select id="categorySelector">
+                        <option value="general">General</option>
+                        <option value="niños">Para Niños</option>
+                    </select>
+                    <svg class="select-arrow" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                        <path fill="#718096" d="M6 8L2 4h8l-4 4z"/>
+                    </svg>
+                </div>
+            </div>
+            <div class="selector-container">
+                <label for="topicSelector">Tema</label>
+                <div class="custom-select-wrapper">
+                    <select id="topicSelector">
+                        <option value="">-- Seleccionar --</option>
+                    </select>
+                    <svg class="select-arrow" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                        <path fill="#718096" d="M6 8L2 4h8l-4 4z"/>
+                    </svg>
+                </div>
             </div>
         </div>
         <div id="counter">Tarjeta 1 de 55</div>

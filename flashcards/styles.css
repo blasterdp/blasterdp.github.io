@@ -20,33 +20,53 @@ body {
 
 h1 {
     color: #2c3e50;
-    margin-bottom: 20px;
-    font-size: 3em;
+    margin: 0 0 30px 0;
+    font-size: 2.5em;
     text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
     font-weight: 300;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e2e8f0;
+    margin-bottom: 25px;
 }
 
 #counter {
-    color: #34495e;
-    font-size: 1.5em;
-    margin-bottom: 20px;
-    font-weight: 500;
+    color: #718096;
+    font-size: 1em;
+    margin: 5px 0 25px 0;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.selectors-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
 }
 
 .selector-container {
-    margin-bottom: 30px;
-    padding: 20px;
+    margin: 0;
+    padding: 10px 15px;
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+}
+
+.selector-container:hover {
     background: rgba(255, 255, 255, 0.8);
-    border-radius: 15px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .selector-container label {
     display: block;
-    margin-bottom: 10px;
-    color: #2c3e50;
-    font-size: 1.1em;
+    margin-bottom: 5px;
+    color: #4a5568;
+    font-size: 0.9em;
     font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
 }
 
 .custom-select-wrapper {
@@ -58,18 +78,19 @@ h1 {
 
 .selector-container select {
     width: 100%;
-    padding: 12px 40px 12px 15px;
-    font-size: 1em;
-    border: 2px solid #3498db;
-    border-radius: 10px;
-    background-color: white;
-    color: #2c3e50;
+    padding: 8px 35px 8px 12px;
+    font-size: 0.95em;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.9);
+    color: #2d3748;
     cursor: pointer;
-    transition: all 0.3s ease;
-    font-weight: 500;
+    transition: all 0.2s ease;
+    font-weight: 400;
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
+    min-width: 180px;
 }
 
 .custom-select-wrapper .select-arrow {
@@ -126,7 +147,14 @@ h1 {
 
 .card-container {
     perspective: 1000px;
-    margin: 30px 0;
+    margin: 0 auto 40px auto;
+    max-width: 90%;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-container:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.1);
 }
 
 .card {

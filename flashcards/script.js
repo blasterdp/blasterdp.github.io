@@ -13,6 +13,7 @@ const flipBtn = document.getElementById('flip');
 const randomBtn = document.getElementById('randomMode');
 const counter = document.getElementById('counter');
 const topicSelector = document.getElementById('topicSelector');
+const categorySelector = document.getElementById('categorySelector');
 
 // Función para convertir nombre de archivo a nombre legible
 function formatTopicName(filename) {
@@ -31,31 +32,34 @@ function formatText(text) {
     return text.replace(/\$([^\$]+)\$/g, '$1');
 }
 
-// Cargar lista de temas disponibles
-async function loadAvailableTopics() {
+// Lista de temas por categoría
+const topicsByCategory = {
+    general: [
+        'flashcards_bo_2025.csv',
+        'flashcards_dia_biblico_2.csv',
+        'flashcards_doctrina.csv',
+        'flashcards_estudio_galatas.csv',
+        'flashcards_mishpatim_2026.csv',
+        'flashcards_parashá_beshalaj.csv',
+        'flashcards_vaera.csv',
+        'flashcards_parashá_yitró_2026.csv',
+        'flashcards_parashá_yitró.csv'
+    ],
+    niños: [
+        'flashcards_doctrina_niños.csv',
+        'flashcards_mishpatim_niños_2026.csv'
+    ]
+};
+
+// Cargar lista de temas disponibles según la categoría seleccionada
+function loadAvailableTopics() {
     try {
-        // Intentar obtener la lista de archivos desde un endpoint
-        // Si no está disponible, usaremos una lista predefinida
-        const topics = [
-            'flashcards_parashá_beshalaj.csv',
-            'flashcards_bo_2025.csv',
-            'flashcards_estudio_galatas.csv',
-            'flashcards_dia_biblico_2.csv',
-            'flashcards_vaera.csv'
-        ];
-        
+        const category = categorySelector.value;
+        const topics = topicsByCategory[category] || [];
         populateTopicSelector(topics);
     } catch (error) {
         console.error('Error cargando temas:', error);
-        // Usar lista predefinida como fallback
-        const topics = [
-            'flashcards_parashá_beshalaj.csv',
-            'flashcards_bo_2025.csv',
-            'flashcards_estudio_galatas.csv',
-            'flashcards_dia_biblico_2.csv',
-            'flashcards_vaera.csv',
-        ];
-        populateTopicSelector(topics);
+        populateTopicSelector([]);
     }
 }
 
@@ -83,7 +87,9 @@ async function loadCSV(filename) {
 
     try {
         currentTopic = filename;
-        const response = await fetch(`../tarjetas_variadas/${filename}`);
+        const category = categorySelector.value;
+        const basePath = category === 'niños' ? '../tarjetas_variadas/niños/' : '../tarjetas_variadas/';
+        const response = await fetch(basePath + filename);
         
         if (!response.ok) {
             throw new Error(`Error ${response.status}: No se pudo cargar el archivo`);
@@ -186,6 +192,13 @@ topicSelector.addEventListener('change', (e) => {
 card.addEventListener('click', () => {
     card.classList.toggle('flipped');
     isFlipped = !isFlipped;
+});
+
+// Evento para cambiar categoría
+categorySelector.addEventListener('change', () => {
+    loadAvailableTopics();
+    topicSelector.value = '';
+    loadCSV('');
 });
 
 // Cargar temas disponibles al iniciar
