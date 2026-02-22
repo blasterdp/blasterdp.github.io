@@ -17,189 +17,281 @@
   --paper-dk:   #ede3c8;
   --sunset:     #c86820;
   --c-shabat:   #7a6010;
-  --c-rosh-brd: #1a6a3a;
-
-  /* Today accent — vivid red-gold so it pops on any background */
   --today-ring: #e03030;
   --today-glow: rgba(224,48,48,0.35);
 }
 
 *{box-sizing:border-box;margin:0;padding:0;}
-body{background:#18100a;font-family:'Crimson Pro',serif;color:var(--ink);padding:20px;}
+html{-webkit-text-size-adjust:100%;}
+body{
+  background:#18100a;
+  font-family:'Crimson Pro',serif;
+  color:var(--ink);
+  padding:10px;
+  min-width:0;
+}
 
 /* ══════════════════════════════════════════════════
-   SCREEN CONTROLS
+   SCREEN CONTROLS — mobile-first compact toolbar
 ══════════════════════════════════════════════════ */
 .screen-controls{
-  display:flex;gap:10px;align-items:center;flex-wrap:wrap;
-  margin-bottom:16px;padding:11px 18px;
-  background:rgba(255,255,255,0.05);border-radius:8px;
+  display:flex;
+  gap:6px;
+  align-items:center;
+  flex-wrap:wrap;
+  margin-bottom:10px;
+  padding:9px 12px;
+  background:rgba(255,255,255,0.05);
+  border-radius:8px;
   border:1px solid rgba(184,146,42,0.2);
 }
-.ctrl-btn{
-  font-family:'Cinzel',serif;font-size:0.69rem;letter-spacing:0.08em;
-  background:rgba(184,146,42,0.12);border:1px solid var(--gold);
-  color:var(--gold-lt);padding:6px 13px;border-radius:20px;cursor:pointer;transition:all .2s;
+/* Year row: label + input + prev/next */
+.ctrl-year-row{
+  display:flex;align-items:center;gap:6px;
+  flex:1 1 auto;
 }
-.ctrl-btn:hover{background:var(--gold);color:var(--ink);}
-.ctrl-label{font-family:'Cinzel',serif;font-size:0.7rem;color:var(--gold-lt);}
+/* Action buttons row */
+.ctrl-actions{
+  display:flex;align-items:center;gap:6px;
+  flex-wrap:wrap;
+}
+.ctrl-btn{
+  font-family:'Cinzel',serif;font-size:0.68rem;letter-spacing:0.07em;
+  background:rgba(184,146,42,0.12);border:1px solid var(--gold);
+  color:var(--gold-lt);padding:7px 12px;border-radius:20px;
+  cursor:pointer;transition:all .2s;white-space:nowrap;
+  /* touch-friendly */
+  min-height:36px;display:flex;align-items:center;
+}
+.ctrl-btn:hover,.ctrl-btn:active{background:var(--gold);color:var(--ink);}
+.ctrl-label{font-family:'Cinzel',serif;font-size:0.7rem;color:var(--gold-lt);white-space:nowrap;}
 .year-input{
-  font-family:'Cinzel',serif;font-size:0.82rem;width:86px;
-  padding:5px 8px;background:rgba(255,255,255,0.07);
-  border:1px solid var(--gold);border-radius:4px;color:var(--gold-lt);text-align:center;
+  font-family:'Cinzel',serif;font-size:0.85rem;width:76px;
+  padding:6px 8px;background:rgba(255,255,255,0.07);
+  border:1px solid var(--gold);border-radius:4px;
+  color:var(--gold-lt);text-align:center;min-height:36px;
 }
 .year-input:focus{outline:none;background:rgba(255,255,255,0.12);}
-#todayInfo{font-family:'Cinzel',serif;font-size:0.68rem;color:var(--gold-lt);margin-left:6px;opacity:.8;}
+#todayInfo{
+  font-family:'Cinzel',serif;font-size:0.64rem;
+  color:var(--gold-lt);opacity:.8;
+  width:100%;text-align:center;
+  padding-top:2px;
+}
 
 /* ══════════════════════════════════════════════════
    PRINTABLE PAGE
 ══════════════════════════════════════════════════ */
 .cal-page{
-  background:var(--cream);width:100%;max-width:1440px;margin:0 auto;
-  padding:20px 18px 24px;border-radius:7px;
-  box-shadow:0 12px 60px rgba(0,0,0,0.65);
+  background:var(--cream);
+  width:100%;max-width:1440px;margin:0 auto;
+  padding:14px 10px 20px;
+  border-radius:7px;
+  box-shadow:0 8px 40px rgba(0,0,0,0.6);
 }
-.page-header{text-align:center;margin-bottom:14px;padding-bottom:11px;border-bottom:2px solid var(--gold);}
-.page-header h1{font-family:'Cinzel',serif;font-size:1.55rem;font-weight:900;color:var(--ink);letter-spacing:.18em;text-transform:uppercase;}
-.page-header .year-disp{font-family:'Cinzel',serif;font-size:.95rem;color:var(--gold);letter-spacing:.1em;margin-top:3px;}
-.page-header .subtitle{font-size:.75rem;color:#777;font-style:italic;margin-top:3px;}
+
+/* ── Page header ── */
+.page-header{
+  text-align:center;margin-bottom:12px;
+  padding-bottom:10px;border-bottom:2px solid var(--gold);
+}
+.page-header h1{
+  font-family:'Cinzel',serif;font-weight:900;
+  color:var(--ink);letter-spacing:.12em;text-transform:uppercase;
+  font-size:clamp(1rem, 4vw, 1.55rem);
+  line-height:1.2;
+}
+.page-header .year-disp{
+  font-family:'Cinzel',serif;color:var(--gold);
+  letter-spacing:.08em;margin-top:3px;
+  font-size:clamp(.75rem, 2.5vw, .95rem);
+}
+.page-header .subtitle{
+  font-size:clamp(.6rem, 1.8vw, .75rem);
+  color:#777;font-style:italic;margin-top:3px;
+  line-height:1.4;
+}
 
 /* ══════════════════════════════════════════════════
-   WEEKLY PANEL — matches month card aesthetic
+   WEEKLY PANEL
 ══════════════════════════════════════════════════ */
 .week-panel{
-  margin-bottom:16px;
-  border:1px solid #c8b88a;
-  border-radius:6px;
-  overflow:hidden;
-  background:var(--cream);
-  box-shadow:0 2px 12px rgba(0,0,0,0.12);
+  margin-bottom:14px;
+  border:1px solid #c8b88a;border-radius:6px;
+  overflow:hidden;background:var(--cream);
+  box-shadow:0 2px 10px rgba(0,0,0,0.1);
 }
 
-/* Panel header — same style as month-header */
+/* Panel header */
 .week-panel-header{
-  background:#2b3a50;
-  color:#fff;
+  background:#2b3a50;color:#fff;
   display:flex;align-items:center;justify-content:space-between;
-  padding:6px 12px 5px;
+  padding:7px 10px 6px;
+  gap:8px;
 }
-.wph-title{font-family:'Cinzel',serif;font-size:.78rem;letter-spacing:.12em;text-transform:uppercase;}
-.wph-range{font-size:.68rem;opacity:.65;font-style:italic;}
-.wph-nav{display:flex;gap:6px;align-items:center;}
+.wph-left{min-width:0;flex:1;}
+.wph-title{
+  font-family:'Cinzel',serif;font-weight:600;
+  letter-spacing:.1em;text-transform:uppercase;
+  font-size:clamp(.62rem,2vw,.78rem);
+}
+.wph-range{
+  font-size:clamp(.55rem,1.6vw,.68rem);
+  opacity:.65;font-style:italic;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.wph-nav{display:flex;gap:5px;align-items:center;flex-shrink:0;}
 .wph-btn{
   background:none;border:1px solid rgba(255,255,255,.3);color:#fff;
-  width:24px;height:24px;border-radius:50%;cursor:pointer;font-size:.85rem;
-  display:flex;align-items:center;justify-content:center;transition:all .18s;
+  width:32px;height:32px;border-radius:50%;
+  cursor:pointer;font-size:.9rem;
+  display:flex;align-items:center;justify-content:center;
+  transition:all .18s;flex-shrink:0;
 }
-.wph-btn:hover{background:var(--gold);border-color:var(--gold);color:var(--ink);}
+.wph-btn:hover,.wph-btn:active{background:var(--gold);border-color:var(--gold);color:var(--ink);}
 .wph-today-btn{
-  width:auto;padding:0 10px;border-radius:12px;
-  font-family:'Cinzel',serif;font-size:.58rem;letter-spacing:.08em;
+  width:auto;padding:0 10px;border-radius:14px;
+  font-family:'Cinzel',serif;
+  font-size:clamp(.52rem,1.5vw,.62rem);
+  letter-spacing:.07em;
 }
 
-/* DOW header row — identical to month grid */
+/* DOW header — inside same scroll wrapper as day cards */
 .week-dow-row{
-  display:grid;grid-template-columns:repeat(7,1fr);
+  display:grid;grid-template-columns:repeat(7,minmax(52px,1fr));
   background:var(--paper-dk);border-bottom:1px solid #c8b88a;
+  min-width:364px;
 }
 .week-dow-cell{
-  text-align:center;padding:3px 1px;
-  font-family:'Cinzel',serif;font-size:.56rem;letter-spacing:.07em;
-  color:#555;text-transform:uppercase;border-right:1px solid #ddd;
+  text-align:center;padding:4px 1px;
+  font-family:'Cinzel',serif;
+  font-size:clamp(.5rem,1.6vw,.58rem);
+  letter-spacing:.05em;color:#555;text-transform:uppercase;
+  border-right:1px solid #ddd;
 }
 .week-dow-cell:last-child{border-right:none;}
 .week-dow-cell.wdc-shabat{color:var(--c-shabat);font-weight:700;}
 
+/* Scroll wrapper for week days on mobile */
+.week-scroll{
+  overflow-x:auto;
+  -webkit-overflow-scrolling:touch;
+}
 /* 7-column day strip */
-.week-days-row{display:grid;grid-template-columns:repeat(7,1fr);}
+.week-days-row{
+  display:grid;
+  /* min 52px per card so 7 fit on wide screens; on mobile scroll kicks in */
+  grid-template-columns:repeat(7,minmax(52px,1fr));
+  min-width:364px; /* 7×52 — enables scroll on very small phones */
+}
 
-/* Each day card mirrors .day-cell but taller for detail */
+/* Each day card */
 .week-day-card{
   border-right:1px solid #e0d8c0;
-  min-height:90px;
+  min-height:100px;
   display:flex;flex-direction:column;
   position:relative;overflow:hidden;
-  cursor:pointer;
-  transition:filter .15s;
+  cursor:pointer;transition:filter .15s;
 }
 .week-day-card:last-child{border-right:none;}
-.week-day-card:hover{filter:brightness(.94);}
+.week-day-card:active{filter:brightness(.88);}
 
-/* Hebrew part (top, 55%) */
+/* Hebrew part (top 55%) */
 .wdc-heb{
   flex:0 0 55%;display:flex;flex-direction:column;
   align-items:center;justify-content:center;
-  padding:3px 3px 2px;background:#f0e8d8;
+  padding:4px 3px 3px;background:#f0e8d8;
   position:relative;
 }
-/* Gregorian part (bottom, 45%) */
+/* Gregorian part (bottom 45%) */
 .wdc-greg{
   flex:0 0 45%;display:flex;flex-direction:column;
   align-items:center;justify-content:center;
-  padding:2px 3px 3px;background:#e4ecf4;
+  padding:3px 3px 4px;background:#e4ecf4;
   border-top:1px dashed #c8a060;
 }
 
-/* Sunset dashed line already from border-top above */
-
-.wdc-heb-num{font-family:'Cinzel',serif;font-size:1.4rem;font-weight:700;line-height:1;color:#1a0a00;}
-.wdc-heb-mo{font-size:.58rem;color:#5a3a10;font-style:italic;line-height:1;margin-top:1px;text-align:center;}
-.wdc-heb-dow{font-family:'Cinzel',serif;font-size:.5rem;letter-spacing:.07em;color:rgba(0,0,0,.35);text-transform:uppercase;margin-bottom:2px;}
-.wdc-heb-ev{font-size:.52rem;font-weight:700;text-align:center;line-height:1.2;padding:0 2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:100%;margin-top:2px;}
-
-.wdc-greg-num{font-family:'Cinzel',serif;font-size:1rem;font-weight:600;color:#2a3a50;line-height:1;}
-.wdc-greg-mo{font-size:.52rem;color:#6a7a8a;font-style:italic;line-height:1;margin-top:1px;}
-
-/* Sunset strip indicator at 75% inside heb part */
-.wdc-sunset-bar{
-  position:absolute;bottom:0;left:0;right:0;
-  height:2px;background:linear-gradient(90deg,transparent 0%,var(--sunset) 30%,var(--sunset) 70%,transparent 100%);
-  opacity:.5;
+.wdc-heb-num{
+  font-family:'Cinzel',serif;font-weight:700;line-height:1;color:#1a0a00;
+  font-size:clamp(1.1rem,3.5vw,1.5rem);
+}
+.wdc-heb-mo{
+  font-style:italic;line-height:1;margin-top:1px;text-align:center;color:#5a3a10;
+  font-size:clamp(.5rem,1.5vw,.6rem);
+}
+.wdc-heb-dow{
+  font-family:'Cinzel',serif;letter-spacing:.05em;
+  color:rgba(0,0,0,.35);text-transform:uppercase;margin-bottom:2px;
+  font-size:clamp(.44rem,1.3vw,.52rem);
+}
+.wdc-heb-ev{
+  font-weight:700;text-align:center;line-height:1.2;padding:0 2px;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:100%;margin-top:2px;
+  font-size:clamp(.46rem,1.3vw,.54rem);
+}
+.wdc-greg-num{
+  font-family:'Cinzel',serif;font-weight:600;color:#2a3a50;line-height:1;
+  font-size:clamp(.85rem,2.5vw,1.05rem);
+}
+.wdc-greg-mo{
+  font-style:italic;line-height:1;margin-top:1px;color:#6a7a8a;
+  font-size:clamp(.46rem,1.3vw,.54rem);
 }
 
-/* Shabat overlay on week */
+.wdc-sunset-bar{
+  position:absolute;bottom:0;left:0;right:0;
+  height:2px;
+  background:linear-gradient(90deg,transparent 0%,var(--sunset) 30%,var(--sunset) 70%,transparent 100%);
+  opacity:.5;
+}
+.wdc-comment-pip{
+  position:absolute;top:4px;right:4px;
+  width:8px;height:8px;border-radius:50%;
+  background:var(--gold);border:1px solid #fff;z-index:5;
+}
+
+/* Shabat styles on week */
 .week-day-card.wk-shabat .wdc-heb{background:#f0e8b8;}
 .week-day-card.wk-shabat .wdc-greg{background:#e8e0c4;}
 
-/* Comment pip */
-.wdc-comment-pip{
-  position:absolute;top:3px;right:3px;
-  width:7px;height:7px;border-radius:50%;
-  background:var(--gold);border:1px solid #fff;
-  z-index:5;
-}
-
-/* Sunset legend strip under week */
+/* Sunset strip */
 .week-sunset-strip{
-  display:grid;grid-template-columns:repeat(7,1fr);
-  background:#f7f0de;border-top:1px solid #e0d8c0;
-  padding:3px 0;
+  display:grid;grid-template-columns:repeat(7,minmax(52px,1fr));
+  min-width:364px;
+  background:#f7f0de;border-top:1px solid #e0d8c0;padding:3px 0;
 }
 .wss-cell{
-  text-align:center;font-size:.48rem;color:var(--sunset);
-  font-style:italic;font-family:'Crimson Pro',serif;
-  border-right:1px solid #e8e0c8;position:relative;
+  text-align:center;font-style:italic;
+  font-family:'Crimson Pro',serif;
+  border-right:1px solid #e8e0c8;
+  font-size:clamp(.42rem,1.2vw,.5rem);
+  color:var(--sunset);
 }
 .wss-cell:last-child{border-right:none;}
 .wss-cell::before{
-  content:'';display:block;width:1px;height:6px;
+  content:'';display:block;width:1px;height:5px;
   background:var(--sunset);margin:0 auto 1px;
+}
+/* Scroll hint label */
+.week-scroll-hint{
+  display:none;
+  text-align:center;font-size:.6rem;color:var(--sunset);
+  font-style:italic;padding:3px 0 1px;background:#fef8f0;
+  border-top:1px solid #e8d8b8;
 }
 
 /* ══════════════════════════════════════════════════
    TODAY — vivid ring everywhere
 ══════════════════════════════════════════════════ */
-/* In month grid */
 .day-cell.is-today{
-  box-shadow:inset 0 0 0 2.5px var(--today-ring), 0 0 8px var(--today-glow) !important;
+  box-shadow:inset 0 0 0 2.5px var(--today-ring),0 0 8px var(--today-glow)!important;
   z-index:2;position:relative;
 }
-.day-cell.is-today .heb-part{background:#ffd4d4 !important;}
-.day-cell.is-today .greg-part{background:#ffe4e4 !important;}
-.day-cell.is-today .heb-num{color:#900 !important;font-weight:900 !important;}
-.day-cell.is-today .greg-num{color:#900 !important;font-weight:900 !important;}
+.day-cell.is-today .heb-part{background:#ffd4d4!important;}
+.day-cell.is-today .greg-part{background:#ffe4e4!important;}
+.day-cell.is-today .heb-num{color:#900!important;font-weight:900!important;}
+.day-cell.is-today .greg-num{color:#900!important;font-weight:900!important;}
 
-/* Today pill badge absolute top-right of cell */
 .today-pill{
   position:absolute;top:2px;right:2px;
   font-family:'Cinzel',serif;font-size:.42rem;letter-spacing:.06em;
@@ -209,161 +301,242 @@ body{background:#18100a;font-family:'Crimson Pro',serif;color:var(--ink);padding
   box-shadow:0 1px 4px rgba(200,0,0,.4);
 }
 
-/* In week panel */
 .week-day-card.wk-today{
-  box-shadow:inset 0 0 0 2.5px var(--today-ring), 0 0 10px var(--today-glow);
+  box-shadow:inset 0 0 0 2.5px var(--today-ring),0 0 10px var(--today-glow);
   z-index:2;
 }
-.week-day-card.wk-today .wdc-heb{background:#ffd4d4 !important;}
-.week-day-card.wk-today .wdc-greg{background:#ffe4e4 !important;}
-.week-day-card.wk-today .wdc-heb-num{color:#900 !important;}
-.week-day-card.wk-today .wdc-greg-num{color:#900 !important;}
+.week-day-card.wk-today .wdc-heb{background:#ffd4d4!important;}
+.week-day-card.wk-today .wdc-greg{background:#ffe4e4!important;}
+.week-day-card.wk-today .wdc-heb-num{color:#900!important;}
+.week-day-card.wk-today .wdc-greg-num{color:#900!important;}
 
 /* ══════════════════════════════════════════════════
-   ANNUAL GRID
+   ANNUAL GRID — 1 col mobile, 2 col ≥480, 3 col ≥768, 4 col ≥1100
 ══════════════════════════════════════════════════ */
-.year-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;}
+.year-grid{
+  display:grid;
+  grid-template-columns:1fr;
+  gap:10px;
+}
 
-.month-block{border:1px solid #c8b88a;border-radius:5px;overflow:hidden;break-inside:avoid;}
+.month-block{
+  border:1px solid #c8b88a;border-radius:5px;overflow:hidden;break-inside:avoid;
+}
 .month-block.legend-highlight{
   outline:3px solid var(--gold);outline-offset:1px;
   box-shadow:0 0 18px rgba(184,146,42,.45);
-  transition:outline .1s,box-shadow .1s;
 }
 .month-block.legend-dim{opacity:.28;transition:opacity .2s;}
 
-.month-header{padding:5px 8px 4px;text-align:center;color:#fff;}
-.mh-heb{font-family:'Cinzel',serif;font-size:.8rem;letter-spacing:.1em;font-weight:600;text-transform:uppercase;}
-.mh-greg{font-size:.62rem;opacity:.62;font-style:italic;margin-top:1px;}
-.mh-year{font-size:.56rem;opacity:.48;margin-top:1px;}
+/* Month header */
+.month-header{padding:6px 8px 5px;text-align:center;color:#fff;}
+.mh-heb{
+  font-family:'Cinzel',serif;font-weight:600;letter-spacing:.1em;text-transform:uppercase;
+  font-size:clamp(.75rem,2.5vw,.85rem);
+}
+.mh-greg{font-size:clamp(.58rem,1.6vw,.65rem);opacity:.65;font-style:italic;margin-top:1px;}
+.mh-year{font-size:clamp(.52rem,1.4vw,.58rem);opacity:.48;margin-top:1px;}
 
+/* DOW header */
 .dow-row{display:grid;grid-template-columns:repeat(7,1fr);background:var(--paper-dk);border-bottom:1px solid #c8b88a;}
-.dow-cell{text-align:center;padding:2px 1px;font-family:'Cinzel',serif;font-size:.54rem;letter-spacing:.07em;color:#555;text-transform:uppercase;border-right:1px solid #ddd;}
+.dow-cell{
+  text-align:center;padding:3px 1px;
+  font-family:'Cinzel',serif;
+  font-size:clamp(.5rem,1.5vw,.56rem);
+  letter-spacing:.05em;color:#555;text-transform:uppercase;border-right:1px solid #ddd;
+}
 .dow-cell:last-child{border-right:none;}
 .dow-cell.dw-shabat{color:var(--c-shabat);font-weight:700;}
 
+/* Week rows */
 .week-row{display:grid;grid-template-columns:repeat(7,1fr);border-bottom:1px solid #e0d8c0;}
 .week-row:last-child{border-bottom:none;}
 
 /* ── Day cell ── */
 .day-cell{
-  border-right:1px solid #e0d8c0;min-height:56px;
+  border-right:1px solid #e0d8c0;
+  min-height:52px;
   display:flex;flex-direction:column;position:relative;overflow:hidden;
   cursor:pointer;transition:filter .15s;
 }
 .day-cell:last-child{border-right:none;}
-.day-cell:hover:not(.is-empty){filter:brightness(.93);}
+.day-cell:active:not(.is-empty){filter:brightness(.88);}
 .day-cell.is-empty .heb-part,
 .day-cell.is-empty .greg-part{background:#f0ece0;opacity:.4;}
 .day-cell.is-empty{cursor:default;}
 
-/* Hebrew (top, 58%) */
+/* Hebrew (top 58%) */
 .heb-part{
   flex:0 0 58%;display:flex;flex-direction:column;
   align-items:center;justify-content:center;
-  padding:2px 2px 1px;background:#f0e8d8;
+  padding:2px 1px 1px;background:#f0e8d8;
 }
-/* Gregorian (bottom, 42%) */
+/* Gregorian (bottom 42%) */
 .greg-part{
   flex:0 0 42%;display:flex;flex-direction:column;
   align-items:center;justify-content:center;
-  padding:1px 2px 2px;background:#e4ecf4;
+  padding:1px 1px 2px;background:#e4ecf4;
   border-top:1px dashed #c8a060;
 }
-
 .day-cell.is-shabat .greg-part{background:#e8e0c4;}
 
-.heb-num{font-family:'Cinzel',serif;font-size:.93rem;font-weight:600;line-height:1;color:#1a0a00;}
-.heb-mo-lbl{font-size:.49rem;font-style:italic;line-height:1;margin-top:1px;text-align:center;color:#5a3a10;}
-.heb-event{font-size:.45rem;font-weight:700;text-align:center;line-height:1.2;padding:0 1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:100%;margin-top:1px;}
+.heb-num{
+  font-family:'Cinzel',serif;font-weight:600;line-height:1;color:#1a0a00;
+  font-size:clamp(.78rem,2.2vw,.96rem);
+}
+.heb-mo-lbl{font-size:clamp(.42rem,1.1vw,.5rem);font-style:italic;line-height:1;margin-top:1px;text-align:center;color:#5a3a10;}
+.heb-event{
+  font-size:clamp(.38rem,1vw,.46rem);font-weight:700;text-align:center;
+  line-height:1.1;padding:0 1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:100%;margin-top:1px;
+}
+.greg-num{
+  font-family:'Cinzel',serif;font-weight:600;color:#2a3a50;line-height:1;
+  font-size:clamp(.6rem,1.8vw,.74rem);
+}
+.greg-mo-lbl{font-size:clamp(.38rem,.9vw,.46rem);color:#6a7a8a;font-style:italic;line-height:1;margin-top:1px;}
 
-.greg-num{font-family:'Cinzel',serif;font-size:.72rem;font-weight:600;color:#2a3a50;line-height:1;}
-.greg-mo-lbl{font-size:.45rem;color:#6a7a8a;font-style:italic;line-height:1;margin-top:1px;}
-
-/* Comment pip in month cell */
+/* Comment pip */
 .cell-comment-pip{
   position:absolute;bottom:43%;right:2px;
   width:5px;height:5px;border-radius:50%;
   background:var(--gold);border:1px solid rgba(255,255,255,.7);
   z-index:5;transform:translateY(50%);
 }
-
-/* Shabat festivo ring */
-.day-cell.is-shabat-f{
-  outline:2px solid #8a6800;outline-offset:-2px;
+/* Comment text (hidden on very small cells, shown from 2-col up) */
+.cell-comment-text{
+  display:none; /* hidden on 1-col mobile to avoid clutter */
+  position:absolute;bottom:1px;left:2px;right:2px;
+  font-size:.36rem;color:#5a3000;font-style:italic;
+  line-height:1.2;overflow:hidden;
+  -webkit-line-clamp:1;-webkit-box-orient:vertical;
+  z-index:3;
 }
 
+/* Shabat festivo ring */
+.day-cell.is-shabat-f{outline:2px solid #8a6800;outline-offset:-2px;}
+
 /* ══════════════════════════════════════════════════
-   COMMENT MODAL
+   COMMENT MODAL — full-screen on mobile
 ══════════════════════════════════════════════════ */
 .modal-bg{
   display:none;position:fixed;inset:0;
-  background:rgba(10,6,2,.65);z-index:1000;
-  align-items:center;justify-content:center;
+  background:rgba(10,6,2,.7);z-index:1000;
+  align-items:flex-end; /* sheet slides up from bottom on mobile */
+  justify-content:center;
   backdrop-filter:blur(2px);
 }
 .modal-bg.open{display:flex;}
 .modal-box{
-  background:var(--cream);border-radius:8px;
-  padding:22px 24px 20px;width:min(460px,92vw);
-  box-shadow:0 16px 60px rgba(0,0,0,.5);
-  border:1px solid #c8b88a;
+  background:var(--cream);
+  width:100%;max-width:520px;
+  padding:20px 18px 28px;
+  border-radius:16px 16px 0 0; /* bottom sheet style */
+  box-shadow:0 -8px 40px rgba(0,0,0,.4);
+  border:1px solid #c8b88a;border-bottom:none;
   position:relative;
+  /* drag handle aesthetic */
 }
-.modal-title{font-family:'Cinzel',serif;font-size:.9rem;color:var(--ink);letter-spacing:.08em;margin-bottom:4px;}
+.modal-box::before{
+  content:'';display:block;
+  width:40px;height:4px;border-radius:2px;
+  background:#c8b88a;margin:0 auto 16px;
+}
+.modal-title{font-family:'Cinzel',serif;font-size:.92rem;color:var(--ink);letter-spacing:.08em;margin-bottom:3px;}
 .modal-subtitle{font-size:.78rem;color:#666;font-style:italic;margin-bottom:14px;}
 .modal-textarea{
-  width:100%;height:100px;padding:10px 12px;
-  font-family:'Crimson Pro',serif;font-size:.9rem;color:var(--ink);
-  background:#fff;border:1px solid #c8b88a;border-radius:5px;resize:vertical;
-  line-height:1.5;
+  width:100%;height:110px;padding:11px 13px;
+  font-family:'Crimson Pro',serif;font-size:1rem;color:var(--ink);
+  background:#fff;border:1px solid #c8b88a;border-radius:8px;
+  resize:vertical;line-height:1.5;
+  /* prevent zoom on iOS */
+  font-size:max(16px, 1rem);
 }
 .modal-textarea:focus{outline:none;border-color:var(--gold);box-shadow:0 0 0 2px rgba(184,146,42,.2);}
-.modal-actions{display:flex;gap:8px;justify-content:flex-end;margin-top:12px;}
+.modal-actions{display:flex;gap:8px;justify-content:flex-end;margin-top:14px;flex-wrap:wrap;}
 .modal-btn{
-  font-family:'Cinzel',serif;font-size:.68rem;letter-spacing:.07em;
-  padding:7px 16px;border-radius:20px;cursor:pointer;transition:all .18s;
-  border:1px solid var(--gold);
+  font-family:'Cinzel',serif;font-size:.7rem;letter-spacing:.07em;
+  padding:10px 18px;border-radius:20px;cursor:pointer;transition:all .18s;
+  border:1px solid var(--gold);min-height:40px;
 }
 .modal-btn.primary{background:var(--gold);color:var(--ink);}
-.modal-btn.primary:hover{background:#a07820;}
+.modal-btn.primary:active{background:#a07820;}
 .modal-btn.secondary{background:none;color:var(--gold);}
-.modal-btn.secondary:hover{background:rgba(184,146,42,.1);}
 .modal-btn.danger{border-color:#c03030;color:#c03030;}
-.modal-btn.danger:hover{background:#c03030;color:#fff;}
-.modal-close{position:absolute;top:10px;right:12px;background:none;border:none;font-size:1.1rem;color:#888;cursor:pointer;line-height:1;}
-.modal-close:hover{color:var(--ink);}
-
-/* Comment display in cell */
-.cell-comment-text{
-  position:absolute;bottom:1px;left:2px;right:2px;
-  font-size:.38rem;color:#5a3000;font-style:italic;
-  line-height:1.2;overflow:hidden;
-  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;
-  z-index:3;
+.modal-btn.danger:active{background:#c03030;color:#fff;}
+.modal-close{
+  position:absolute;top:12px;right:14px;
+  background:none;border:none;font-size:1.3rem;color:#888;
+  cursor:pointer;line-height:1;padding:4px;
 }
 
 /* ══════════════════════════════════════════════════
-   LEGEND
+   LEGEND — two-column grid on mobile
 ══════════════════════════════════════════════════ */
 .page-legend{
-  display:flex;flex-wrap:wrap;gap:8px 14px;
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:6px 10px;
   margin-top:14px;padding-top:10px;
-  border-top:1px solid #c8b88a;justify-content:center;
+  border-top:1px solid #c8b88a;
 }
 .leg-item{
-  display:flex;align-items:center;gap:5px;
-  font-size:.63rem;color:#444;
-  cursor:pointer;padding:3px 6px;border-radius:12px;
+  display:flex;align-items:center;gap:6px;
+  font-size:clamp(.6rem,1.8vw,.68rem);color:#444;
+  cursor:pointer;padding:6px 8px;border-radius:10px;
   border:1px solid transparent;transition:all .18s;
-  user-select:none;
+  user-select:none;min-height:36px;
 }
-.leg-item:hover{border-color:#c8b88a;background:rgba(0,0,0,.04);}
-.leg-item.leg-active{border-color:var(--gold);background:rgba(184,146,42,.08);font-weight:600;}
-.leg-sq{width:16px;height:10px;border-radius:2px;border:1px solid rgba(0,0,0,.15);flex-shrink:0;}
-.leg-dash{width:16px;height:0;border-top:1px dashed #c8a060;flex-shrink:0;}
+.leg-item:active,.leg-item:hover{border-color:#c8b88a;background:rgba(0,0,0,.04);}
+.leg-item.leg-active{border-color:var(--gold);background:rgba(184,146,42,.1);font-weight:600;}
+.leg-sq{width:18px;height:12px;border-radius:3px;border:1px solid rgba(0,0,0,.15);flex-shrink:0;}
+.leg-dash{width:18px;height:0;border-top:1.5px dashed #c8a060;flex-shrink:0;}
 
-.page-footer{text-align:center;margin-top:10px;font-size:.6rem;color:#999;font-style:italic;}
+.page-footer{text-align:center;margin-top:12px;font-size:clamp(.55rem,1.5vw,.62rem);color:#999;font-style:italic;line-height:1.5;}
+
+/* ══════════════════════════════════════════════════
+   RESPONSIVE BREAKPOINTS
+══════════════════════════════════════════════════ */
+
+/* ≥ 480px — 2 month columns */
+@media(min-width:480px){
+  body{padding:14px;}
+  .year-grid{grid-template-columns:repeat(2,1fr);}
+  .cell-comment-text{display:-webkit-box;}
+  .week-scroll-hint{display:none!important;}
+  .page-legend{grid-template-columns:repeat(3,1fr);}
+  .day-cell{min-height:58px;}
+}
+
+/* ≥ 700px — 3 month columns, week scroll container wide enough to show all 7 */
+@media(min-width:700px){
+  body{padding:16px;}
+  .year-grid{grid-template-columns:repeat(3,1fr);}
+  .week-dow-row,.week-days-row,.week-sunset-strip{min-width:0;grid-template-columns:repeat(7,1fr);}
+  .page-legend{grid-template-columns:repeat(4,1fr);}
+  .day-cell{min-height:60px;}
+}
+
+/* ≥ 1100px — 4 month columns (original layout) */
+@media(min-width:1100px){
+  body{padding:20px;}
+  .year-grid{grid-template-columns:repeat(4,1fr);}
+  .page-legend{display:flex;flex-wrap:wrap;gap:8px 14px;justify-content:center;}
+  .day-cell{min-height:56px;}
+  .cal-page{padding:20px 18px 24px;}
+  .modal-box{
+    border-radius:10px;
+    max-width:460px;
+    align-self:center; /* centered on desktop */
+    border:1px solid #c8b88a;border-bottom:1px solid #c8b88a;
+  }
+  .modal-box::before{display:none;}
+  .modal-bg{align-items:center;}
+}
+
+/* Show scroll hint only on very small screens */
+@media(max-width:380px){
+  .week-scroll-hint{display:block;}
+}
 
 /* ══════════════════════════════════════════════════
    PRINT
@@ -372,11 +545,12 @@ body{background:#18100a;font-family:'Crimson Pro',serif;color:var(--ink);padding
   body{background:#fff;padding:0;-webkit-print-color-adjust:exact;print-color-adjust:exact;}
   .screen-controls,.week-panel,.modal-bg{display:none!important;}
   .cal-page{box-shadow:none;border-radius:0;padding:.8cm 1cm;max-width:100%;}
-  .year-grid{gap:6px;}
+  .year-grid{grid-template-columns:repeat(4,1fr);gap:6px;}
   .month-block{page-break-inside:avoid;}
   .day-cell{min-height:48px;}
   .month-block.legend-dim{opacity:1!important;}
   .month-block.legend-highlight{outline:none!important;box-shadow:none!important;}
+  .page-legend{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;}
 }
 @page{size:A3 landscape;margin:.7cm;}
 </style>
@@ -385,12 +559,16 @@ body{background:#18100a;font-family:'Crimson Pro',serif;color:var(--ink);padding
 
 <!-- ══ SCREEN CONTROLS ══ -->
 <div class="screen-controls">
-  <span class="ctrl-label">Año:</span>
-  <input type="number" class="year-input" id="yearInput" value="2026" min="1" max="9999">
-  <button class="ctrl-btn" onclick="changeYear(-1)">◀ Anterior</button>
-  <button class="ctrl-btn" onclick="changeYear(1)">Siguiente ▶</button>
-  <button class="ctrl-btn" onclick="goToToday()">📅 Hoy</button>
-  <button class="ctrl-btn" onclick="window.print()">🖨️ Imprimir</button>
+  <div class="ctrl-year-row">
+    <span class="ctrl-label">Año:</span>
+    <input type="number" class="year-input" id="yearInput" value="2026" min="1" max="9999">
+    <button class="ctrl-btn" onclick="changeYear(-1)">◀</button>
+    <button class="ctrl-btn" onclick="changeYear(1)">▶</button>
+  </div>
+  <div class="ctrl-actions">
+    <button class="ctrl-btn" onclick="goToToday()">📅 Hoy</button>
+    <button class="ctrl-btn" onclick="window.print()">🖨️ Imprimir</button>
+  </div>
   <span id="todayInfo"></span>
 </div>
 
@@ -416,12 +594,13 @@ body{background:#18100a;font-family:'Crimson Pro',serif;color:var(--ink);padding
         <button class="wph-btn" id="wkNext">&#8594;</button>
       </div>
     </div>
-    <!-- DOW header -->
-    <div class="week-dow-row" id="wkDowRow"></div>
-    <!-- 7 day cards -->
-    <div class="week-days-row" id="wkDaysRow"></div>
-    <!-- Sunset strip -->
-    <div class="week-sunset-strip" id="wkSunsetStrip"></div>
+    <!-- DOW header + day cards + sunset — all in one scrollable container -->
+    <div class="week-scroll">
+      <div class="week-dow-row" id="wkDowRow"></div>
+      <div class="week-days-row" id="wkDaysRow"></div>
+      <div class="week-sunset-strip" id="wkSunsetStrip"></div>
+    </div>
+    <div class="week-scroll-hint">← desliza para ver todos los días →</div>
   </div>
 
   <!-- ══ ANNUAL GRID ══ -->
@@ -456,23 +635,25 @@ body{background:#18100a;font-family:'Crimson Pro',serif;color:var(--ink);padding
    Fechas gregorianas se calculan automáticamente.
 ══════════════════════════════════════════════════════════════ */
 const FEAST_DATA = [
-  // ── AÑO HEBREO 5786 / Gregoriano 2026 ──
+  // ── AÑO BÍBLICO Aviv 5786 → Tishrei 5787 / Gregoriano 2026 ──
   // Cálculo: Iván Martínez (Jasac Bemat, transmisión 20-feb-2026)
-  // Rosh Jodesh mes 1: atardecer 20 mar 2026
+  // NOTA: El algoritmo usa año hebreo rabínico (que comienza en Tishrei).
+  // Las fiestas de primavera/verano pertenecen a hYear:5786 (Aviv = mes 1)
+  // Las fiestas de otoño pertenecen a hYear:5787 (Tishrei = mes 7 del mismo año bíblico)
 
-  // Lunas nuevas
-  {type:'rosh',hYear:5786,hMonth:1,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 1 (Aviv) · Luna nueva observada 20 mar'},
-  {type:'rosh',hYear:5786,hMonth:2,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 2 (Iyar) · aprox 18 abr'},
-  {type:'rosh',hYear:5786,hMonth:3,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 3 (Siván) · 17-18 may · a confirmar'},
-  {type:'rosh',hYear:5786,hMonth:4,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 4 (Tamuz) · 16 jun'},
-  {type:'rosh',hYear:5786,hMonth:5,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 5 (Av) · 15 jul'},
-  {type:'rosh',hYear:5786,hMonth:6,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 6 (Elul) · 13-14 ago · a confirmar'},
-  {type:'rosh',hYear:5786,hMonth:7,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 7 (Tishrei) · 12 sep → Yom Terua'},
+  // Lunas nuevas (Rosh Jodesh)
+  {type:'rosh',hYear:5786,hMonth:1,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 1 (Aviv) · Luna nueva observada · Jue 19 mar'},
+  {type:'rosh',hYear:5786,hMonth:2,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 2 (Iyar) · Sáb 18 abr'},
+  {type:'rosh',hYear:5786,hMonth:3,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 3 (Siván) · Dom 17 may · a confirmar'},
+  {type:'rosh',hYear:5786,hMonth:4,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 4 (Tamuz) · Mar 16 jun'},
+  {type:'rosh',hYear:5786,hMonth:5,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 5 (Av) · Mié 15 jul'},
+  {type:'rosh',hYear:5786,hMonth:6,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 6 (Elul) · Vie 14 ago · a confirmar'},
+  {type:'rosh',hYear:5787,hMonth:7,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 7 (Tishrei) · Sáb 12 sep → Yom Terua'},
 
-  // Pesaj
+  // Pesaj — 14 de Aviv (sacrificio del cordero)
   {type:'pesaj',hYear:5786,hMonth:1,hDay:14,label:'Pesaj',emoji:'🐑',notes:'14 Aviv · Sacrificio del cordero · 2-3 abr',shabbatFestivo:false},
 
-  // Panes sin Levadura
+  // Panes sin Levadura — 15 al 21 de Aviv
   {type:'matzot',hYear:5786,hMonth:1,hDay:15,label:'Matzot D1',emoji:'🥖',notes:'1er día Panes sin Levadura · Shabat festivo · 3-4 abr',shabbatFestivo:true},
   {type:'matzot',hYear:5786,hMonth:1,hDay:16,label:'Matzot D2',emoji:'🥖',notes:'Panes sin Levadura día 2 · 4-5 abr'},
   {type:'matzot',hYear:5786,hMonth:1,hDay:17,label:'Matzot D3',emoji:'🥖',notes:'Panes sin Levadura día 3 · 5-6 abr'},
@@ -481,29 +662,31 @@ const FEAST_DATA = [
   {type:'matzot',hYear:5786,hMonth:1,hDay:20,label:'Matzot D6',emoji:'🥖',notes:'Panes sin Levadura día 6 · 8-9 abr'},
   {type:'matzot',hYear:5786,hMonth:1,hDay:21,label:'Matzot D7',emoji:'🥖',notes:'7° día Panes sin Levadura · Shabat festivo · 9-10 abr',shabbatFestivo:true},
 
-  // Omer Resid
-  {type:'omer',hYear:5786,hMonth:1,hDay:16,label:'Omer Resid',emoji:'🌾',notes:'Gavilla de primicias · Día 1 conteo del Omer · 4-5 abr · Resurrección de Yeshua'},
+  // Omer Resid — día 1 del conteo, al día siguiente del Shabat dentro de Matzot
+  {type:'omer',hYear:5786,hMonth:1,hDay:16,label:'Omer Resid',emoji:'🌾',notes:'Gavilla de primicias · Día 1 del Omer · 4-5 abr · Resurrección de Yeshua'},
 
-  // Shavuot
+  // Shavuot — 50 días desde Omer Resid
   {type:'shavuot',hYear:5786,hMonth:3,hDay:6,label:'Shavuot',emoji:'📜',notes:'Pentecostés · 50 días desde Omer Resid · 23-24 may · Shabat festivo',shabbatFestivo:true},
 
-  // Yom Terua
-  {type:'yomterua',hYear:5786,hMonth:7,hDay:1,label:'Yom Terua',emoji:'📯',notes:'Día de la Aclamación · 12-13 sep · Shabat festivo',shabbatFestivo:true},
+  // ── FIESTAS DE OTOÑO (hYear:5787 = Tishrei que cae en sep/oct 2026) ──
 
-  // Yom Kippur
-  {type:'kippur',hYear:5786,hMonth:7,hDay:10,label:'Yom Kippur',emoji:'✝️',notes:'Día de la Expiación · 21-22 sep · Shabat festivo',shabbatFestivo:true},
+  // Yom Terua — 1 de Tishrei (coincide con Rosh Jodesh mes 7)
+  {type:'yomterua',hYear:5787,hMonth:7,hDay:1,label:'Yom Terua',emoji:'📯',notes:'Día de la Aclamación / Trompetas · Sáb 12-13 sep · Shabat festivo · Rosh Jodesh mes 7',shabbatFestivo:true},
 
-  // Sucot
-  {type:'sucot',hYear:5786,hMonth:7,hDay:15,label:'Sucot D1',emoji:'⛺',notes:'1er día Tabernáculos · Shabat festivo · 26-27 sep',shabbatFestivo:true},
-  {type:'sucot',hYear:5786,hMonth:7,hDay:16,label:'Sucot D2',emoji:'⛺',notes:'Tabernáculos día 2 · 27-28 sep'},
-  {type:'sucot',hYear:5786,hMonth:7,hDay:17,label:'Sucot D3',emoji:'⛺',notes:'Tabernáculos día 3 · 28-29 sep'},
-  {type:'sucot',hYear:5786,hMonth:7,hDay:18,label:'Sucot D4',emoji:'⛺',notes:'Tabernáculos día 4 · 29-30 sep'},
-  {type:'sucot',hYear:5786,hMonth:7,hDay:19,label:'Sucot D5',emoji:'⛺',notes:'Tabernáculos día 5 · 30 sep-1 oct'},
-  {type:'sucot',hYear:5786,hMonth:7,hDay:20,label:'Sucot D6',emoji:'⛺',notes:'Tabernáculos día 6 · 1-2 oct'},
-  {type:'sucot',hYear:5786,hMonth:7,hDay:21,label:'Hoshana Rabá',emoji:'⛺',notes:'7° día Sucot · Hoshana Rabá · 2-3 oct'},
+  // Yom Kippur — 10 de Tishrei
+  {type:'kippur',hYear:5787,hMonth:7,hDay:10,label:'Yom Kippur',emoji:'✝️',notes:'Día de la Expiación / Reconciliación · Lun 21-22 sep · Shabat festivo',shabbatFestivo:true},
 
-  // Shemini Atzeret
-  {type:'shemini',hYear:5786,hMonth:7,hDay:22,label:'Shemini',emoji:'🕯️',notes:'Octavo día · Shabat festivo · 3-4 oct',shabbatFestivo:true},
+  // Sucot — 15 al 21 de Tishrei
+  {type:'sucot',hYear:5787,hMonth:7,hDay:15,label:'Sucot D1',emoji:'⛺',notes:'1er día Tabernáculos · Shabat festivo · Sáb 26-27 sep',shabbatFestivo:true},
+  {type:'sucot',hYear:5787,hMonth:7,hDay:16,label:'Sucot D2',emoji:'⛺',notes:'Tabernáculos día 2 · Dom 27-28 sep'},
+  {type:'sucot',hYear:5787,hMonth:7,hDay:17,label:'Sucot D3',emoji:'⛺',notes:'Tabernáculos día 3 · Lun 28-29 sep'},
+  {type:'sucot',hYear:5787,hMonth:7,hDay:18,label:'Sucot D4',emoji:'⛺',notes:'Tabernáculos día 4 · Mar 29-30 sep'},
+  {type:'sucot',hYear:5787,hMonth:7,hDay:19,label:'Sucot D5',emoji:'⛺',notes:'Tabernáculos día 5 · Mié 30 sep-1 oct'},
+  {type:'sucot',hYear:5787,hMonth:7,hDay:20,label:'Sucot D6',emoji:'⛺',notes:'Tabernáculos día 6 · Jue 1-2 oct'},
+  {type:'sucot',hYear:5787,hMonth:7,hDay:21,label:'Hoshana Rabá',emoji:'⛺',notes:'7° día Sucot · Hoshana Rabá · Vie 2-3 oct'},
+
+  // Shemini Atzeret — 22 de Tishrei (8° día)
+  {type:'shemini',hYear:5787,hMonth:7,hDay:22,label:'Shemini',emoji:'🕯️',notes:'Octavo día · Shabat festivo · Sáb 3-4 oct',shabbatFestivo:true},
 ];
 
 /* ══════════════════════════════════════════════════════════════
@@ -552,7 +735,7 @@ const HEB_DOW=['Yom Rishón','Yom Shení','Yom Shlishí','Yom Revií','Yom Chami
 /* ══════════════════════════════════════════════════════════════
    SECCIÓN 5 — ÍNDICE DE FIESTAS
 ══════════════════════════════════════════════════════════════ */
-const FEAST_PRI={rosh:0,matzot:1,sucot:1,omer:2,pesaj:3,shavuot:3,yomterua:3,kippur:3,shemini:3};
+const FEAST_PRI={rosh:0,matzot:1,sucot:1,omer:2,pesaj:3,shavuot:3,yomterua:4,kippur:4,shemini:4};
 const FEAST_IDX={};
 FEAST_DATA.forEach(f=>{
   const rd=hToRD(f.hYear,f.hMonth,f.hDay);
