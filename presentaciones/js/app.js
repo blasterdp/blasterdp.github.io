@@ -50,6 +50,13 @@ const presentations = [
     slides: Array.from({length: 14}, (_, i) => `slides/retorno_raices_hebreas/${String(i + 1).padStart(2, '0')}.webp`)
 },
     {
+        id: 'theruma_2026',
+        title: 'Theruma 2026',
+        description: 'Estudio sobre la porción de Theruma en 2026',
+        cover: 'slides/theruma_2026/01.webp',
+        slides: Array.from({length: 14}, (_, i) => `slides/theruma_2026/${String(i + 1).padStart(2, '0')}.webp`)
+    },
+    {
         id: 'vaera',
         title: 'Vaerá',
         description: 'Estudio bíblico de la parashá Vaerá',

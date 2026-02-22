@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudio de Rosh Jodesh - Cabeza del Mes</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Noto+Serif+Hebrew:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Georgia', serif;
+            line-height: 1.8;
+            color: #2c2416;
+            background: #ffffff;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 60px 20px;
+            background: #f5f5f5;
+            color: #1a3a4a;
+            position: relative;
+            overflow: hidden;
+            border-bottom: 3px solid #d4af37;
+        }
+
+
+
+        h1 {
+            font-family: 'Cinzel', serif;
+            font-size: 3.5rem;
+            margin-bottom: 10px;
+            color: #1a3a4a;
+            position: relative;
+        }
+
+        .hebrew-title {
+            font-family: 'Noto Serif Hebrew', serif;
+            font-size: 2.5rem;
+            color: #2c5f72;
+            margin: 15px 0;
+            letter-spacing: 3px;
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            font-style: italic;
+            color: #555;
+            position: relative;
+        }
+
+        .content {
+            background: #fff;
+            padding: 50px;
+            margin-top: 30px;
+            border-radius: 10px;
+            border: 1px solid #e0e0e0;
+        }
+
+        h2 {
+            font-family: 'Cinzel', serif;
+            color: #1a3a4a;
+            font-size: 1.8rem;
+            margin: 40px 0 20px 0;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #d4af37;
+            display: inline-block;
+        }
+
+        h3 {
+            font-family: 'Cinzel', serif;
+            color: #2c5f72;
+            font-size: 1.4rem;
+            margin: 30px 0 15px 0;
+        }
+
+        p {
+            margin-bottom: 20px;
+            text-align: justify;
+        }
+
+        .intro-box {
+            background: #f9f9f9;
+            color: #2c2416;
+            padding: 30px;
+            border-radius: 10px;
+            margin: 30px 0;
+            border: 2px solid #d4af37;
+            border-left: 5px solid #d4af37;
+        }
+
+        .intro-box h3 {
+            color: #1a3a4a;
+            margin-top: 0;
+        }
+
+        .verse-box {
+            background: #fff;
+            border: 1px solid #ddd;
+            border-left: 4px solid #d4af37;
+            padding: 25px;
+            margin: 25px 0;
+            font-style: italic;
+            border-radius: 0 10px 10px 0;
+        }
+
+        .verse-box .reference {
+            font-weight: bold;
+            color: #1a3a4a;
+            display: block;
+            margin-top: 10px;
+            font-style: normal;
+        }
+
+        .hebrew-word {
+            font-family: 'Noto Serif Hebrew', serif;
+            font-size: 1.3rem;
+            color: #1a3a4a;
+            font-weight: bold;
+        }
+
+        .highlight {
+            background: #fffacd;
+            padding: 0 4px;
+        }
+
+        ul, ol {
+            margin: 20px 0 20px 30px;
+        }
+
+        li {
+            margin-bottom: 12px;
+        }
+
+        .practice-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .practice-card {
+            background: #fff;
+            padding: 25px;
+            border-radius: 10px;
+            border: 1px solid #ddd;
+            border-top: 4px solid #d4af37;
+        }
+
+
+
+        .practice-card h4 {
+            font-family: 'Cinzel', serif;
+            color: #1a3a4a;
+            margin-bottom: 10px;
+        }
+
+        .timeline {
+            position: relative;
+            padding-left: 30px;
+            margin: 30px 0;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 8px;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: #d4af37;
+        }
+
+        .timeline-item {
+            position: relative;
+            margin-bottom: 25px;
+            padding-left: 20px;
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -26px;
+            top: 5px;
+            width: 12px;
+            height: 12px;
+            background: #d4af37;
+            border-radius: 50%;
+            border: 3px solid #fff;
+            box-shadow: 0 0 0 2px #d4af37;
+        }
+
+        .timeline-item h4 {
+            color: #1a3a4a;
+            font-family: 'Cinzel', serif;
+            margin-bottom: 8px;
+        }
+
+        .conclusion {
+            background: #f5f5f5;
+            color: #2c2416;
+            padding: 40px;
+            border-radius: 10px;
+            margin-top: 40px;
+            text-align: center;
+            border: 2px solid #d4af37;
+        }
+
+        .conclusion h2 {
+            color: #1a3a4a;
+            border-bottom: none;
+            display: block;
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: #555;
+            font-size: 0.9rem;
+            background: #f9f9f9;
+            border-top: 1px solid #ddd;
+        }
+
+        .moon-phase {
+            font-size: 3rem;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .hebrew-title {
+                font-size: 1.5rem;
+            }
+            
+            .content {
+                padding: 25px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Rosh Jodesh</h1>
+        <div class="hebrew-title">רֹאשׁ חֹדֶשׁ</div>
+        <p class="subtitle">Cabeza del Mes - La Renovación del Ciclo Sagrado</p>
+    </header>
+
+    <div class="container">
+        <div class="content">
+            <div class="moon-phase">☽</div>
+            
+            <div class="intro-box">
+                <h3>Definición</h3>
+                <p><span class="hebrew-word">Rosh Jodesh</span> (ראש חודש) significa literalmente "Cabeza del Mes" en hebreo. Es la celebración del <span class="highlight">nuevo mes lunar</span> en el calendario hebreo, marcando el comienzo de cada mes. En el calendario bíblico, el día comienza al atardecer, y Rosh Jodesh se celebra cuando la luna nueva es avistada por primera vez.</p>
+            </div>
+
+            <h2>📜 Fundamento Bíblico</h2>
+            
+            <p>Rosh Jodesh tiene su origen directo en las Escrituras y representa uno de los pilares del calendario bíblico:</p>
+
+            <div class="verse-box">
+                <p>"Y habló Adonai a Moisés y a Aarón en la tierra de Egipto, diciendo: Este mes os será principio de meses; para vosotros será este el primer mes del año."</p>
+                <span class="reference">Éxodo 12:1-2</span>
+            </div>
+
+            <p>La observancia de Rosh Jodesh se menciona en varios pasajes importantes:</p>
+
+            <div class="verse-box">
+                <p>"Y en el día de vuestra alegría, y en vuestras solemnidades, y en los principios de vuestros meses, tocaréis las trompetas sobre vuestros holocaustos..."</p>
+                <span class="reference">Números 10:10</span>
+            </div>
+
+            <div class="verse-box">
+                <p>"En la fiesta de la luna nueva, ofreceréis un becerro sin defecto..."</p>
+                <span class="reference">Ezequiel 46:6</span>
+            </div>
+
+            <h2>🌙 Significado Espiritual</h2>
+
+            <h3>1. Renovación y Nuevo Comienzo</h3>
+            <p>La luna, a diferencia del sol que permanece constante, pasa por ciclos de ocultamiento y renovación. Este ciclo nos recuerda que:</p>
+            <ul>
+                <li>Cada mes ofrece una <span class="highlight">oportunidad de renovación espiritual</span></li>
+                <li>Así como la luna se renueva, nosotros podemos renovar nuestro compromiso con el Eterno</li>
+                <li>El cielo proclama la gloria de Elohim a través de estos ciclos ordenados</li>
+            </ul>
+
+            <h3>2. La Mujer y Rosh Jodesh</h3>
+            <p>Históricamente, Rosh Jodesh ha sido considerado especialmente como un tiempo para las mujeres. Esto se basa en la conexión entre el ciclo lunar y el ciclo femenino. Las Escrituras muestran que las mujeres tenían un rol especial en esta celebración:</p>
+
+            <div class="verse-box">
+                <p>"Y dijo Saul: Dispersaos por el pueblo, y decidles que me traigan cada uno su buey y cada uno su oveja, y degolladlos aquí, y comed... Y Saúl edificó allí un altar a Adonai; este fue el primer altar que edificó a Adonai. Y dijo Saúl: Descended hoy en pos de los filisteos..."</p>
+                <span class="reference">1 Samuel 14:34-36 (contexto de reunión en Rosh Jodesh)</span>
+            </div>
+
+            <h3>3. Señal en el Cielo</h3>
+            <p>La luna nueva es una <span class="hebrew-word">ot</span> (אוֹת) - una señal visible establecida por el Creador:</p>
+            <ul>
+                <li>Génesis 1:14 establece que las luminarias sirven para "señales y para tiempos"</li>
+                <li>La luna nueva marca el tiempo de convocación santa</li>
+                <li>Es un recordatorio mensual de la soberanía del Eterno sobre el tiempo</li>
+            </ul>
+
+            <h2>🎺 Prácticas y Costumbres</h2>
+
+            <div class="practice-grid">
+                <div class="practice-card">
+                    <h4>🔔 Las Trompetas</h4>
+                    <p>En el Templo, se tocaban las trompetas (jobel) para anunciar el nuevo mes. Hoy, muchas comunidades recitan bendiciones y salmos.</p>
+                </div>
+                
+                <div class="practice-card">
+                    <h4>🙏 Oración y Alabanza</h4>
+                    <p>Salmo 81 es tradicionalmente recitado en Rosh Jodesh, que dice: "Cantad con gozo a Elohim, nuestra fortaleza..."</p>
+                </div>
+                
+                <div class="practice-card">
+                    <h4>🍷 Comida Festiva</h4>
+                    <p>Se celebra con comidas especiales, a menudo incluyendo el Challah, vino y manjares que recuerdan la festividad.</p>
+                </div>
+                
+                <div class="practice-card">
+                    <h4>✨ Iluminación de Velas</h4>
+                    <p>Algunas tradiciones incluyen encender velas al inicio de Rosh Jodesh, simbolizando la luz que emerge de la oscuridad.</p>
+                </div>
+            </div>
+
+            <h2>📅 Rosh Jodesh en el Ciclo del Año</h2>
+
+            <div class="timeline">
+                <div class="timeline-item">
+                    <h4>Nisán (Abib)</h4>
+                    <p>El primer mes del año bíblico. Comienza con Rosh Jodesh que anticipa Pesaj (Pascua), la celebración central de la redención.</p>
+                </div>
+                
+                <div class="timeline-item">
+                    <h4>Elul</h4>
+                    <p>El mes de preparación para las fiestas del otoño (Yom Teruah, Yom Hakipurim, Sukkot). Es un tiempo de arrepentimiento y examen.</p>
+                </div>
+                
+                <div class="timeline-item">
+                    <h4>Tishrei</h4>
+                    <p>Rosh Jodesh Tishrei es especial porque coincide con Yom Teruah (Día de las Trompetas), una fiesta santa con reposo completo.</p>
+                </div>
+                
+                <div class="timeline-item">
+                    <h4>Todos los Meses</h4>
+                    <p>Cada Rosh Jodesh es una oportunidad para realinear nuestras vidas con los ciclos divinos y renovar nuestro caminar espiritual.</p>
+                </div>
+            </div>
+
+            <h2>🕎 Rosh Jodesh y el Mesías</h2>
+
+            <p>En el pensamiento mesiánico, Rosh Jodesh tiene profundas implicaciones:</p>
+
+            <h3>Yeshúa como Renovación</h3>
+            <p>Así como la luna se renueva mensualmente, Yeshúa vino para traer <span class="highlight">nueva vida y renovación</span> a la humanidad. En Colosenses 2:16-17, Pablo habla de estas observancias como "sombra de lo que ha de venir, mas el cuerpo es del Mesías."</p>
+
+            <h3>La Novia del Cordero</h3>
+            <p>Rosh Jodesh ha sido tradicionalmente asociado con las mujeres, y espiritualmente, el pueblo de Elohim es descrito como la novia del Cordero. Esta conexión nos recuerda nuestra relación íntima con el Mesías.</p>
+
+            <h3>El Ciclo Completo</h3>
+            <p>La luna, aunque aparentemente desaparece, siempre regresa. Esto nos habla de:</p>
+            <ul>
+                <li>La fidelidad de Elohim a pesar de las apariencias</li>
+                <li>La resurrección y la vida eterna</li>
+                <li>La promesa de que Su pueblo será restaurado</li>
+            </ul>
+
+            <h2>🙌 Aplicación Práctica Hoy</h2>
+
+            <ol>
+                <li><strong>Establecer un Recordatorio:</strong> Marca en tu calendario los días de Rosh Jodesh para observarlos conscientemente.</li>
+                
+                <li><strong>Estudio de las Escrituras:</strong> Dedicar tiempo especial para estudiar Salmos relacionados con la luna nueva.</li>
+                
+                <li><strong>Oración de Renovación:</strong> Usar este tiempo para examinar el mes pasado y comprometerse con metas espirituales para el nuevo mes.</li>
+                
+                <li><strong>Comunión:</strong> Reunirse con hermanos de fe para celebrar, compartir y edificarse mutuamente.</li>
+                
+                <li><strong>Acción de Gracias:</strong> Ofrecer gratitud al Eterno por Su fidelidad durante el mes anterior y buscar Su dirección para el venidero.</li>
+            </ol>
+
+            <div class="verse-box">
+                <p>"El cielo proclama la gloria de Elohim, y la expansión anuncia la obra de sus manos. Un día emite palabra a otro día, y una noche a otra noche declara sabiduría. No hay lenguaje, ni palabras, donde no se oiga su voz. Por toda la tierra salió su voz, y hasta el extremo del mundo sus palabras. En ellos puso tabernáculo para el sol..."</p>
+                <span class="reference">Salmo 19:1-4</span>
+            </div>
+
+            <div class="conclusion">
+                <h2>Conclusión</h2>
+                <p style="font-size: 1.2rem; line-height: 1.8;">Rosh Jodesh nos invita a ser conscientes del tiempo divino, a renovarnos espiritualmente y a reconocer las señales celestiales que el Eterno ha establecido. Como pueblo de las raíces hebreas, observar Rosh Jodesh nos conecta con la fe de nuestros padres, honramos la creación y anticipamos la plenitud del Reino.</p>
+                
+                <p style="margin-top: 30px; font-size: 1.3rem; color: #1a3a4a; font-family: 'Noto Serif Hebrew', serif;">
+                    יְבָרֶכְךָ֥ יְהוָ֖ה וְיִשְׁמְרֶֽךָ<br>
+                    <span style="font-size: 0.8rem;">"Adonai te bendiga y te guarde"</span>
+                </p>
+            </div>
+        </div>
+
+        <footer>
+            <p>Estudio preparado para la gloria del Eterno | 🕎 | Raíces Hebreas</p>
+            <p style="margin-top: 10px; font-size: 0.8rem;">"Buscad primeramente el reino de Elohim y su justicia"</p>
+        </footer>
+    </div>
+</body>
+</html>

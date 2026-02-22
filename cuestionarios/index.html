@@ -17,13 +17,8 @@
         <main>
             <div id="quiz-selection" class="quiz-selection">
                 <h2>Selecciona un Cuestionario</h2>
-                <div class="quiz-cards">
-                    <div class="quiz-card" data-quiz="mishpatim">
-                        <h3>Mishpatim</h3>
-                        <p>12 preguntas sobre los decretos y juicios bíblicos</p>
-                        <button class="start-quiz">Comenzar</button>
-                    </div>
-                    <!-- Se pueden agregar más cuestionarios aquí -->
+                <div class="quiz-cards" id="quiz-cards">
+                    <!-- Las tarjetas de cuestionarios se generarán dinámicamente -->
                 </div>
             </div>
             
@@ -80,27 +75,77 @@
     </div>
     
     <script>
-        // Cargar el cuestionario de ejemplo
-        document.addEventListener('DOMContentLoaded', () => {
-            // Reemplazar el manejador de clic de la tarjeta del cuestionario
-            const quizCard = document.querySelector('.quiz-card');
-            if (quizCard) {
-                quizCard.addEventListener('click', () => {
-                    // Cargar el cuestionario de ejemplo
-                    fetch('data/cuestionario-mishpatim.json')
-                        .then(response => response.json())
-                        .then(data => {
-                            // Guardar los datos en sessionStorage para que estén disponibles en la aplicación
-                            sessionStorage.setItem('quizData', JSON.stringify(data));
-                            // Redirigir a la página del cuestionario
-                            window.location.href = 'quiz.html';
-                        })
-                        .catch(error => {
-                            console.error('Error al cargar el cuestionario:', error);
-                            alert('No se pudo cargar el cuestionario. Por favor, inténtalo de nuevo.');
+        // Función para cargar la información de los cuestionarios
+        async function loadQuizzesInfo() {
+            const quizzesContainer = document.getElementById('quiz-cards');
+            quizzesContainer.innerHTML = ''; // Limpiar contenedor
+
+            try {
+                // Cargar la lista de cuestionarios disponibles
+                const listResponse = await fetch('data/quizzes-list.json');
+                const availableQuizzes = await listResponse.json();
+
+                for (const quizFile of availableQuizzes) {
+                    try {
+                        const response = await fetch(`data/${quizFile}`);
+                        const data = await response.json();
+                        
+                        // Extraer información del cuestionario
+                        const quizName = extractQuizName(quizFile);
+                        const questionCount = data.length;
+                        
+                        // Crear tarjeta del cuestionario
+                        const quizCard = document.createElement('div');
+                        quizCard.className = 'quiz-card';
+                        quizCard.innerHTML = `
+                            <h3>${quizName}</h3>
+                            <p>${questionCount} preguntas disponibles</p>
+                            <button class="start-quiz">Comenzar</button>
+                        `;
+                        
+                        // Agregar evento de clic
+                        quizCard.addEventListener('click', () => {
+                            startQuiz(quizFile);
                         });
-                });
+                        
+                        quizzesContainer.appendChild(quizCard);
+                    } catch (error) {
+                        console.error(`Error al cargar ${quizFile}:`, error);
+                    }
+                }
+            } catch (error) {
+                console.error('Error al cargar la lista de cuestionarios:', error);
+                quizzesContainer.innerHTML = '<p>No se pudieron cargar los cuestionarios. Inténtalo más tarde.</p>';
             }
+        }
+
+        // Función para extraer el nombre del cuestionario del archivo
+        function extractQuizName(filename) {
+            // Eliminar 'cuestionario-' y '.json'
+            const name = filename.replace('cuestionario-', '').replace('.json', '');
+            // Capitalizar primera letra
+            return name.charAt(0).toUpperCase() + name.slice(1);
+        }
+
+        // Función para iniciar un cuestionario
+        function startQuiz(quizFile) {
+            fetch(`data/${quizFile}`)
+                .then(response => response.json())
+                .then(data => {
+                    // Guardar los datos en sessionStorage
+                    sessionStorage.setItem('quizData', JSON.stringify(data));
+                    // Redirigir a la página del cuestionario
+                    window.location.href = 'quiz.html';
+                })
+                .catch(error => {
+                    console.error('Error al cargar el cuestionario:', error);
+                    alert('No se pudo cargar el cuestionario. Por favor, inténtalo de nuevo.');
+                });
+        }
+
+        // Cargar los cuestionarios cuando el DOM esté listo
+        document.addEventListener('DOMContentLoaded', () => {
+            loadQuizzesInfo();
         });
     </script>
 </body>

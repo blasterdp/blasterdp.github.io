@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fe que Transforma | El Verdadero Evangelío</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #fefce8 0%, #f5f5dc 100%);
+            color: #1e3a8a;
+            line-height: 1.8;
+            min-height: 100vh;
+        }
+
+        .hero {
+            background: linear-gradient(135deg, #1e3a8a 0%, #2c4a9c 50%, #1e3a8a 100%);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="50" font-size="50" opacity="0.05">✡️</text></svg>');
+            background-size: 100px;
+            pointer-events: none;
+        }
+
+        .hero h1 {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            position: relative;
+        }
+
+        .hero .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.95;
+            max-width: 700px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .intro-box {
+            background: white;
+            padding: 35px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            border-left: 6px solid #d97706;
+            text-align: center;
+        }
+
+        .intro-box p {
+            font-size: 1.3rem;
+            color: #374151;
+            font-weight: 500;
+        }
+
+        .section {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            margin-bottom: 25px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        .section-title {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            color: #1e3a8a;
+            font-size: 1.4rem;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #d97706;
+        }
+
+        .item {
+            display: flex;
+            align-items: flex-start;
+            gap: 15px;
+            margin-bottom: 25px;
+            padding: 20px;
+            background: #fefce8;
+            border-radius: 10px;
+            border-left: 4px solid #d97706;
+        }
+
+        .item .icon {
+            font-size: 1.8rem;
+            min-width: 40px;
+            text-align: center;
+        }
+
+        .item .content {
+            flex: 1;
+        }
+
+        .item .negativo {
+            color: #dc2626;
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+
+        .item .positivo {
+            color: #16a34a;
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+
+        .item .content p {
+            margin-top: 8px;
+            color: #4b5563;
+        }
+
+        .verse-box {
+            background: linear-gradient(135deg, #fefce8 0%, #fde68a 100%);
+            padding: 25px 30px;
+            border-radius: 12px;
+            margin: 30px 0;
+            border-right: 5px solid #1e3a8a;
+            position: relative;
+        }
+
+        .verse-box::before {
+            content: '"';
+            position: absolute;
+            top: 10px;
+            left: 20px;
+            font-size: 60px;
+            color: #d97706;
+            opacity: 0.3;
+            font-family: Georgia, serif;
+            line-height: 1;
+        }
+
+        .verse-box p {
+            font-size: 1.15rem;
+            font-style: italic;
+            color: #1e3a8a;
+            padding-left: 30px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .verse-box cite {
+            display: block;
+            text-align: right;
+            font-weight: bold;
+            color: #d97706;
+            margin-top: 15px;
+            font-style: normal;
+            font-size: 1rem;
+            padding-left: 30px;
+        }
+
+        .cta-section {
+            background: linear-gradient(135deg, #1e3a8a 0%, #2c4a9c 100%);
+            color: white;
+            padding: 40px 30px;
+            border-radius: 12px;
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .cta-section h2 {
+            color: #d97706;
+            margin-bottom: 20px;
+            font-size: 1.6rem;
+        }
+
+        .cta-section .question {
+            font-size: 1.3rem;
+            margin-bottom: 25px;
+            line-height: 1.6;
+        }
+
+        .cta-section .buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-top: 25px;
+        }
+
+        .cta-section .btn {
+            padding: 15px 35px;
+            border-radius: 30px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .btn-yes {
+            background: #16a34a;
+            color: white;
+            border: none;
+        }
+
+        .btn-yes:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(22, 163, 74, 0.4);
+        }
+
+        .conclusion-box {
+            background: white;
+            padding: 35px;
+            border-radius: 12px;
+            margin-top: 30px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            text-align: center;
+            border-top: 4px solid #d97706;
+        }
+
+        .conclusion-box h3 {
+            color: #1e3a8a;
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+        }
+
+        .conclusion-box p {
+            color: #dc2626;
+            font-size: 1.2rem;
+            font-weight: 600;
+        }
+
+        .conclusion-box .verse-ref {
+            color: #d97706;
+            font-style: italic;
+            margin-top: 10px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #6b7280;
+            font-size: 0.95rem;
+        }
+
+        footer .blessing {
+            color: #d97706;
+            font-size: 1.4rem;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        .highlight {
+            background: linear-gradient(120deg, #d97706 0%, #d97706 100%);
+            background-repeat: no-repeat;
+            background-size: 100% 0.2em;
+            background-position: 0 88%;
+            padding: 0 2px;
+        }
+
+        .nota {
+            background: #fee2e2;
+            padding: 15px 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            font-size: 0.95rem;
+            color: #991b1b;
+            border-left: 4px solid #dc2626;
+        }
+
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 1.8rem;
+            }
+            
+            .hero .subtitle {
+                font-size: 1rem;
+            }
+            
+            .item {
+                flex-direction: column;
+                gap: 10px;
+            }
+            
+            .section {
+                padding: 20px;
+            }
+            
+            .cta-section .btn {
+                width: 100%;
+                max-width: 250px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <h1>✡️ Fe que Transforma</h1>
+        <p class="subtitle">El Verdadero Evangelío: No es Legalismo, es Evidencia</p>
+    </div>
+
+    <div class="container">
+        <div class="intro-box">
+            <p>Escucha bien: <strong>muchos se confunden</strong> con el verdadero mensaje del evangelio.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">📜 Lo que NO nos salva</h2>
+            
+            <div class="item">
+                <span class="icon">👕</span>
+                <div class="content">
+                    <span class="negativo">La ropa no salva</span>
+                    <p>Pero el salvo vive una vida de santidad y modestia, honrando a Dios con su cuerpo.</p>
+                </div>
+            </div>
+
+            <div class="item">
+                <span class="icon">🍽️</span>
+                <div class="content">
+                    <span class="negativo">La comida no salva</span>
+                    <p>Pero el salvo honra a Dios con su cuerpo, cuidándolo como templo del Espíritu Santo.</p>
+                </div>
+            </div>
+
+            <div class="item">
+                <span class="icon">⚙️</span>
+                <div class="content">
+                    <span class="negativo">Las obras no nos salvan</span>
+                    <p>Pero la fe verdadera SIEMPRE produce obras. La fe sin obras está muerta.</p>
+                </div>
+            </div>
+
+            <div class="item">
+                <span class="icon">🕎</span>
+                <div class="content">
+                    <span class="negativo">El Shabat no salva</span>
+                    <p>Pero los salvos guardan los mandamientos de Dios, incluyendo el cuarto mandamiento.</p>
+                </div>
+            </div>
+
+            <div class="item">
+                <span class="icon">🏛️</span>
+                <div class="content">
+                    <span class="negativo">Congregarse no salva</span>
+                    <p>Pero el salvo nunca abandona la comunión con los hermanos.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="verse-box">
+            <p>Aquí está la paciencia de los santos: los que guardan los mandamientos de Dios y tienen la fe de Yeshúa el Mesías.</p>
+            <cite>Apocalipsis 14:12</cite>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">✝️ La Verdadera Salvación</h2>
+            
+            <p style="font-size: 1.15rem; color: #374151; margin-bottom: 20px;">
+                <strong>No es legalismo, es evidencia.</strong> El Cristiano verdadero no obedece <em>para</em> salvarse, 
+                sino que obedece <em>porque</em> ya fue salvado.
+            </p>
+
+            <div class="verse-box">
+                <p>Porque por gracia sois salvos por medio de la fe, y esto no es de vosotros, sino que es don de Dios. No es por obras, para que nadie se gloríe.</p>
+                <cite>Efesios 2:8-9</cite>
+            </div>
+
+            <div class="verse-box">
+                <p>¿Qué aprovechamiento hay de la circumcision? Mucho en todo caso: principalmente en que la palabra de Dios no es violada.</p>
+                <cite>Romanos 3:1-2</cite>
+            </div>
+
+            <div class="verse-box">
+                <p>¿No sabéis que los injustos no heredarán el reino de Dios? No erréis; ni los fornicarios, ni los idólatras, ni los adúlteros, ni los sodomitas, ni los ladrones, ni los avaros, ni los borrachos, ni los maldicientes, ni los rapaces heredarán el reino de Dios.</p>
+                <cite>1 Corintios 6:9-10</cite>
+            </div>
+
+            <div class="verse-box">
+                <p>Pero sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos.</p>
+                <cite>Santiago 1:22</cite>
+            </div>
+        </div>
+
+        <div class="nota">
+            <strong>⚠️ La verdad que muchos evitan:</strong> Si tu fe no cambia tu vida, tienes <strong>muerta la fe</strong>. 
+            No es religion - es transformación real en Cristo.
+        </div>
+
+        <div class="cta-section">
+            <h2>🤔 La Pregunta Final</h2>
+            <p class="question">
+                ¿Obedeces porque eres salvo, o<br>
+                rechazas la obediencia porque<br>
+                <strong>nunca lo fuiste</strong>?
+            </p>
+            <p style="opacity: 0.9; font-size: 1rem;">
+                Abre tu Biblia y examínate honestamente.
+            </p>
+            <div class="buttons">
+                <span class="btn btn-yes">✅ Obedezco porque soy salvo</span>
+            </div>
+        </div>
+
+        <div class="conclusion-box">
+            <h3>🕊️ Shalom U'Brajá</h3>
+            <p>Que Dios te bendiga y te guarde</p>
+            <p class="verse-ref">Basado en la Palabra de Elohim | Proyecto Jazak VeEmatz</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>Comparte esta verdad con quien la necesite</p>
+        <p class="blessing">✡️ יְבָרֶכְךָ אֱלֹהִים ✡️</p>
+        <p style="margin-top: 5px;">Yevarechecha Elohim</p>
+    </footer>
+</body>
+</html>

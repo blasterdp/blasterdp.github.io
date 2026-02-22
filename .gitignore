@@ -48,6 +48,10 @@
 !cuestionarios/**
 !cuestionarios/
 
+# Don't ignore beshalaj files
+!calendario/**
+!calendario/
+
 # Don't ignore directories (so we can traverse them)
 !*/
 

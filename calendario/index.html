@@ -1,0 +1,1033 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Calendario Bíblico — Moadim</title>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Cinzel:wght@400;600;900&display=swap" rel="stylesheet">
+<style>
+/* ══════════════════════════════════════════════════
+   TOKENS
+══════════════════════════════════════════════════ */
+:root {
+  --gold:       #b8922a;
+  --gold-lt:    #d4ad4f;
+  --ink:        #18100a;
+  --cream:      #fdf8ef;
+  --paper-dk:   #ede3c8;
+  --sunset:     #c86820;
+  --c-shabat:   #7a6010;
+  --c-rosh-brd: #1a6a3a;
+
+  /* Today accent — vivid red-gold so it pops on any background */
+  --today-ring: #e03030;
+  --today-glow: rgba(224,48,48,0.35);
+}
+
+*{box-sizing:border-box;margin:0;padding:0;}
+body{background:#18100a;font-family:'Crimson Pro',serif;color:var(--ink);padding:20px;}
+
+/* ══════════════════════════════════════════════════
+   SCREEN CONTROLS
+══════════════════════════════════════════════════ */
+.screen-controls{
+  display:flex;gap:10px;align-items:center;flex-wrap:wrap;
+  margin-bottom:16px;padding:11px 18px;
+  background:rgba(255,255,255,0.05);border-radius:8px;
+  border:1px solid rgba(184,146,42,0.2);
+}
+.ctrl-btn{
+  font-family:'Cinzel',serif;font-size:0.69rem;letter-spacing:0.08em;
+  background:rgba(184,146,42,0.12);border:1px solid var(--gold);
+  color:var(--gold-lt);padding:6px 13px;border-radius:20px;cursor:pointer;transition:all .2s;
+}
+.ctrl-btn:hover{background:var(--gold);color:var(--ink);}
+.ctrl-label{font-family:'Cinzel',serif;font-size:0.7rem;color:var(--gold-lt);}
+.year-input{
+  font-family:'Cinzel',serif;font-size:0.82rem;width:86px;
+  padding:5px 8px;background:rgba(255,255,255,0.07);
+  border:1px solid var(--gold);border-radius:4px;color:var(--gold-lt);text-align:center;
+}
+.year-input:focus{outline:none;background:rgba(255,255,255,0.12);}
+#todayInfo{font-family:'Cinzel',serif;font-size:0.68rem;color:var(--gold-lt);margin-left:6px;opacity:.8;}
+
+/* ══════════════════════════════════════════════════
+   PRINTABLE PAGE
+══════════════════════════════════════════════════ */
+.cal-page{
+  background:var(--cream);width:100%;max-width:1440px;margin:0 auto;
+  padding:20px 18px 24px;border-radius:7px;
+  box-shadow:0 12px 60px rgba(0,0,0,0.65);
+}
+.page-header{text-align:center;margin-bottom:14px;padding-bottom:11px;border-bottom:2px solid var(--gold);}
+.page-header h1{font-family:'Cinzel',serif;font-size:1.55rem;font-weight:900;color:var(--ink);letter-spacing:.18em;text-transform:uppercase;}
+.page-header .year-disp{font-family:'Cinzel',serif;font-size:.95rem;color:var(--gold);letter-spacing:.1em;margin-top:3px;}
+.page-header .subtitle{font-size:.75rem;color:#777;font-style:italic;margin-top:3px;}
+
+/* ══════════════════════════════════════════════════
+   WEEKLY PANEL — matches month card aesthetic
+══════════════════════════════════════════════════ */
+.week-panel{
+  margin-bottom:16px;
+  border:1px solid #c8b88a;
+  border-radius:6px;
+  overflow:hidden;
+  background:var(--cream);
+  box-shadow:0 2px 12px rgba(0,0,0,0.12);
+}
+
+/* Panel header — same style as month-header */
+.week-panel-header{
+  background:#2b3a50;
+  color:#fff;
+  display:flex;align-items:center;justify-content:space-between;
+  padding:6px 12px 5px;
+}
+.wph-title{font-family:'Cinzel',serif;font-size:.78rem;letter-spacing:.12em;text-transform:uppercase;}
+.wph-range{font-size:.68rem;opacity:.65;font-style:italic;}
+.wph-nav{display:flex;gap:6px;align-items:center;}
+.wph-btn{
+  background:none;border:1px solid rgba(255,255,255,.3);color:#fff;
+  width:24px;height:24px;border-radius:50%;cursor:pointer;font-size:.85rem;
+  display:flex;align-items:center;justify-content:center;transition:all .18s;
+}
+.wph-btn:hover{background:var(--gold);border-color:var(--gold);color:var(--ink);}
+.wph-today-btn{
+  width:auto;padding:0 10px;border-radius:12px;
+  font-family:'Cinzel',serif;font-size:.58rem;letter-spacing:.08em;
+}
+
+/* DOW header row — identical to month grid */
+.week-dow-row{
+  display:grid;grid-template-columns:repeat(7,1fr);
+  background:var(--paper-dk);border-bottom:1px solid #c8b88a;
+}
+.week-dow-cell{
+  text-align:center;padding:3px 1px;
+  font-family:'Cinzel',serif;font-size:.56rem;letter-spacing:.07em;
+  color:#555;text-transform:uppercase;border-right:1px solid #ddd;
+}
+.week-dow-cell:last-child{border-right:none;}
+.week-dow-cell.wdc-shabat{color:var(--c-shabat);font-weight:700;}
+
+/* 7-column day strip */
+.week-days-row{display:grid;grid-template-columns:repeat(7,1fr);}
+
+/* Each day card mirrors .day-cell but taller for detail */
+.week-day-card{
+  border-right:1px solid #e0d8c0;
+  min-height:90px;
+  display:flex;flex-direction:column;
+  position:relative;overflow:hidden;
+  cursor:pointer;
+  transition:filter .15s;
+}
+.week-day-card:last-child{border-right:none;}
+.week-day-card:hover{filter:brightness(.94);}
+
+/* Hebrew part (top, 55%) */
+.wdc-heb{
+  flex:0 0 55%;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  padding:3px 3px 2px;background:#f0e8d8;
+  position:relative;
+}
+/* Gregorian part (bottom, 45%) */
+.wdc-greg{
+  flex:0 0 45%;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  padding:2px 3px 3px;background:#e4ecf4;
+  border-top:1px dashed #c8a060;
+}
+
+/* Sunset dashed line already from border-top above */
+
+.wdc-heb-num{font-family:'Cinzel',serif;font-size:1.4rem;font-weight:700;line-height:1;color:#1a0a00;}
+.wdc-heb-mo{font-size:.58rem;color:#5a3a10;font-style:italic;line-height:1;margin-top:1px;text-align:center;}
+.wdc-heb-dow{font-family:'Cinzel',serif;font-size:.5rem;letter-spacing:.07em;color:rgba(0,0,0,.35);text-transform:uppercase;margin-bottom:2px;}
+.wdc-heb-ev{font-size:.52rem;font-weight:700;text-align:center;line-height:1.2;padding:0 2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:100%;margin-top:2px;}
+
+.wdc-greg-num{font-family:'Cinzel',serif;font-size:1rem;font-weight:600;color:#2a3a50;line-height:1;}
+.wdc-greg-mo{font-size:.52rem;color:#6a7a8a;font-style:italic;line-height:1;margin-top:1px;}
+
+/* Sunset strip indicator at 75% inside heb part */
+.wdc-sunset-bar{
+  position:absolute;bottom:0;left:0;right:0;
+  height:2px;background:linear-gradient(90deg,transparent 0%,var(--sunset) 30%,var(--sunset) 70%,transparent 100%);
+  opacity:.5;
+}
+
+/* Shabat overlay on week */
+.week-day-card.wk-shabat .wdc-heb{background:#f0e8b8;}
+.week-day-card.wk-shabat .wdc-greg{background:#e8e0c4;}
+
+/* Comment pip */
+.wdc-comment-pip{
+  position:absolute;top:3px;right:3px;
+  width:7px;height:7px;border-radius:50%;
+  background:var(--gold);border:1px solid #fff;
+  z-index:5;
+}
+
+/* Sunset legend strip under week */
+.week-sunset-strip{
+  display:grid;grid-template-columns:repeat(7,1fr);
+  background:#f7f0de;border-top:1px solid #e0d8c0;
+  padding:3px 0;
+}
+.wss-cell{
+  text-align:center;font-size:.48rem;color:var(--sunset);
+  font-style:italic;font-family:'Crimson Pro',serif;
+  border-right:1px solid #e8e0c8;position:relative;
+}
+.wss-cell:last-child{border-right:none;}
+.wss-cell::before{
+  content:'';display:block;width:1px;height:6px;
+  background:var(--sunset);margin:0 auto 1px;
+}
+
+/* ══════════════════════════════════════════════════
+   TODAY — vivid ring everywhere
+══════════════════════════════════════════════════ */
+/* In month grid */
+.day-cell.is-today{
+  box-shadow:inset 0 0 0 2.5px var(--today-ring), 0 0 8px var(--today-glow) !important;
+  z-index:2;position:relative;
+}
+.day-cell.is-today .heb-part{background:#ffd4d4 !important;}
+.day-cell.is-today .greg-part{background:#ffe4e4 !important;}
+.day-cell.is-today .heb-num{color:#900 !important;font-weight:900 !important;}
+.day-cell.is-today .greg-num{color:#900 !important;font-weight:900 !important;}
+
+/* Today pill badge absolute top-right of cell */
+.today-pill{
+  position:absolute;top:2px;right:2px;
+  font-family:'Cinzel',serif;font-size:.42rem;letter-spacing:.06em;
+  background:var(--today-ring);color:#fff;
+  padding:1px 4px;border-radius:8px;
+  z-index:10;white-space:nowrap;
+  box-shadow:0 1px 4px rgba(200,0,0,.4);
+}
+
+/* In week panel */
+.week-day-card.wk-today{
+  box-shadow:inset 0 0 0 2.5px var(--today-ring), 0 0 10px var(--today-glow);
+  z-index:2;
+}
+.week-day-card.wk-today .wdc-heb{background:#ffd4d4 !important;}
+.week-day-card.wk-today .wdc-greg{background:#ffe4e4 !important;}
+.week-day-card.wk-today .wdc-heb-num{color:#900 !important;}
+.week-day-card.wk-today .wdc-greg-num{color:#900 !important;}
+
+/* ══════════════════════════════════════════════════
+   ANNUAL GRID
+══════════════════════════════════════════════════ */
+.year-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;}
+
+.month-block{border:1px solid #c8b88a;border-radius:5px;overflow:hidden;break-inside:avoid;}
+.month-block.legend-highlight{
+  outline:3px solid var(--gold);outline-offset:1px;
+  box-shadow:0 0 18px rgba(184,146,42,.45);
+  transition:outline .1s,box-shadow .1s;
+}
+.month-block.legend-dim{opacity:.28;transition:opacity .2s;}
+
+.month-header{padding:5px 8px 4px;text-align:center;color:#fff;}
+.mh-heb{font-family:'Cinzel',serif;font-size:.8rem;letter-spacing:.1em;font-weight:600;text-transform:uppercase;}
+.mh-greg{font-size:.62rem;opacity:.62;font-style:italic;margin-top:1px;}
+.mh-year{font-size:.56rem;opacity:.48;margin-top:1px;}
+
+.dow-row{display:grid;grid-template-columns:repeat(7,1fr);background:var(--paper-dk);border-bottom:1px solid #c8b88a;}
+.dow-cell{text-align:center;padding:2px 1px;font-family:'Cinzel',serif;font-size:.54rem;letter-spacing:.07em;color:#555;text-transform:uppercase;border-right:1px solid #ddd;}
+.dow-cell:last-child{border-right:none;}
+.dow-cell.dw-shabat{color:var(--c-shabat);font-weight:700;}
+
+.week-row{display:grid;grid-template-columns:repeat(7,1fr);border-bottom:1px solid #e0d8c0;}
+.week-row:last-child{border-bottom:none;}
+
+/* ── Day cell ── */
+.day-cell{
+  border-right:1px solid #e0d8c0;min-height:56px;
+  display:flex;flex-direction:column;position:relative;overflow:hidden;
+  cursor:pointer;transition:filter .15s;
+}
+.day-cell:last-child{border-right:none;}
+.day-cell:hover:not(.is-empty){filter:brightness(.93);}
+.day-cell.is-empty .heb-part,
+.day-cell.is-empty .greg-part{background:#f0ece0;opacity:.4;}
+.day-cell.is-empty{cursor:default;}
+
+/* Hebrew (top, 58%) */
+.heb-part{
+  flex:0 0 58%;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  padding:2px 2px 1px;background:#f0e8d8;
+}
+/* Gregorian (bottom, 42%) */
+.greg-part{
+  flex:0 0 42%;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  padding:1px 2px 2px;background:#e4ecf4;
+  border-top:1px dashed #c8a060;
+}
+
+.day-cell.is-shabat .greg-part{background:#e8e0c4;}
+
+.heb-num{font-family:'Cinzel',serif;font-size:.93rem;font-weight:600;line-height:1;color:#1a0a00;}
+.heb-mo-lbl{font-size:.49rem;font-style:italic;line-height:1;margin-top:1px;text-align:center;color:#5a3a10;}
+.heb-event{font-size:.45rem;font-weight:700;text-align:center;line-height:1.2;padding:0 1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:100%;margin-top:1px;}
+
+.greg-num{font-family:'Cinzel',serif;font-size:.72rem;font-weight:600;color:#2a3a50;line-height:1;}
+.greg-mo-lbl{font-size:.45rem;color:#6a7a8a;font-style:italic;line-height:1;margin-top:1px;}
+
+/* Comment pip in month cell */
+.cell-comment-pip{
+  position:absolute;bottom:43%;right:2px;
+  width:5px;height:5px;border-radius:50%;
+  background:var(--gold);border:1px solid rgba(255,255,255,.7);
+  z-index:5;transform:translateY(50%);
+}
+
+/* Shabat festivo ring */
+.day-cell.is-shabat-f{
+  outline:2px solid #8a6800;outline-offset:-2px;
+}
+
+/* ══════════════════════════════════════════════════
+   COMMENT MODAL
+══════════════════════════════════════════════════ */
+.modal-bg{
+  display:none;position:fixed;inset:0;
+  background:rgba(10,6,2,.65);z-index:1000;
+  align-items:center;justify-content:center;
+  backdrop-filter:blur(2px);
+}
+.modal-bg.open{display:flex;}
+.modal-box{
+  background:var(--cream);border-radius:8px;
+  padding:22px 24px 20px;width:min(460px,92vw);
+  box-shadow:0 16px 60px rgba(0,0,0,.5);
+  border:1px solid #c8b88a;
+  position:relative;
+}
+.modal-title{font-family:'Cinzel',serif;font-size:.9rem;color:var(--ink);letter-spacing:.08em;margin-bottom:4px;}
+.modal-subtitle{font-size:.78rem;color:#666;font-style:italic;margin-bottom:14px;}
+.modal-textarea{
+  width:100%;height:100px;padding:10px 12px;
+  font-family:'Crimson Pro',serif;font-size:.9rem;color:var(--ink);
+  background:#fff;border:1px solid #c8b88a;border-radius:5px;resize:vertical;
+  line-height:1.5;
+}
+.modal-textarea:focus{outline:none;border-color:var(--gold);box-shadow:0 0 0 2px rgba(184,146,42,.2);}
+.modal-actions{display:flex;gap:8px;justify-content:flex-end;margin-top:12px;}
+.modal-btn{
+  font-family:'Cinzel',serif;font-size:.68rem;letter-spacing:.07em;
+  padding:7px 16px;border-radius:20px;cursor:pointer;transition:all .18s;
+  border:1px solid var(--gold);
+}
+.modal-btn.primary{background:var(--gold);color:var(--ink);}
+.modal-btn.primary:hover{background:#a07820;}
+.modal-btn.secondary{background:none;color:var(--gold);}
+.modal-btn.secondary:hover{background:rgba(184,146,42,.1);}
+.modal-btn.danger{border-color:#c03030;color:#c03030;}
+.modal-btn.danger:hover{background:#c03030;color:#fff;}
+.modal-close{position:absolute;top:10px;right:12px;background:none;border:none;font-size:1.1rem;color:#888;cursor:pointer;line-height:1;}
+.modal-close:hover{color:var(--ink);}
+
+/* Comment display in cell */
+.cell-comment-text{
+  position:absolute;bottom:1px;left:2px;right:2px;
+  font-size:.38rem;color:#5a3000;font-style:italic;
+  line-height:1.2;overflow:hidden;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;
+  z-index:3;
+}
+
+/* ══════════════════════════════════════════════════
+   LEGEND
+══════════════════════════════════════════════════ */
+.page-legend{
+  display:flex;flex-wrap:wrap;gap:8px 14px;
+  margin-top:14px;padding-top:10px;
+  border-top:1px solid #c8b88a;justify-content:center;
+}
+.leg-item{
+  display:flex;align-items:center;gap:5px;
+  font-size:.63rem;color:#444;
+  cursor:pointer;padding:3px 6px;border-radius:12px;
+  border:1px solid transparent;transition:all .18s;
+  user-select:none;
+}
+.leg-item:hover{border-color:#c8b88a;background:rgba(0,0,0,.04);}
+.leg-item.leg-active{border-color:var(--gold);background:rgba(184,146,42,.08);font-weight:600;}
+.leg-sq{width:16px;height:10px;border-radius:2px;border:1px solid rgba(0,0,0,.15);flex-shrink:0;}
+.leg-dash{width:16px;height:0;border-top:1px dashed #c8a060;flex-shrink:0;}
+
+.page-footer{text-align:center;margin-top:10px;font-size:.6rem;color:#999;font-style:italic;}
+
+/* ══════════════════════════════════════════════════
+   PRINT
+══════════════════════════════════════════════════ */
+@media print{
+  body{background:#fff;padding:0;-webkit-print-color-adjust:exact;print-color-adjust:exact;}
+  .screen-controls,.week-panel,.modal-bg{display:none!important;}
+  .cal-page{box-shadow:none;border-radius:0;padding:.8cm 1cm;max-width:100%;}
+  .year-grid{gap:6px;}
+  .month-block{page-break-inside:avoid;}
+  .day-cell{min-height:48px;}
+  .month-block.legend-dim{opacity:1!important;}
+  .month-block.legend-highlight{outline:none!important;box-shadow:none!important;}
+}
+@page{size:A3 landscape;margin:.7cm;}
+</style>
+</head>
+<body>
+
+<!-- ══ SCREEN CONTROLS ══ -->
+<div class="screen-controls">
+  <span class="ctrl-label">Año:</span>
+  <input type="number" class="year-input" id="yearInput" value="2026" min="1" max="9999">
+  <button class="ctrl-btn" onclick="changeYear(-1)">◀ Anterior</button>
+  <button class="ctrl-btn" onclick="changeYear(1)">Siguiente ▶</button>
+  <button class="ctrl-btn" onclick="goToToday()">📅 Hoy</button>
+  <button class="ctrl-btn" onclick="window.print()">🖨️ Imprimir</button>
+  <span id="todayInfo"></span>
+</div>
+
+<!-- ══ PRINTABLE PAGE ══ -->
+<div class="cal-page" id="calPage">
+
+  <div class="page-header">
+    <h1>Calendario Bíblico — Moadim</h1>
+    <div class="year-disp" id="yearDisp"></div>
+    <div class="subtitle">Tiempos Señalados del Eterno · Génesis 1:14, Levítico 23, Éxodo 12:2</div>
+  </div>
+
+  <!-- ══ WEEK PANEL ══ -->
+  <div class="week-panel" id="weekPanel">
+    <div class="week-panel-header">
+      <div>
+        <div class="wph-title">Vista Semanal</div>
+        <div class="wph-range" id="wphRange"></div>
+      </div>
+      <div class="wph-nav">
+        <button class="wph-btn" id="wkPrev">&#8592;</button>
+        <button class="wph-btn wph-today-btn" id="wkToday">Semana actual</button>
+        <button class="wph-btn" id="wkNext">&#8594;</button>
+      </div>
+    </div>
+    <!-- DOW header -->
+    <div class="week-dow-row" id="wkDowRow"></div>
+    <!-- 7 day cards -->
+    <div class="week-days-row" id="wkDaysRow"></div>
+    <!-- Sunset strip -->
+    <div class="week-sunset-strip" id="wkSunsetStrip"></div>
+  </div>
+
+  <!-- ══ ANNUAL GRID ══ -->
+  <div class="year-grid" id="yearGrid"></div>
+
+  <!-- ══ LEGEND ══ -->
+  <div class="page-legend" id="pageLegend"></div>
+  <div class="page-footer">
+    Celda: <strong>número hebreo (arriba)</strong> · número gregoriano (abajo) · línea punteada = atardecer · Haz clic en celda para agregar comentario · Haz clic en leyenda para localizar
+  </div>
+</div>
+
+<!-- ══ COMMENT MODAL ══ -->
+<div class="modal-bg" id="commentModal">
+  <div class="modal-box">
+    <button class="modal-close" onclick="closeModal()">✕</button>
+    <div class="modal-title" id="modalTitle"></div>
+    <div class="modal-subtitle" id="modalSubtitle"></div>
+    <textarea class="modal-textarea" id="modalTextarea" placeholder="Escribe un comentario o nota para este día…"></textarea>
+    <div class="modal-actions">
+      <button class="modal-btn danger" id="modalDelete" onclick="deleteComment()">Eliminar</button>
+      <button class="modal-btn secondary" onclick="closeModal()">Cancelar</button>
+      <button class="modal-btn primary" onclick="saveComment()">Guardar</button>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ══════════════════════════════════════════════════════════════
+   SECCIÓN 1 — DATOS DE FIESTAS
+   Para añadir un año: agregar entradas con hYear correspondiente.
+   Fechas gregorianas se calculan automáticamente.
+══════════════════════════════════════════════════════════════ */
+const FEAST_DATA = [
+  // ── AÑO HEBREO 5786 / Gregoriano 2026 ──
+  // Cálculo: Iván Martínez (Jasac Bemat, transmisión 20-feb-2026)
+  // Rosh Jodesh mes 1: atardecer 20 mar 2026
+
+  // Lunas nuevas
+  {type:'rosh',hYear:5786,hMonth:1,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 1 (Aviv) · Luna nueva observada 20 mar'},
+  {type:'rosh',hYear:5786,hMonth:2,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 2 (Iyar) · aprox 18 abr'},
+  {type:'rosh',hYear:5786,hMonth:3,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 3 (Siván) · 17-18 may · a confirmar'},
+  {type:'rosh',hYear:5786,hMonth:4,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 4 (Tamuz) · 16 jun'},
+  {type:'rosh',hYear:5786,hMonth:5,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 5 (Av) · 15 jul'},
+  {type:'rosh',hYear:5786,hMonth:6,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 6 (Elul) · 13-14 ago · a confirmar'},
+  {type:'rosh',hYear:5786,hMonth:7,hDay:1,label:'Rosh Jodesh',emoji:'🌑',notes:'Mes 7 (Tishrei) · 12 sep → Yom Terua'},
+
+  // Pesaj
+  {type:'pesaj',hYear:5786,hMonth:1,hDay:14,label:'Pesaj',emoji:'🐑',notes:'14 Aviv · Sacrificio del cordero · 2-3 abr',shabbatFestivo:false},
+
+  // Panes sin Levadura
+  {type:'matzot',hYear:5786,hMonth:1,hDay:15,label:'Matzot D1',emoji:'🥖',notes:'1er día Panes sin Levadura · Shabat festivo · 3-4 abr',shabbatFestivo:true},
+  {type:'matzot',hYear:5786,hMonth:1,hDay:16,label:'Matzot D2',emoji:'🥖',notes:'Panes sin Levadura día 2 · 4-5 abr'},
+  {type:'matzot',hYear:5786,hMonth:1,hDay:17,label:'Matzot D3',emoji:'🥖',notes:'Panes sin Levadura día 3 · 5-6 abr'},
+  {type:'matzot',hYear:5786,hMonth:1,hDay:18,label:'Matzot D4',emoji:'🥖',notes:'Panes sin Levadura día 4 · 6-7 abr'},
+  {type:'matzot',hYear:5786,hMonth:1,hDay:19,label:'Matzot D5',emoji:'🥖',notes:'Panes sin Levadura día 5 · 7-8 abr'},
+  {type:'matzot',hYear:5786,hMonth:1,hDay:20,label:'Matzot D6',emoji:'🥖',notes:'Panes sin Levadura día 6 · 8-9 abr'},
+  {type:'matzot',hYear:5786,hMonth:1,hDay:21,label:'Matzot D7',emoji:'🥖',notes:'7° día Panes sin Levadura · Shabat festivo · 9-10 abr',shabbatFestivo:true},
+
+  // Omer Resid
+  {type:'omer',hYear:5786,hMonth:1,hDay:16,label:'Omer Resid',emoji:'🌾',notes:'Gavilla de primicias · Día 1 conteo del Omer · 4-5 abr · Resurrección de Yeshua'},
+
+  // Shavuot
+  {type:'shavuot',hYear:5786,hMonth:3,hDay:6,label:'Shavuot',emoji:'📜',notes:'Pentecostés · 50 días desde Omer Resid · 23-24 may · Shabat festivo',shabbatFestivo:true},
+
+  // Yom Terua
+  {type:'yomterua',hYear:5786,hMonth:7,hDay:1,label:'Yom Terua',emoji:'📯',notes:'Día de la Aclamación · 12-13 sep · Shabat festivo',shabbatFestivo:true},
+
+  // Yom Kippur
+  {type:'kippur',hYear:5786,hMonth:7,hDay:10,label:'Yom Kippur',emoji:'✝️',notes:'Día de la Expiación · 21-22 sep · Shabat festivo',shabbatFestivo:true},
+
+  // Sucot
+  {type:'sucot',hYear:5786,hMonth:7,hDay:15,label:'Sucot D1',emoji:'⛺',notes:'1er día Tabernáculos · Shabat festivo · 26-27 sep',shabbatFestivo:true},
+  {type:'sucot',hYear:5786,hMonth:7,hDay:16,label:'Sucot D2',emoji:'⛺',notes:'Tabernáculos día 2 · 27-28 sep'},
+  {type:'sucot',hYear:5786,hMonth:7,hDay:17,label:'Sucot D3',emoji:'⛺',notes:'Tabernáculos día 3 · 28-29 sep'},
+  {type:'sucot',hYear:5786,hMonth:7,hDay:18,label:'Sucot D4',emoji:'⛺',notes:'Tabernáculos día 4 · 29-30 sep'},
+  {type:'sucot',hYear:5786,hMonth:7,hDay:19,label:'Sucot D5',emoji:'⛺',notes:'Tabernáculos día 5 · 30 sep-1 oct'},
+  {type:'sucot',hYear:5786,hMonth:7,hDay:20,label:'Sucot D6',emoji:'⛺',notes:'Tabernáculos día 6 · 1-2 oct'},
+  {type:'sucot',hYear:5786,hMonth:7,hDay:21,label:'Hoshana Rabá',emoji:'⛺',notes:'7° día Sucot · Hoshana Rabá · 2-3 oct'},
+
+  // Shemini Atzeret
+  {type:'shemini',hYear:5786,hMonth:7,hDay:22,label:'Shemini',emoji:'🕯️',notes:'Octavo día · Shabat festivo · 3-4 oct',shabbatFestivo:true},
+];
+
+/* ══════════════════════════════════════════════════════════════
+   SECCIÓN 2 — ESTILOS POR TIPO
+══════════════════════════════════════════════════════════════ */
+const FEAST_STYLES = {
+  rosh:    {bg:'#c8e8c8',color:'#0a3a1a',border:'#1a6a3a',tlBg:'#0a3a1a',legend:'Rosh Jodesh (luna nueva)'},
+  pesaj:   {bg:'#ffe4c4',color:'#5a1000',border:'#8a3000',tlBg:'#6a1e00',legend:'Pesaj (Pascua)'},
+  matzot:  {bg:'#fdecc4',color:'#5a2800',border:'#8a4800',tlBg:'#5a2a00',legend:'Panes sin Levadura'},
+  omer:    {bg:'#dcd0f0',color:'#2a1060',border:'#5a3a90',tlBg:'#3a2a60',legend:'Omer Resid (primicias)'},
+  shavuot: {bg:'#c8dcf0',color:'#0a2850',border:'#2a5a8a',tlBg:'#1a3a5a',legend:'Shavuot (Pentecostés)'},
+  yomterua:{bg:'#e8c4e8',color:'#3a0048',border:'#7a3a8a',tlBg:'#4a0a3a',legend:'Yom Terua (Trompetas)'},
+  kippur:  {bg:'#f4c4c4',color:'#500000',border:'#900000',tlBg:'#3a0a0a',legend:'Yom Kippur (Expiación)'},
+  sucot:   {bg:'#c8e8c0',color:'#0a2e08',border:'#2a6a20',tlBg:'#1a3a10',legend:'Sucot (Tabernáculos)'},
+  shemini: {bg:'#d0c8f0',color:'#1a0a4a',border:'#4a3a8a',tlBg:'#2a1a5a',legend:'Shemini Atzeret (8° día)'},
+};
+
+/* ══════════════════════════════════════════════════════════════
+   SECCIÓN 3 — MOTOR HEBREO (Dershowitz & Reingold, Rata Die)
+══════════════════════════════════════════════════════════════ */
+const HEPOCH=-1373427;
+function isGL(y){return y%4===0&&(y%100!==0||y%400===0);}
+function gToRD(y,m,d){const yy=y-1;return 365*yy+Math.floor(yy/4)-Math.floor(yy/100)+Math.floor(yy/400)+Math.floor((367*m-362)/12)+(m<=2?0:isGL(y)?-1:-2)+d;}
+function isHL(y){return((7*y+1)%19)<7;}
+function lHM(y){return isHL(y)?13:12;}
+function hEl(y){const me=Math.floor((235*y-234)/19),p=12084+13753*me;let d=me*29+Math.floor(p/25920);if((3*(d+1))%7<3)d++;return d;}
+function hOff(y){const p=hEl(y-1),c=hEl(y),n=hEl(y+1);if(n-c===356)return 2;if(c-p===382)return 1;return 0;}
+function hNY(y){return HEPOCH+hEl(y)+hOff(y);}
+function dHY(y){return hNY(y+1)-hNY(y);}
+function lHsh(y){return dHY(y)%10===5;}
+function sKis(y){return dHY(y)%10===3;}
+function lDHM(m,y){if([2,4,6,10,13].includes(m))return 29;if(m===8&&!lHsh(y))return 29;if(m===9&&sKis(y))return 29;if(m===12&&!isHL(y))return 29;return 30;}
+function hToRD(y,m,d){let rd=hNY(y)+d-1;if(m<7){for(let mo=7;mo<=lHM(y);mo++)rd+=lDHM(mo,y);for(let mo=1;mo<m;mo++)rd+=lDHM(mo,y);}else{for(let mo=7;mo<m;mo++)rd+=lDHM(mo,y);}return rd;}
+function rdToH(rd){let y=Math.floor((rd-HEPOCH)/365.24682)+1;while(hNY(y)>rd)y--;while(hNY(y+1)<=rd)y++;const s=(rd<hToRD(y,1,1))?7:1;let mo=s;for(;;){if(rd<=hToRD(y,mo,lDHM(mo,y)))break;mo=(mo===lHM(y))?1:mo+1;if(mo===s)break;}return{year:y,month:mo,day:rd-hToRD(y,mo,1)+1};}
+
+/* ══════════════════════════════════════════════════════════════
+   SECCIÓN 4 — TEXTOS
+══════════════════════════════════════════════════════════════ */
+const HEB_MO=['','Nisán','Iyar','Siván','Tamuz','Av','Elul','Tishrei','Jeshván','Kislev','Tevet','Shevat','Adar','Adar II'];
+const HEB_MA=['','Nis','Iya','Siv','Tam','Av','Elu','Tis','Jes','Kis','Tev','She','Ada','AII'];
+const GREG_MO=['','Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'];
+const GREG_MA=['','Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic'];
+const DOW_ES=['Dom','Lun','Mar','Mié','Jue','Vie','Sáb'];
+const HEB_DOW=['Yom Rishón','Yom Shení','Yom Shlishí','Yom Revií','Yom Chamishí','Erev Shabat','Shabat'];
+
+/* ══════════════════════════════════════════════════════════════
+   SECCIÓN 5 — ÍNDICE DE FIESTAS
+══════════════════════════════════════════════════════════════ */
+const FEAST_PRI={rosh:0,matzot:1,sucot:1,omer:2,pesaj:3,shavuot:3,yomterua:3,kippur:3,shemini:3};
+const FEAST_IDX={};
+FEAST_DATA.forEach(f=>{
+  const rd=hToRD(f.hYear,f.hMonth,f.hDay);
+  const ex=FEAST_IDX[rd];
+  const np=FEAST_PRI[f.type]??0,op=ex?(FEAST_PRI[ex.type]??0):-1;
+  if(!ex||np>op)FEAST_IDX[rd]=f;
+});
+function getFeast(rd){return FEAST_IDX[rd]||null;}
+
+/* ══════════════════════════════════════════════════════════════
+   SECCIÓN 6 — ESTADO & COMMENTS
+══════════════════════════════════════════════════════════════ */
+const NOW=new Date();NOW.setHours(0,0,0,0);
+const T_Y=NOW.getFullYear(),T_M=NOW.getMonth()+1,T_D=NOW.getDate();
+const T_RD=gToRD(T_Y,T_M,T_D);
+
+let currentYear=T_Y;
+let weekOffset=0;
+let activeLegendType=null; // for legend filter
+
+// Comments stored in localStorage: key = "comment_RD"
+function getComment(rd){return localStorage.getItem('comment_'+rd)||'';}
+function setComment(rd,text){if(text.trim())localStorage.setItem('comment_'+rd,text.trim());else localStorage.removeItem('comment_'+rd);}
+
+/* ══════════════════════════════════════════════════════════════
+   SECCIÓN 7 — MODAL DE COMENTARIOS
+══════════════════════════════════════════════════════════════ */
+let modalRD=null;
+
+function openCellModal(rd, dateLabel, hebLabel){
+  modalRD=rd;
+  document.getElementById('modalTitle').textContent=hebLabel;
+  document.getElementById('modalSubtitle').textContent=dateLabel;
+  document.getElementById('modalTextarea').value=getComment(rd);
+  const hasComment=!!getComment(rd);
+  document.getElementById('modalDelete').style.display=hasComment?'':'none';
+  document.getElementById('commentModal').classList.add('open');
+  setTimeout(()=>document.getElementById('modalTextarea').focus(),80);
+}
+function closeModal(){document.getElementById('commentModal').classList.remove('open');modalRD=null;}
+function saveComment(){
+  if(modalRD===null)return;
+  setComment(modalRD,document.getElementById('modalTextarea').value);
+  closeModal();
+  buildCalendar(currentYear);
+  renderWeek();
+}
+function deleteComment(){
+  if(modalRD===null)return;
+  localStorage.removeItem('comment_'+modalRD);
+  closeModal();
+  buildCalendar(currentYear);
+  renderWeek();
+}
+document.getElementById('commentModal').addEventListener('click',e=>{if(e.target===document.getElementById('commentModal'))closeModal();});
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});
+
+/* ══════════════════════════════════════════════════════════════
+   SECCIÓN 8 — PANEL SEMANAL
+══════════════════════════════════════════════════════════════ */
+function renderWeek(){
+  const ws=new Date(NOW);ws.setDate(NOW.getDate()-NOW.getDay()+weekOffset*7);
+  const we=new Date(ws);we.setDate(ws.getDate()+6);
+
+  const fmt=d=>`${d.getDate()} ${GREG_MO[d.getMonth()+1]} ${d.getFullYear()}`;
+  document.getElementById('wphRange').textContent=`${fmt(ws)} — ${fmt(we)}`;
+
+  const days=Array.from({length:7},(_,i)=>{const d=new Date(ws);d.setDate(ws.getDate()+i);return d;});
+
+  // DOW header
+  const dowRow=document.getElementById('wkDowRow');
+  dowRow.innerHTML='';
+  DOW_ES.forEach((n,i)=>{
+    const c=document.createElement('div');
+    c.className='week-dow-cell'+(i===6?' wdc-shabat':'');
+    c.textContent=n;
+    dowRow.appendChild(c);
+  });
+
+  // Day cards
+  const daysRow=document.getElementById('wkDaysRow');
+  daysRow.innerHTML='';
+
+  days.forEach((date)=>{
+    const rd=gToRD(date.getFullYear(),date.getMonth()+1,date.getDate());
+    const heb=rdToH(rd);
+    const feast=getFeast(rd);
+    const isShabat=date.getDay()===6;
+    const isToday=date.getTime()===NOW.getTime();
+    const comment=getComment(rd);
+
+    const card=document.createElement('div');
+    let cls='week-day-card';
+    if(isShabat)cls+=' wk-shabat';
+    if(isToday)cls+=' wk-today';
+    card.className=cls;
+
+    // Apply feast colour to heb part
+    let hebBg='#f0e8d8',hebColor='#1a0a00',hebBorder='transparent';
+    if(feast&&FEAST_STYLES[feast.type]){
+      const s=FEAST_STYLES[feast.type];
+      hebBg=s.bg;hebColor=s.color;hebBorder=s.border;
+    }else if(heb.day===1){
+      hebBg='#d0ecd8';hebColor='#0a3a1a';
+    }else if(isShabat){
+      hebBg='#f0e8b8';hebColor='#3a2800';
+    }
+
+    const hebPart=document.createElement('div');
+    hebPart.className='wdc-heb';
+    hebPart.style.background=hebBg;
+    if(feast?.shabbatFestivo)card.style.outline='2px solid #8a6800';
+
+    // Feast left border
+    if(hebBorder!=='transparent') card.style.borderLeft=`3px solid ${hebBorder}`;
+
+    const dow=document.createElement('div');
+    dow.className='wdc-heb-dow';
+    dow.textContent=HEB_DOW[date.getDay()];
+
+    const hNum=document.createElement('div');
+    hNum.className='wdc-heb-num';
+    hNum.style.color=isToday?'#900':hebColor;
+    hNum.textContent=heb.day;
+
+    const hMo=document.createElement('div');
+    hMo.className='wdc-heb-mo';
+    hMo.textContent=HEB_MO[heb.month]+' '+heb.year;
+
+    hebPart.appendChild(dow);
+    hebPart.appendChild(hNum);
+    hebPart.appendChild(hMo);
+
+    // Event
+    let evText='';
+    if(feast)evText=`${feast.emoji||''} ${feast.label}`;
+    else if(heb.day===1)evText='🌑 Rosh Jodesh';
+    else if(isShabat)evText='✦ Shabat';
+    if(evText){
+      const ev=document.createElement('div');
+      ev.className='wdc-heb-ev';
+      ev.style.color=hebColor;
+      ev.textContent=evText;
+      hebPart.appendChild(ev);
+    }
+
+    // Sunset bar
+    const sb=document.createElement('div');sb.className='wdc-sunset-bar';
+    hebPart.appendChild(sb);
+
+    // Comment pip
+    if(comment){
+      const pip=document.createElement('div');pip.className='wdc-comment-pip';
+      hebPart.appendChild(pip);
+    }
+
+    // Today pill
+    if(isToday){
+      const pill=document.createElement('div');
+      pill.style.cssText='position:absolute;top:3px;left:3px;font-family:Cinzel,serif;font-size:.42rem;letter-spacing:.06em;background:#e03030;color:#fff;padding:1px 5px;border-radius:8px;z-index:10;';
+      pill.textContent='HOY';
+      hebPart.appendChild(pill);
+    }
+
+    // Greg part
+    const gregPart=document.createElement('div');
+    gregPart.className='wdc-greg';
+
+    const gNum=document.createElement('div');
+    gNum.className='wdc-greg-num';
+    gNum.style.color=isToday?'#900':'';
+    gNum.textContent=date.getDate();
+
+    const gMo=document.createElement('div');
+    gMo.className='wdc-greg-mo';
+    gMo.textContent=`${GREG_MA[date.getMonth()+1]} ${date.getFullYear()}`;
+    gregPart.appendChild(gNum);
+    gregPart.appendChild(gMo);
+
+    // Comment text snippet
+    if(comment){
+      const ct=document.createElement('div');
+      ct.style.cssText='font-size:.52rem;color:#5a3000;font-style:italic;line-height:1.2;margin-top:2px;overflow:hidden;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;max-width:90%;text-align:center;';
+      ct.textContent='"'+comment+'"';
+      gregPart.appendChild(ct);
+    }
+
+    card.appendChild(hebPart);
+    card.appendChild(gregPart);
+
+    // Click to comment
+    const dateLabel=`${date.getDate()} ${GREG_MO[date.getMonth()+1]} ${date.getFullYear()}`;
+    const hebLabel=`${heb.day} de ${HEB_MO[heb.month]} ${heb.year}`;
+    card.addEventListener('click',()=>openCellModal(rd,dateLabel,hebLabel));
+
+    card.title=`${hebLabel}\n${dateLabel}${feast?'\n'+feast.notes:''}${comment?'\n💬 '+comment:''}`;
+    daysRow.appendChild(card);
+  });
+
+  // Sunset strip
+  const strip=document.getElementById('wkSunsetStrip');
+  strip.innerHTML='';
+  DOW_ES.forEach(n=>{
+    const c=document.createElement('div');c.className='wss-cell';c.textContent='atardecer';strip.appendChild(c);
+  });
+}
+
+/* ══════════════════════════════════════════════════════════════
+   SECCIÓN 9 — CALENDARIO ANUAL
+══════════════════════════════════════════════════════════════ */
+function buildCalendar(year){
+  const sRD=gToRD(year,1,1),eRD=gToRD(year,12,31);
+  const hS=rdToH(sRD),hE=rdToH(eRD);
+  const hYears=[...new Set([hS.year,hE.year])];
+  document.getElementById('yearDisp').textContent=`${year} · Año Hebreo ${hYears.join(' / ')}`;
+  document.getElementById('yearInput').value=year;
+  const h=rdToH(T_RD);
+  document.getElementById('todayInfo').textContent=`Hoy: ${T_D}/${T_M}/${T_Y} · ${h.day} ${HEB_MA[h.month]} ${h.year}`;
+
+  const grid=document.getElementById('yearGrid');
+  grid.innerHTML='';
+  for(let mo=1;mo<=12;mo++) grid.appendChild(buildMonth(year,mo));
+
+  buildLegend(year,sRD,eRD);
+  applyLegendFilter(activeLegendType); // re-apply if active
+}
+
+function buildMonth(year,mo){
+  const block=document.createElement('div');
+  block.className='month-block';
+  block.dataset.mo=mo;
+
+  const midHeb=rdToH(gToRD(year,mo,15));
+  const firstRD=gToRD(year,mo,1);
+  const lastDay=new Date(year,mo,0).getDate();
+  const lastRD=gToRD(year,mo,lastDay);
+
+  // Header colour
+  let hdrBg='#2b3a50';
+  for(let rd=firstRD;rd<=lastRD;rd++){const f=getFeast(rd);if(f&&FEAST_STYLES[f.type]){hdrBg=FEAST_STYLES[f.type].border;break;}}
+
+  const hdr=document.createElement('div');
+  hdr.className='month-header';
+  hdr.style.background=hdrBg;
+  hdr.innerHTML=`<div class="mh-heb">${HEB_MO[midHeb.month]}</div><div class="mh-greg">${GREG_MO[mo]} ${year}</div><div class="mh-year">Año hebreo ${midHeb.year}</div>`;
+  block.appendChild(hdr);
+
+  const dowRow=document.createElement('div');
+  dowRow.className='dow-row';
+  DOW_ES.forEach((n,i)=>{
+    const c=document.createElement('div');
+    c.className='dow-cell'+(i===6?' dw-shabat':'');
+    c.textContent=n;dowRow.appendChild(c);
+  });
+  block.appendChild(dowRow);
+
+  const firstDOW=new Date(year,mo-1,1).getDay();
+  const cells=[];
+  for(let e=0;e<firstDOW;e++)cells.push(null);
+  for(let d=1;d<=lastDay;d++)cells.push(d);
+  while(cells.length%7!==0)cells.push(null);
+
+  for(let w=0;w<cells.length/7;w++){
+    const wr=document.createElement('div');wr.className='week-row';
+    for(let col=0;col<7;col++) wr.appendChild(buildCell(year,mo,cells[w*7+col],col));
+    block.appendChild(wr);
+  }
+  return block;
+}
+
+function buildCell(year,mo,dayNum,col){
+  const cell=document.createElement('div');
+  cell.className='day-cell';
+
+  if(dayNum===null){
+    cell.classList.add('is-empty');
+    const e1=document.createElement('div');e1.className='heb-part';
+    const e2=document.createElement('div');e2.className='greg-part';
+    cell.appendChild(e1);cell.appendChild(e2);
+    return cell;
+  }
+
+  const rd=gToRD(year,mo,dayNum);
+  const heb=rdToH(rd);
+  const feast=getFeast(rd);
+  const isRosh=heb.day===1;
+  const isShabat=col===6;
+  const isToday=(year===T_Y&&mo===T_M&&dayNum===T_D);
+  const comment=getComment(rd);
+
+  // Data attribute for legend filtering
+  cell.dataset.type=(feast?feast.type:(isRosh?'rosh':(isShabat?'shabat':'normal')));
+
+  if(isShabat)cell.classList.add('is-shabat');
+  if(isToday)cell.classList.add('is-today');
+  if(feast?.shabbatFestivo)cell.classList.add('is-shabat-f');
+
+  // Colours
+  let hBg='#f0e8d8',hColor='#1a0a00',hBorder='transparent';
+  if(feast&&FEAST_STYLES[feast.type]){const s=FEAST_STYLES[feast.type];hBg=s.bg;hColor=s.color;hBorder=s.border;cell.style.borderLeft=`3px solid ${hBorder}`;}
+  else if(isRosh){hBg='#d0ecd8';hColor='#0a3a1a';cell.style.borderLeft=`3px solid ${FEAST_STYLES.rosh.border}`;}
+  else if(isShabat){hBg='#f0e8b8';hColor='#3a2800';}
+
+  // Hebrew part
+  const hp=document.createElement('div');hp.className='heb-part';hp.style.background=hBg;
+
+  const hNum=document.createElement('div');hNum.className='heb-num';hNum.style.color=hColor;hNum.textContent=heb.day;
+  hp.appendChild(hNum);
+
+  if(heb.day===1){const hMo=document.createElement('div');hMo.className='heb-mo-lbl';hMo.style.color=hColor;hMo.textContent=HEB_MA[heb.month];hp.appendChild(hMo);}
+
+  let evText='',evColor=hColor;
+  if(feast){evText=`${feast.emoji||''} ${feast.label}`;}
+  else if(isRosh){evText='🌑 R.Jodesh';evColor='#0a3a1a';}
+  else if(isShabat){evText='✦ Shabat';evColor='#5a4000';}
+  if(evText){const ev=document.createElement('div');ev.className='heb-event';ev.style.color=evColor;ev.textContent=evText;hp.appendChild(ev);}
+
+  // Today pill
+  if(isToday){const pill=document.createElement('div');pill.className='today-pill';pill.textContent='HOY';hp.appendChild(pill);}
+
+  // Comment pip
+  if(comment){const pip=document.createElement('div');pip.className='cell-comment-pip';cell.appendChild(pip);}
+
+  // Tooltip
+  cell.title=`${heb.day} de ${HEB_MO[heb.month]} ${heb.year} | ${dayNum} ${GREG_MO[mo]} ${year}`
+    +(feast?'\n'+feast.notes:'')+(isRosh&&!feast?'\nRosh Jodesh (luna nueva)':'')+(feast?.shabbatFestivo?'\n⚑ Shabat Festivo':'')+(comment?'\n💬 '+comment:'');
+
+  // Greg part
+  const gp=document.createElement('div');gp.className='greg-part';
+  const gNum=document.createElement('div');gNum.className='greg-num';gNum.textContent=dayNum;
+  gp.appendChild(gNum);
+  if(dayNum===1){const gMo=document.createElement('div');gMo.className='greg-mo-lbl';gMo.textContent=GREG_MA[mo];gp.appendChild(gMo);}
+
+  // Comment text in greg part
+  if(comment){
+    const ct=document.createElement('div');
+    ct.className='cell-comment-text';
+    ct.textContent=comment;
+    gp.appendChild(ct);
+  }
+
+  cell.appendChild(hp);cell.appendChild(gp);
+
+  // Click to open comment modal
+  cell.addEventListener('click',()=>{
+    const dateLabel=`${dayNum} ${GREG_MO[mo]} ${year}`;
+    const hebLabel=`${heb.day} de ${HEB_MO[heb.month]} ${heb.year}`;
+    openCellModal(rd,dateLabel,hebLabel);
+  });
+
+  return cell;
+}
+
+/* ══════════════════════════════════════════════════════════════
+   SECCIÓN 10 — LEYENDA INTERACTIVA (clic → navegar y resaltar)
+══════════════════════════════════════════════════════════════ */
+function buildLegend(year,startRD,endRD){
+  const leg=document.getElementById('pageLegend');
+  leg.innerHTML='';
+
+  const seen=new Set();
+  for(let rd=startRD;rd<=endRD;rd++){const f=getFeast(rd);if(f)seen.add(f.type);}
+
+  // Base items (non-feast)
+  const base=[
+    {key:'rosh',  sq:'#c8e8c8',brd:'#1a6a3a',label:'Rosh Jodesh (luna nueva)'},
+    {key:'shabat',sq:'#f0e8b8',brd:'#7a6010',label:'Shabat semanal'},
+    {key:'today', sq:'#ffd4d4',brd:'#e03030',label:'Hoy',outline:'2px solid #e03030'},
+    {key:'shabatf',sq:'transparent',brd:'#8a6800',outline:'2px solid #8a6800',label:'Shabat Festivo'},
+    {key:'comment',sq:'#fffbe8',brd:'var(--gold)',label:'Con comentario 💬'},
+    {key:'sunset', dash:true, label:'Atardecer (inicio día hebreo)'},
+  ];
+
+  base.forEach(item=>{
+    const div=document.createElement('div');div.className='leg-item';div.dataset.legKey=item.key;
+    if(item.dash){const d=document.createElement('div');d.className='leg-dash';div.appendChild(d);}
+    else{const s=document.createElement('div');s.className='leg-sq';s.style.background=item.sq;s.style.borderColor=item.brd;if(item.outline)s.style.outline=item.outline;div.appendChild(s);}
+    const lbl=document.createElement('span');lbl.textContent=item.label;div.appendChild(lbl);
+    div.addEventListener('click',()=>legendClick(item.key));
+    leg.appendChild(div);
+  });
+
+  // Feast types present this year
+  seen.forEach(type=>{
+    const s=FEAST_STYLES[type];if(!s)return;
+    const div=document.createElement('div');div.className='leg-item';div.dataset.legKey=type;
+    const sq=document.createElement('div');sq.className='leg-sq';sq.style.background=s.bg;sq.style.borderColor=s.border;sq.style.borderWidth='2px';div.appendChild(sq);
+    const lbl=document.createElement('span');lbl.textContent=s.legend;div.appendChild(lbl);
+    div.addEventListener('click',()=>legendClick(type));
+    leg.appendChild(div);
+  });
+}
+
+function legendClick(key){
+  if(activeLegendType===key){
+    // Toggle off
+    activeLegendType=null;
+    applyLegendFilter(null);
+    // Remove active style from all items
+    document.querySelectorAll('.leg-item').forEach(el=>el.classList.remove('leg-active'));
+    return;
+  }
+  activeLegendType=key;
+  // Mark active
+  document.querySelectorAll('.leg-item').forEach(el=>{
+    el.classList.toggle('leg-active',el.dataset.legKey===key);
+  });
+  applyLegendFilter(key);
+}
+
+function applyLegendFilter(key){
+  const blocks=document.querySelectorAll('.month-block');
+  if(!key){
+    blocks.forEach(b=>{b.classList.remove('legend-highlight','legend-dim');});
+    return;
+  }
+
+  // Find which months have cells matching this key
+  const matchingMonths=new Set();
+
+  blocks.forEach(block=>{
+    let hasMatch=false;
+    const cells=block.querySelectorAll('.day-cell:not(.is-empty)');
+    cells.forEach(cell=>{
+      let match=false;
+      const type=cell.dataset.type;
+      if(key==='today')match=cell.classList.contains('is-today');
+      else if(key==='shabat')match=(type==='shabat');
+      else if(key==='shabatf')match=cell.classList.contains('is-shabat-f');
+      else if(key==='comment')match=!!cell.querySelector('.cell-comment-pip');
+      else if(key==='sunset')match=false; // sunset is concept, not a cell type
+      else match=(type===key);
+
+      if(match){
+        hasMatch=true;
+        // Pulse the matching cell briefly
+        cell.style.transition='box-shadow .15s';
+      }
+    });
+    if(hasMatch)matchingMonths.add(block.dataset.mo);
+  });
+
+  // Apply highlight / dim
+  blocks.forEach(block=>{
+    const mo=block.dataset.mo;
+    if(matchingMonths.has(mo)){
+      block.classList.add('legend-highlight');
+      block.classList.remove('legend-dim');
+    } else {
+      block.classList.remove('legend-highlight');
+      block.classList.add('legend-dim');
+    }
+  });
+
+  // Scroll to first highlighted month
+  const first=document.querySelector('.month-block.legend-highlight');
+  if(first) first.scrollIntoView({behavior:'smooth',block:'center'});
+}
+
+/* ══════════════════════════════════════════════════════════════
+   SECCIÓN 11 — CONTROLES
+══════════════════════════════════════════════════════════════ */
+function changeYear(delta){currentYear+=delta;activeLegendType=null;buildCalendar(currentYear);}
+function goToToday(){currentYear=T_Y;weekOffset=0;activeLegendType=null;buildCalendar(currentYear);renderWeek();}
+
+document.getElementById('yearInput').addEventListener('change',function(){currentYear=parseInt(this.value)||T_Y;activeLegendType=null;buildCalendar(currentYear);});
+document.getElementById('wkPrev').addEventListener('click',()=>{weekOffset--;renderWeek();});
+document.getElementById('wkNext').addEventListener('click',()=>{weekOffset++;renderWeek();});
+document.getElementById('wkToday').addEventListener('click',()=>{weekOffset=0;renderWeek();});
+
+/* ══════════════════════════════════════════════════════════════
+   INIT
+══════════════════════════════════════════════════════════════ */
+buildCalendar(currentYear);
+renderWeek();
+</script>
+</body>
+</html>
