@@ -52,6 +52,11 @@
 !calendario/**
 !calendario/
 
+!gh-pages/**
+!gh-pages/
+!release/**
+!release/
+
 # Don't ignore directories (so we can traverse them)
 !*/
 
