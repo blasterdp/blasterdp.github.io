@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudio sobre Purim y Janucá | Fiestas Hebreas</title>
+    <style>
+        :root {
+            --primary: #1a365d;
+            --secondary: #c53030;
+            --accent: #d69e2e;
+            --light: #f7fafc;
+            --text: #2d3748;
+            --purim: #805ad5;
+            --januca: #dd6b20;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.8;
+            color: var(--text);
+            background: var(--light);
+        }
+        
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, #2c5282 100%);
+            color: white;
+            padding: 3rem 2rem;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            font-weight: 700;
+        }
+        
+        header .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        nav {
+            background: #2d3748;
+            padding: 1rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            flex-wrap: wrap;
+        }
+        
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            transition: background 0.3s;
+        }
+        
+        nav a:hover {
+            background: rgba(255,255,255,0.1);
+        }
+        
+        main {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        section {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        h2 {
+            color: var(--primary);
+            font-size: 2rem;
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 3px solid var(--accent);
+        }
+        
+        h3 {
+            color: var(--primary);
+            font-size: 1.5rem;
+            margin: 1.5rem 0 1rem;
+        }
+        
+        .intro {
+            font-size: 1.1rem;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto 2rem;
+            color: #4a5568;
+        }
+        
+        .festa-card {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+        
+        .festa {
+            border-radius: 12px;
+            overflow: hidden;
+            transition: transform 0.3s;
+        }
+        
+        .festa:hover {
+            transform: translateY(-5px);
+        }
+        
+        .festa-purim {
+            border: 3px solid var(--purim);
+        }
+        
+        .festa-purim .festa-header {
+            background: var(--purim);
+        }
+        
+        .festa-januca {
+            border: 3px solid var(--januca);
+        }
+        
+        .festa-januca .festa-header {
+            background: var(--januca);
+        }
+        
+        .festa-header {
+            color: white;
+            padding: 1.5rem;
+            text-align: center;
+        }
+        
+        .festa-header h3 {
+            color: white;
+            margin: 0;
+        }
+        
+        .festa-body {
+            padding: 1.5rem;
+            background: #fff;
+        }
+        
+        .festa-body ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .festa-body li {
+            padding: 0.5rem 0;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        
+        .festa-body li:last-child {
+            border-bottom: none;
+        }
+        
+        .highlight {
+            background: linear-gradient(120deg, #fefcbf 0%, #faf089 100%);
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+        }
+        
+        .hebrew {
+            font-family: 'Times New Roman', serif;
+            font-style: italic;
+            color: var(--primary);
+        }
+        
+        .scripture {
+            background: #edf2f7;
+            border-left: 4px solid var(--primary);
+            padding: 1rem;
+            margin: 1rem 0;
+            font-style: italic;
+        }
+        
+        .warning-box {
+            background: #fffaf0;
+            border: 2px solid var(--accent);
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+        }
+        
+        .warning-box h4 {
+            color: var(--accent);
+            margin-bottom: 0.5rem;
+        }
+        
+        .dimensions-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1.5rem;
+        }
+        
+        .dimension {
+            background: #f7fafc;
+            border-radius: 8px;
+            padding: 1.5rem;
+            border-left: 4px solid var(--purim);
+        }
+        
+        .dimension h4 {
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+        
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+        }
+        
+        .comparison-table th,
+        .comparison-table td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        
+        .comparison-table th {
+            background: var(--primary);
+            color: white;
+        }
+        
+        .comparison-table tr:hover {
+            background: #f7fafc;
+        }
+        
+        .prophetic {
+            background: linear-gradient(135deg, #fff5f5 0%, #fed7d7 100%);
+            border: 2px solid var(--secondary);
+            border-radius: 12px;
+            padding: 2rem;
+            margin: 2rem 0;
+        }
+        
+        .prophetic h3 {
+            color: var(--secondary);
+        }
+        
+        .timeline {
+            position: relative;
+            padding-left: 2rem;
+            margin: 1.5rem 0;
+        }
+        
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 4px;
+            background: var(--januca);
+            border-radius: 2px;
+        }
+        
+        .timeline-item {
+            position: relative;
+            margin-bottom: 1.5rem;
+            padding-left: 1.5rem;
+        }
+        
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -2rem;
+            top: 0.5rem;
+            width: 12px;
+            height: 12px;
+            background: var(--januca);
+            border-radius: 50%;
+            transform: translateX(-4px);
+        }
+        
+        .timeline-item h4 {
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+        
+        .key-points {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin: 1.5rem 0;
+        }
+        
+        .key-point {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.75rem;
+            padding: 1rem;
+            background: #f7fafc;
+            border-radius: 8px;
+        }
+        
+        .key-point-icon {
+            width: 32px;
+            height: 32px;
+            background: var(--accent);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+        
+        footer {
+            background: var(--primary);
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 3rem;
+        }
+        
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 1.8rem;
+            }
+            
+            main {
+                padding: 1rem;
+            }
+            
+            section {
+                padding: 1.5rem;
+            }
+            
+            nav ul {
+                gap: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Purim y Janucá</h1>
+        <p class="subtitle">Estudio sobre las Fiestas Hebreas basado en las enseñanza de Jazak Veematz</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#introduccion">Introducción</a></li>
+            <li><a href="#purim">Purim</a></li>
+            <li><a href="#januca">Janucá</a></li>
+            <li><a href="#comparacion">Comparación</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section id="introduccion">
+            <h2>Las Fiestas del Eterno: Más Allá de Levítico 23</h2>
+            <p class="intro">
+                El Eterno ordenó guardar sus fiestas (moadim) para conocer su plan redentor. 
+                Las fiestas bíblicas ordenadas en Levítico 23 representan diferentes aspectos del 
+                plan de salvación divino y tienen una relación directa con Yeshua. Sin embargo, 
+                existen otras celebraciones que, aunque no están mandadas en Levítico 23, tienen 
+                profundo significado en la tradición hebrea.
+            </p>
+            
+            <div class="warning-box">
+                <h4>Nota Importante</h4>
+                <p>
+                    Las fiestas ordenadas en <strong>Levítico 23</strong> son: Shabat, Pesaj (Pascua), Ha Matzot (Panes Ázimos), Omer Reshit (Primicias), 
+                    Yom Teruah (Trompetas), Yom Hakipurim (Día de la Expiación) y Sukot (Tabernaculos). Sin embargo, <strong>Purim</strong> y <strong>Janucá</strong> 
+                    (como se celebran hoy) no están en Levítico 23:
+                </p>
+                <ul>
+                    <li><strong>Purim</strong> - Celebración basada en el Libro de Ester.</li>
+                    <li><strong>Janucá</strong> - Tradición histórica basada en los Libros de los Macabeos.</li>
+                </ul>
+            </div>
+            
+            <p class="scripture">
+                "Habló Adonay a Moisés diciendo: Habla a los hijos de Israel y diles: Las fiestas solemnes de Adonay, 
+                las cuales proclamaré como santas convocatorias, serán estas..." — Levítico 23:1-2
+            </p>
+        </section>
+        
+        <section id="purim">
+            <h2>Purim (פּוּרִים) - La Fiesta de Ester</h2>
+            
+            <div class="festa-card">
+                <div class="festa festa-purim">
+                    <div class="festa-header">
+                        <h3>Purim</h3>
+                    </div>
+                    <div class="festa-body">
+                        <ul>
+                            <li><strong>Significado:</strong> "Suertes" (en hebreo: פורים, purim)</li>
+                            <li><strong>Origen:</strong> Libro de Ester</li>
+                            <li><strong>Fecha:</strong> 14-15 de Adar</li>
+                            <li><strong>No está en:</strong> Levítico 23</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <h3>El Contexto Histórico</h3>
+            <p>
+                Purim celebra los eventos descritos en el <strong>Libro de Ester</strong>, que narra cómo 
+                la reina Ester (hebreo: אֶסְתֵּר, Ester), junto con su primo Mardoqueo, reveló y frustró 
+                un plan de exterminio contra los judíos en el Imperio Persa, ordenado por el malvado 
+                aman (Hamán).
+            </p>
+            
+            <div class="timeline">
+                <div class="timeline-item">
+                    <h4>El Decreto de Destrucción</h4>
+                    <p>
+                        El rey Asuero (Jerjes I) de Persia fue convencido por el malvado amán (Hamán) 
+                        de emitir un decreto para exterminar a todos los judíos del Imperio Persa. 
+                        Las "suertes" (pur) cayeron en el día 13 del mes de Adar.
+                    </p>
+                </div>
+                
+                <div class="timeline-item">
+                    <h4>Ester Revela su Identidad</h4>
+                    <p>
+                        La reina Ester, quien había ocultado su identidad judía, reveló al rey el 
+                        complot de Hamán contra su pueblo. El rey ordenó que Hamán fuera ahorcado 
+                        en el mismo Madero que él había preparado para Mardoqueo.
+                    </p>
+                </div>
+                
+                <div class="timeline-item">
+                    <h4>La Victoria de los Judíos</h4>
+                    <p>
+                        Los judíos recibieron permiso para defenderse de sus enemigos. En lugar de 
+                        ser exterminados, fueron ellos quienes prevalecieron. El día 13 de Adar 
+                        fue establecido como día de victoria, y el 14-15 como días de celebración.
+                    </p>
+                </div>
+            </div>
+            
+            <h3>Las Costumbres de Purim</h3>
+            <div class="dimensions-grid">
+                <div class="dimension">
+                    <h4>Lectura del Meguilá</h4>
+                    <p>
+                        Se lee el Rollo de Ester (Meguilá) en la sinagoga dos veces: noche y día. 
+                        Cada vez que se menciona el nombre de amán, se hacen ruidos con matracas 
+                        para "borrar" su memoria.
+                    </p>
+                </div>
+                
+                <div class="dimension">
+                    <h4>Mishloaj Manot</h4>
+                    <p>
+                        Regalar alimentos preparados a amigos y familiares. Es una tradición de 
+                        alegría y fraternidad.
+                    </p>
+                </div>
+                
+                <div class="dimension">
+                    <h4>Matanot laEvyonim</h4>
+                    <p>
+                        Dar limosnas a los pobres. La tradición dice que debe dar a por lo menos 
+                        dos personas pobres.
+                    </p>
+                </div>
+                
+                <div class="dimension">
+                    <h4>Comida Festiva</h4>
+                    <p>
+                        Se celebra con una comida festiva (seudá) que incluye vino y alimentos 
+                        especiales. Es un día de alegría extrema.
+                    </p>
+                </div>
+            </div>
+            
+            <h3>Perspectiva de Jazak VeEmatz</h3>
+            <p>
+                Desde la perspectiva de Jazak VeEmatz, Purim nos enseña principios fundamentales:
+            </p>
+            <div class="key-points">
+                <div class="key-point">
+                    <span class="key-point-icon">✓</span>
+                    <span><strong>La Providencia Divina:</strong> El Eterno obra detrás de los escenarios.</span>
+                </div>
+                <div class="key-point">
+                    <span class="key-point-icon">✓</span>
+                    <span><strong>El Valor de la Identidad:</strong> Ester ocultó su identidad judía pero cuando fue necesario, la reveló.</span>
+                </div>
+                <div class="key-point">
+                    <span class="key-point-icon">✓</span>
+                    <span><strong>La Fidelidad en el Exilio:</strong> Aunque el pueblo estaba en Persia (lejos de Judea), mantuvo su identidad.</span>
+                </div>
+                <div class="key-point">
+                    <span class="key-point-icon">✓</span>
+                    <span><strong>Reversión del Mal:</strong> El plan de destrucción se volvió contra sus autores.</span>
+                </div>
+            </div>
+            
+            <div class="prophetic">
+                <h3>Significado Profético</h3>
+                <p>
+                    Purim representa la preservación del pueblo de Elohim en medio de naciones hostiles. 
+                    Así como Ester fue usada para salvar a su pueblo, Yeshua fue enviado para salvar a 
+                    los suyos. El libro de Ester también nos recuerda que el enemigo siempre busca 
+                    destruir al pueblo del Eterno, pero Elohim tiene el control final.
+                </p>
+            </div>
+        </section>
+        
+        <section id="januca">
+            <h2>Janucá (חֲנֻכָּה) - La Fiesta de los Macabeos</h2>
+            
+            <div class="festa-card">
+                <div class="festa festa-januca">
+                    <div class="festa-header">
+                        <h3>Janucá</h3>
+                    </div>
+                    <div class="festa-body">
+                        <ul>
+                            <li><strong>Significado:</strong> "Dedicación" (חנוכה)</li>
+                            <li><strong>Origen:</strong> Libros de los Macabeos</li>
+                            <li><strong>Fecha:</strong> 25 de Kislev (8 días)</li>
+                            <li><strong>No está en:</strong> Levítico 23</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <h3>El Origen de Janucá</h3>
+            <p>
+                <span class="hebrew">Janucá</span> significa "dedicación" o "inauguración". También se conoce como 
+                "la fiesta de las luces". A diferencia de las fiestas bíblicas mandadas en Levítico 23, 
+                Janucá es una celebración tradicional judía que conmemora eventos históricos registrados 
+                en los <strong>Libros de los Macabeos</strong> (texto histórico, no bíblico en el Tanaj hebreo).
+            </p>
+            
+            <h3>Contexto Histórico</h3>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <h4>Siglo II a.C. - El Dominio Seléucida</h4>
+                    <p>
+                        Judea estaba bajo el dominio del Imperio Seléucida, una porción del antiguo imperio de 
+                        Alejandro Magno. En esta época, el rey Antíoco IV Epífanes ordenó la persecución del 
+                        pueblo judío y la imposición de la cultura griega.
+                    </p>
+                </div>
+                
+                <div class="timeline-item">
+                    <h4>La Profanación del Templo</h4>
+                    <p>
+                        Antíoco IV profanó el Templo de Jerusalén, erigiendo un altar pagano y ofreciendo 
+                        sacrificios prohibidos. Cambió el nombre del templo y prohibió las prácticas judías, 
+                        incluyendo el Shabat y la circuncisión.
+                    </p>
+                </div>
+                
+                <div class="timeline-item">
+                    <h4>La Rebelión de los Macabeos</h4>
+                    <p>
+                        Matatías, un sacerdote judío, inició una rebelión contra las autoridades seléucidas. 
+                        Su hijo Judá Macabeo lideró la lucha y eventualmente recuperó el control del Templo 
+                        de Jerusalén en el año 165 a.C.
+                    </p>
+                </div>
+                
+                <div class="timeline-item">
+                    <h4>La Dedicación del Templo</h4>
+                    <p>
+                        El 25 de Kislev (mes del calendario hebreo), el Templo fue purificado y dedicado de nuevo 
+                        al servicio del Eterno. Se restauraron los sacrificios y se volvió a encender la Menorá. 
+                        Esta dedicación se celebra durante 8 días, convirtiéndose en Janucá.
+                    </p>
+                </div>
+            </div>
+            
+            <h3>El Significado Espiritual</h3>
+            <p>
+                Janucá representa la victoria de la fidelidad a la Torá sobre la asimilación y la persecución. 
+                Es un recordatorio de que incluso en los momentos más oscuros, el Eterno restaura a quienes 
+                permanecen fieles a sus mandamientos.
+            </p>
+            
+            <div class="prophetic" style="border-color: var(--januca); background: linear-gradient(135deg, #fffaf0 0%, #feebc8 100%);">
+                <h3 style="color: var(--januca);">Antíoco como Modelo Profético</h3>
+                <p>
+                    El nombre "Antíoco Epífanes" significa "Elohim manifeste" o "Elohim manifestado", lo cual lo hace 
+                    una sombra profética de lo que las Escrituras llaman el anticristo o el hombre de pecado. 
+                    El apóstol Pablo advirtió en 2 Tesalonicenses 2:3-4 que en los últimos días surgirá un 
+                    sistema religioso liderado por el anticristo que pretenderá que todo el mundo se aleje de la Torá.
+                </p>
+                <p>
+                    Desde la perspectiva de Jazak VeEmatz, la historia de los Macabeos nos muestra el patrón 
+                    de lo que enfrentaremos en los tiempos finales: un sistema religioso que intenta imponer 
+                    la cultura mundial y hacer que el pueblo de Elohim abandone sus mandamientos.
+                </p>
+            </div>
+            
+            <h3>La Menorá y las Luces</h3>
+            <p>
+                Según la tradición, cuando los Macabeos purificaron el Templo, solo encontraron una pequeña 
+                cantidad de aceite puro para la Menorá, suficiente para un día. Sin embargo, el milagro fue 
+                que el aceite duró ocho días, el tiempo necesario para producir más aceite puro. Por esta razón, 
+                Janucá se celebra con ocho luces.
+            </p>
+            <p>
+                Las luces de Janucá nos recuerdan que Yeshua dijo: <span class="highlight">"Yo soy la luz del mundo; 
+                el que me sigue, no andará en tinieblas, sino que tendrá la luz de la vida."</span> (Juan 8:12)
+            </p>
+            
+            <h3>Perspectiva de Jazak VeEmatz sobre la Celebración</h3>
+            <p>
+                Aunque Janucá no es una fiesta bíblica obligatoria (no está en Levítico 23), los eventos que 
+                la originaron son importantes para nosotros. Desde la perspectiva de Jazak VeEmatz, podemos 
+                celebrar y aprender de esta fiesta:
+            </p>
+            <div class="key-points">
+                <div class="key-point">
+                    <span class="key-point-icon">✓</span>
+                    <span>La fidelidad del Eterno a su pueblo en tiempos de persecución.</span>
+                </div>
+                <div class="key-point">
+                    <span class="key-point-icon">✓</span>
+                    <span>La victoria de la verdad sobre la mentira y la asimilación.</span>
+                </div>
+                <div class="key-point">
+                    <span class="key-point-icon">✓</span>
+                    <span>La importancia de mantener nuestra identidad hebrea y los mandamientos.</span>
+                </div>
+                <div class="key-point">
+                    <span class="key-point-icon">✓</span>
+                    <span>La luz de Yeshua que brilla en medio de la oscuridad.</span>
+                </div>
+            </div>
+        </section>
+        
+        <section id="comparacion">
+            <h2>Comparación entre Purim y Janucá</h2>
+            
+            <table class="comparison-table">
+                <thead>
+                    <tr>
+                        <th>Aspecto</th>
+                        <th>Purim</th>
+                        <th>Janucá</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Nombre</strong></td>
+                        <td>Purim (Suertes)</td>
+                        <td>Janucá (Dedicación)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Origen Bíblico</strong></td>
+                        <td>Libro de Ester</td>
+                        <td>Libros de los Macabeos</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Ubicación en la Biblia</strong></td>
+                        <td>Tanaj (Escritos)</td>
+                        <td>Textos históricos (no en Tanaj)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>En Levítico 23</strong></td>
+                        <td>NO</td>
+                        <td>NO</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Fecha</strong></td>
+                        <td>14-15 de Adar</td>
+                        <td>25 de Kislev (8 días)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Naturaleza</strong></td>
+                        <td>Fiesta bíblico-canónica</td>
+                        <td>Celebración tradicional-histórica</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Elemento principal</strong></strong></td>
+                        <td>Alegría, lectura del Meguilá</td>
+                        <td>Luces de la Menorá</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Significado central</strong></td>
+                        <td>Preservación del pueblo judío</td>
+                        <td>Fidelidad a la Torá</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Enemigo</strong></td>
+                        <td>Hamán (persecutor político)</td>
+                        <td>Antíoco (persecutor religioso)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Significado profético</strong></td>
+                        <td>Salvación en el exilio</td>
+                        <td>Victoria sobre el sistema religioso falso</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <h3>Lecciones Aplicables</h3>
+            <p>
+                Ambas fiestas nos enseñan principios importantes para nuestra vida espiritual:
+            </p>
+            <div class="dimensions-grid">
+                <div class="dimension" style="border-left-color: var(--purim);">
+                    <h4>De Purim aprendemos:</h4>
+                    <ul>
+                        <li>La providencia del Eterno en medio de las naciones</li>
+                        <li>El valor de mantener nuestra identidad espiritual</li>
+                        <li>Que el mal puede ser revertido contra sus autores</li>
+                        <li>La importancia de la unidad del pueblo de Elohim</li>
+                    </ul>
+                </div>
+                <div class="dimension" style="border-left-color: var(--januca);">
+                    <h4>De Janucá aprendemos:</h4>
+                    <ul>
+                        <li>La fidelidad del Eterno en tiempos difíciles</li>
+                        <li>La importancia de mantener nuestra identidad y mandamientos</li>
+                        <li>Que la luz vence a la oscuridad</li>
+                        <li>El valor de permanecer fieles a la Torá incluso bajo persecución</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        
+        <section>
+            <h2>Conclusión</h2>
+            <p>
+                Purim y Janucá representan dos aspectos fundamentales de la relación entre el Eterno y su pueblo. 
+                Aunque ninguna de estas fiestas está mandada en Levítico 23, ambas tienen profundas lecciones espirituales 
+                para nosotros hoy.
+            </p>
+            <p>
+                <strong>Purim</strong> nos recuerda que Elohim preserva a su pueblo incluso en el exilio, cuando parece 
+                que todo está perdido. <strong>Janucá</strong> nos enseña que la fidelidad a los mandamientos del Eterno 
+                es más importante que cualquier presión cultural o persecución.
+            </p>
+            <p>
+                Ambas celebraciones nos conectan con las raíces hebreas de nuestra fe y nos ayudan a comprender 
+                mejor el plan redentor de Elohim a través de Yeshua Hamashiaj (Yeshua el Mesías).
+            </p>
+            <p class="scripture" style="text-align: center; font-size: 1.1rem;">
+                "Porque no hemos recibido el espíritu del mundo, sino el espíritu que viene de Elohim, 
+                para que conozcamos lo que Elohim nos ha dado." — 1 Corintios 2:12
+            </p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>Estudio basado en las clases de Jazak Veematz - Raíces Hebreas</p>
+        <p>© 2026 - Para más información visita: jazakveematz en Youtube</p>
+    </footer>
+</body>
+</html>

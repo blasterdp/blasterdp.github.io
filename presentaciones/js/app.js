@@ -1,6 +1,13 @@
 // Configuración de las presentaciones disponibles
 const presentations = [
     {
+        id: 'tetzave',
+        title: 'Tetzavé',
+        description: 'Estudio bíblico de la parashá Tetzavé',
+        cover: 'slides/tetzave/01.webp',
+        slides: Array.from({length: 15}, (_, i) => `slides/tetzave/${String(i + 1).padStart(2, '0')}.webp`)
+    },
+    {
         id: 'beshalaj',
         title: 'Beshalaj',
         description: 'Estudio bíblico de la parashá Beshalaj',
