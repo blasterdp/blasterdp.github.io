@@ -1,7 +1,7 @@
 let currentPresentation = null;
 let currentSlideIndex = 0;
 let slideInterval = null;
-const SLIDE_DURATION = 5000; // 5 segundos por defecto
+const SLIDE_DURATION = 30000; // 30 segundos por defecto
 
 // Elementos del DOM
 const slideshowContainer = document.getElementById('slideshow');
