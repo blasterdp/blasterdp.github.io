@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Estudio sobre el Ayuno — Intersección Espiritual</title>
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Cinzel:wght@400;600;900&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --gold: #b8922a;
+      --gold-lt: #d4ad4f;
+      --ink: #18100a;
+      --cream: #fdf8ef;
+      --paper-dk: #ede3c8;
+      --sunset: #c86820;
+      --c-shabat: #7a6010;
+      --c-rosado: #a85c5c;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: linear-gradient(180deg, #0d0907 0%, #18100a 50%, #1f1610 100%);
+      font-family: 'Crimson Pro', serif;
+      color: var(--paper-dk);
+      line-height: 1.75;
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 50px;
+      padding-bottom: 30px;
+      border-bottom: 2px solid var(--gold);
+    }
+
+    h1 {
+      font-family: 'Cinzel', serif;
+      font-weight: 900;
+      font-size: 2.5rem;
+      color: var(--gold-lt);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 15px;
+    }
+
+    .subtitle {
+      font-size: 1.2rem;
+      color: var(--cream);
+      font-style: italic;
+    }
+
+    h2 {
+      font-family: 'Cinzel', serif;
+      font-weight: 600;
+      font-size: 1.6rem;
+      color: var(--gold);
+      margin: 45px 0 20px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid rgba(184, 146, 42, 0.3);
+    }
+
+    h3 {
+      font-family: 'Cinzel', serif;
+      font-weight: 400;
+      font-size: 1.3rem;
+      color: var(--gold-lt);
+      margin: 30px 0 15px;
+    }
+
+    p {
+      margin-bottom: 18px;
+      text-align: justify;
+    }
+
+    .verse {
+      background: rgba(184, 146, 42, 0.08);
+      border-left: 4px solid var(--gold);
+      padding: 18px 22px;
+      margin: 25px 0;
+      font-style: italic;
+    }
+
+    .verse cite {
+      display: block;
+      margin-top: 10px;
+      color: var(--gold-lt);
+      font-style: normal;
+      font-weight: 600;
+    }
+
+    .highlight-box {
+      background: linear-gradient(135deg, rgba(184, 146, 42, 0.12) 0%, rgba(200, 104, 32, 0.08) 100%);
+      border: 1px solid var(--gold);
+      border-radius: 8px;
+      padding: 25px 30px;
+      margin: 30px 0;
+    }
+
+    .hebrew-term {
+      font-family: 'Crimson Pro', serif;
+      font-style: italic;
+      color: var(--gold-lt);
+    }
+
+    ul {
+      margin: 15px 0 20px 25px;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+
+    .intro-section {
+      background: rgba(255, 255, 255, 0.03);
+      border-radius: 12px;
+      padding: 35px;
+      margin-bottom: 40px;
+      border: 1px solid rgba(184, 146, 42, 0.2);
+    }
+
+    .conclusion {
+      background: linear-gradient(180deg, rgba(184, 146, 42, 0.1) 0%, transparent 100%);
+      padding: 30px;
+      border-radius: 8px;
+      margin-top: 50px;
+      border-top: 2px solid var(--gold);
+    }
+
+    .conclusion h3 {
+      margin-top: 0;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 60px;
+      padding-top: 30px;
+      border-top: 1px solid rgba(184, 146, 42, 0.3);
+      color: rgba(253, 248, 239, 0.5);
+      font-size: 0.9rem;
+    }
+
+    .menu-link {
+      color: var(--gold-lt);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+
+    .menu-link:hover {
+      color: var(--gold);
+    }
+
+    .fasting-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 25px 0;
+      font-size: 1rem;
+    }
+
+    .fasting-table th,
+    .fasting-table td {
+      padding: 15px;
+      text-align: left;
+      border-bottom: 1px solid rgba(184, 146, 42, 0.3);
+    }
+
+    .fasting-table th {
+      background: rgba(184, 146, 42, 0.15);
+      color: var(--gold-lt);
+      font-family: 'Cinzel', serif;
+      font-weight: 600;
+    }
+
+    .fasting-table tr:hover {
+      background: rgba(184, 146, 42, 0.05);
+    }
+
+    @media (max-width: 600px) {
+      h1 { font-size: 1.8rem; }
+      h2 { font-size: 1.3rem; }
+      .intro-section { padding: 20px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>El Ayuno y su Intersección Espiritual</h1>
+      <p class="subtitle">Estudio bíblico desde las Raíces Hebreas</p>
+    </header>
+
+    <div class="intro-section">
+      <p>El ayuno es una práctica espiritual que trasciende las tradiciones religiosas y conecta profundamente con la experiencia del ser humano ante lo divino. En este estudio exploraremos el significado del ayuno desde la perspectiva bíblica, su intersección con el perdón, la expiación y la reconciliación con <span class="hebrew-term">Elohim</span>.</p>
+    </div>
+
+    <section>
+      <h2>1. El Significado del Ayuno desde la Perspectiva Hebrea</h2>
+      
+      <p>Para entender el ayuno desde la perspectiva hebrea, hay que alejarse de la idea de "dieta" o simple "sacrificio físico". En el pensamiento hebreo, el ser humano es una unidad integral; lo que haces con el cuerpo afecta directamente al espíritu.</p>
+
+      <h3>1.1 El término: Tzom (צוֹם)</h3>
+      <p>La palabra hebrea para ayuno es <span class="hebrew-term">צוֹם</span> (Tzom). Más allá de no comer, su raíz está ligada a la idea de "reunirse" o "envolverse". No es solo privación, es un espacio de tiempo creado para concentrarse exclusivamente en lo espiritual.</p>
+
+      <h3>1.2 Anit Nefesh: Afligir el alma</h3>
+      <p>En la Torá, el ayuno (especialmente en Yom Kipur) se describe como <span class="hebrew-term">עֲנוּת נָפֶשׁ</span> (Anit Nefesh), que literalmente significa "afligir o humillar el alma".</p>
+      
+      <ul>
+        <li><strong>El propósito:</strong> No es sufrir por sufrir, sino reconocer nuestra fragilidad. Al dejar de comer, admitimos que no somos autosuficientes y que dependemos totalmente de la Fuente de Vida.</li>
+        <li><strong>Dominio propio:</strong> Es una forma de decirle al cuerpo que el alma es quien lleva el mando.</li>
+      </ul>
+
+      <div class="verse">
+        "Afligiréis vuestras almas, y ofreceréis ofrenda encendida a Yehová."
+        <cite>— Levítico 23:27</cite>
+      </div>
+    </section>
+
+    <section>
+      <h2>2. Teshuvá: El Ayuno como Retorno y Arrepentimiento</h2>
+      
+      <p>El ayuno casi nunca va solo; es el compañero del arrepentimiento. En la perspectiva hebrea, el ayuno es un "<span class="hebrew-term">sacrificio sin animal</span>".</p>
+
+      <ul>
+        <li>Antiguamente, se ofrecía la grasa y la sangre de un sacrificio en el altar.</li>
+        <li>Durante el ayuno, el judío considera que la disminución de su propia grasa y sangre (por la falta de alimento) es su ofrenda personal ante Dios.</li>
+      </ul>
+
+      <p>La palabra hebrea <span class="hebrew-term">תְּשׁוּבָה</span> (Teshuvá) significa "retorno" o "arrepentimiento". El ayuno nos ayuda a retornar a Dios, a replantear nuestro camino espiritual y a restaurar la relación quebrantada con el Creador.</p>
+    </section>
+
+    <section>
+      <h2>3. La Crítica de los Profetas: El Ayuno Ético</h2>
+
+      <p>Este es un punto clave. Los profetas hebreos (especialmente Isaías en el capítulo 58) corrigieron la visión del ayuno puramente ritual. Para que un ayuno sea válido desde la perspectiva hebrea, debe ir acompañado de justicia social:</p>
+
+      <div class="verse">
+        "¿No es más bien el ayuno que yo he elegido: desatar las ligaduras de impiedad, romper las cargas inícuas, dejar ir libres a los oprimidos, y que rompáis todo yugo? ¿No es que partas tu pan con el hambriento, y a los pobres errantes albergues en casa; que cuando veas al desnudo lo cubras, y no te escondas de tu hermano?"
+        <cite>— Isaías 58:6-7</cite>
+      </div>
+
+      <div class="highlight-box">
+        <h3>Requisitos del ayuno válido según los Profetas:</h3>
+        <ul>
+          <li>Desatar ligaduras de maldad</li>
+          <li>Compartir el pan con el hambriento</li>
+          <li>Hospedar a los pobres</li>
+          <li>Cubrir al desnudo</li>
+        </ul>
+        <p style="margin-top: 15px;"><em>"En resumen: Si ayunas pero sigues siendo injusto con tu prójimo, el ayuno no sube."</em></p>
+      </div>
+    </section>
+
+    <section>
+      <h2>4. Tipos de Ayuno en el Calendario Hebreo</h2>
+
+      <table class="fasting-table">
+        <thead>
+          <tr>
+            <th>Tipo</th>
+            <th>Significado</th>
+            <th>Ejemplo</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Expiación</strong></td>
+            <td>Purificación y perdón de pecados</td>
+            <td>Yom Kipur</td>
+          </tr>
+          <tr>
+            <td><strong>Duelo/Memoria</strong></td>
+            <td>Recordar tragedias nacionales</td>
+            <td>Tishá B'Av</td>
+          </tr>
+          <tr>
+            <td><strong>Petición</strong></td>
+            <td>Intercesión en momentos de peligro</td>
+            <td>Ayuno de Ester</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>5. Intersección: Ayuno y Yom Kipurim (Día de la Expiación)</h2>
+
+      <p>La intersección más significativa del ayuno en las Escrituras se encuentra en <span class="hebrew-term">יוֹם הַכִּפּוּרִים</span> (Yom HaKipurim) - el Día de la Expiación. Este es el día más sagrado del calendario hebreo, establecido por Dios mismo en Levítico 23.</p>
+
+      <div class="highlight-box">
+        <h3>El estatuto del Día de Expiación</h3>
+        <p>"También en el día diez del séptimo mes tendréis santa convocación, y afligiréis vuestras almas, y ninguna obra haréis. Y este día se os tendrá por santo, y afligiréis vuestras almas; ritual perpetuo será."</p>
+        <cite>— Levítico 23:27-28</cite>
+      </div>
+
+      <p>Este ayuno representa la oportunidad anual de reconciliación con <span class="hebrew-term">Adonai</span>. Es un día donde el pueblo de Dios se reúne espiritualmente para:</p>
+
+      <ul>
+        <li>Reconocer los pecados</li>
+        <li>Buscar el perdón divino</li>
+        <li>Experimentar la limpieza espiritual</li>
+        <li>Renovar el pacto con Dios</li>
+      </ul>
+
+      <p>El ayuno hebreo no busca "cambiar la voluntad de Dios", sino cambiarnos a nosotros mismos para estar en sintonía con Él. Es un ejercicio de humildad, claridad mental y compromiso ético.</p>
+    </section>
+
+    <section>
+      <h2>6. La Dimensión Espiritual del Ayuno</h2>
+
+      <h3>Ayuno Físico y Espiritual</h3>
+      <p>El ayuno bíblico tiene dos dimensiones que trabajan juntas:</p>
+
+      <div class="verse">
+        "No es más bien el ayuno que yo he elegido: desatar las ligaduras de impiedad,独秀 las cargas inícuas, dejar ir libres a los oprimidos, y que rompáis todo yugo?"
+        <cite>— Isaías 58:6</cite>
+      </div>
+
+      <p>El profeta Isaías nos revela que el ayuno genuino no consiste meramente en abstainerse de alimentos, sino en:</p>
+      <ul>
+        <li>Desatar las ligaduras de impiedad</li>
+        <li>Romper las cargas inícuas</li>
+        <li>Libertar a los oprimidos</li>
+        <li>Buscar la justicia divina</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>7. Intersección con la Vida del Mesías</h2>
+
+      <p>El <span class="hebrew-term">Yeshúa</span> (Jesús) estableció el modelo perfecto del ayuno espiritual. En los evangelios, encontramos que Él ayunó durante 40 días en el desierto antes de comenzar su ministerio público.</p>
+
+      <div class="verse">
+        "Entonces Yeshúa fue llevado por el Espíritu al desierto, para ser tentado por el diablo. Y después de ayunar cuarenta días y cuarenta noches, tuvo hambre."
+        <cite>— Mateo 4:1-2</cite>
+      </div>
+
+      <p>La práctica del ayuno en la vida del Mesías demuestra su importancia como herramienta espiritual para:</p>
+      <ul>
+        <li>Preparación para el ministerio</li>
+        <li>Victoria sobre las tentaciones</li>
+        <li>Intimidad con el Padre</li>
+        <li>Poder espiritual para servir</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>8. El Ayuno en la Comunidad de Fe</h2>
+
+      <p>Las primeras comunidades de creyentes continuaron practicando el ayuno como parte integral de la vida espiritual. En los Hechos de los Apóstoles:</p>
+
+      <div class="verse">
+        "Y cuando hubieron ayunado y orado, les impositionaron las manos, y dejaron ir."
+        <cite>— Hechos 13:3</cite>
+      </div>
+
+      <p>El ayuno comunitario incluye:</p>
+      <ul>
+        <li>Unidad en la oración</li>
+        <li>Búsqueda de dirección divina</li>
+        <li>Preparación para decisiones importantes</li>
+        <li>Envío de obreros al campo misi</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>9. Intersección: Ayuno y el Shabat</h2>
+
+      <p>Existe una conexión profunda entre el ayuno y el día de reposo (<span class="hebrew-term">Shabat</span>). Ambos representan:</p>
+
+      <ul>
+        <li>Tiempo de Santidad</li>
+        <li>Renuncia a lo ordinario por lo extraordinario</li>
+        <li>Comunión con lo divino</li>
+        <li>Preparación espiritual</li>
+      </ul>
+
+      <p>En Yom Kipurim, el ayuno se convierte en un "Shabat de Shabat" - el día de reposo más elevado, donde el descanso y la santidad alcanzan su máxima expresión espiritual.</p>
+    </section>
+
+    <div class="conclusion">
+      <h3>Conclusión: La Intersección Total</h3>
+      <p>El ayuno en las Escrituras Hebreas no es un acto aislado, sino una práctica que interseca con múltiples dimensiones de la vida espiritual:</p>
+      
+      <p><strong>Intersección con la Expiación:</strong> El ayuno de Yom Kipur es el medio por el cual el pueblo de Dios busca reconciliación anual.</p>
+      
+      <p><strong>Intersección con la Justicia:</strong> El ayuno verdadero produce acciones de justicia y liberación. Como nos enseñó el profeta Isaías, el ayuno sin obras de justicia es inaceptable.</p>
+      
+      <p><strong>Intersección con la Oración:</strong> El ayuno amplifica la oración, creando un canal más profundo de comunicación con Dios.</p>
+      
+      <p><strong>Intersección con la Identidad:</strong> El ayuno nos recuerda nuestra dependencia del Creador y nos hace vibrar con nuestra identidad como hijos de Dios.</p>
+      
+      <p>El ayuno hebreo es un ejercicio de <strong>humildad, claridad mental y compromiso ético</strong>. No es un fin en sí mismo, sino un medio para lograr una relación más profunda y significativa con <span class="hebrew-term">Elohim</span>, nuestro Creador y Redentor.</p>
+    </div>
+
+    <footer>
+      <p>Estudio basado en contenido de <strong>Jazak Veematz</strong> — Raíces Hebreas</p>
+      <p><a href="https://jazakveematz.com" class="menu-link" target="_blank">jazakveematz.com</a></p>
+      <p style="margin-top: 15px; font-size: 0.8rem;">© 2026 Todos los derechos reservados</p>
+    </footer>
+  </div>
+</body>
+</html>
