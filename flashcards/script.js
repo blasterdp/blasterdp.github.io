@@ -35,6 +35,7 @@ function formatText(text) {
 // Lista de temas por categoría
 const topicsByCategory = {
     general: [
+        'flashcards_parashá_ki_tiza_old.csv',
         'flashcards_parashá_tetzavé_anteriores.csv',
         'flashcards_parashá_theruma_2026.csv',
         'flashcards_bo_2025.csv',
@@ -48,6 +49,7 @@ const topicsByCategory = {
         'flashcards_parashá_yitró.csv'
     ],
     niños: [
+        'flashcards_ki_tiza_niños_old.csv',
         'flashcards_parashá_tetzavé_anteriores.csv',
         'flashcards_parashá_theruma_2026.csv',
         'flashcards_doctrina_niños.csv',

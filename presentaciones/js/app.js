@@ -1,6 +1,13 @@
 // Configuración de las presentaciones disponibles
 const presentations = [
     {
+        id: 'ki-tiza',
+        title: 'Ki Tiza',
+        description: 'Estudio bíblico de la parashá Ki Tiza',
+        cover: 'slides/ki_tiza_El_Sello_del_Eterno/01.webp',
+        slides: Array.from({length: 15}, (_, i) => `slides/ki_tiza_El_Sello_del_Eterno/${String(i + 1).padStart(2, '0')}.webp`)
+    },
+    {
         id: 'tetzave',
         title: 'Tetzavé',
         description: 'Estudio bíblico de la parashá Tetzavé',

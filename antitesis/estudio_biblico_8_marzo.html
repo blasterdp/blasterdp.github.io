@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudio Bíblico: Análisis del 8 de Marzo desde las Raíces Hebreas</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            line-height: 1.8;
+            color: #2c2c2c;
+            background: linear-gradient(135deg, #f5f5f0 0%, #e8e4d9 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        
+        header {
+            text-align: center;
+            padding: 60px 20px;
+            background: linear-gradient(135deg, #1a3a5c 0%, #2c5282 100%);
+            color: white;
+            border-radius: 8px;
+            margin-bottom: 40px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        }
+        
+        header h1 {
+            font-size: 2.2em;
+            margin-bottom: 15px;
+            font-weight: normal;
+            letter-spacing: 1px;
+        }
+        
+        header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+            font-style: italic;
+        }
+        
+        .shalom {
+            text-align: center;
+            padding: 30px;
+            background: #fff;
+            border-left: 4px solid #2c5282;
+            margin-bottom: 40px;
+            border-radius: 0 8px 8px 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        
+        .shalom p {
+            font-size: 1.2em;
+            color: #1a3a5c;
+            font-weight: bold;
+        }
+        
+        section {
+            background: white;
+            padding: 40px;
+            margin-bottom: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.08);
+        }
+        
+        h2 {
+            color: #1a3a5c;
+            font-size: 1.8em;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #e8e4d9;
+            font-weight: normal;
+        }
+        
+        h3 {
+            color: #2c5282;
+            font-size: 1.3em;
+            margin: 30px 0 20px 0;
+            font-weight: normal;
+        }
+        
+        h4 {
+            color: #4a5568;
+            font-size: 1.1em;
+            margin: 20px 0 15px 0;
+            font-weight: bold;
+        }
+        
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        
+        .verse {
+            background: #f7f5f0;
+            padding: 20px 25px;
+            margin: 20px 0;
+            border-left: 3px solid #c9a227;
+            font-style: italic;
+        }
+        
+        .verse cite {
+            display: block;
+            margin-top: 10px;
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        .part-label {
+            display: inline-block;
+            background: #1a3a5c;
+            color: white;
+            padding: 8px 20px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            margin-bottom: 20px;
+        }
+        
+        ul, ol {
+            margin: 15px 0 15px 30px;
+        }
+        
+        li {
+            margin-bottom: 10px;
+        }
+        
+        .hebrew {
+            font-style: italic;
+            color: #2c5282;
+            font-weight: bold;
+        }
+        
+        .highlight-box {
+            background: #fffbeb;
+            border: 1px solid #f6e05e;
+            padding: 25px;
+            margin: 25px 0;
+            border-radius: 8px;
+        }
+        
+        .warning-box {
+            background: #fed7d7;
+            border: 1px solid #fc8181;
+            padding: 25px;
+            margin: 25px 0;
+            border-radius: 8px;
+        }
+        
+        .conclusion-box {
+            background: #e6fffa;
+            border: 1px solid #4fd1c5;
+            padding: 30px;
+            margin: 30px 0;
+            border-radius: 8px;
+        }
+        
+        .prayer {
+            background: linear-gradient(135deg, #1a3a5c 0%, #2c5282 100%);
+            color: white;
+            padding: 40px;
+            margin: 40px 0;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .prayer h3 {
+            color: #c9a227;
+            margin-bottom: 25px;
+        }
+        
+        .prayer p {
+            text-align: center;
+            line-height: 2;
+        }
+        
+        .final-verse {
+            text-align: center;
+            padding: 40px;
+            background: #fff;
+            border: 2px solid #c9a227;
+            border-radius: 8px;
+            margin: 30px 0;
+        }
+        
+        .final-verse p {
+            text-align: center;
+            font-size: 1.1em;
+            color: #1a3a5c;
+        }
+        
+        .note {
+            background: #ebf8ff;
+            border-left: 4px solid #4299e1;
+            padding: 20px;
+            margin: 30px 0;
+            border-radius: 0 8px 8px 0;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        a {
+            color: #2c5282;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px 15px;
+            }
+            
+            header h1 {
+                font-size: 1.6em;
+            }
+            
+            section {
+                padding: 25px;
+            }
+            
+            h2 {
+                font-size: 1.4em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>ESTUDIO BÍBLICO</h1>
+            <p>Análisis del 8 de Marzo desde las Raíces Hebreas</p>
+        </header>
+
+        <div class="shalom">
+            <p>Shalom hermanos</p>
+        </div>
+
+        <p style="text-align: center; font-size: 1.1em; margin-bottom: 40px;">
+            Este estudio tiene como objetivo analizar, desde una perspectiva bíblica y de las raíces hebreas de nuestra fe, el significado y trasfondo del 8 de marzo, fecha en que el mundo commemorate el "Día Internacional de la Mujer". No buscamos juzgar personas, sino discernir los espíritus y las filosofías detrás de estas celebraciones, para caminar en santidad y verdad.
+        </p>
+
+        <section>
+            <span class="part-label">PRIMERA PARTE</span>
+            <h2>Análisis del Día Internacional de la Mujer (8M)</h2>
+
+            <h3>1. El Origen y la Narrativa del 8M</h3>
+            <p>El texto analizado presenta el 8M como una conmemoración de la "lucha" de las mujeres por la "igualdad de género" y el "desarrollo íntegro como persona" en "pie de igualdad con el hombre".</p>
+            
+            <div class="verse">
+                "Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó."
+                <cite>Bereshit (Génesis) 1:27</cite>
+            </div>
+            
+            <p>Aquí no hay jerarquía de esencia o valor. Ambos, varón (Ish) y mujer (Ishá), portan la imagen divina (Tzelem Elohim). Son complementarios, no idénticos, pero iguales en dignidad ante Dios. El problema no está en reconocer el valor de la mujer, sino en la fuente de autoridad de donde parte esta lucha.</p>
+
+            <h3>2. Las Raíces Ideológicas del 8M</h3>
+            <p>El texto revela que el origen del 8M proviene de la II Conferencia Internacional de Mujeres Socialistas en Copenhague (1910), propuesto por Clara Zetkin, con influencias de Rosa Luxemburgo, Friedrich Engels y el movimiento obrero marxista.</p>
+            
+            <div class="verse">
+                "Hay camino que al hombre le parece derecho, pero su fin es camino de muerte."
+                <cite>Proverbios 14:12</cite>
+            </div>
+            
+            <p>Estas filosofías son fundamentalmente materialistas y ateas. Construir una lucha social sobre bases que niegan a Dios es edificar sobre arena (Mateo 7:26-27). Es la torá (instrucción) del hombre sustituyendo la Torá de Dios.</p>
+
+            <h3>3. El Tema de la "Igualdad de Género" vs. la Complementariedad Bíblica</h3>
+            <p>El feminismo moderno busca una igualdad unidimensional que a menudo borra las distinciones divinas.</p>
+            
+            <h4>La mujer en el diseño original:</h4>
+            <p>En Génesis 2:18, la mujer es creada como <span class="hebrew">Ezer Kenegdo</span>. Esta frase hebrea es profunda:</p>
+            <ul>
+                <li><span class="hebrew">Ezer</span> (ayuda) se usa mayoritariamente en el Tanaj para describir a Dios mismo (el que socorre).</li>
+                <li><span class="hebrew">Kenegdo</span> implica correspondencia, alguien que está enfrente, complementando.</li>
+            </ul>
+            <p>No hay inferioridad, hay complementariedad y orden divino.</p>
+
+            <h3>4. Elementos Preocupantes a la Luz de la Torá</h3>
+            <p>El texto del 8M promueve explícitamente:</p>
+
+            <h4>a) La "liberación sexual" y el neomalthusianismo</h4>
+            <p>Se menciona la defensa de la "procreación consciente", la "separación entre sexualidad y reproducción", la "libertad sexual" y el uso de métodos anticonceptivos artificiales como banderas del movimiento.</p>
+            
+            <div class="verse">
+                "Porque esta es la voluntad de Dios, vuestra santificación: que os apartéis de la fornicación."
+                <cite>1 Tesalonicenses 4:3-5</cite>
+            </div>
+            
+            <p>La sexualidad está santificada dentro del pacto del matrimonio (Génesis 2:24). La "libertad sexual" sin ataduras al pacto es, bíblicamente, <span class="hebrew">porneia</span> (inmoralidad sexual), repetidamente condenada.</p>
+
+            <h4>b) El espíritu de contendsia (Madon)</h4>
+            <p>Las manifestaciones del 8M suelen estar marcadas por ira, amargura y división.</p>
+            
+            <div class="verse">
+                "Ciertamente la soberbia producirá contendsia."
+                <cite>Proverbios 13:10</cite>
+            </div>
+            
+            <div class="verse">
+                "Quitar toda amargura, enojo, ira, gritería y maledicencia."
+                <cite>Efesios 4:31</cite>
+            </div>
+            
+            <p>La redención trae <span class="hebrew">shalom</span> (paz) y reconciliación, no una guerra de sexos.</p>
+
+            <h4>c) La autonomía frente a Dios (el pecado de Babel)</h4>
+            <p>La búsqueda del "desarrollo íntegro como persona" al margen de Dios refleja el mismo pecado de Babel: hacerse un nombre por sí mismos (Génesis 11:4).</p>
+            
+            <p>La mujer, como el hombre, encuentra su realización plena no en la autonomía, sino en la obediencia y relación con su Creador. El texto del 8M no menciona a Dios, ni redención, ni la virtud según las Escrituras.</p>
+        </section>
+
+        <section>
+            <span class="part-label">SEGUNDA PARTE</span>
+            <h2>Análisis de la Fecha (8 de Marzo) y sus Conmemoraciones</h2>
+
+            <h3>1. La Fecha en Sí Misma</h3>
+            <p>Desde una perspectiva hebrea, el tiempo fue creado por Dios (Génesis 1:14). Los días en sí mismos son neutrales; es lo que el hombre hace en ellos lo que los santifica o profana.</p>
+            
+            <div class="highlight-box">
+                <p>El 8 de marzo no es una fecha establecida por Dios en la Torá (como el Shabat, Pesaj o Yom Kipur). Es una fecha elegida por el hombre, cargada por las conmemoraciones que la humanidad le ha asignado.</p>
+            </div>
+
+            <h3>2. Eventos Históricos Relevantes en esta Fecha</h3>
+            <p>El compendio histórico del 8 de marzo contiene eventos que reflejan la caída humana:</p>
+            <ul>
+                <li><strong>415 d.C.:</strong> Muerte de Hipatia de Alejandría (violencia de turba).</li>
+                <li><strong>1610:</strong> Establecimiento de la Inquisición en Cartagena de Indias (intolerancia religiosa que tanto daño hizo al pueblo judío).</li>
+                <li><strong>1836:</strong> Supresión de órdenes religiosas (lucha política).</li>
+                <li><strong>1948:</strong> Declaración anticonstitucional de la enseñanza religiosa en escuelas de EE.UU.</li>
+            </ul>
+            
+            <div class="verse">
+                "El temor de Dios es el principio de la sabiduría."
+                <cite>Proverbios 9:10</cite>
+            </div>
+            
+            <p>Separar la educación de la fuente de sabiduría (Dios) es construir sobre humanismo, necedad a los ojos de Dios (Salmos 14:1).</p>
+
+            <h3>3. Las Celebraciones del 8 de Marzo</h3>
+            <p>La fecha alberga múltiples conmemaciones:</p>
+
+            <h4>a) Día Internacional de la Mujer (8M)</h4>
+            <p>Ya analizado en profundidad. Raíces en filosofías materialistas.</p>
+
+            <h4>b) Día de la Ceiba (Guatemala)</h4>
+            <p>La Ceiba era el árbol sagrado de los Mayas, representando el eje del mundo que sostiene el universo. Declarado Árbol Nacional en 1955.</p>
+            
+            <div class="verse">
+                "No aprendáis el camino de las naciones... porque las costumbres de los pueblos son vanidad."
+                <cite>Jeremías 10:2-3</cite>
+            </div>
+            
+            <p>Aunque un árbol puede ser hermoso (Génesis 2:9), la Torá advierte contra las prácticas de las naciones que adoran la creación en lugar del Creador (Romanos 1:25).</p>
+
+            <h4>c) Santoral Católico</h4>
+            <p>Se conmemaran múltiples santos: San Juan de Dios, Nuestra Señora de las Lágrimas, entre otros.</p>
+            
+            <div class="verse">
+                "Porque hay un solo Dios, y un solo Mediador entre Dios y los hombres, Cristo Jesús, hombre."
+                <cite>1 Timoteo 2:5</cite>
+            </div>
+            
+            <p>Desde las raíces hebreas, la veneración de santos (orar a ellos o pedir su intercesión) no tiene base en el Tanaj ni en las enseñanzas del Mesías, quien enseñó a orar al Padre en Su nombre (Juan 16:23).</p>
+
+            <h4>d) Día del Bombero (España)</h4>
+            <p>Honrar a quienes arriesgan su vida es loable (Romanos 13:7). No hay pecado en agradecer, siempre que no se eleve al hombre a estatus divino.</p>
+        </section>
+
+        <section>
+            <span class="part-label">TERCERA PARTE</span>
+            <h2>La Mujer en el Diseño Original de Dios</h2>
+
+            <h3>1. La Mujer Virtuosa (Proverbios 31)</h3>
+            <p>Lejos de la imagen de víctima o guerrera del feminismo, la Escritura nos presenta a la <span class="hebrew">Eishat Jáyil</span> (Mujer Virtuosa):</p>
+            <ul>
+                <li>Es fuerte y emprendedora (v.17)</li>
+                <li>Administra sabiamente (v.16)</li>
+                <li>Cuida de su familia (v.27)</li>
+                <li>Teme a YHVH (v.30)</li>
+            </ul>
+            
+            <div class="verse">
+                "Engañosa es la gracia y vana la hermosura, la mujer que teme a YHVH, ésa será alabada."
+                <cite>Proverbios 31:30</cite>
+            </div>
+
+            <h3>2. Mujeres que Marcaron la Historia Bíblica</h3>
+            <ul>
+                <li><strong>Sara:</strong> Princesa, madre de naciones.</li>
+                <li><strong>Débora:</strong> Profetisa y juez que guió al pueblo.</li>
+                <li><strong>Rut:</strong> Modelo de lealtad y fidelidad.</li>
+                <li><strong>Ester:</strong> Intercesora que salvó a su pueblo.</li>
+                <li><strong>María de Nazaret:</strong> La humilde que fue altamente favorecida.</li>
+                <li><strong>Lidia:</strong> Exitosa empresaria que abrió su hogar para el evangelio.</li>
+            </ul>
+            <p>Todas ellas vivieron su propósito dentro del pacto, no luchando contra él.</p>
+
+            <h3>3. La Restauración en el Mesías</h3>
+            
+            <div class="verse">
+                "Ya no hay judío ni griego; no hay esclavo ni libre; no hay varón ni mujer; porque todos vosotros sois uno en Cristo Jesús."
+                <cite>Gálatas 3:28</cite>
+            </div>
+            
+            <p>Esto se refiere a la posición espiritual y herencia de la salvación, no a la anulación de roles funcionales. La redención restaura la relación varón-mujer a su diseño original.</p>
+        </section>
+
+        <section>
+            <span class="part-label">CUARTA PARTE</span>
+            <h2>Conclusions y Aplicación Práctica</h2>
+
+            <h3>¿Es Pecaminoso el 8 de Marzo?</h3>
+            <p>La fecha en sí NO es pecaminosa. El sol sale sobre malos y buenos (Mateo 5:45).</p>
+            
+            <p>Sin embargo, el 8 de marzo se ha convertido en un "altar" donde el mundo ofrece sacrificios a diferentes dioses:</p>
+            <ol>
+                <li><strong>Ofrenda al Humanismo:</strong> A través del 8M, se honra la autonomía humana y la lucha de clases (idolatría del "yo").</li>
+                <li><strong>Ofrenda a la Naturaleza:</strong> A través del Día de la Ceiba, se mantiene viva memoria pagana.</li>
+                <li><strong>Ofrenda a la Tradición:</strong> A través del santoral, se desvía la atención de la única mediación divina.</li>
+            </ol>
+
+            <h3>Aplicación para el Creyente</h3>
+            <p>El llamado es a ser <span class="hebrew">Kadosh</span> (santo/apartado). Así como Dios santificó el séptimo día (Génesis 2:3), debemos santificar nuestro tiempo.</p>
+
+            <div class="conclusion-box">
+                <h4 style="margin-top: 0;">Preguntas para el discernimiento:</h4>
+                <ol>
+                    <li><strong>¿Puedo conmemarar a la mujer?</strong> SÍ, pero como Ezer Kenegdo en el diseño de Dios, no bajo banderas que excluyen a Dios.</li>
+                    <li><strong>¿Puedo celebrar a los bomberos?</strong> SÍ, como gratitud civil.</li>
+                    <li><strong>¿Debo celebrar el 8M o el Día de la Ceiba?</strong> Conociendo el trasfondo, debemos discernir si nuestra participación edifica o nos une a yugos desiguales (2 Corintios 6:14-17).</li>
+                </ol>
+            </div>
+        </section>
+
+        <section style="background: #faf8f5;">
+            <h2>Llamado Final</h2>
+            <p>Hermanos, no se trata de ignorar las injusticias que muchas mujeres sufren. La Escritura nos llama a defender a la viuda, al huérfano y al oprimido (Isaías 1:17). Pero la solución no es la lucha de clases o de géneros, sino el arrepentimiento individual y colectivo y el retorno a los caminos de Dios.</p>
+            
+            <p>La causa de la mujer no se soluciona con un 8M, sino con la restauración del diseño original del Edén a través del Mesías, quien vino a restaurar todas las cosas, incluyendo la relación entre el hombre y la mujer.</p>
+        </section>
+
+        <div class="prayer">
+            <h3>Oración Final</h3>
+            <p>
+                "Abre tus ojos, pueblo mío, y no aprendas el camino de las naciones.<br>
+                Que tu corazón sea para Mí, y tus tiempos santificados.<br>
+                Que la mujer en Israel se levante no con puño levantado contra el hombre,<br>
+                sino como ayuda idónea, como corona de su esposo,<br>
+                como luz en su hogar, y como ejemplo de piedad.<br>
+                Y que el varón la ame como el Mesías amó a la congregación,<br>
+                dando su vida por ella.<br>
+                Amén."
+            </p>
+        </div>
+
+        <div class="final-verse">
+            <p>
+                <em>"Engañosa es la gracia y vana la hermosura,<br>
+                la mujer que teme a YHVH, ésa será alabada.<br>
+                Dadle del fruto de sus manos,<br>
+                y alábenla en las puertas sus hechos."</em><br>
+                <strong>(Proverbios 31:30-31)</strong>
+            </p>
+        </div>
+
+        <div class="note">
+            <p><strong>Nota para el grupo:</strong> Este estudio no busca promover odio hacia las mujeres ni hacia quienes participan en estas conmemaciones. Busca, con amor y verdad, exponer las filosofías detrás de las celebraciones para que, conociendo la verdad, podamos caminar en libertad y santidad. Que el Eterno nos dé sabiduría para discernir en estos tiempos.</p>
+        </div>
+
+        <footer>
+            <p>Estudio Bíblico - Raíces Hebreas de Nuestra Fe</p>
+        </footer>
+    </div>
+</body>
+</html>
