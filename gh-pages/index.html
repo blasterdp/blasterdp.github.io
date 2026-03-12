@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vendi - Descarga la App</title>
+    <title>Descarga Apps - BasterDP</title>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -26,7 +26,7 @@
             padding: 20px;
         }
         .container {
-            max-width: 600px;
+            max-width: 800px;
             width: 100%;
             background: var(--card);
             padding: 40px;
@@ -41,47 +41,50 @@
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
-        p {
+        p.subtitle {
             font-size: 1.1rem;
             color: #6e6e73;
             margin-bottom: 30px;
         }
-        .version-box {
+        .app-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .app-card {
             background: #fdfdfd;
             border: 1px solid #eeeff2;
             padding: 20px;
             border-radius: 16px;
-            margin-bottom: 20px;
             transition: transform 0.2s;
+            text-align: left;
         }
-        .version-box:hover {
+        .app-card:hover {
             transform: translateY(-5px);
             border-color: var(--primary);
+        }
+        .app-name {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: var(--primary);
+        }
+        .app-description {
+            font-size: 1rem;
+            color: #6e6e73;
+            margin-bottom: 15px;
         }
         .btn {
             display: inline-block;
             background: var(--primary);
             color: white;
-            padding: 14px 28px;
+            padding: 10px 20px;
             border-radius: 12px;
             text-decoration: none;
             font-weight: bold;
-            margin-top: 15px;
             transition: opacity 0.2s;
         }
-        .btn-dev {
-            background: #333;
-        }
-        .badge {
-            display: inline-block;
-            padding: 4px 10px;
-            border-radius: 6px;
-            font-size: 0.8rem;
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
-        .badge-main { background: #e3f2fd; color: #1976d2; }
-        .badge-dev { background: #fff3e0; color: #f57c00; }
         .footer {
             margin-top: 40px;
             font-size: 0.9rem;
@@ -91,25 +94,54 @@
 </head>
 <body>
     <div class="container">
-        <h1>Vendi</h1>
-        <p>Gestión de inventario y ventas inteligente para tu negocio.</p>
+        <h1>Aplicaciones</h1>
+        <p class="subtitle">Selecciona una aplicación para descargarla.</p>
         
-        <div class="version-box">
-            <span class="badge badge-main">PRODUCCIÓN</span>
-            <h3>Versión Estable</h3>
-            <p>Para uso real en tu negocio. Mayor estabilidad.</p>
-            <a href="releases/vendi-main.apk" class="btn">Descargar APK</a>
-        </div>
-
-        <div class="version-box">
-            <span class="badge badge-dev">DESARROLLO</span>
-            <h3>Versión Beta</h3>
-            <p>Incluye las últimas mejoras (Mermas, Almacenes). Puede ser inestable.</p>
-            <a href="releases/vendi-dev.apk" class="btn btn-dev">Descargar Beta</a>
+        <div id="app-list" class="app-grid">
+            <!-- Las aplicaciones se cargarán dinámicamente aquí -->
+            <p>Cargando aplicaciones...</p>
         </div>
     </div>
     <div class="footer">
-        © 2026 Vendi App. Desarrollado por BasterDP.
+        © 2026 BasterDP. Todos los derechos reservados.
     </div>
+
+    <script>
+        // Cargar la lista de aplicaciones desde apps.json
+        fetch('apps.json')
+            .then(response => response.json())
+            .then(apps => {
+                const appList = document.getElementById('app-list');
+                appList.innerHTML = ''; // Limpiar el mensaje de carga
+
+                apps.forEach(app => {
+                    const card = document.createElement('div');
+                    card.className = 'app-card';
+                    
+                    const name = document.createElement('div');
+                    name.className = 'app-name';
+                    name.textContent = app.name;
+                    
+                    const description = document.createElement('p');
+                    description.className = 'app-description';
+                    description.textContent = app.description;
+                    
+                    const link = document.createElement('a');
+                    link.href = app.path;
+                    link.className = 'btn';
+                    link.textContent = 'Ver App';
+                    
+                    card.appendChild(name);
+                    card.appendChild(description);
+                    card.appendChild(link);
+                    
+                    appList.appendChild(card);
+                });
+            })
+            .catch(error => {
+                console.error('Error al cargar apps.json:', error);
+                document.getElementById('app-list').innerHTML = '<p>Error al cargar aplicaciones.</p>';
+            });
+    </script>
 </body>
 </html>

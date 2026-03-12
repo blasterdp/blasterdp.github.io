@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "buildNumber": 1,
+  "channel": "dev",
+  "notes": "Revisión final",
+  "publishedAt": "2026-03-09T15:43:03Z",
+  "artifacts": [
+    {
+      "type": "apk",
+      "environment": "modern",
+      "url": "releases/reportes-stock-arm64-v8a-release.apk",
+      "sha256": "1cece66d32a12a8550fe39e9bb2e951bf5ea2ddcadefc68aa503555799ae6214",
+      "sizeBytes": 75007804
+    },
+    {
+      "type": "apk",
+      "environment": "legacy",
+      "url": "releases/reportes-stock-armeabi-v7a-release.apk",
+      "sha256": "1cece66d32a12a8550fe39e9bb2e951bf5ea2ddcadefc68aa503555799ae6214",
+      "sizeBytes": 75007804
+    }
+  ]
+}

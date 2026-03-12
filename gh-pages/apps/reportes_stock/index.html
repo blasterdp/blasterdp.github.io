@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vendi - Descarga la App</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #6200ee;
+            --secondary: #03dac6;
+            --bg: #f5f5f7;
+            --card: #ffffff;
+            --text: #1d1d1f;
+        }
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            width: 100%;
+            background: var(--card);
+            padding: 40px;
+            border-radius: 24px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+            text-align: center;
+        }
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+            background: linear-gradient(45deg, var(--primary), var(--secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        p {
+            font-size: 1.1rem;
+            color: #6e6e73;
+            margin-bottom: 30px;
+        }
+        .version-box {
+            background: #fdfdfd;
+            border: 1px solid #eeeff2;
+            padding: 20px;
+            border-radius: 16px;
+            margin-bottom: 20px;
+            transition: transform 0.2s;
+        }
+        .version-box:hover {
+            transform: translateY(-5px);
+            border-color: var(--primary);
+        }
+        .btn {
+            display: inline-block;
+            background: var(--primary);
+            color: white;
+            padding: 14px 28px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: bold;
+            margin-top: 15px;
+            transition: opacity 0.2s;
+        }
+        .btn-dev {
+            background: #333;
+        }
+        .btn-modern {
+            background: #2e7d32; /* Green for modern */
+        }
+        .btn-legacy {
+            background: #f57c00; /* Orange for legacy */
+        }
+        .badge {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .badge-main { background: #e3f2fd; color: #1976d2; }
+        .badge-dev { background: #fff3e0; color: #f57c00; }
+        .footer {
+            margin-top: 40px;
+            font-size: 0.9rem;
+            color: #86868b;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Reportes Stock</h1>
+        <p>Gestión de Productos y cuadres inteligente para tu negocio.</p>
+        
+        <div id="version-info" class="version-box">
+            <span class="badge badge-dev">DESARROLLO</span>
+            <h3>Versión Actual</h3>
+            <p>Incluye las últimas mejoras. Puede ser inestable.</p>
+            <!-- Las descargas se cargarán dinámicamente aquí -->
+            <p>Cargando descargas...</p>
+        </div>
+    </div>
+    <div class="footer">
+        © 2026 RepostesStock. Desarrollado por BasterDP.
+    </div>
+
+    <script>
+        function getAppPath() {
+            const path = window.location.pathname;
+            // Remove leading slash and split
+            const parts = path.split('/').filter(p => p);
+            // Construct app path (e.g., "apps/vendi/")
+            if (parts.length >= 2 && parts[0] === 'gh-pages' && parts[1] === 'apps') {
+                // For github pages, path might start with /gh-pages/ or just /
+                // Let's try to find "apps/" in the path
+                const appsIndex = parts.indexOf('apps');
+                if (appsIndex !== -1 && parts.length > appsIndex + 1) {
+                    return 'apps/' + parts[appsIndex + 1] + '/';
+                }
+            }
+            // Fallback for local testing or different structure
+            // Try to find 'apps' in the path
+            const pathMatch = path.match(/\/apps\/([^\/]+)\//);
+            if (pathMatch) {
+                return 'apps/' + pathMatch[1] + '/';
+            }
+            return null;
+        }
+
+        const appPath = getAppPath();
+
+        if (appPath) {
+            // Load app metadata from root apps.json
+            fetch('../../apps.json')
+                .then(response => response.json())
+                .then(apps => {
+                    const app = apps.find(a => a.path === appPath);
+                    if (app) {
+                        document.title = `${app.name} - Descarga la App`;
+                        document.querySelector('h1').textContent = app.name;
+                        document.querySelector('p').textContent = app.description;
+                        
+                        // Update footer
+                        document.querySelector('.footer').innerHTML = `© 2026 ${app.name} App. Desarrollado por BasterDP.`;
+                    }
+                    
+                    // Load version info
+                    return fetch('version.json');
+                })
+                .then(response => response.json())
+                .then(data => {
+                    const versionInfo = document.getElementById('version-info');
+                    versionInfo.innerHTML = ''; // Limpiar el mensaje de carga
+
+                    // Título y notas
+                    const title = document.createElement('h3');
+                    title.textContent = `Versión ${data.version} (${data.channel})`;
+                    versionInfo.appendChild(title);
+
+                    const notes = document.createElement('p');
+                    notes.textContent = data.notes;
+                    versionInfo.appendChild(notes);
+
+                    // Artifacts (descargas)
+                    if (data.artifacts && data.artifacts.length > 0) {
+                        data.artifacts.forEach(artifact => {
+                            const btn = document.createElement('a');
+                            btn.href = artifact.url;
+                            btn.className = 'btn';
+                            
+                            let btnText = 'Descargar APK';
+                            if (artifact.environment === 'modern') {
+                                btn.classList.add('btn-modern');
+                                btnText += ' (Moderno)';
+                            } else if (artifact.environment === 'legacy') {
+                                btn.classList.add('btn-legacy');
+                                btnText += ' (Legacy)';
+                            }
+                            
+                            btn.textContent = btnText;
+                            versionInfo.appendChild(btn);
+                            versionInfo.appendChild(document.createElement('br')); // Salto de línea entre botones
+                        });
+                    } else {
+                        // Retrocompatibilidad con estructura antigua
+                        if (data.url) {
+                            const btn = document.createElement('a');
+                            btn.href = data.url;
+                            btn.className = 'btn';
+                            btn.textContent = 'Descargar APK';
+                            versionInfo.appendChild(btn);
+                        }
+                    }
+                })
+                .catch(error => {
+                    console.error('Error loading data:', error);
+                    document.getElementById('version-info').innerHTML = '<p>Error al cargar información.</p>';
+                });
+        } else {
+            console.error('Could not determine app path');
+            document.getElementById('version-info').innerHTML = '<p>Error de configuración.</p>';
+        }
+    </script>
+</body>
+</html>
