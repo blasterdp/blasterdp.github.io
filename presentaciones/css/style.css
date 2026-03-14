@@ -127,8 +127,24 @@ header h1 {
 #slideshow {
     position: relative;
     width: 100%;
-    height: 70vh;
+    /* ocupa todo el alto disponible del modal */
+    height: 100%;
     overflow: hidden;
+    touch-action: pan-y;
+}
+
+/* Contenedor del slideshow: deja que #slideshow use el espacio completo */
+#slideshow-container {
+    position: relative;
+    width: 100%;
+    height: 96vh;
+}
+
+/* En pantallas móviles usamos unidades dinámicas para evitar el “salto” por la barra del navegador */
+@supports (height: 100dvh) {
+    #slideshow-container {
+        height: 96dvh;
+    }
 }
 
 .slide {
@@ -149,27 +165,34 @@ header h1 {
 }
 
 .slide img {
-    max-width: 100%;
-    max-height: 100%;
+    width: 100%;
+    height: 100%;
     object-fit: contain;
+    user-select: none;
+    -webkit-user-drag: none;
 }
 
 /* Controles del slideshow */
 .controls {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 15px;
-    background: #1a1a1a;
+    padding: 10px 12px;
+    background: linear-gradient(to top, rgba(0,0,0,0.7), rgba(0,0,0,0));
     color: white;
+    z-index: 5;
 }
 
 .controls button {
-    background: #4a6fa5;
+    background: rgba(74, 111, 165, 0.95);
     color: white;
     border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
+    padding: 10px 14px;
+    border-radius: 10px;
     cursor: pointer;
     font-size: 16px;
     transition: background 0.3s;
@@ -193,17 +216,24 @@ header h1 {
     .presentations-grid {
         grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
     }
-    
-    #slideshow {
-        height: 60vh;
+
+    /* En móvil: el slide debe ser pantalla completa */
+    #slideshow-container {
+        height: 100vh;
     }
-    
+
+    @supports (height: 100dvh) {
+        #slideshow-container {
+            height: 100dvh;
+        }
+    }
+
+    /*
+      MÓVIL: maximizar lectura.
+      - Eliminamos completamente los controles (botones + contador) para que no tapen texto.
+      - La navegación queda solo por swipe (izq/der) y teclado en desktop.
+    */
     .controls {
-        flex-direction: column;
-        gap: 10px;
-    }
-    
-    .controls button {
-        width: 100%;
+        display: none !important;
     }
 }

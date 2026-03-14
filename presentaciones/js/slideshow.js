@@ -125,18 +125,19 @@ document.addEventListener('keydown', (e) => {
 let touchStartX = 0;
 let touchEndX = 0;
 
+
 slideshowContainer.addEventListener('touchstart', (e) => {
     touchStartX = e.changedTouches[0].screenX;
-}, false);
+}, { passive: true });
 
 slideshowContainer.addEventListener('touchend', (e) => {
     touchEndX = e.changedTouches[0].screenX;
     handleSwipe();
-}, false);
+}, { passive: true });
 
 function handleSwipe() {
     const swipeThreshold = 50; // Mínimo de píxeles para considerar un deslizamiento
-    
+
     if (touchStartX - touchEndX > swipeThreshold) {
         // Deslizamiento hacia la izquierda - Siguiente diapositiva
         nextSlide();
