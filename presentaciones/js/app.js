@@ -1,6 +1,13 @@
 // Configuración de las presentaciones disponibles
 const presentations = [
     {
+        id: 'el_mesias_revelado_en_el_mishkan',
+        title: 'El Mesías Revelado en el Mishkán',
+        description: 'Estudio bíblico de la parashá Vayakhel',
+        cover: 'slides/el_mesias_revelado_en_el_mishkan/01.webp',
+        slides: Array.from({length: 14}, (_, i) => `slides/el_mesias_revelado_en_el_mishkan/${String(i + 1).padStart(2, '0')}.webp`)
+    },
+    {
         id: 'ki-tiza',
         title: 'Ki Tiza',
         description: 'Estudio bíblico de la parashá Ki Tiza',
