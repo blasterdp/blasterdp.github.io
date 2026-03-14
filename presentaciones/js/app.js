@@ -1,6 +1,13 @@
 // Configuración de las presentaciones disponibles
 const presentations = [
     {
+        id: 'la_profecía_de_las_12_tribus',
+        title: 'La Profecía de las 12 Tribus',
+        description: 'Estudio bíblico de las 12 tribus.',
+        cover: 'slides/la_profecía_de_las_12_tribus/01.webp',
+        slides: Array.from({length: 14}, (_, i) => `slides/la_profecía_de_las_12_tribus/${String(i + 1).padStart(2, '0')}.webp`)
+    },
+    {
         id: 'el_mesias_revelado_en_el_mishkan',
         title: 'El Mesías Revelado en el Mishkán',
         description: 'Estudio bíblico de la parashá Vayakhel',
