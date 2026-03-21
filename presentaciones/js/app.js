@@ -1,6 +1,13 @@
 // Configuración de las presentaciones disponibles
 const presentations = [
     {
+        id: 'pekudei',
+        title: 'El Plan Divino',
+        description: 'Estudio bíblico sobre el Plan divino en el Mishkan.',
+        cover: 'slides/pekudei/01.webp',
+        slides: Array.from({length: 14}, (_, i) => `slides/pekudei/${String(i + 1).padStart(2, '0')}.webp`)
+    },
+    {
         id: 'la_profecía_de_las_12_tribus',
         title: 'La Profecía de las 12 Tribus',
         description: 'Estudio bíblico de las 12 tribus.',
