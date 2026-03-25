@@ -73,6 +73,7 @@ function renderProducts() {
 
     products.forEach(product => {
         const cat = menuData.categories.find(c => c.id === product.category);
+        const catIcon = cat ? cat.icon : '🍽️';
         const card = document.createElement('div');
         card.className = `product-card ${viewMode}-item`;
         const imgSrc = product.image || '';
@@ -80,9 +81,9 @@ function renderProducts() {
         const hasImage = imgSrc && imgSrc !== '';
         card.innerHTML = `
             <div class="product-image-container">
-                ${hasImage 
-                    ? `<img src="${imgSrc}" alt="${imgAlt}" class="product-card-img" loading="lazy" onerror="this.parentElement.innerHTML='<span class=\'placeholder-icon\'>🍽️</span>'">`
-                    : `<span class="placeholder-icon">🍽️</span>`
+                ${hasImage
+                    ? `<img src="${imgSrc}" alt="${imgAlt}" class="product-card-img" loading="lazy" onerror="this.parentElement.innerHTML='<span class=\\'placeholder-icon\\'>${catIcon}</span>'">`
+                    : `<span class="placeholder-icon">${catIcon}</span>`
                 }
             </div>
             <div class="product-info">
@@ -324,14 +325,17 @@ function buildWizardTabs() {
 
     panels.innerHTML = menuData.categories.map(cat => {
         const products = menuData.products.filter(p => p.category === cat.id);
+        const catIcon = cat.icon;
         return `
             <div class="wiz-panel hidden" id="wizpanel-${cat.id}">
                 <div class="wiz-products">
-                    ${products.map(p => `
+                    ${products.map(p => {
+                        const hasImage = p.image && p.image.trim() !== '';
+                        return `
                         <div class="wiz-product-row" id="wizrow-${p.id}" onclick="toggleProductDesc(${p.id})">
-                            ${p.image
-                                ? `<img src="${p.image}" alt="${p.name}" class="wiz-product-img" loading="lazy" onerror="this.outerHTML='<div class=\'wiz-product-icon\'><span>${cat.icon}</span></div>'">`
-                                : `<div class="wiz-product-icon"><span>${cat.icon}</span></div>`
+                            ${hasImage
+                                ? `<img src="${p.image}" alt="${p.name}" class="wiz-product-img" loading="lazy" onerror="handleWizImgError(this, '${catIcon}')">`
+                                : `<div class="wiz-product-icon"><span>${catIcon}</span></div>`
                             }
                             <div class="wiz-product-info">
                                 <span class="wiz-product-name">${p.name}</span>
@@ -344,11 +348,19 @@ function buildWizardTabs() {
                                 <button class="wiz-qty-btn wiz-plus" onclick="wizChangeQty(${p.id}, 1)">+</button>
                             </div>
                         </div>
-                    `).join('')}
+                    `;
+                    }).join('')}
                 </div>
             </div>
         `;
     }).join('');
+}
+
+function handleWizImgError(img, icon) {
+    const iconDiv = document.createElement('div');
+    iconDiv.className = 'wiz-product-icon';
+    iconDiv.innerHTML = `<span>${icon}</span>`;
+    img.replaceWith(iconDiv);
 }
 
 function toggleProductDesc(productId) {
