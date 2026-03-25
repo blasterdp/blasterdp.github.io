@@ -1,0 +1,547 @@
+{
+    "restaurant": {
+        "name": "Picantico",
+        "description": "Bar Cafetería con alma mexicana",
+        "address": "Centro de la ciudad",
+        "opening_hours": "8:00 AM - 11:00 PM",
+        "whatsapp_numbers": [
+            "+5350000000"
+        ],
+        "currency": "CUP",
+        "logo": "images/logo.webp"
+    },
+    "categories": [
+        {
+            "id": "entrantes",
+            "name": "Entrantes",
+            "icon": "🥗"
+        },
+        {
+            "id": "carnes",
+            "name": "Carnes",
+            "icon": "🥩"
+        },
+        {
+            "id": "aves",
+            "name": "Aves",
+            "icon": "🍗"
+        },
+        {
+            "id": "mariscos",
+            "name": "Mariscos",
+            "icon": "🦐"
+        },
+        {
+            "id": "pastas",
+            "name": "Pastas",
+            "icon": "🍝"
+        },
+        {
+            "id": "arroz",
+            "name": "Arroz y Congelados",
+            "icon": "🍚"
+        },
+        {
+            "id": "bebidas",
+            "name": "Bebidas",
+            "icon": "🍹"
+        },
+        {
+            "id": "cocteles",
+            "name": "Coctelería",
+            "icon": "🍸"
+        },
+        {
+            "id": "postres",
+            "name": "Postres",
+            "icon": "🍰"
+        },
+        {
+            "id": "ofertas",
+            "name": "Ofertas",
+            "icon": "🔥"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "category": "entrantes",
+            "name": "Bruschettas de la Casa",
+            "description": "Pan tostado artesanal con tomate fresco, albahaca olorosa y aceite de oliva virgen extra.",
+            "price": 450,
+            "image": "images/bruschettas.webp"
+        },
+        {
+            "id": 2,
+            "category": "entrantes",
+            "name": "Tabla de Embutidos",
+            "description": "Selección de embutidos artesanales: chorizo español, jamón serrano y salchichón premium.",
+            "price": 850,
+            "image": "images/embutidos.webp"
+        },
+        {
+            "id": 3,
+            "category": "entrantes",
+            "name": "Ensalada César",
+            "description": "Lechugas romanas frescas, crutones dorados, queso parmesano y salsa César.",
+            "price": 600,
+            "image": "images/ensalada.webp"
+        },
+        {
+            "id": 4,
+            "category": "entrantes",
+            "name": "Crema de Calabaza",
+            "description": "Sopa cremosa de calabaza asada con jengibre y especias.",
+            "price": 350,
+            "image": "images/crema.webp"
+        },
+        {
+            "id": 5,
+            "category": "entrantes",
+            "name": "Croquetas de Jamón",
+            "description": "6 croquetas caseras fritas, rellenas de jamón serrano en salsa bechamel.",
+            "price": 400,
+            "image": "images/croquetas.webp"
+        },
+        {
+            "id": 6,
+            "category": "entrantes",
+            "name": "Carpaccio de Res",
+            "description": "Finas láminas de res marinadas en aceite de oliva, limón y finas hierbas.",
+            "price": 750,
+            "image": "images/carpaccio.webp"
+        },
+        {
+            "id": 7,
+            "category": "entrantes",
+            "name": "Calamares Fritos",
+            "description": "Anillos de calamar empanizados y fritos hasta quedar dorados.",
+            "price": 550,
+            "image": "images/calamares.webp"
+        },
+        {
+            "id": 8,
+            "category": "carnes",
+            "name": "Ropa Vieja Gourmet",
+            "description": "Carne de res deshilachada en salsa criolla tradicional con arroz y plátanos.",
+            "price": 1200,
+            "image": "images/ropa_vieja.webp"
+        },
+        {
+            "id": 9,
+            "category": "carnes",
+            "name": "Bistec a la Parrilla",
+            "description": "Jugoso bistec de res a la plancha con huevos fritos y arroz.",
+            "price": 1100,
+            "image": "images/bistec.webp"
+        },
+        {
+            "id": 10,
+            "category": "carnes",
+            "name": "Palomilla",
+            "description": "Carne de res a la parrilla estilo cubano, marinada en ajo y aceite.",
+            "price": 1150,
+            "image": "images/palomilla.webp"
+        },
+        {
+            "id": 11,
+            "category": "carnes",
+            "name": "Cerdo Asado",
+            "description": "Pierna de cerdo asada lentamente con mojo criollo.",
+            "price": 1300,
+            "image": "images/cerdo.webp"
+        },
+        {
+            "id": 12,
+            "category": "carnes",
+            "name": "Costillas BBQ",
+            "description": "Costillas de cerdo glaseadas en salsa BBQ ahumada.",
+            "price": 1400,
+            "image": "images/costillas.webp"
+        },
+        {
+            "id": 13,
+            "category": "carnes",
+            "name": "Filete de Res",
+            "description": "Tentáculo de res a la parrilla con papas al horno y salsa de vino tinto.",
+            "price": 1800,
+            "image": "images/filete.webp"
+        },
+        {
+            "id": 14,
+            "category": "aves",
+            "name": "Pollo Asado",
+            "description": "Medio pollo asado con hierbas provenzales y limón.",
+            "price": 950,
+            "image": "images/pollo.webp"
+        },
+        {
+            "id": 15,
+            "category": "aves",
+            "name": "Pollo a la Naranja",
+            "description": "Pechuga de pollo en salsa agridulce de naranja con miel y jengibre.",
+            "price": 1000,
+            "image": "images/pollo_naranja.webp"
+        },
+        {
+            "id": 16,
+            "category": "aves",
+            "name": "Pollo al Curry",
+            "description": "Trozos de pollo en salsa cremosa de curry con leche de coco.",
+            "price": 1050,
+            "image": "images/pollo_curry.webp"
+        },
+        {
+            "id": 17,
+            "category": "aves",
+            "name": "Ensalada de Pollo",
+            "description": "Pechuga de pollo a la plancha sobre lechugas variadas y aguacate.",
+            "price": 750,
+            "image": "images/ensalada_pollo.webp"
+        },
+        {
+            "id": 18,
+            "category": "aves",
+            "name": "Alitas de Pollo",
+            "description": "Alitas marinadas en salsa buffalo picantes o BBQ.",
+            "price": 650,
+            "image": "images/alitas.webp"
+        },
+        {
+            "id": 19,
+            "category": "mariscos",
+            "name": "Paella de Mariscos",
+            "description": "Arroz saffronizado con camarones, mejillones y calamares.",
+            "price": 1600,
+            "image": "images/paella.webp"
+        },
+        {
+            "id": 20,
+            "category": "mariscos",
+            "name": "Camarones al Ajillo",
+            "description": "Camarones salteados en aceite de oliva con ajo y perejil.",
+            "price": 1400,
+            "image": "images/camarones.webp"
+        },
+        {
+            "id": 21,
+            "category": "mariscos",
+            "name": "Langosta a la Thermidor",
+            "description": "Langosta asada con salsa cremosa y queso gruyère gratinado.",
+            "price": 2500,
+            "image": "images/langosta.webp"
+        },
+        {
+            "id": 22,
+            "category": "mariscos",
+            "name": "Pescado Frito Entero",
+            "description": "Pescado fresco entero frito hasta quedar crujiente.",
+            "price": 1100,
+            "image": "images/pescado.webp"
+        },
+        {
+            "id": 23,
+            "category": "mariscos",
+            "name": "Ceviche de Pescado",
+            "description": "Dados de pescado fresco marinados en leche de tigre de lima.",
+            "price": 850,
+            "image": "images/ceviche.webp"
+        },
+        {
+            "id": 24,
+            "category": "pastas",
+            "name": "Espaguetis a la Bolognesa",
+            "description": "Pasta fresca al dente con ragú de carne de res y parmesano.",
+            "price": 800,
+            "image": "images/bolognesa.webp"
+        },
+        {
+            "id": 25,
+            "category": "pastas",
+            "name": "Fettuccine Carbonara",
+            "description": "Fettuccine en salsa cremosa de yolk y pecorino romano.",
+            "price": 850,
+            "image": "images/carbonara.webp"
+        },
+        {
+            "id": 26,
+            "category": "pastas",
+            "name": "Raviolis de Ricotta",
+            "description": "Caseros raviolis rellenos de ricotta y espinacas.",
+            "price": 900,
+            "image": "images/raviolis.webp"
+        },
+        {
+            "id": 27,
+            "category": "pastas",
+            "name": "Lasagna de Carne",
+            "description": "Capas de pasta fresca, ragú bolognesa y queso mozzarella.",
+            "price": 950,
+            "image": "images/lasagna.webp"
+        },
+        {
+            "id": 28,
+            "category": "arroz",
+            "name": "Arroz con Vegetales",
+            "description": "Arroz blanco con vegetales frescos salteados.",
+            "price": 450,
+            "image": "images/arroz.webp"
+        },
+        {
+            "id": 29,
+            "category": "arroz",
+            "name": "Arroz Frito",
+            "description": "Arroz salteado al wok con huevo, vegetales y jamón.",
+            "price": 550,
+            "image": "images/arroz_frito.webp"
+        },
+        {
+            "id": 30,
+            "category": "arroz",
+            "name": "Arroz Pilaff",
+            "description": "Arroz dorado en mantequilla con caldo de pollo aromático.",
+            "price": 400,
+            "image": "images/pilaff.webp"
+        },
+        {
+            "id": 31,
+            "category": "arroz",
+            "name": "Congrí Oriental",
+            "description": "El clásico cubano: arroz con frijoles colorados.",
+            "price": 450,
+            "image": "images/congri.webp"
+        },
+        {
+            "id": 32,
+            "category": "arroz",
+            "name": "Arroz Amarillo",
+            "description": "Arroz cocido con azafrán y especias.",
+            "price": 350,
+            "image": "images/arroz_amarillo.webp"
+        },
+        {
+            "id": 33,
+            "category": "arroz",
+            "name": "Moros y Cristianos",
+            "description": "Arroz con frijoles negros cubanos.",
+            "price": 450,
+            "image": "images/moros.webp"
+        },
+        {
+            "id": 34,
+            "category": "bebidas",
+            "name": "Limonada Natural",
+            "description": "Limones recién exprimidos con azúcar y agua pura.",
+            "price": 250,
+            "image": "images/limonada.webp"
+        },
+        {
+            "id": 35,
+            "category": "bebidas",
+            "name": "Limonada Frapé",
+            "description": "Limonada natural congelada con hierbabuena.",
+            "price": 350,
+            "image": "images/frape.webp"
+        },
+        {
+            "id": 36,
+            "category": "bebidas",
+            "name": "Jugo de Naranja",
+            "description": "Naranjas recién exprimidas, sin añadidos.",
+            "price": 300,
+            "image": "images/jugo.webp"
+        },
+        {
+            "id": 37,
+            "category": "bebidas",
+            "name": "Batido de Mango",
+            "description": "Mango maduro licuado con leche y vainilla.",
+            "price": 350,
+            "image": "images/batido.webp"
+        },
+        {
+            "id": 38,
+            "category": "bebidas",
+            "name": "Té Helado",
+            "description": "Té negro infusionado con limón y hielo.",
+            "price": 200,
+            "image": "images/te.webp"
+        },
+        {
+            "id": 39,
+            "category": "bebidas",
+            "name": "Café Cubano",
+            "description": "Café cubano expreso endulzado al punto.",
+            "price": 100,
+            "image": "images/cafe.webp"
+        },
+        {
+            "id": 40,
+            "category": "bebidas",
+            "name": "Café con Leche",
+            "description": "Mitad café cubano, mitad leche caliente.",
+            "price": 150,
+            "image": "images/cafe_leche.webp"
+        },
+        {
+            "id": 41,
+            "category": "cocteles",
+            "name": "Mojito Clásico",
+            "description": "Ron Havana Club, hierbabuena fresca, azúcar y limón.",
+            "price": 500,
+            "image": "images/mojito.webp"
+        },
+        {
+            "id": 42,
+            "category": "cocteles",
+            "name": "Daiquirí",
+            "description": "Ron blanco con jugo de lima natural y azúcar.",
+            "price": 450,
+            "image": "images/daiquiri.webp"
+        },
+        {
+            "id": 43,
+            "category": "cocteles",
+            "name": "Cuba Libre",
+            "description": "Ron con Coca-Cola y un chorrito de limón.",
+            "price": 400,
+            "image": "images/cuba_libre.webp"
+        },
+        {
+            "id": 44,
+            "category": "cocteles",
+            "name": "Margarita",
+            "description": "Tequila, triple sec y jugo de lima con sal.",
+            "price": 550,
+            "image": "images/margarita.webp"
+        },
+        {
+            "id": 45,
+            "category": "cocteles",
+            "name": "Piña Colada",
+            "description": "Ron, crema de coco y jugo de piña.",
+            "price": 500,
+            "image": "images/pina_colada.webp"
+        },
+        {
+            "id": 46,
+            "category": "cocteles",
+            "name": "Caipirinha",
+            "description": "Cachaça brasileira con lima y azúcar.",
+            "price": 450,
+            "image": "images/caipirinha.webp"
+        },
+        {
+            "id": 47,
+            "category": "cocteles",
+            "name": "Negroni",
+            "description": "Gin, Campari y vermut rojo.",
+            "price": 550,
+            "image": "images/negroni.webp"
+        },
+        {
+            "id": 48,
+            "category": "cocteles",
+            "name": "Old Fashioned",
+            "description": "Whisky bourbon con bitters, azúcar y naranja.",
+            "price": 600,
+            "image": "images/old_fashioned.webp"
+        },
+        {
+            "id": 49,
+            "category": "postres",
+            "name": "Flan Casero",
+            "description": "Flan de huevo tradicional con caramelo dorado.",
+            "price": 300,
+            "image": "images/flan.webp"
+        },
+        {
+            "id": 50,
+            "category": "postres",
+            "name": "Tres Leches",
+            "description": "Bizcocho bañado en tres tipos de leche.",
+            "price": 400,
+            "image": "images/tres_leches.webp"
+        },
+        {
+            "id": 51,
+            "category": "postres",
+            "name": "Tarta de Chocolate",
+            "description": "Tarta de chocolate fundido con corazón de trufa.",
+            "price": 450,
+            "image": "images/tarta_chocolate.webp"
+        },
+        {
+            "id": 52,
+            "category": "postres",
+            "name": "Helado Artesanal",
+            "description": "Bola de helado artesanal de sabores variados.",
+            "price": 250,
+            "image": "images/helado.webp"
+        },
+        {
+            "id": 53,
+            "category": "postres",
+            "name": "Brownie con Helado",
+            "description": "Brownie tibio de chocolate con helado de vainilla.",
+            "price": 400,
+            "image": "images/brownie.webp"
+        },
+        {
+            "id": 54,
+            "category": "postres",
+            "name": "Ensalada de Frutas",
+            "description": "Frutas frescas de estación cortadas en dados.",
+            "price": 300,
+            "image": "images/frutas.webp"
+        },
+        {
+            "id": 55,
+            "category": "postres",
+            "name": "Cheesecake",
+            "description": "Tarta de queso americana con topping de frutos rojos.",
+            "price": 450,
+            "image": "images/cheesecake.webp"
+        },
+        {
+            "id": 56,
+            "category": "ofertas",
+            "name": "Combo Picantico",
+            "description": "1 Plato fuerte + 1 Mojito por precio especial.",
+            "price": 1500,
+            "image": "images/combo.webp"
+        },
+        {
+            "id": 57,
+            "category": "ofertas",
+            "name": "Menú del Día",
+            "description": "Entrada + Plato principal + Bebida.",
+            "price": 1200,
+            "image": "images/menu_dia.webp"
+        },
+        {
+            "id": 58,
+            "category": "ofertas",
+            "name": "Pizza + Bebida",
+            "description": "Pizza mediana + 1 bebida de 500ml.",
+            "price": 800,
+            "image": "images/pizza.webp"
+        },
+        {
+            "id": 59,
+            "category": "ofertas",
+            "name": "After Office",
+            "description": "2 mojitos + tabla de embutidos. De 4pm a 7pm.",
+            "price": 1400,
+            "image": "images/after_office.webp"
+        },
+        {
+            "id": 60,
+            "category": "ofertas",
+            "name": "Happy Hour",
+            "description": "Todos los cócteles al 2x1. De 6pm a 8pm.",
+            "price": 0,
+            "image": "images/happy_hour.webp"
+        }
+    ]
+}

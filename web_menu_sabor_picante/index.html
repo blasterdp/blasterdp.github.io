@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Picantico - Bar Cafetería</title>
+    <meta name="description" content="Bienvenido a Picantico - Bar Cafetería con alma mexicana">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        /* ── WIZARD MODAL STYLES ── */
+        .wiz-modal{align-items:flex-end;padding:0}
+        .wiz-modal-content{width:100%;max-width:100%;border-radius:24px 24px 0 0;border-bottom:none;display:flex;flex-direction:column;height:90vh;max-height:90vh;min-height:500px;background:var(--bg-dark);animation:slideUpWiz .4s cubic-bezier(.4,0,.2,1)}
+        @keyframes slideUpWiz{from{transform:translateY(100px);opacity:0}to{transform:translateY(0);opacity:1}}
+        @media(min-width:700px){.wiz-modal{align-items:center;padding:20px}.wiz-modal-content{max-width:640px;height:auto;max-height:88vh;border-radius:24px;animation:scaleInWiz .35s cubic-bezier(.4,0,.2,1)}}
+        @keyframes scaleInWiz{from{opacity:0;transform:scale(0.9)}to{opacity:1;transform:scale(1)}}
+        .wiz-tab-bar-wrap{background:linear-gradient(135deg,var(--purple-dark) 0%,var(--bg-dark) 100%);border-bottom:2px solid var(--pink);overflow:hidden;flex-shrink:0}
+        .wiz-tab-bar{display:flex;gap:3px;overflow-x:auto;padding:12px 14px;scrollbar-width:none}
+        .wiz-tab-bar::-webkit-scrollbar{display:none}
+        .wiz-tab{flex-shrink:0;display:flex;flex-direction:column;align-items:center;gap:5px;padding:12px 20px;border-radius:12px;border:2px solid transparent;background:rgba(255,255,255,0.03);color:var(--text-light);cursor:pointer;transition:all .3s;position:relative;font-family:'Poppins',sans-serif;min-width:78px}
+        .wiz-tab:hover{background:rgba(233,84,131,0.15);border-color:var(--pink);transform:translateY(-2px)}
+        .wiz-tab.active{background:linear-gradient(135deg,var(--pink) 0%,var(--orange) 100%);border-color:var(--pink);color:#fff;box-shadow:0 4px 20px rgba(233,84,131,0.4)}
+        .wiz-tab-icon{font-size:1.5rem;line-height:1;filter:drop-shadow(0 2px 4px rgba(0,0,0,0.3))}
+        .wiz-tab-name{font-size:.68rem;letter-spacing:.06em;text-transform:uppercase;font-weight:500;white-space:nowrap;text-shadow:0 1px 2px rgba(0,0,0,0.3)}
+        .wiz-tab-badge{position:absolute;top:4px;right:4px;background:var(--orange);color:#fff;font-size:.58rem;font-weight:700;min-width:18px;height:18px;border-radius:50px;display:flex;align-items:center;justify-content:center;padding:0 4px;line-height:1;box-shadow:0 2px 8px rgba(255,107,53,0.5)}
+        .wiz-tab-badge:not(.hidden){animation:popBadge .3s ease}
+        @keyframes popBadge{from{transform:scale(0)}to{transform:scale(1)}}
+        .wiz-panels-wrap{flex:1;overflow-y:auto;min-height:0;scrollbar-width:thin;scrollbar-color:var(--purple) transparent;background:var(--bg-dark)}
+        .wiz-panel{padding:18px 22px}
+        .wiz-products{display:flex;flex-direction:column;gap:10px}
+        .wiz-product-row{display:flex;align-items:center;gap:14px;padding:12px 16px;border-radius:16px;border:2px solid rgba(255,255,255,0.06);background:linear-gradient(135deg,rgba(107,45,91,0.3) 0%,rgba(26,26,46,0.5) 100%);transition:all .3s}
+        .wiz-product-row:hover{border-color:var(--pink);box-shadow:0 4px 20px rgba(233,84,131,0.15)}
+        .wiz-row-active{border-color:var(--orange)!important;background:linear-gradient(135deg,rgba(255,107,53,0.15) 0%,rgba(107,45,91,0.3) 100%)!important}
+        .wiz-product-img{width:60px;height:60px;object-fit:cover;border-radius:12px;flex-shrink:0;border:2px solid rgba(255,255,255,0.1)}
+        .wiz-product-info{flex:1;display:flex;flex-direction:column;gap:4px;min-width:0}
+        .wiz-product-name{font-family:'Cormorant Garamond',serif;font-size:1.05rem;color:#fff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-shadow:0 1px 2px rgba(0,0,0,0.3)}
+        .wiz-product-price{font-family:'Poppins',sans-serif;font-size:.85rem;color:var(--orange);font-weight:500}
+        .wiz-qty-ctrl{display:flex;align-items:center;gap:10px;flex-shrink:0}
+        .wiz-qty-btn{width:36px;height:36px;border-radius:50%;border:2px solid var(--pink);background:transparent;color:var(--pink);font-size:1.2rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .25s;line-height:1;font-weight:600}
+        .wiz-qty-btn.wiz-plus{background:linear-gradient(135deg,var(--orange) 0%,var(--pink) 100%);border-color:var(--orange);color:#fff;box-shadow:0 4px 15px rgba(255,107,53,0.4)}
+        .wiz-qty-btn.wiz-plus:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(255,107,53,0.6)}
+        .wiz-qty-btn.wiz-minus:hover{border-color:var(--red);color:var(--red);transform:scale(1.1)}
+        .wiz-qty-num{font-family:'Poppins',sans-serif;font-size:1.2rem;min-width:24px;text-align:center;color:var(--gold);font-weight:600}
+        .wiz-cart-footer{flex-shrink:0;border-top:2px solid var(--pink);background:linear-gradient(180deg,var(--bg-dark) 0%,var(--purple-dark) 100%);padding:16px 22px 24px;display:flex;flex-direction:column;gap:12px}
+        .wiz-cart-header-row{display:flex;justify-content:space-between;align-items:center}
+        .wiz-cart-label{font-size:.75rem;text-transform:uppercase;letter-spacing:.12em;color:var(--text-light);font-weight:500;display:flex;align-items:center;gap:8px;font-family:'Poppins',sans-serif}
+        .wiz-cart-label i{color:var(--pink)}
+        .wiz-cart-total{font-family:'Cinzel Decorative',serif;font-size:1.1rem;color:var(--gold);text-shadow:0 2px 10px rgba(212,175,55,0.3)}
+        .wiz-cart-preview{display:flex;flex-wrap:wrap;gap:8px;min-height:32px}
+        .wiz-cart-chip{display:inline-flex;align-items:center;gap:8px;background:linear-gradient(135deg,var(--pink) 0%,var(--purple) 100%);border-radius:50px;padding:5px 12px 5px 14px;font-size:.75rem;color:#fff;animation:chipInWiz .25s ease;box-shadow:0 3px 12px rgba(233,84,131,0.3)}
+        @keyframes chipInWiz{from{transform:scale(0.8);opacity:0}to{transform:scale(1);opacity:1}}
+        .wiz-cart-chip button{background:none;border:none;color:rgba(255,255,255,0.7);cursor:pointer;font-size:.9rem;line-height:1;padding:0;transition:color .2s}
+        .wiz-cart-chip button:hover{color:#fff}
+        .wiz-empty-msg{font-size:.85rem;color:var(--text-muted);font-style:italic;font-family:'Cormorant Garamond',serif}
+        .wiz-confirm-btn{background:linear-gradient(135deg,var(--orange) 0%,var(--pink) 100%);border:none;padding:16px 28px;border-radius:50px;color:#fff;font-family:'Poppins',sans-serif;font-size:.88rem;font-weight:600;letter-spacing:.05em;text-transform:uppercase;cursor:pointer;transition:all .3s;display:flex;align-items:center;justify-content:center;gap:10px;width:100%;box-shadow:0 6px 25px rgba(255,107,53,0.4)}
+        .wiz-confirm-btn:hover{transform:translateY(-2px);box-shadow:0 10px 35px rgba(255,107,53,0.5)}
+        .wiz-progress-bar{padding:14px 20px;background:linear-gradient(90deg,var(--purple-dark) 0%,var(--red-dark) 50%,var(--orange-dark) 100%);border-bottom:1px solid rgba(255,255,255,0.05)}
+        .wiz-progress-text{font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;color:var(--text-light);margin-bottom:10px;font-weight:500}
+        .wiz-progress-dots{display:flex;gap:8px;flex-wrap:wrap}
+        .wiz-progress-dot{width:12px;height:12px;border-radius:50%;background:rgba(255,255,255,0.15);transition:all .35s;position:relative}
+        .wiz-progress-dot::before{content:'';position:absolute;inset:2px;border-radius:50%;background:transparent;transition:all .35s}
+        .wiz-progress-dot.done{background:var(--purple);box-shadow:0 0 10px rgba(155,89,182,0.5)}
+        .wiz-progress-dot.active{background:var(--orange);box-shadow:0 0 15px rgba(255,107,53,0.6);transform:scale(1.2)}
+        .wiz-progress-dot.active::before{background:rgba(255,255,255,0.4)}
+        .wiz-nav-btns{display:flex;gap:12px}
+        .wiz-nav-back{flex:0 0 auto;background:linear-gradient(135deg,var(--purple-dark) 0%,var(--purple) 100%)!important;color:#fff!important;border:2px solid var(--purple)!important;padding:16px 24px!important;border-radius:50px!important;font-family:'Poppins',sans-serif!important;font-size:.82rem!important;font-weight:500!important;cursor:pointer!important;transition:all .3s!important;box-shadow:0 4px 15px rgba(155,89,182,0.3)}
+        .wiz-nav-back:hover{transform:translateY(-2px)!important;box-shadow:0 8px 25px rgba(155,89,182,0.4)!important}
+        .wiz-nav-btn{background:linear-gradient(135deg,var(--orange) 0%,var(--pink) 100%);border:none;padding:16px 28px;border-radius:50px;color:#fff;font-family:'Poppins',sans-serif;font-size:.88rem;font-weight:600;letter-spacing:.05em;text-transform:uppercase;cursor:pointer;transition:all .3s;display:flex;align-items:center;justify-content:center;gap:10px;flex:1;box-shadow:0 6px 25px rgba(255,107,53,0.4)}
+        .wiz-nav-btn:hover{transform:translateY(-2px);box-shadow:0 10px 35px rgba(255,107,53,0.5)}
+        #wizNextBtn{flex:1}
+        .wiz-header{background:linear-gradient(135deg,var(--purple-dark) 0%,var(--red-dark) 100%);border-bottom:2px solid var(--pink)}
+        .wiz-header h2{font-family:'Cinzel Decorative',serif!important;color:var(--gold)!important;text-shadow:0 2px 10px rgba(212,175,55,0.3)}
+        .wiz-header h2 i{color:var(--pink)!important}
+    </style>
+</head>
+<body>
+    <!-- Papel Picado Decoration -->
+    <div class="papel-picado">
+        <div class="picado-piece" style="--color:#E84A5F;--delay:0s"></div>
+        <div class="picado-piece" style="--color:#9B2335;--delay:0.1s"></div>
+        <div class="picado-piece" style="--color:#FF6B35;--delay:0.2s"></div>
+        <div class="picado-piece" style="--color:#F4D35E;--delay:0.3s"></div>
+        <div class="picado-piece" style="--color:#9B2335;--delay:0.4s"></div>
+        <div class="picado-piece" style="--color:#E84A5F;--delay:0.5s"></div>
+        <div class="picado-piece" style="--color:#FF6B35;--delay:0.6s"></div>
+        <div class="picado-piece" style="--color:#F4D35E;--delay:0.7s"></div>
+        <div class="picado-piece" style="--color:#9B2335;--delay:0.8s"></div>
+        <div class="picado-piece" style="--color:#E84A5F;--delay:0.9s"></div>
+    </div>
+
+    <header class="hero">
+        <div class="hero-pattern"></div>
+        <div class="hero-skull-left">
+            <i class="fas fa-skull"></i>
+        </div>
+        <div class="hero-skull-right">
+            <i class="fas fa-skull"></i>
+        </div>
+        <div class="hero-content">
+            <div class="marigold-left">🌼</div>
+            <div class="marigold-right">🌼</div>
+            <h1 id="restaurant-name">Picantico</h1>
+            <p id="restaurant-description">Bar Cafetería con alma mexicana</p>
+            <div class="status-badge" id="openingHours">
+                <i class="fas fa-clock"></i> Abierto: 8:00 AM - 11:00 PM
+            </div>
+        </div>
+    </header>
+
+    <nav class="category-nav" id="categoryNav">
+        <div class="container scroll-x" id="categoryList">
+            <button class="cat-btn active" data-category="all">
+                <i class="fas fa-skull"></i> Todos
+            </button>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="controls-row">
+            <div class="search-container">
+                <i class="fas fa-search"></i>
+                <input type="text" id="searchInput" placeholder="Buscar platillo...">
+            </div>
+            <div class="filter-controls">
+                <select id="sortSelect" class="control-select">
+                    <option value="none">Ordenar...</option>
+                    <option value="price-low">Precio ↑</option>
+                    <option value="price-high">Precio ↓</option>
+                    <option value="name">Nombre A-Z</option>
+                </select>
+                <div class="view-toggles">
+                    <button id="gridBtn" class="view-btn active"><i class="fas fa-th"></i></button>
+                    <button id="listBtn" class="view-btn"><i class="fas fa-list"></i></button>
+                </div>
+            </div>
+        </div>
+        <div class="wizard-header">
+            <button id="startWizard" class="btn-assistant">
+                <i class="fas fa-magic"></i> Asistente de Pedido
+            </button>
+        </div>
+    </div>
+
+    <main class="container">
+        <section id="offersContainer" class="hidden">
+            <h2 class="section-title">
+                <span>🔥</span> Ofertas Especiales
+            </h2>
+            <div class="offers-grid" id="offersGrid"></div>
+        </section>
+        <section id="menuSection" class="hidden">
+            <h2 class="section-title" id="currentCategoryTitle">
+                <span>🍽️</span> Menú Completo
+            </h2>
+            <div class="products-grid" id="productsGrid"></div>
+        </section>
+    </main>
+
+    <div id="cartButton" class="cart-floating-btn hide-cart">
+        <div class="cart-info">
+            <span id="cartCount">0</span>
+            <i class="fas fa-shopping-bag"></i>
+        </div>
+        <div class="cart-total-info">
+            <span class="label">Total</span>
+            <span id="cartTotalPrice">$0</span>
+        </div>
+    </div>
+
+    <div id="overlay" class="overlay"></div>
+
+    <!-- ASISTENTE DE PEDIDO -->
+    <div id="wizardModal" class="modal wiz-modal">
+        <div class="modal-content wiz-modal-content">
+            <div class="modal-header wiz-header">
+                <h2><i class="fas fa-magic"></i> Asistente de Pedido</h2>
+                <button class="modal-close" onclick="closeWizard()">✕</button>
+            </div>
+            <div class="wiz-progress-bar">
+                <div class="wiz-progress-text">
+                    <span id="wizProgressLabel">Categoría <span id="wizCurrentCat">1</span> de <span id="wizTotalCats">0</span></span>
+                </div>
+                <div class="wiz-progress-dots" id="wizProgressDots"></div>
+            </div>
+            <div class="wiz-tab-bar-wrap">
+                <div class="wiz-tab-bar" id="wizTabBar"></div>
+            </div>
+            <div class="wiz-panels-wrap" id="wizPanels"></div>
+            <div class="wiz-cart-footer" id="wizCartFooter">
+                <div class="wiz-cart-header-row">
+                    <span class="wiz-cart-label"><i class="fas fa-shopping-bag"></i> Tu selección <span id="wizCartCountBadge"></span></span>
+                    <span class="wiz-cart-total" id="wizCartTotal"></span>
+                </div>
+                <div class="wiz-cart-preview" id="wizCartPreview">
+                    <span class="wiz-empty-msg">Aún no has añadido nada</span>
+                </div>
+                <div class="wiz-nav-btns">
+                    <button class="wiz-nav-back hidden" id="wizBackBtn" onclick="wizardPrevCategory()">
+                        <i class="fas fa-arrow-left"></i> Anterior
+                    </button>
+                    <button class="wiz-confirm-btn" id="wizNextBtn" onclick="wizardNextCategory()">
+                        <span id="wizNextBtnText">Siguiente <i class="fas fa-arrow-right"></i></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Resumen final -->
+    <div id="summaryModal" class="modal">
+        <div class="modal-content summary-view">
+            <div class="summary-header-pattern"></div>
+            <div class="modal-header summary-modal-header">
+                <h2><i class="fas fa-scroll"></i> Tu Pedido</h2>
+                <button class="modal-close" onclick="closeSummary()">✕</button>
+            </div>
+            <div id="summaryContent" class="summary-body"></div>
+            <div class="summary-actions">
+                <button class="btn-cancel" onclick="cancelOrder()">
+                    <i class="fas fa-times-circle"></i> Cancelar nota
+                </button>
+                <button class="btn-share" onclick="shareOrder()">
+                    <i class="fas fa-share-alt"></i> Compartir / Copiar
+                </button>
+                <p class="summary-tip">Muestra este resumen al bartender para confirmar tu orden 💀</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
