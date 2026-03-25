@@ -329,7 +329,7 @@ function buildWizardTabs() {
                 <div class="wiz-products">
                     ${products.map(p => `
                         <div class="wiz-product-row" id="wizrow-${p.id}" onclick="toggleProductDesc(${p.id})">
-                            ${p.image 
+                            ${p.image
                                 ? `<img src="${p.image}" alt="${p.name}" class="wiz-product-img" loading="lazy" onerror="this.outerHTML='<div class=\'wiz-product-icon\'><span>${cat.icon}</span></div>'">`
                                 : `<div class="wiz-product-icon"><span>${cat.icon}</span></div>`
                             }
@@ -338,10 +338,10 @@ function buildWizardTabs() {
                                 <span class="wiz-product-desc hidden" id="wizdesc-${p.id}">${p.description}</span>
                             </div>
                             <div class="wiz-product-price">$${p.price.toLocaleString()}</div>
-                            <div class="wiz-qty-ctrl" id="wizqty-${p.id}">
-                                <button class="wiz-qty-btn wiz-minus hidden" onclick="event.stopPropagation(); wizChangeQty(${p.id}, -1)">−</button>
+                            <div class="wiz-qty-ctrl" id="wizqty-${p.id}" onclick="event.stopPropagation()">
+                                <button class="wiz-qty-btn wiz-minus hidden" onclick="wizChangeQty(${p.id}, -1)">−</button>
                                 <span class="wiz-qty-num hidden" id="wiznum-${p.id}">0</span>
-                                <button class="wiz-qty-btn wiz-plus" onclick="event.stopPropagation(); wizChangeQty(${p.id}, 1)">+</button>
+                                <button class="wiz-qty-btn wiz-plus" onclick="wizChangeQty(${p.id}, 1)">+</button>
                             </div>
                         </div>
                     `).join('')}

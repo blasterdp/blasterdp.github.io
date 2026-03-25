@@ -31,14 +31,16 @@
         .wiz-panels-wrap{flex:1;overflow-y:auto;min-height:0;scrollbar-width:thin;scrollbar-color:var(--purple) transparent;background:var(--bg-dark)}
         .wiz-panel{padding:18px 22px}
         .wiz-products{display:flex;flex-direction:column;gap:10px}
-        .wiz-product-row{display:flex;align-items:center;gap:14px;padding:12px 16px;border-radius:16px;border:2px solid rgba(255,255,255,0.06);background:linear-gradient(135deg,rgba(107,45,91,0.3) 0%,rgba(26,26,46,0.5) 100%);transition:all .3s}
+        .wiz-product-row{display:grid;grid-template-columns:60px 1fr auto;grid-template-rows:auto auto;align-items:center;gap:10px;padding:12px 16px;border-radius:16px;border:2px solid rgba(255,255,255,0.06);background:linear-gradient(135deg,rgba(107,45,91,0.3) 0%,rgba(26,26,46,0.5) 100%);transition:all .3s}
         .wiz-product-row:hover{border-color:var(--pink);box-shadow:0 4px 20px rgba(233,84,131,0.15)}
         .wiz-row-active{border-color:var(--orange)!important;background:linear-gradient(135deg,rgba(255,107,53,0.15) 0%,rgba(107,45,91,0.3) 100%)!important}
-        .wiz-product-img{width:60px;height:60px;object-fit:cover;border-radius:12px;flex-shrink:0;border:2px solid rgba(255,255,255,0.1)}
-        .wiz-product-info{flex:1;display:flex;flex-direction:column;gap:4px;min-width:0}
-        .wiz-product-name{font-family:'Cormorant Garamond',serif;font-size:1.05rem;color:#fff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-shadow:0 1px 2px rgba(0,0,0,0.3)}
-        .wiz-product-price{font-family:'Poppins',sans-serif;font-size:.85rem;color:var(--orange);font-weight:500}
-        .wiz-qty-ctrl{display:flex;align-items:center;gap:10px;flex-shrink:0}
+        .wiz-product-img{width:60px;height:60px;object-fit:cover;border-radius:12px;grid-row:1/3;grid-column:1;flex-shrink:0;border:2px solid rgba(255,255,255,0.1)}
+        .wiz-product-icon{grid-row:1/3;grid-column:1;display:flex;align-items:center;justify-content:center;font-size:2.5rem}
+        .wiz-product-info{grid-row:1;grid-column:2;min-width:0;display:flex;flex-direction:column;gap:4px}
+        .wiz-product-name{font-family:'Cormorant Garamond',serif;font-size:1.05rem;color:#fff;font-weight:600;line-height:1.3;text-shadow:0 1px 2px rgba(0,0,0,0.3);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+        .wiz-product-desc{font-size:.8rem;color:var(--text-muted);line-height:1.4}
+        .wiz-product-price{grid-row:1;grid-column:3;font-family:'Poppins',sans-serif;font-size:.9rem;color:var(--orange);font-weight:600;white-space:nowrap}
+        .wiz-qty-ctrl{grid-row:2;grid-column:2/4;display:flex;align-items:center;gap:10px;flex-shrink:0;justify-self:end}
         .wiz-qty-btn{width:36px;height:36px;border-radius:50%;border:2px solid var(--pink);background:transparent;color:var(--pink);font-size:1.2rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .25s;line-height:1;font-weight:600}
         .wiz-qty-btn.wiz-plus{background:linear-gradient(135deg,var(--orange) 0%,var(--pink) 100%);border-color:var(--orange);color:#fff;box-shadow:0 4px 15px rgba(255,107,53,0.4)}
         .wiz-qty-btn.wiz-plus:hover{transform:scale(1.1);box-shadow:0 6px 25px rgba(255,107,53,0.6)}
