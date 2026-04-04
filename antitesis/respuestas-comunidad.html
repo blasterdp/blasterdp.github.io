@@ -1,0 +1,882 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Respuestas a la Comunidad Jazak VeEmatz | Raíces Hebreas</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-gold: #C9A227;
+            --deep-blue: #1A2F4E;
+            --warm-white: #FAF8F5;
+            --accent-red: #8B2635;
+            --text-dark: #2D2D2D;
+            --border-light: #E5E0D8;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Lato', sans-serif;
+            background-color: var(--warm-white);
+            color: var(--text-dark);
+            line-height: 1.8;
+        }
+
+        .hero {
+            background: linear-gradient(135deg, var(--deep-blue) 0%, #0F1A2E 100%);
+            color: white;
+            padding: 80px 20px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23C9A227' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+            opacity: 0.5;
+        }
+
+        .hero-content {
+            position: relative;
+            z-index: 1;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .logo-text {
+            font-family: 'Cinzel', serif;
+            font-size: 3.5rem;
+            font-weight: 700;
+            color: var(--primary-gold);
+            letter-spacing: 4px;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .tagline {
+            font-size: 1.2rem;
+            color: var(--primary-gold);
+            letter-spacing: 2px;
+            margin-bottom: 30px;
+            text-transform: uppercase;
+        }
+
+        .hero h1 {
+            font-family: 'Cinzel', serif;
+            font-size: 2.5rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+            line-height: 1.3;
+        }
+
+        .hero p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .menorah-icon {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            color: var(--primary-gold);
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 60px 20px;
+        }
+
+        .intro-section {
+            background: white;
+            border-radius: 8px;
+            padding: 40px;
+            margin-bottom: 40px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+            border-left: 4px solid var(--primary-gold);
+        }
+
+        .intro-section h2 {
+            font-family: 'Cinzel', serif;
+            color: var(--deep-blue);
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+        }
+
+        .intro-section p {
+            color: #555;
+            margin-bottom: 15px;
+        }
+
+        .question-card {
+            background: white;
+            border-radius: 12px;
+            margin-bottom: 40px;
+            box-shadow: 0 4px 25px rgba(0,0,0,0.1);
+            overflow: hidden;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .question-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 35px rgba(0,0,0,0.15);
+        }
+
+        .question-header {
+            background: linear-gradient(135deg, var(--deep-blue) 0%, #2A3F5F 100%);
+            color: white;
+            padding: 25px 30px;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .question-number {
+            background: var(--primary-gold);
+            color: var(--deep-blue);
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Cinzel', serif;
+            font-weight: 700;
+            font-size: 1.3rem;
+            flex-shrink: 0;
+        }
+
+        .question-meta h3 {
+            font-family: 'Cinzel', serif;
+            font-size: 1.3rem;
+            margin-bottom: 5px;
+        }
+
+        .question-meta .asker {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        .question-body {
+            padding: 35px;
+        }
+
+        .the-question {
+            background: #F5F3EF;
+            border-left: 3px solid var(--primary-gold);
+            padding: 20px 25px;
+            margin-bottom: 25px;
+            font-style: italic;
+            color: #444;
+        }
+
+        .the-question::before {
+            content: '"';
+            font-size: 3rem;
+            color: var(--primary-gold);
+            font-family: 'Cinzel', serif;
+            line-height: 0;
+            vertical-align: -15px;
+            margin-right: 5px;
+        }
+
+        .answer-section {
+            border-top: 1px solid var(--border-light);
+            padding-top: 25px;
+        }
+
+        .answer-section h4 {
+            font-family: 'Cinzel', serif;
+            color: var(--accent-red);
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .answer-section h4::before {
+            content: '';
+            color: var(--primary-gold);
+            font-size: 1.3rem;
+            width: 24px;
+            height: 24px;
+            background: var(--primary-gold);
+            display: inline-block;
+            mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2L9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61z'/%3E%3C/svg%3E") center/contain no-repeat;
+            -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2L9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61z'/%3E%3C/svg%3E") center/contain no-repeat;
+        }
+
+        .answer-content {
+            color: #333;
+            line-height: 1.9;
+        }
+
+        .answer-content p {
+            margin-bottom: 15px;
+        }
+
+        .answer-content strong {
+            color: var(--deep-blue);
+        }
+
+        .scripture-ref {
+            background: linear-gradient(135deg, #F8F6F1 0%, #EFEBE3 100%);
+            border: 1px solid var(--border-light);
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+            font-style: italic;
+            position: relative;
+        }
+
+        .scripture-ref::before {
+            content: '';
+            position: absolute;
+            top: -12px;
+            left: 20px;
+            background: white;
+            padding: 0 8px;
+            font-size: 1.2rem;
+            width: 24px;
+            height: 24px;
+            background: var(--accent-red);
+            mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z'/%3E%3C/svg%3E") center/contain no-repeat;
+            -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z'/%3E%3C/svg%3E") center/contain no-repeat;
+        }
+
+        .scripture-ref cite {
+            display: block;
+            color: var(--accent-red);
+            font-weight: 700;
+            margin-bottom: 8px;
+            font-style: normal;
+        }
+
+        .key-point {
+            background: linear-gradient(135deg, var(--deep-blue) 0%, #2A3F5F 100%);
+            color: white;
+            padding: 20px 25px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+
+        .key-point strong {
+            color: var(--primary-gold);
+        }
+
+        .visual-indicator {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            padding: 15px;
+            background: #FFF9E6;
+            border: 1px solid var(--primary-gold);
+            border-radius: 8px;
+            margin: 15px 0;
+        }
+
+        .visual-indicator .icon {
+            font-size: 2rem;
+        }
+
+        .status-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 700;
+        }
+
+        .status-answered {
+            background: #D4EDDA;
+            color: #155724;
+        }
+
+        .status-visual {
+            background: #FFF3CD;
+            color: #856404;
+        }
+
+        .status-pastoral {
+            background: #CCE5FF;
+            color: #004085;
+        }
+
+        .references-section {
+            background: #F8F9FA;
+            border: 1px solid #E0E0E0;
+            border-radius: 8px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        .references-section h5 {
+            color: var(--deep-blue);
+            font-size: 1rem;
+            margin-bottom: 10px;
+            font-family: 'Cinzel', serif;
+        }
+
+        .references-section ul {
+            margin: 0;
+            padding-left: 20px;
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        footer {
+            background: var(--deep-blue);
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+            margin-top: 60px;
+        }
+
+        footer p {
+            opacity: 0.8;
+            margin-bottom: 10px;
+        }
+
+        .footer-logo {
+            font-family: 'Cinzel', serif;
+            color: var(--primary-gold);
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+        }
+
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 1.8rem;
+            }
+
+            .logo-text {
+                font-size: 2.5rem;
+            }
+
+            .question-header {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .question-body {
+                padding: 25px 20px;
+            }
+
+            .intro-section {
+                padding: 25px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header class="hero">
+        <div class="hero-content">
+            <div class="menorah-icon">7</div>
+            <div class="logo-text">JAZAK VEEMATZ</div>
+            <div class="tagline">Esfuerzate y se valiente</div>
+            <h1>Respuestas a las Preguntas de la Comunidad</h1>
+            <p>Basado en las ensenanzas de Raices Hebreas — Respuestas fundamentadas en las Escrituras y la Ley</p>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <section class="intro-section">
+            <h2>Bienvenidos a las Respuestas de la Comunidad</h2>
+            <p>Esta pagina contiene las respuestas a las preguntas que surgieron durante nuestras transmisiones en vivo. Cada respuesta esta basada en las Escrituras y en la ensenanza de Raices Hebreas que promueve el proyecto Jazak VeEmatz.</p>
+            <p>Nuestro objetivo es siempre <strong>regresar al mandamiento</strong>, a lo que esta establecido en la Palabra del Etern
+
+o, sin anadir ni quitar de ella (referencia: Deuteronomio 4:2).</p>
+        </section>
+
+        <!-- Pregunta 1: Hilda Mendoza - Guerras y salir de las ciudades -->
+        <article class="question-card">
+            <div class="question-header">
+                <div class="question-number">1</div>
+                <div class="question-meta">
+                    <h3>Sobre Salir de las Ciudades en Tiempos de Guerra</h3>
+                    <span class="asker">Pregunta de Hilda Mendoza</span>
+                </div>
+            </div>
+            <div class="question-body">
+                <div class="the-question">
+                    Sobre el versiculo que dice que cuando oigan de guerras, los que viven en las grandes ciudades salgan de ellas. Podrian ayudar a guiarnos? Debo salir de este pais (EE.UU.) o quedarme?
+                </div>
+                
+                <div class="status-badge status-answered">
+                    Respondida
+                </div>
+
+                <div class="answer-section">
+                    <h4>Respuesta basada en las Escrituras</h4>
+                    <div class="answer-content">
+                        <p>Esta pregunta se refiere a las palabras de Jesus en Lucas 21:21, donde dice: <em>"Entonces los que esten en Judea, huyan a los montes; los que esten en medio de ella, vayansense; y los que esten en los campos, no entren en ella."</em></p>
+
+                        <div class="scripture-ref">
+                            <cite>Referencia: Lucas 21:20-21</cite>
+                            "Cuando vean a Jerusalen rodeada de ejercitos, sepan entonces que su asedio esta cerca. Entonces los que esten en Judea, huyan a los montes; los que esten en medio de ella, vayansense; y los que esten en los campos, no entren en ella."
+                        </div>
+
+                        <p>Es importante entender el <strong>contexto profetico</strong> de estas palabras. Jesus estaba hablando especificamente sobre la destruccion de Jerusalen en el ano 70 d.C. y sobre los tiempos del fin:</p>
+
+                        <div class="key-point">
+                            <strong>Principio biblico:</strong> No podemos crear mandamientos donde no los hay. La Escritura no establece una orden de huir de paises o ciudades de forma general. Cada creyente debe buscar la direccion del Eterno en oracion, considerando su situacion particular, su familia, y las circunstancias.
+                        </div>
+
+                        <p>Lo que si ensena la Ley es que <strong>debemos confiar en la provision del Eterno</strong> y estar preparados espiritualmente. En Deuteronomio 31:6, Dios nos dice: <em>"Sean fuertes y valientes. No teman ni se aterren ante ellos, porque el Senor tu Dios es el que va contigo; no te dejara ni te desamparara."</em></p>
+
+                        <p>La decision de quedarse o salir debe ser guiada por:</p>
+                        <ul style="margin-left: 20px; margin-bottom: 15px;">
+                            <li><strong>La direccion del Espiritu Santo</strong></li>
+                            <li><strong>La responsabilidad familiar y comunitaria</strong></li>
+                            <li><strong>Las oportunidades para servir al Eterno</strong></li>
+                            <li><strong>La paz interior</strong> que solo El puede dar</li>
+                        </ul>
+
+                        <p>El Eterno desea que <strong>caminemos por fe</strong>, no por vista. Su presencia va con nosotros dondequiera que estemos.</p>
+
+                        <div class="references-section">
+                            <h5>Referencias biblicas utilizadas:</h5>
+                            <ul>
+                                <li>Lucas 21:20-21 - La profecia de Jesus sobre Jerusalem</li>
+                                <li>Deuteronomio 31:6 - Promesa de la presencia de Dios</li>
+                                <li>2 Corintios 5:7 - Caminar por fe, no por vista</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+
+        <!-- Pregunta 2: Rosa Hidalgo - Cebada en estado aviv -->
+        <article class="question-card">
+            <div class="question-header">
+                <div class="question-number">2</div>
+                <div class="question-meta">
+                    <h3>La Cebada en Estado de Madurez para Determinar el Ano Nuevo</h3>
+                    <span class="asker">Pregunta de Rosa Hidalgo</span>
+                </div>
+            </div>
+            <div class="question-body">
+                <div class="the-question">
+                    La cebada en Israel esta en estado de madurez? Porque para decir que es ano nuevo tambien debemos ver la cebada, no es asi?
+                </div>
+                
+                <div class="status-badge status-answered">
+                    Respondida
+                </div>
+
+                <div class="answer-section">
+                    <h4>Respuesta basada en las Escrituras</h4>
+                    <div class="answer-content">
+                        <p>Exactamente, Rosa! Tienes razon. La cebada en estado de madurez es uno de los tres indicadores biblicos fundamentales para determinar el inicio del ano hebreo.</p>
+
+                        <div class="scripture-ref">
+                            <cite>Referencia: Exodo 13:4</cite>
+                            "Vosotros sales hoy en el mes de la primavera."
+                        </div>
+
+                        <p>La palabra hebrea "Aviv" significa "espiga joven" o "cebada espigada". No se refiere al equinoccio de primavera como muchos creen, sino a un <strong>fenomeno agricola especifico</strong>.</p>
+
+                        <div class="key-point">
+                            <strong>Las Tres Senales Biblicas para el Calendario:</strong>
+                            <ol style="margin-top: 10px; margin-left: 20px;">
+                                <li>El <strong>sol</strong> para determinar la duracion de los anos</li>
+                                <li>La <strong>luna</strong> para determinar los meses</li>
+                                <li>El estado de <strong>madurez de la cebada</strong> para determinar el inicio del primer mes</li>
+                            </ol>
+                        </div>
+
+                        <p>Segun Levitico 2:14, la cebada en estado de madurez debe cumplir con estas caracteristicas:</p>
+                        <ul style="margin-left: 20px; margin-bottom: 15px;">
+                            <li><strong>Ser suficientemente quebradiza</strong> — cuando esta seca y madura</li>
+                            <li><strong>Tostarse al fuego</strong> — debe poder ser tostada y consumida</li>
+                            <li><strong>Cantidad suficiente</strong> — debe haber suficiente para cubrir las ofrendas de primicias</li>
+                        </ul>
+
+                        <p>El estado de madurez no es simplemente "cebada verde". Es cuando el grano:</p>
+                        <ul style="margin-left: 20px; margin-bottom: 15px;">
+                            <li>Ha pasado de verde intenso a un color amarillento</li>
+                            <li>Ha desarrollado suficiente materia seca para ser tostada</li>
+                            <li>Se encuentra en la etapa de espigamiento, 2-3 semanas antes de la cosecha</li>
+                        </ul>
+
+                        <p>Esta senal es critica porque las fiestas de primavera (Pascua, Panes sin Levadura) deben celebrarse en la <strong>temporada agricola correcta</strong> segun el mandamiento del Eterno.</p>
+
+                        <div class="references-section">
+                            <h5>Referencias biblicas utilizadas:</h5>
+                            <ul>
+                                <li>Exodo 13:4 - El mes de la primavera (Aviv)</li>
+                                <li>Levitico 2:14 - La ofrenda de primicias con cebada tostada</li>
+                                <li>Genesis 1:14 - Las lumbreras como senales</li>
+                                <li>Exodo 12:2 - Principio de meses en la primavera</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+
+        <!-- Pregunta 3: Ofelia Soriano - Imagen del plan de redencion -->
+        <article class="question-card">
+            <div class="question-header">
+                <div class="question-number">3</div>
+                <div class="question-meta">
+                    <h3>Solicitud de Imagen del Plan de Redencion</h3>
+                    <span class="asker">Pregunta de Ofelia Soriano</span>
+                </div>
+            </div>
+            <div class="question-body">
+                <div class="the-question">
+                    Podrian compartir esta imagen? (refiriendose a una diapositiva del "plan de redencion" de la ensenanza anterior)
+                </div>
+                
+                <div class="status-badge status-visual">
+                    Solicitud de Material Visual
+                </div>
+
+                <div class="answer-section">
+                    <h4>Informacion sobre el Material</h4>
+                    <div class="answer-content">
+                        <p>Entendemos perfectamente tu solicitud, hermana Ofelia. El <strong>Plan de Redencion</strong> del Eterno esta codificado en las Fiestas Biblicas, y comprender este plan es fundamental para nuestro caminar en Raices Hebreas.</p>
+
+                        <div class="visual-indicator">
+                            <div class="icon">7</div>
+                            <div>
+                                <strong>Las 7 Fiestas como Plan de Salvacion:</strong>
+                                <ul style="margin-top: 5px; margin-bottom: 0;">
+                                    <li><strong>Pascua</strong> — La liberacion de Egipto (Tipo: Redencion por la sangre)</li>
+                                    <li><strong>Panes sin Levadura</strong> — La justificacion (Tipo: Santificacion)</li>
+                                    <li><strong>Primicias</strong> — La resurreccion del Mesias</li>
+                                    <li><strong>Pentecostes</strong> — La entrega de la Ley / El Espiritu Santo</li>
+                                    <li><strong>Dia de las Trompetas</strong> — El anuncio del Mesias</li>
+                                    <li><strong>Dia de la Expiacion</strong> — Las bodas del Cordero</li>
+                                    <li><strong>Tabernaculos</strong> — El Reino Milenial</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <p>Para obtener el material grafico de las presentaciones, te recomendamos:</p>
+                        <ul style="margin-left: 20px; margin-bottom: 15px;">
+                            <li><strong>Unirte al grupo de Telegram</strong> de Jazak VeEmatz donde compartimos infografias y calendarios</li>
+                            <li><strong>Ver los videos completos</strong> en nuestro canal de YouTube donde compartimos estas imagenes</li>
+                            <li><strong>Contactar directamente</strong> al equipo a traves de las redes sociales</li>
+                        </ul>
+
+                        <p>El plan de redencion es un tema que abordamos extensamente en nuestra serie sobre las <strong>Fiestas Biblicas</strong>, donde cada fiesta representa un paso en el plan salvifico del Eterno para la humanidad.</p>
+
+                        <div class="references-section">
+                            <h5>Referencias biblicas utilizadas:</h5>
+                            <ul>
+                                <li>Levitico 23 - Las fiestas solemnes del Senor</li>
+                                <li>1 Corintios 15:20 - Jesus como primicias de los que durmieron</li>
+                                <li>Colosenses 2:16-17 - Las fiestas son sombra de lo que ha de venir</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+
+        <!-- Pregunta 4: Jeronimo Elizarraraz - Escribir en hebreo sin guardar el Sabado -->
+        <article class="question-card">
+            <div class="question-header">
+                <div class="question-number">4</div>
+                <div class="question-meta">
+                    <h3>Sobre Escribir en Hebreo y Guardar el Sabado</h3>
+                    <span class="asker">Pregunta de Jeronimo Elizarraraz</span>
+                </div>
+            </div>
+            <div class="question-body">
+                <div class="the-question">
+                    Por que escribes en idioma hebreo si no sabes guardar Sabado? O solo estas tanteando a los hermanos para saber si se equivocan y juzgarlos?
+                </div>
+                
+                <div class="status-badge status-answered">
+                    Respondida
+                </div>
+
+                <div class="answer-section">
+                    <h4>Respuesta Pastoral</h4>
+                    <div class="answer-content">
+                        <p>Hermano Jeronimo, agradecemos tu pregunta directa y tu celo por la Casa del Eterno. Este tipo de preguntas demuestran que estas comprometido con la verdad biblica.</p>
+
+                        <div class="scripture-ref">
+                            <cite>Referencia: Marcos 7:9-13</cite>
+                            "Bien invalidais el mandamiento de Dios para guardar vuestra tradicion... hipocritas, bien profetizo de vosotros Isaias..."
+                        </div>
+
+                        <p>Es importante recordar que en el caminar de <strong>Raices Hebreas</strong>, todos estamos en un proceso de aprendizaje y crecimiento espiritual. El Eterno nos llama a:</p>
+                        <ul style="margin-left: 20px; margin-bottom: 15px;">
+                            <li><strong>Arrepentimiento genuino</strong></li>
+                            <li><strong>Crecimiento gradual</strong> en la obediencia</li>
+                            <li><strong>Humildad</strong> al evaluar a otros</li>
+                        </ul>
+
+                        <div class="key-point">
+                            <strong>Principio biblico:</strong> Gálatas 6:1 nos dice: "Hermanos, si alguno es sorprendido en alguna falta, vosotros que sois espirituales, restauradle con espiritu de mansedumbre, considerandote a ti mismo, no sea que tu tambien seas tentado."
+                        </div>
+
+                        <p>El estudio del hebreo es una <strong>herramienta</strong> para comprender mejor las Escrituras, no un requisito para la salvacion. El Eterno busca el <strong>corazon</strong>, no el conocimiento lingueistico.</p>
+
+                        <p>En Romanos 14:4, Pablo nos ensena: <em>"Quien eres tu que juzgas al criado ajeno? Para su propio senor esta en pie, o cae. Y sera tenido en pie; porque el Senor puede tenerlo en pie."</em></p>
+
+                        <p>Te animamos a <strong>continuar cuestionando y buscando la verdad</strong>, pero tambien a hacerlo con amor y respeto, recordando que todos estamos caminando hacia la madurez en el Mesias.</p>
+
+                        <div class="references-section">
+                            <h5>Referencias biblicas utilizadas:</h5>
+                            <ul>
+                                <li>Marcos 7:9-13 - Jesus reprende a los fariseos por anteponer tradiciones a los mandamientos</li>
+                                <li>Gálatas 6:1 - Restaurar con espiritu de mansedumbre</li>
+                                <li>Romanos 14:4 - No juzgar al projimo</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+
+        <!-- Pregunta 5: Luisa Daughter of Adonai - Calendario 5786 -->
+        <article class="question-card">
+            <div class="question-header">
+                <div class="question-number">5</div>
+                <div class="question-meta">
+                    <h3>El Calendario Hebreo y el Ano 5786</h3>
+                    <span class="asker">Pregunta de Luisa Daughter of Adonai</span>
+                </div>
+            </div>
+            <div class="question-body">
+                <div class="the-question">
+                    Me confundo, nuestro calendario dice 5786?
+                </div>
+                
+                <div class="status-badge status-answered">
+                    Respondida por Lisset
+                </div>
+
+                <div class="answer-section">
+                    <h4>Respuesta Explicada</h4>
+                    <div class="answer-content">
+                        <p>Buena pregunta, hermana Luisa! Esta confusion es muy comun. El ano <strong>5786</strong> es el numero que usa el <strong>calendario rabbinico</strong> (basado en tradiciones judias), que cuenta desde la creacion del mundo segun la tradicion rabbinica.</p>
+
+                        <div class="key-point">
+                            <strong>Lo importante:</strong> El Eterno NO establecio un numero de ano. Lo que establecio fueron <strong>senalas</strong> para determinar los tiempos señalados:
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li><strong>Generos 1:14</strong> — Las lumbreras para senales, temporadas, dias y anos</li>
+                                <li><strong>Exodo 12:2</strong> — El mes de la primavera como principio de meses</li>
+                                <li><strong>La observacion de la luna</strong> para determinar el inicio de cada mes</li>
+                            </ul>
+                        </div>
+
+                        <p>El numero de "5786" no esta en la Ley. Es una <strong>tradicion rabbinica</strong> que calcula los anos desde una tradicion especifica sobre la creacion.</p>
+
+                        <p>Lo verdaderamente importante no es el numero del ano, sino:</p>
+                        <ul style="margin-left: 20px; margin-bottom: 15px;">
+                            <li><strong>La madurez de la cebada</strong> — Ha llegado la temporada de primavera?</li>
+                            <li><strong>La luna nueva</strong> — Se ha visto la luna?</li>
+                            <li><strong>Las Fiestas Biblicas</strong> — Estamos celebrando en los tiempos correctos?</li>
+                        </ul>
+
+                        <p>En Jazak VeEmatz usamos el <strong>calendario restaurado</strong>, que se basa en las senales biblicas, no en tradiciones humanas. Este calendario confirma las fechas cada ano mediante la observacion directa.</p>
+
+                        <p>Lo mas importante es que celebremos las fiestas del Eterno <strong>cuando El lo establece</strong>, no cuando una tradicion lo indica.</p>
+
+                        <div class="references-section">
+                            <h5>Referencias biblicas utilizadas:</h5>
+                            <ul>
+                                <li>Genesis 1:14 - Las lumbreras como senales para tiempos, dias y anos</li>
+                                <li>Exodo 12:2 - Este mes les sera principio de meses</li>
+                                <li>Deuteronomio 4:2 - No anadir ni quitar de la Palabra</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+
+        <!-- Pregunta 6: Anderson Bolivar - Primicias y Panes sin Levadura -->
+        <article class="question-card">
+            <div class="question-header">
+                <div class="question-number">6</div>
+                <div class="question-meta">
+                    <h3>Primicias y su Relacion con Panes sin Levadura</h3>
+                    <span class="asker">Pregunta de Anderson Bolivar</span>
+                </div>
+            </div>
+            <div class="question-body">
+                <div class="the-question">
+                    Las Primicias es seguido del inicio de panes sin levadura o una semana despues?
+                </div>
+                
+                <div class="status-badge status-answered">
+                    Respondida
+                </div>
+
+                <div class="answer-section">
+                    <h4>Respuesta basada en las Escrituras</h4>
+                    <div class="answer-content">
+                        <p>Excelente pregunta, Anderson. Hay una relacion muy especifica entre las Primicias y la Fiesta de Panes sin Levadura que esta establecida en la Ley.</p>
+
+                        <div class="scripture-ref">
+                            <cite>Referencia: Levitico 23:9-11</cite>
+                            "Y hablo el Senor a moshe, diciendo: Habla a los hijos de Israel y diles: Cuando hayais entrado en la tierra que yo os doy, y sigais la siega de ella, entonces traeris al sacerdote una gavilla de las primicias de vuestra siega. Y el sacerdote movera la gavilla devant del Senor, para que seais aceptos."
+                        </div>
+
+                        <p>La secuencia biblica es:</p>
+                        
+                        <div class="visual-indicator">
+                            <div class="icon">7</div>
+                            <div>
+                                <strong>Cronologia de las Fiestas de Primavera:</strong>
+                                <ul style="margin-top: 5px; margin-bottom: 0;">
+                                    <li><strong>Dia 14 del primer mes:</strong> Preparacion de la Pascua</li>
+                                    <li><strong>Dia 15:</strong> Primer dia de Panes sin Levadura + Cena de la Pascua</li>
+                                    <li><strong>Dia 16:</strong> Ofrenda de la Gavilla (Primicias)</li>
+                                    <li><strong>Dias 15-21:</strong> Panes sin Levadura (7 dias)</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="key-point">
+                            <strong>Respuesta directa:</strong> Las Primicias es el dia <strong>justo despues</strong> del inicio de Panes sin Levadura, especificamente el dia 16, el dia despues del primer dia de reposo festivo.
+                        </div>
+
+                        <p>Esto significa:</p>
+                        <ul style="margin-left: 20px; margin-bottom: 15px;">
+                            <li>Las Primicias son el <strong>primer dia</strong> despues de iniciar Panes sin Levadura</li>
+                            <li>NO es una semana despues</li>
+                            <li>Este dia marca el <strong>inicio del conteo de 50 dias</strong> hacia Pentecostes</li>
+                        </ul>
+
+                        <p>La ofrenda de las primicias es muy significativa porque <strong>Jesus resucito el dia de las primicias</strong>, convirtiendose en las "primicias de los que durmieron" (1 Corintios 15:20).</p>
+
+                        <div class="references-section">
+                            <h5>Referencias biblicas utilizadas:</h5>
+                            <ul>
+                                <li>Levitico 23:9-11 - La ofrenda de la gavilla de primicias</li>
+                                <li>Levitico 23:15-16 - Conteo de 50 dias hacia Pentecostes</li>
+                                <li>1 Corintios 15:20 - Cristo, primicias de los que durmieron</li>
+                                <li>Exodo 12:15-20 - Los panes sin levaduras</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+
+        <!-- Pregunta 7: Relaciones conyugales en Sabado -->
+        <article class="question-card">
+            <div class="question-header">
+                <div class="question-number">7</div>
+                <div class="question-meta">
+                    <h3>Relaciones Conyugales en el Sabado</h3>
+                    <span class="asker">Pregunta de la Comunidad</span>
+                </div>
+            </div>
+            <div class="question-body">
+                <div class="the-question">
+                    Es pecado tener relaciones sexuales con mi esposa en el Sabado?
+                </div>
+                
+                <div class="status-badge status-answered">
+                    Respondida
+                </div>
+
+                <div class="answer-section">
+                    <h4>Respuesta basada en las Escrituras</h4>
+                    <div class="answer-content">
+                        <p>Esta es una pregunta muy comun que surge de tradiciones religiosas que han añadido reglas sobre el Sabado. Es importante volver a lo que la Ley realmente dice.</p>
+
+                        <div class="key-point">
+                            <strong>Respuesta directa:</strong> NO, no es pecado. La Ley no prohbe las relaciones conyugales en el Sabado. Las relaciones matrimoniales entre un hombre y su esposa son parte del diseo divino del matrimonio.
+                        </div>
+
+                        <p>La Ley de Dios establece en Proverbios 5:18-19:</p>
+
+                        <div class="scripture-ref">
+                            <cite>Referencia: Proverbios 5:18-19</cite>
+                            "Bendito sea tu manantial, y algrate con la mujer de tu juventud, cierva amada y graciosa montana, sus senos te satisfagan en todo tiempo; y en su amor recreate siempre."
+                        </div>
+
+                        <p>El matrimonio es una institucion sagrada establecida por Dios desde el principio. En Mateo 19:4-6, Jesus mismo confirma:</p>
+
+                        <div class="scripture-ref">
+                            <cite>Referencia: Mateo 19:4-6</cite>
+                            "El que las hizo desde el principio, macho y hembra los hizo, y dijo: Por esto el hombre dejara padre y madre, y se unira a su mujer, y los dos seran una sola carne. As que ya no son dos, sino una sola carne. Por tanto, lo que Dios junto, que el hombre no lo separe."
+                        </div>
+
+                        <p>El Sabado fue establecido para el descanso y la santificacion, pero NO para prohibir la intimidad conyugal合法 dentro del matrimonio. El concepto de "abstinencia conyugal en el Sabado" proviene de tradiciones rabnicas, no de la Ley de Dios.</p>
+
+                        <p>En Isaias 58:13-14, Dios nos ensena como guardar el Sabado:</p>
+
+                        <div class="scripture-ref">
+                            <cite>Referencia: Isaias 58:13-14</cite>
+                            "Si apartas tu pie de pisotear el Sabado, de hacer tu voluntad en mi dia santo, y al Sabado llamas deleitoso, y glorioso el dia sanctificado de Jeova; y lo glorificares despreciando tus caminos, y de hacer tu voluntad, y hablando villana; entonces te deleitaras en Jeova."
+                        </div>
+
+                        <p>Guardar el Sabado significa:</p>
+                        <ul style="margin-left: 20px; margin-bottom: 15px;">
+                            <li>No hacer obras serviles (trabajo)</li>
+                            <li>No realizar negocios o transacciones comerciales</li>
+                            <li>Dedicar tiempo a la familia, el estudio de la Ley y la adoracion</li>
+                            <li>Encontrar deleite espiritual en ese dia</li>
+                        </ul>
+
+                        <p>Las tradiciones que prohben las relaciones conyugales en el Sabado son <strong>aadiduras humanas</strong> que no tienen fundamento en las Escrituras. Esto es similar a lo que Jesus critico en Marcos 7 cuando dijo que invalidaban el mandamiento de Dios por guardar la tradicion de los hombres.</p>
+
+                        <p>El matrimonio es una union sagrada y las relaciones intimas dentro del matrimonio son una bendicion de Dios, no algo que debamos temer o evitar.</p>
+
+                        <div class="references-section">
+                            <h5>Referencias biblicas utilizadas:</h5>
+                            <ul>
+                                <li>Proverbios 5:18-19 - Bendicion de la union conyugal</li>
+                                <li>Mateo 19:4-6 - Jesus sobre el matrimonio</li>
+                                <li>Isaias 58:13-14 - Como guardar el Sabado</li>
+                                <li>Marcos 7:1-13 - Jesus reprende las tradiciones humanas que invalidan la Ley</li>
+                                <li>Genesis 2:24 - El matrimonio desde el principio</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+
+        <section class="intro-section" style="margin-top: 40px;">
+            <h2>Recursos Adicionales</h2>
+            <p>Para profundizar en estos temas, te recomendamos:</p>
+            <ul style="margin-left: 20px; margin-top: 15px;">
+                <li><strong>Grupo de Telegram:</strong> Unete para recibir el calendario restaurado y materiales exclusivos</li>
+                <li><strong>Canal de YouTube:</strong> Jazak VeEmatz — Estudios completos sobre las Fiestas Biblicas</li>
+                <li><strong>Serie de Raices Hebreas:</strong> Aprende a incorporar la Ley en tu vida diaria</li>
+            </ul>
+            <p style="margin-top: 20px;"><em>Paz y bendiciones para toda la comunidad.</em></p>
+        </section>
+
+    </main>
+
+    <footer>
+        <div class="footer-logo">JAZAK VEEMATZ</div>
+        <p>Esfuerzate y se valiente</p>
+        <p>Ensenando Raices Hebreas desde la perspectiva de las Escrituras</p>
+        <p style="margin-top: 20px; font-size: 0.9rem; opacity: 0.6;">No anadiremos ni quitaremos de la Palabra del Eterno (Deuteronomio 4:2)</p>
+    </footer>
+
+</body>
+</html>

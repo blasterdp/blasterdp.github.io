@@ -1,0 +1,856 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudio de PESAJ: El Pan, el Vino y la Muerte y Resurrección de Yeshua | Raíces Hebreas</title>
+    <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700&family=David+Libre:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a365d;
+            --secondary: #744210;
+            --accent: #c53030;
+            --bg-cream: #faf6f1;
+            --bg-gold: #f6e05e;
+            --text-dark: #2d3748;
+            --text-light: #4a5568;
+            --border: #e2d9ce;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'David Libre', serif;
+            background-color: var(--bg-cream);
+            color: var(--text-dark);
+            line-height: 1.8;
+            font-size: 18px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, #2c5282 100%);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        header::before {
+            content: 'פסח';
+            position: absolute;
+            font-size: 200px;
+            opacity: 0.05;
+            right: -20px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-family: 'David Libre', serif;
+        }
+
+        header h1 {
+            font-family: 'Frank Ruhl Libre', serif;
+            font-size: 2.8em;
+            margin-bottom: 15px;
+            font-weight: 700;
+        }
+
+        header .subtitle {
+            font-size: 1.3em;
+            opacity: 0.9;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        header .hebrew-title {
+            font-size: 1.8em;
+            margin: 15px 0;
+            color: var(--bg-gold);
+        }
+
+        .intro-box {
+            background: white;
+            border-left: 5px solid var(--accent);
+            padding: 30px;
+            margin: 30px 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+
+        .intro-box p {
+            margin-bottom: 15px;
+        }
+
+        h2 {
+            font-family: 'Frank Ruhl Libre', serif;
+            color: var(--primary);
+            font-size: 1.8em;
+            margin: 40px 0 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid var(--bg-gold);
+        }
+
+        h3 {
+            font-family: 'Frank Ruhl Libre', serif;
+            color: var(--secondary);
+            font-size: 1.4em;
+            margin: 30px 0 15px;
+        }
+
+        h4 {
+            font-family: 'Frank Ruhl Libre', serif;
+            color: var(--accent);
+            font-size: 1.2em;
+            margin: 25px 0 10px;
+        }
+
+        .scripture-box {
+            background: linear-gradient(to right, #f7fafc, white);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 25px;
+            margin: 25px 0;
+            position: relative;
+        }
+
+        .scripture-box::before {
+            content: '"';
+            position: absolute;
+            left: 10px;
+            top: 0;
+            font-size: 60px;
+            color: var(--bg-gold);
+            font-family: 'David Libre', serif;
+            line-height: 1;
+        }
+
+        .scripture-box .reference {
+            text-align: right;
+            font-style: italic;
+            color: var(--secondary);
+            margin-top: 10px;
+            font-weight: 500;
+        }
+
+        .key-point {
+            background: linear-gradient(135deg, #ebf8ff, #f0fff4);
+            border-radius: 12px;
+            padding: 25px;
+            margin: 25px 0;
+            border: 1px solid #c6f6d5;
+        }
+
+        .key-point h4 {
+            color: var(--primary);
+            margin-top: 0;
+        }
+
+        .symbol-section {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            margin: 30px 0;
+        }
+
+        .symbol-card {
+            background: white;
+            border-radius: 12px;
+            padding: 25px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+            border-top: 4px solid var(--accent);
+            transition: transform 0.3s ease;
+        }
+
+        .symbol-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .symbol-card.cordero { border-top-color: #e53e3e; }
+        .symbol-card.pan { border-top-color: #d69e2e; }
+        .symbol-card.vino { border-top-color: #805ad5; }
+
+        .symbol-card h3 {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .hebrew {
+            font-family: 'Frank Ruhl Libre', serif;
+            font-size: 1.5em;
+            color: var(--primary);
+        }
+
+        .timeline {
+            position: relative;
+            padding: 20px 0;
+            margin: 30px 0;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 30px;
+            top: 0;
+            bottom: 0;
+            width: 4px;
+            background: var(--bg-gold);
+            border-radius: 2px;
+        }
+
+        .timeline-item {
+            position: relative;
+            padding-left: 70px;
+            padding-bottom: 30px;
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: 20px;
+            top: 5px;
+            width: 24px;
+            height: 24px;
+            background: var(--accent);
+            border-radius: 50%;
+            border: 4px solid var(--bg-cream);
+        }
+
+        .timeline-item .date {
+            font-weight: 700;
+            color: var(--primary);
+            font-size: 1.1em;
+        }
+
+        .timeline-item .description {
+            margin-top: 5px;
+        }
+
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            background: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .comparison-table th {
+            background: var(--primary);
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-family: 'Frank Ruhl Libre', serif;
+        }
+
+        .comparison-table td {
+            padding: 15px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .comparison-table tr:hover {
+            background: #f7fafc;
+        }
+
+        .sources-section {
+            background: #2d3748;
+            color: white;
+            padding: 40px;
+            margin-top: 50px;
+            border-radius: 12px;
+        }
+
+        .sources-section h2 {
+            color: var(--bg-gold);
+            border-bottom-color: rgba(255,255,255,0.2);
+        }
+
+        .source-item {
+            padding: 15px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .source-item:last-child {
+            border-bottom: none;
+        }
+
+        .source-item a {
+            color: var(--bg-gold);
+            text-decoration: none;
+        }
+
+        .source-item a:hover {
+            text-decoration: underline;
+        }
+
+        .prayer-box {
+            background: linear-gradient(135deg, #744210, #975a16);
+            color: white;
+            padding: 30px;
+            border-radius: 12px;
+            margin: 30px 0;
+            text-align: center;
+        }
+
+        .prayer-box h3 {
+            color: var(--bg-gold);
+            margin-top: 0;
+        }
+
+        .application-box {
+            background: linear-gradient(135deg, #fed7d7, #fff5f5);
+            border: 2px solid var(--accent);
+            border-radius: 12px;
+            padding: 25px;
+            margin: 25px 0;
+        }
+
+        .application-box h4 {
+            color: var(--accent);
+        }
+
+        .application-box ul {
+            margin-left: 20px;
+            margin-top: 10px;
+        }
+
+        .application-box li {
+            margin-bottom: 10px;
+        }
+
+        footer {
+            background: var(--primary);
+            color: white;
+            text-align: center;
+            padding: 30px;
+            margin-top: 50px;
+        }
+
+        .tag {
+            display: inline-block;
+            background: var(--bg-gold);
+            color: var(--primary);
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            font-weight: 500;
+            margin: 5px;
+        }
+
+        .section-divider {
+            text-align: center;
+            margin: 40px 0;
+            color: var(--bg-gold);
+            font-size: 2em;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2em;
+            }
+            
+            .symbol-section {
+                grid-template-columns: 1fr;
+            }
+            
+            .container {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Estudio de PESAJ</h1>
+            <div class="hebrew-title">פסח | La Fiesta del Cordero</div>
+            <p class="subtitle">El Pan Sin Levadura, el Vino y la Muerte y Resurrección de Yeshua</p>
+            <p style="margin-top: 20px; opacity: 0.8;">Un estudio basado en las Escrituras para la congregación</p>
+            <div style="margin-top: 20px;">
+                <span class="tag">#RaícesHebreas</span>
+                <span class="tag">#Pesaj</span>
+                <span class="tag">#JazakVeematz</span>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="intro-box">
+            <h2>Introducción al Estudio</h2>
+            <p>
+                Shalom, bienvenidos a este estudio sobre <strong>Pesaj</strong> (פסח), la fiesta que conecta el pasado,
+                presente y futuro del plan de salvación de Elohim. Este estudio está diseñado para preparar a los hermanos
+                que vendrán a nuestra reunión, enfocándonos en tres elementos centrales: <strong>el pan</strong>,
+                <strong>el vino</strong> y <strong>la muerte y resurrección de Yeshua</strong>.
+            </p>
+            <p>
+                Como escribió el apóstol Pablo a los Corintios: <em>"limpiaos pues de la vieja levadura, para que seáis 
+                nueva masa, sin levadura, como sois. Porque nuestra pascua que es el Mesías, ya fue sacrificada por nosotros."</em>
+                <strong>(1 Corintios 5:7)</strong>
+            </p>
+        </div>
+
+        <h2>1. El Significado de PESAJ (פסח)</h2>
+        
+        <p>
+            La palabra <strong>Pesaj</strong> (פסח) proviene del hebreo y significa "pasar por alto" o "saltar sobre".
+            Este nombre proviene del evento registrado en Éxodo 12, cuando el Eterno pasó por alto las casas de los israelitas
+            que tenían la sangre del cordero en los postes y dinteles de sus puertas.
+        </p>
+
+        <div class="scripture-box">
+            <p>
+                <strong>Éxodo 12:13:</strong> "Y la sangre os será por señal en las casas donde estéis; y cuando yo vea la sangre,
+                pasaré给你们越过 (pasaré sobre vosotros), y no habrá en vosotros plaga de mortandad cuando yo hiera la tierra de Egipto."
+            </p>
+            <p class="reference">— La sangre del cordero fue la señal para que el ángel de la muerte "pasara" sobre los israelitas</p>
+        </div>
+
+        <h3>El Cordero de Pesaj</h3>
+        
+        <p>
+            El cordero de Pesaj era un elemento central de esta celebración. Las Escrituras nos dan instrucciones específicas:
+        </p>
+
+        <div class="scripture-box">
+            <p>
+                <strong>Éxodo 12:5-6:</strong> "El animal será sin defecto, macho, de un año lo tomaréis de las ovejas o de las cabras,
+                y lo guardaréis hasta el día 14 de este mes; y lo inmolará a toda la congregación del pueblo de Israel entre las dos tardes."
+            </p>
+            <p class="reference">— El cordero debía ser examinado durante 4 días antes del sacrificio</p>
+        </div>
+
+        <div class="key-point">
+            <h4>📌 Los 4 Días de Preparación del Cordero</h4>
+            <p>
+                Proféticamente, los cuatro días de preparación del cordero representan los 4,000 años desde la creación
+                hasta la primera venida del Mesías. Así como el cordero era examinado durante 4 días, Yeshua fue examinado
+                por las autoridades religiosas y civiles antes de ser sacrificado.
+            </p>
+            <p>
+                <strong>1 Pedro 1:18-20:</strong> "Sabiendo que fuisteis rescatados de la vana manera de vivir (...) no con cosas corruptibles,
+                como oro o plata, sino con la sangre preciosa del Mesías, como de un cordero sin mancha y sin contaminación,
+                <em>ya destinado desde antes de la fundación del mundo, pero manifestado en los postreros tiempos por amor de vosotros</em>."
+            </p>
+        </div>
+
+        <h2>2. Yeshua es el Cordero de Elohim</h2>
+
+        <p>
+            El testimonio del Bautista concerning Yeshua declara:
+        </p>
+
+        <div class="scripture-box">
+            <p>
+                <strong>Juan 1:29:</strong> "El siguiente día vio Juan a Yeshua que venía hacia él, y dijo: He aquí el Cordero de Elohim,
+                que quital el pecado del mundo."
+            </p>
+            <p class="reference">— El testimonio de Juan el Bautista</p>
+        </div>
+
+        <div class="symbol-section">
+            <div class="symbol-card cordero">
+                <h3><span class="hebrew">כִּבְשָׂה</span> El Cordero</h3>
+                <p>
+                    <strong>La Profecía Cumplida:</strong> Así como el cordero de Pesaj debía ser "sin defecto" (Éxodo 12:5),
+                    Yeshua fue examinado y encontrado inocente por Pilato, Herodes, el centurión y hasta el ladrón arrepentido.
+                </p>
+                <p>
+                    <strong>Juan 18:38:</strong> "Pilato le dijo: ¿Qué es verdad? Y cuando hubo dicho esto, salió otra vez a los judíos,
+                    y les dijo: Yo no hallo ningún delito en él."
+                </p>
+            </div>
+        </div>
+
+        <h2>3. La Hora del Sacrificio - El Momento Preciso</h2>
+
+        <p>
+            Uno de los cumplimiento proféticos más notables es el momento en que Yeshua entregó Su espíritu:
+        </p>
+
+        <div class="scripture-box">
+            <p>
+                <strong>Lucas 23:44-46:</strong> "Cuando era como la hora sexta, hubo tinieblas sobre toda la tierra hasta la hora novena.
+                Y el sol se oscureció, y el velo del templo se rasgó por medio. Y Jesús,clamando a gran voz, dijo: Padre, en tus manos encomiendo mi espíritu.
+                Y habiendo dicho esto, expiró."
+            </p>
+            <p class="reference">— La hora novena (3:00 PM) era exactamente cuando se sacrificaban los corderos de Pesaj</p>
+        </div>
+
+        <div class="key-point">
+            <h4>📌 El Cumplimiento de "No Será Quebrantado Hueso Suyo"</h4>
+            <p>
+                <strong>Éxodo 12:46:</strong> "Se comerá en una casa, y no llevarás de aquella carne fuera de ella, ni quebraréis hueso suyo."
+            </p>
+            <p>
+                <strong>Juan 19:33-36:</strong> "Mas cuando llegaron a Jesús, como vieron que ya había muerto, no le quebraron las piernas.
+                Pero uno de los soldados le abrió el costado con una lanza, y al instante salió sangre y agua. (...) Porque estas cosas
+                fueron hechas para que se cumpliese la Escritura: No será quebrado hueso suyo."
+            </p>
+        </div>
+
+        <div class="section-divider">☩</div>
+
+        <h2>4. El Pan Sin Levadura (מַצָּה Matzá)</h2>
+
+        <h3>Significado Físico</h3>
+        <p>
+            Durante los siete días de la fiesta de Panes Sin Levadura, el pueblo de Israel debía comer pan sin levadura
+            (matzá) para recordar su salida apresurada de Egipto. No tenían tiempo para que la masa fermentara.
+        </p>
+
+        <div class="scripture-box">
+            <p>
+                <strong>Éxodo 12:39:</strong> "Y cocieron sesos de la masa en tortas sin levadura, porque no tenían;
+                porque tampoco les había dado tiempo de prepararlo, por cuanto los sacó Elohim de Egipto, y porque no podían detenerse,
+                ni tampoco habían prevenido para sí comida."
+            </p>
+        </div>
+
+        <h3>Significado Espiritual</h3>
+        <p>
+            El apóstol Pablo conecta directamente la matzá con el cuerpo de Yeshua:
+        </p>
+
+        <div class="scripture-box">
+            <p>
+                <strong>1 Corintios 11:23-24:</strong> "Porque yo recibí del Señor lo que también os he enseñado: que el Señor Yeshua,
+                la noche que fue entregado, tomó pan, y habiendo dado gracias, lo partió y dijo: <em>Tomad, comed; esto es mi cuerpo,
+                que por vosotros es partido; haced esto en memoria de mí.</em>"
+            </p>
+            <p class="reference">— La Última Cena de Yeshua</p>
+        </div>
+
+        <div class="symbol-section">
+            <div class="symbol-card pan">
+                <h3><span class="hebrew">מַצָּה</span> La Matzá</h3>
+                <p><strong>Simboliza el Cuerpo de Yeshua:</strong></p>
+                <ul style="margin-left: 20px; margin-top: 10px;">
+                    <li><strong>Sin levadura:</strong> Representa una vida sin pecado - Yeshua no tenía pecado</li>
+                    <li><strong>Perforada:</strong> Las marcas de agujas representan las heridas de Yeshua</li>
+                    <li><strong>Partida:</strong> Yeshua fue quebrantado por nuestros pecados</li>
+                    <li><strong>Sin tiempo de fermentar:</strong> La liberación apresurada de Egipto</li>
+                </ul>
+            </div>
+        </div>
+
+        <h3>La Eliminación de la Levadura</h3>
+        
+        <div class="scripture-box">
+            <p>
+                <strong>1 Corintios 5:7-8:</strong> "Limpiaos pues de la vieja levadura, para que seáis nueva masa,
+                sin levadura, como sois. Porque nuestra pascua que es el Mesías, ya fue sacrificada por nosotros.
+                Así que celebremos la fiesta, no con la vieja levadura, ni con la levadura de malicia y de maldad,
+                <em>sino con panes sin levadura de sinceridad y de verdad</em>."
+            </p>
+        </div>
+
+        <div class="application-box">
+            <h4>Aplicación Espiritual</h4>
+            <p>
+                La eliminación de la levadura representa la eliminación del pecado de nuestras vidas.
+                La levadura simboliza:
+            </p>
+            <ul>
+                <li><strong>La malicia y la maldad</strong> (1 Corintios 5:8)</li>
+                <li><strong>La hipocresía</strong> (Lucas 12:1 - "Guardaos de la levadura de los fariseos")</li>
+                <li><strong>La corrupción espiritual</strong> (Gálatas 5:8-9)</li>
+            </ul>
+        </div>
+
+        <div class="section-divider">☩</div>
+
+        <h2>5. El Vino - La Sangre del Pacto</h2>
+
+        <h3>El Vino en la Cena de Pesaj</h3>
+        <p>
+            Durante la cena de Pesaj tradicional se beben cuatro copas de vino, representando las cuatro promesas
+            de liberación mencionadas en Éxodo 6:6-7:
+        </p>
+
+        <ol style="margin-left: 30px; margin-top: 15px;">
+            <li><strong>La copa de la santificación</strong> - "Yo soy YHWH" (kadosh)</li>
+            <li><strong>La copa del juicio</strong> - "Os libertaré de la servidumbre" (shaphat)</li>
+            <li><strong>La copa de la redención</strong> - "Os redimiré con brazo extendido" (padah)</li>
+            <li><strong>La copa de la alabanza</strong> - "Os tomaré por mi pueblo" (laqach)</li>
+        </ol>
+
+        <h3>Yeshua y el Vino</h3>
+
+        <div class="scripture-box">
+            <p>
+                <strong>1 Corintios 11:25:</strong> "Asimismo también la copa, después de haber cenado, diciendo:
+                <em>Esta copa es el nuevo pacto en mi sangre; haced esto todas las veces que la bebiereis, en memoria de mí.</em>"
+            </p>
+            <p class="reference">— El Nuevo Pacto en la Sangre de Yeshua</p>
+        </div>
+
+        <div class="symbol-section">
+            <div class="symbol-card vino">
+                <h3><span class="hebrew">יַיִן</span> El Vino</h3>
+                <p><strong>Simboliza la Sangre de Yeshua:</strong></p>
+                <ul style="margin-left: 20px; margin-top: 10px;">
+                    <li><strong>La sangre del pacto:</strong> El nuevo pacto sellado con sangre</li>
+                    <li><strong>La remisión de pecados:</strong> "Esta es mi sangre que por muchos es derramada para remisión de pecados"</li>
+                    <li><strong>Vida eterna:</strong> "Mi sangre tiene vida eterna" (Juan 6:54)</li>
+                    <li><strong>Gozo espiritual:</strong> El vino representa gozo en las Escrituras</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="key-point">
+            <h4>📌 La Declaración de Yeshua sobre Su Sangre</h4>
+            <p>
+                <strong>Juan 6:53-54:</strong> "Jesús les dijo: De cierto, de cierto os digo: si no coméis la carne del Hijo del Hombre,
+                y bebéis su sangre, no tenéis vida en vosotros. El que come mi carne y bebe mi sangre, tiene vida eterna;
+                y yo le resucitaré en el día postrero."
+            </p>
+        </div>
+
+        <div class="section-divider">☩</div>
+
+        <h2>6. La Semana de Panes Sin Levadura y Yeshua</h2>
+
+        <h3>Los Tres Eventos Proféticos</h3>
+        <p>
+            La semana de Panes Sin Levadura contiene tres eventos principales que cumplieron proféticamente:
+        </p>
+
+        <div class="timeline">
+            <div class="timeline-item">
+                <div class="date">14 de Abib - Día de la Preparación (Erev Pesaj)</div>
+                <div class="description">
+                    <strong>Yeshua murió como el Cordero de Pesaj</strong><br>
+                    A la hora novena (3:00 PM), cuando se inmolaban los corderos en el templo,
+                    Yeshua entregó Su espíritu. Su sangre fue derramada para la remisión de nuestros pecados.
+                    Esta es la cena de Yeshua con sus discípulos.
+                </div>
+            </div>
+            <div class="timeline-item">
+                <div class="date">15 de Abib - Primer Día de Panes Sin Levadura</div>
+                <div class="description">
+                    <strong>Yeshua fue puesto en el sepulcro</strong><br>
+                    Cuando comienza la fiesta de Panes Sin Levadura (Shabbat festivo), Yeshua fue sepultado.
+                    Su cuerpo, sin pecado (sin levadura), reposó en la tumba durante el Shabbat.
+                </div>
+            </div>
+            <div class="timeline-item">
+                <div class="date">17 de Abib - Omer Reshit (Primera Gavilla)</div>
+                <div class="description">
+                    <strong>Yeshua resucitó como las Primicias</strong><br>
+                    Tres días y tres noches después, Yeshua resucitó. Omer Reshit representa la resurrección
+                    de Yeshua como las "primicias de los que durmieron" (1 Corintios 15:20), presentándose
+                    ante el Padre como las primicias de la cosecha.
+                </div>
+            </div>
+        </div>
+
+        <h3>El Conteo del Omer y Pentecostés</h3>
+
+        <div class="scripture-box">
+            <p>
+                <strong>Levítico 23:15-16:</strong> "Y contaréis desde el día que sigue al día de reposo, desde el día
+                en que ofrecisteis la gavilla de la ofrenda mecida, siete semanas cumplidas serán.
+                Hasta el día siguiente del séptimo día de reposo contaréis cincuenta días..."
+            </p>
+            <p class="reference">— Las instrucciones para el Conteo del Omer</p>
+        </div>
+
+        <p>
+            El apóstol Lucas registra que los discípulos esperaban en Jerusalén para celebrar Pentecostés (Shavuot),
+            y exactamente 50 días después de la resurrección (del Omer Reshit), el Ruaj HaKodesh (Espíritu Santo) fue derramado.
+        </p>
+
+        <div class="scripture-box">
+            <p>
+                <strong>Hechos 2:1:</strong> "Cuando llegó el día de Pentecostés, estaban todos juntos en un mismo lugar."
+            </p>
+            <p class="reference">— El cumplimiento del derramamiento del Espíritu en Pentecostés (Shavuot)</p>
+        </div>
+
+        <div class="section-divider">☩</div>
+
+        <h2>7. La Cena de Yeshua y el Nuevo Pacto</h2>
+
+        <table class="comparison-table">
+            <thead>
+                <tr>
+                    <th>Elemento</th>
+                    <th>Significado Físico (Pesaj)</th>
+                    <th>Cumplimiento en Yeshua</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>🥩 El Cordero</strong></td>
+                    <td>Cordero sin defecto sacrificado el 14 de Abib</td>
+                    <td>Yeshua, el Cordero de Elohim, murió a la hora del sacrificio</td>
+                </tr>
+                <tr>
+                    <td><strong>🫓 El Pan Sin Levadura</strong></td>
+                    <td>Memorial de la salida apresurada de Egipto</td>
+                    <td>El cuerpo de Yeshua, sin pecado, quebrantado por nosotros</td>
+                </tr>
+                <tr>
+                    <td><strong>🍷 El Vino</strong></td>
+                    <td>Las cuatro copas de la Cena de Pesaj</td>
+                    <td>La sangre del nuevo pacto, derramada por la remisión de pecados</td>
+                </tr>
+                <tr>
+                    <td><strong>🌾 La Primera Gavilla</strong></td>
+                    <td>Ofrenda de las primicias de la cosecha</td>
+                    <td>Yeshua resucitó como las primicias de los muertos (1 Corintios 15:20)</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2>8. ¿Por Qué Es Importante Celebrar Pesaj?</h2>
+
+        <div class="scripture-box">
+            <p>
+                <strong>Levítico 23:2:</strong> "Habla a los hijos de Israel, y diles: Las fiestas solemnes de YHWH,
+                las cuales proclaméis como santas convocaciones, son estas: Mías son estas."
+            </p>
+            <p class="reference">— Las fiestas pertenecen a YHWH, no solo a los judíos</p>
+        </div>
+
+        <div class="key-point">
+            <h4>📌 Las Fiestas Revelan al Mesías</h4>
+            <p>
+                El Eterno estableció las fiestas como "sombra de lo que había de venir" (Colosenses 2:17).
+                Yeshua cumplió cada una de ellas en Su primera venida, y las cumplirán completamente en Su regreso.
+            </p>
+            <p>
+                <strong>1 Corintios 5:8:</strong> "Así que celebremos la fiesta, no con la vieja levadura,
+                ni con la levadura de malicia y de maldad, sino con panes sin levadura de sinceridad y de verdad."
+            </p>
+            <p>
+                <strong>1 Corintios 15:20:</strong> "Pero ahora el Mesías ha resucitado de los muertos,
+                y se ha convertido en las <em>primicias</em> de los que durmieron."
+            </p>
+        </div>
+
+        <h2>9. Preparación para la Celebración</h2>
+
+        <h3>Lo que Necesitamos</h3>
+        <ul style="margin-left: 30px;">
+            <li><strong>Pan Sin Levadura (Matzá):</strong> Representa el cuerpo de Yeshua</li>
+            <li><strong>Vino o Jugo de Uva:</strong> Representa la sangre del nuevo pacto</li>
+            <li><strong>Hierbas Amargas:</strong> Representan la amargura de la esclavitud del pecado</li>
+            <li><strong>Carne de Cordero (opcional):</strong> Si está disponible, como memorial</li>
+        </ul>
+
+        <div class="prayer-box">
+            <h3>Oración de Preparación</h3>
+            <p>
+                "Padre celestial, te agradecemos por este tiempo señalado de Pesaj. 
+                Te pedimos que nos ayudes a limpiar nuestros corazones de toda levadura de pecado. 
+                Que la celebración de esta fiesta nos recuerde el sacrificio perfecto de Yeshua, 
+                nuestro Cordero, quien fue inmolado por nosotros. 
+                Que podamos participar con corazones limpios y con gratitud por Tu amor redentor. 
+                En el nombre de Yeshua HaMashiach. Amén."
+            </p>
+        </div>
+
+        <h2>10. Reflexión Final</h2>
+
+        <p>
+            La fiesta de Pesaj no es solo una commemoration histórica de la salida de Egipto, sino una 
+            celebración que apunta directamente al plan de salvación de Elohim. Yeshua es:
+        </p>
+
+        <ul style="margin-left: 30px;">
+            <li><strong>El Cordero de Pesaj</strong> - sacrificado para libertarnos de la esclavitud del pecado</li>
+            <li><strong>El Pan de Vida</strong> - cuyo cuerpo fue quebrantado por nosotros</li>
+            <li><strong>La Vid Verdadera</strong> - cuya sangre establece el nuevo pacto (Juan 15:1-5)</li>
+            <li><strong>Las Primicias</strong> - el primero en resucitar de entre los muertos (1 Corintios 15:20)</li>
+        </ul>
+
+        <div class="application-box">
+            <h4>Preguntas para Reflexión</h4>
+            <ol>
+                <li>¿Qué "levadura" necesito eliminar de mi vida esta temporada de Pesaj?</li>
+                <li>¿Cómo puedo participar más activamente en la celebración de las fiestas bíblicas?</li>
+                <li>¿Estoy vivendo como alguien que ha sido "liberado de la esclavitud del pecado"?</li>
+                <li>¿Cómo puedo compartir este mensaje de liberación con otros?</li>
+            </ol>
+        </div>
+
+        <div class="sources-section">
+            <h2>Fuentes Utilizadas</h2>
+            <p style="margin-bottom: 20px; opacity: 0.9;">
+                Este estudio ha sido preparado basándose en las siguientes fuentes del canal Raíces Hebreas - Jazak Veematz:
+            </p>
+            
+            <div class="source-item">
+                <strong>"PODEROSA VERDAD SOBRE PESAJ"</strong><br>
+                Jazak Veematz - Raíces Hebreas<br>
+                <a href="https://www.youtube.com/watch?v=kWpbtF0RoRA" target="_blank">Ver en YouTube</a>
+            </div>
+            
+            <div class="source-item">
+                <strong>"PESAJ Y PANES SIN LEVADURA | PREGUNTAS Y RESPUESTAS | FIESTAS BÍBLICAS"</strong><br>
+                Jazak Veematz - Raíces Hebreas<br>
+                <a href="https://www.youtube.com/watch?v=YPd-NqhcXa0" target="_blank">Ver en YouTube</a>
+            </div>
+            
+            <div class="source-item">
+                <strong>"25. PREGUNTAS: PESAJ Y PANES SIN LEVADURA"</strong><br>
+                Jazak Veematz - Raíces Hebreas<br>
+                <a href="https://www.youtube.com/watch?v=AXPUus1enqQ" target="_blank">Ver en YouTube</a>
+            </div>
+            
+            <div class="source-item">
+                <strong>"¿Cuándo comienza la CUENTA DEL OMER?"</strong><br>
+                Jazak Veematz - Raíces Hebreas<br>
+                <a href="https://youtu.be/9xwpKJTMAFM" target="_blank">Ver en YouTube</a>
+            </div>
+            
+            <div class="source-item">
+                <strong>"DÍA 11 LA CUENTA DEL OMER | VIVIR POR FE"</strong><br>
+                Jazak Veematz - Raíces Hebreas<br>
+                <a href="https://www.youtube.com/watch?v=avjWHNCrdJo" target="_blank">Ver en YouTube</a>
+            </div>
+            
+            <div class="source-item">
+                <strong>"DÍA 2: LOS NOMBRES DE SUCOT (TABERNÁCULOS) | FIESTAS BÍBLICAS"</strong><br>
+                Archivo del proyecto Jazak Veematz
+            </div>
+            
+            <div class="source-item">
+                <strong>"LAS DIMENSIONES DEL PERDÓN (YOM HAKIPURIM)| FIESTAS BÍBLICAS"</strong><br>
+                Archivo del proyecto Jazak Veematz
+            </div>
+            
+            <div class="source-item">
+                <strong>Escrituras Sagradas:</strong><br>
+                Tanaj (Antiguo Testamento) y Brit Jadashá (Nuevo Testamento)<br>
+                Referencias: Éxodo 12, Levítico 23, 1 Corintios 5, 11, Juan 1, 19, Lucas 23, Hechos 2, 1 Pedro 1
+            </div>
+        </div>
+
+    </div>
+
+    <footer>
+        <div class="container">
+            <p><strong>Raíces Hebreas - Jazak Veematz</strong></p>
+            <p>Estudio preparado para la congregación</p>
+            <p style="margin-top: 15px; font-size: 0.9em; opacity: 0.8;">
+                "Esfuérzate y sé valiente" (יְזַקֵּאמַטְץ)
+            </p>
+            <p style="margin-top: 10px; font-size: 0.8em; opacity: 0.7;">
+                Este material es para uso educativo y de edificación. Todos los derechos de las fuentes pertenecen a sus respectivos autores.
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

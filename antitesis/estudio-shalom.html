@@ -1,0 +1,1071 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudio Completo sobre SHALOM (שָׁלוֹם) | Raíces Hebreas</title>
+    <link href="https://fonts.googleapis.com/css2?family=David+Libre:wght@400;500;700&family=Frank+Ruhl+Libre:wght@400;500;700&family=Heebo:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a365d;
+            --secondary: #2c5282;
+            --accent: #c9a227;
+            --accent-light: #e6c84a;
+            --bg-light: #f7f3e9;
+            --bg-card: #fffdf5;
+            --text-dark: #1a202c;
+            --text-medium: #2d3748;
+            --text-light: #4a5568;
+            --border: #d4c5a0;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Heebo', sans-serif;
+            background-color: var(--bg-light);
+            color: var(--text-dark);
+            line-height: 1.8;
+        }
+
+        .hero {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 50%, #1e4e8c 100%);
+            color: white;
+            padding: 80px 20px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+            opacity: 0.3;
+        }
+
+        .hero-content {
+            position: relative;
+            z-index: 1;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .hebrew-title {
+            font-family: 'David Libre', serif;
+            font-size: 5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .hebrew-title img {
+            width: 60px;
+            vertical-align: middle;
+            margin-right: 15px;
+        }
+
+        .transliteration {
+            font-size: 1.8rem;
+            font-style: italic;
+            opacity: 0.9;
+            margin-bottom: 20px;
+        }
+
+        .hero h1 {
+            font-family: 'Frank Ruhl Libre', serif;
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 20px;
+        }
+
+        .hero-description {
+            font-size: 1.2rem;
+            max-width: 700px;
+            margin: 0 auto;
+            opacity: 0.95;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .nav-toc {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 40px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+
+        .nav-toc h2 {
+            font-family: 'Frank Ruhl Libre', serif;
+            color: var(--primary);
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .nav-toc ol {
+            counter-reset: toc-counter;
+            list-style: none;
+        }
+
+        .nav-toc li {
+            counter-increment: toc-counter;
+            margin-bottom: 10px;
+            padding-left: 35px;
+            position: relative;
+        }
+
+        .nav-toc li::before {
+            content: counter(toc-counter);
+            position: absolute;
+            left: 0;
+            top: 2px;
+            width: 24px;
+            height: 24px;
+            background: var(--accent);
+            color: white;
+            border-radius: 50%;
+            font-size: 0.85rem;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .nav-toc a {
+            color: var(--text-medium);
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+
+        .nav-toc a:hover {
+            color: var(--accent);
+        }
+
+        .section {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 40px;
+            margin-bottom: 40px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        }
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid var(--border);
+        }
+
+        .section-icon {
+            width: 50px;
+            height: 50px;
+            background: linear-gradient(135deg, var(--accent), var(--accent-light));
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+        }
+
+        .section h2 {
+            font-family: 'Frank Ruhl Libre', serif;
+            color: var(--primary);
+            font-size: 1.8rem;
+        }
+
+        .hebrew-word {
+            font-family: 'David Libre', serif;
+            font-size: 2.5rem;
+            color: var(--accent);
+            text-align: center;
+            padding: 30px;
+            background: linear-gradient(135deg, #fffdf5, #f9f1d8);
+            border-radius: 12px;
+            margin: 20px 0;
+            border: 1px solid var(--border);
+        }
+
+        .hebrew-word span {
+            display: block;
+            font-size: 1rem;
+            color: var(--text-light);
+            font-family: 'Heebo', sans-serif;
+            margin-top: 10px;
+        }
+
+        .etymology-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin: 25px 0;
+        }
+
+        .etymology-card {
+            background: linear-gradient(135deg, #f8f6ef, #f3eed8);
+            padding: 25px;
+            border-radius: 12px;
+            border-left: 4px solid var(--accent);
+        }
+
+        .etymology-card h4 {
+            color: var(--primary);
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+        }
+
+        .scripture-box {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 30px;
+            border-radius: 12px;
+            margin: 25px 0;
+            position: relative;
+        }
+
+        .scripture-box::before {
+            content: '"';
+            position: absolute;
+            top: 10px;
+            left: 20px;
+            font-size: 4rem;
+            opacity: 0.2;
+            font-family: serif;
+        }
+
+        .scripture-box .reference {
+            display: block;
+            text-align: right;
+            font-style: italic;
+            opacity: 0.9;
+            margin-top: 15px;
+        }
+
+        .scripture-box .hebrew-ref {
+            font-family: 'David Libre', serif;
+            font-size: 1.1rem;
+            margin-top: 10px;
+            opacity: 0.8;
+        }
+
+        .dimensions-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
+            margin: 25px 0;
+        }
+
+        .dimension-card {
+            text-align: center;
+            padding: 30px 20px;
+            background: linear-gradient(135deg, #f8f6ef, #f3eed8);
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .dimension-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .dimension-icon {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+        }
+
+        .dimension-card h4 {
+            color: var(--primary);
+            margin-bottom: 10px;
+        }
+
+        .dimension-card .hebrew {
+            font-family: 'David Libre', serif;
+            color: var(--accent);
+            font-size: 1.3rem;
+            margin-bottom: 8px;
+        }
+
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+        }
+
+        .comparison-table th,
+        .comparison-table td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .comparison-table th {
+            background: var(--primary);
+            color: white;
+            font-weight: 600;
+        }
+
+        .comparison-table tr:nth-child(even) {
+            background: #f8f6ef;
+        }
+
+        .comparison-table tr:hover {
+            background: #f3eed8;
+        }
+
+        .highlight-box {
+            background: linear-gradient(135deg, #fef3c7, #fde68a);
+            border-left: 4px solid #f59e0b;
+            padding: 25px;
+            border-radius: 0 12px 12px 0;
+            margin: 25px 0;
+        }
+
+        .highlight-box h4 {
+            color: #92400e;
+            margin-bottom: 10px;
+        }
+
+        .key-point {
+            display: flex;
+            gap: 15px;
+            padding: 20px;
+            background: #f8f6ef;
+            border-radius: 10px;
+            margin-bottom: 15px;
+        }
+
+        .key-point-icon {
+            flex-shrink: 0;
+            width: 40px;
+            height: 40px;
+            background: var(--accent);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+        }
+
+        .biblio-section {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 40px;
+            margin-top: 40px;
+        }
+
+        .biblio-section h2 {
+            font-family: 'Frank Ruhl Libre', serif;
+            color: var(--primary);
+            margin-bottom: 25px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .biblio-list {
+            list-style: none;
+        }
+
+        .biblio-list li {
+            padding: 15px 0;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            gap: 15px;
+        }
+
+        .biblio-list li:last-child {
+            border-bottom: none;
+        }
+
+        .biblio-num {
+            flex-shrink: 0;
+            width: 30px;
+            height: 30px;
+            background: var(--secondary);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
+        .verse-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin: 25px 0;
+        }
+
+        .verse-card {
+            background: #f8f6ef;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 3px solid var(--accent);
+        }
+
+        .verse-card cite {
+            display: block;
+            font-style: italic;
+            color: var(--text-light);
+            margin-bottom: 8px;
+        }
+
+        .verse-meaning {
+            color: var(--text-medium);
+        }
+
+        .prayer-box {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 35px;
+            border-radius: 16px;
+            text-align: center;
+            margin: 30px 0;
+        }
+
+        .prayer-box h4 {
+            font-family: 'David Libre', serif;
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+        }
+
+        .prayer-box .hebrew-prayer {
+            font-family: 'David Libre', serif;
+            font-size: 1.4rem;
+            line-height: 2;
+            margin: 20px 0;
+        }
+
+        footer {
+            background: var(--primary);
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+            margin-top: 60px;
+        }
+
+        footer p {
+            opacity: 0.9;
+        }
+
+        @media (max-width: 768px) {
+            .hero {
+                padding: 50px 15px;
+            }
+            .hebrew-title {
+                font-size: 3.5rem;
+            }
+            .hero h1 {
+                font-size: 1.8rem;
+            }
+            .section {
+                padding: 25px;
+            }
+            .nav-toc {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="hero">
+        <div class="hero-content">
+            <div class="hebrew-title">
+                <svg width="60" height="60" viewBox="0 0 100 100" style="vertical-align: middle; margin-right: 10px;">
+                    <text x="50" y="75" font-size="70" text-anchor="middle" fill="#c9a227">שָׁ</text>
+                </svg>
+                שָׁלוֹם
+            </div>
+            <p class="transliteración">Shalom — pronunciación correcta</p>
+            <h1>Estudio Completo sobre la Palabra SHALOM</h1>
+            <p class="hero-description">Un estudio profundo sobre el significado, etimología, dimensiones y aplicación de una de las palabras más ricas de la Biblia Hebrea</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <nav class="nav-toc">
+            <h2>📑 Contenido del Estudio</h2>
+            <ol>
+                <li><a href="#etimologia">Etimología y Significado Original</a></li>
+                <li><a href="#significado">Significado Integral de Shalom</a></li>
+                <li><a href="#dimensiones">Las Múltiples Dimensiones de Shalom</a></li>
+                <li><a href="#shalom-alejem">Shalom Alejem: Paz Para Todos</a></li>
+                <li><a href="#shabat-shalom">Shabat Shalom</a></li>
+                <li><a href="#shalom-division">Shalom: Más que Ausencia de Guerra</a></li>
+                <li><a href="#shalom-dios">El Shalom de Dios en las Escrituras</a></li>
+                <li><a href="#yeshua-shalom">Yeshua y el Shalom</a></li>
+                <li><a href="#aplicacion">Aplicación Práctica en Nuestras Vidas</a></li>
+                <li><a href="#bibliografia">Fuentes Bibliográficas y Referencias</a></li>
+            </ol>
+        </nav>
+
+        <section id="etimologia" class="section">
+            <div class="section-header">
+                <div class="section-icon">📖</div>
+                <h2>1. Etimología y Significado Original</h2>
+            </div>
+
+            <div class="hebrew-word">
+                שָׁלוֹם
+                <span>Shalom — transliteración en caracteres latinos</span>
+            </div>
+
+            <p>La palabra <strong>Shalom (שָׁלוֹם)</strong> proviene de la raíz hebrea <strong>š-l-m</strong> (shin-lamed-mem), que significa "ser completo, estar entero, ser íntegro". Esta raíz aparece más de 250 veces en el Tanaj (Antiguo Testamento) y contiene un campo semántico mucho más amplio que la simple traducción "paz".</p>
+
+            <div class="etymology-grid">
+                <div class="etymology-card">
+                    <h4>Raíz Š-L-M</h4>
+                    <p>La raíz trilateral Š-L-M indica completitud, integridad y wholeness (totalidad) en el ser. De esta misma raíz derivan palabras como:</p>
+                    <ul>
+                        <li><strong>Shalem (שָׁלֵם)</strong> — completo, entero</li>
+                        <li><strong>Shlamim (שְׁלָמִים)</strong> — ofrendas de paz</li>
+                        <li><strong>Lehashlím (לְהַשְׁלִים)</strong> — completar, terminar</li>
+                    </ul>
+                </div>
+                <div class="etymology-card">
+                    <h4>Significado Bíblico</h4>
+                    <p>En hebreo bíblico, shalom no se limita a la ausencia de conflicto, sino que describe un estado de plenitud, bienestar completo y armonía total en todas las áreas de la vida.</p>
+                </div>
+            </div>
+
+            <div class="scripture-box">
+                <p>"Porque yo sé los pensamientos que tengo acerca de vosotros, dice Adonay, pensamientos de Shalom y no de mal, para daros un futuro y una esperanza."</p>
+                <span class="reference">— Jeremías 29:11</span>
+                <span class="hebrew-ref">כִּי אָנֹכִי יָדַעְתִּי אֶת־הַמַּחֲשָׁבֹת אֲשֶׁר אָנֹכִי חֹשֵׁב עֲלֵיכֶם נְאֻם־יְהוָה מַחֲשְׁבוֹת שָׁלוֹם וְלֹא לְרָעָה</span>
+            </div>
+
+            <p>Según los documentos del estudio "Jazak Veematz", en la enseñanza sobre <em>"¿Quién Soy y Para Qué Existo? El Diseño del Eterno"</em>, se explica que Adonay tiene <strong>pensamientos de shalom</strong>, lo cual incluye:</p>
+            <ul>
+                <li>Bienestar y prosperidad</li>
+                <li>Paz y seguridad</li>
+                <li>Dicha y alegría</li>
+                <li>Un futuro lleno de esperanza</li>
+            </ul>
+        </section>
+
+        <section id="significado" class="section">
+            <div class="section-header">
+                <div class="section-icon">✨</div>
+                <h2>2. Significado Integral de Shalom</h2>
+            </div>
+
+            <p>En la cultura hebrea, <strong>Shalom</strong> es una de las palabras más completas y ricas en significado. No se limita simplemente a "no hacer la guerra" o "estar tranquilo". Shalom implica:</p>
+
+            <div class="dimensions-grid">
+                <div class="dimension-card">
+                    <div class="dimension-icon">🏠</div>
+                    <h4>Bienestar Integral</h4>
+                    <p class="hebrew">Šalóm</p>
+                    <p>Prosperidad, abundancia física y espiritual</p>
+                </div>
+                <div class="dimension-card">
+                    <div class="dimension-icon">❤️</div>
+                    <h4>Paz Interior</h4>
+                    <p class="hebrew">Šalóm</p>
+                    <p>Tranquilidad del corazón y la mente</p>
+                </div>
+                <div class="dimension-card">
+                    <div class="dimension-icon">🤝</div>
+                    <h4>Armonía Social</h4>
+                    <p class="hebrew">Šalóm</p>
+                    <p>Relaciones correctas con el prójimo</p>
+                </div>
+                <div class="dimension-card">
+                    <div class="dimension-icon">⚖️</div>
+                    <h4>Justicia</h4>
+                    <p class="hebrew">Šalóm</p>
+                    <p>Rectitud y equidad en todas las cosas</p>
+                </div>
+                <div class="dimension-card">
+                    <div class="dimension-icon">🛡️</div>
+                    <h4>Seguridad</h4>
+                    <p class="hebrew">Šalóm</p>
+                    <p>Protección y refugio en Dios</p>
+                </div>
+                <div class="dimension-card">
+                    <div class="dimension-icon">🌿</div>
+                    <h4>Plenitud</h4>
+                    <p class="hebrew">Šalóm</p>
+                    <p>Perfección y completitud divina</p>
+                </div>
+            </div>
+
+            <div class="highlight-box">
+                <h4>Punto Clave del Estudio</h4>
+                <p>Según la enseñanza en <em>"La Navidad: Un Invento del Corazón"</em>, el reino de los cielos es descrito como un lugar de <strong>"shalom, justicia, paz y plenitud de vida restaurada completamente en el Mesías"</strong>. El shalom no es solo un concepto espiritual, sino que abarca todas las dimensiones de la existencia humana.</p>
+            </div>
+        </section>
+
+        <section id="dimensiones" class="section">
+            <div class="section-header">
+                <div class="section-icon">🔍</div>
+                <h2>3. Las Múltiples Dimensiones de Shalom</h2>
+            </div>
+
+            <p>Shalom en hebreo posee dimensiones que van mucho más allá de la comprensión occidental de "paz". Según los estudios de Raíces Hebreas, podemos identificar las siguientes dimensiones:</p>
+
+            <h3 style="color: var(--primary); margin: 25px 0 15px;">Shalom como Plenitud (Shleimut)</h3>
+            <p>La palabra <strong>Shalom</strong> está relacionada con la idea de completitud. Cuando Adonay bendice, Su bendición trae <em>shalom</em>, es decir, plenitud en todas las áreas de la vida. Como se menciona en los documentos del estudio:</p>
+            
+            <div class="scripture-box">
+                <p>"Llena sus hogares de shalom, paz, prosperidad, de dirección, de emuná (fe)..."</p>
+                <span class="reference">— De la oración en INTERPRETACIÓN ESPIRITUAL DE LA TORAH</span>
+            </div>
+
+            <h3 style="color: var(--primary); margin: 25px 0 15px;">Shalom como Bendición (Berajá)</h3>
+            <p>En <em>"Presentación del Material: La Torah Revelada"</em>, se enseña que <strong>VeraJá (bendición)</strong> está relacionada con el estado de <em>shalom</em>:</p>
+            
+            <div class="scripture-box">
+                <p>"Verajá se refiere al estado de plenitud, abundancia, paz y propósito que el Eterno derrama cuando estamos en pacto y obediencia."</p>
+                <span class="reference">— Estudio de Parashá Ki Tetzé</span>
+            </div>
+
+            <h3 style="color: var(--primary); margin: 25px 0 15px;">Jerusalén: La Ciudad del Shalom</h3>
+            <p>El nombre <strong>Jerusalén (Yerushaláyim)</strong> contiene la palabra Shalom:</p>
+            
+            <div class="scripture-box">
+                <p>"Yiré (el Eterno proveerá) + Salem (paz/plenitud) = Yerushaláyim — la ciudad donde el Eterno mostrará paz y plenitud."</p>
+                <span class="reference">— Estudio de Parashá Ki Tetzé, basándose en Génesis 14:18 y Salmo 76:2</span>
+            </div>
+
+            <h3 style="color: var(--primary); margin: 25px 0 15px;">Shalom y la Torah</h3>
+            <p>En <em>"El Movimiento Therian y la Identidad en Peligro"</em>, se enseña:</p>
+            <div class="highlight-box">
+                <h4>Principio Fundamental</h4>
+                <p><strong>"Donde hay Torá, hay orden. Donde hay Torá, hay shalom. Donde hay Torá, la identidad está sellada."</strong></p>
+                <p>Viviendo una vida de shalom, de paz mental y sobre todo una identidad fuerte, encontramos la plenitud que solo viene de la instrucción divina.</p>
+            </div>
+        </section>
+
+        <section id="shalom-alejem" class="section">
+            <div class="section-header">
+                <div class="section-icon">👋</div>
+                <h2>4. Shalom Alejem: Paz Para Todos</h2>
+            </div>
+
+            <div class="hebrew-word">
+                שָׁלוֹם עֲלֵיכֶם
+                <span>Shalom Alejem — "Paz a ustedes" (forma de saludo hebreo)</span>
+            </div>
+
+            <p><strong>Shalom Alejem</strong> (שָׁלוֹם עֲלֵיכֶם) es la forma tradicional de saludo en hebreo, que significa literalmente <em>"Paz sobre ustedes"</em>. Este saludo es usado frecuentemente en:</p>
+
+            <ul>
+                <li>El saludo tradicional judio cotidiano</li>
+                <li>Las bendiciones sacerdotales (Números 6:24-26)</li>
+                <li>Las reuniones de estudio y adoración</li>
+                <li>El saludo fraternal entre creyentes</li>
+            </ul>
+
+            <h3 style="color: var(--primary); margin: 25px 0 15px;">La Bendición Sacerdotal</h3>
+            <div class="scripture-box">
+                <p>"Jehová te bendiga y te guarde; Jeová haga resplandecer su rostro sobre ti, y tenga de ti misericordia; Jehová alce sobre ti su rostro, y ponga en ti paz."</p>
+                <span class="reference">— Números 6:24-26</span>
+                <span class="hebrew-ref">יְבָרֶכְךָ יְהוָה וְיִשְׁמָרְךָ. יָאֵר יְהוָה פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ. יִשָּׂא יְהוָה פָּנָיו אֵלֶיךָ וְיָשֵׂם לְךָ שָׁלוֹם</span>
+            </div>
+
+            <p>En esta bendición, la palabra final <strong>"Shalom"</strong> (שָׁלוֹם) representa la culminación de toda la bendición. La misericordia, el favor divino y finalmente el shalom son derramados sobre el pueblo.</p>
+
+            <h3 style="color: var(--primary); margin: 25px 0 15px;">Oración de Bendición</h3>
+            <div class="prayer-box">
+                <h4>בָּרֵךְ אֹתְךָ וגו</h4>
+                <div class="hebrew-prayer">
+                    יְבָרֶכְךָ יְהוָה וְיִשְׁמָרְךָ<br>
+                    יָאֵר יְהוָה פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ<br>
+                    יִשָּׂא יְהוָה פָּנָיו אֵלֶיךָ וְיָשֵׂם לְךָ שָׁלוֹם
+                </div>
+                <p><em>"Que Adonay te bendiga y te guarde. Que Adonay te mire con agrado y te extienda su amor. Que Adonay te muestre su favor y te conceda Shalom."</em></p>
+            </div>
+        </section>
+
+        <section id="shabat-shalom" class="section">
+            <div class="section-header">
+                <div class="section-icon">🕯️</div>
+                <h2>5. Shabat Shalom: El Descanso de Dios</h2>
+            </div>
+
+            <div class="hebrew-word">
+                שַׁבָּת שָׁלוֹם
+                <span>Shabat Shalom — "Shabbat de Paz"</span>
+            </div>
+
+            <p><strong>Shabat Shalom</strong> (שַׁבָּת שָׁלוֹם) es el saludo usado durante el Shabbat, el día de reposo bíblico. Es una expresión que combina el día de descanso con la paz perfecta que Adonay provee.</p>
+
+            <div class="highlight-box">
+                <h4>El Diseño del Shabbat</h4>
+                <p>Según el estudio <em>"¿Quién Soy y Para Qué Existo? El Diseño del Eterno"</em>, el Eterno diseñó el Shabbat como un tiempo donde podemos "hallar Su reposo, descansar en Su presencia" y experimentar el shalom divino en su plenitud.</p>
+            </div>
+
+            <h3 style="color: var(--primary); margin: 25px 0 15px;">El Shalom en el Reino venidero</h3>
+            <p>El concepto de shalom está intrínsecamente ligado al día de reposo. Cuando el Mesías Yeshua establezca Su reino, será un reino de shalom:</p>
+
+            <div class="scripture-box">
+                <p>"Yacuéntrense en él la paz... porque en Sion pondrá su tabernáculo, y en Jerusalem su lugar de descanso. Allí quebrará los potente instrumentos de guerra, y enviará mensaje de paz a las naciones."</p>
+                <span class="reference">— Salmo 76:2-3, según la referencia en el estudio de la Torah Revelada</span>
+            </div>
+
+            <p>El reino mesiánico futuro será caracterizado por:</p>
+            <ul>
+                <li>Justicia y rectitud</li>
+                <li>Paz entre las naciones</li>
+                <li>Prosperidad abundante</li>
+                <li>Seguridad y protección divina</li>
+            </ul>
+        </section>
+
+        <section id="shalom-division" class="section">
+            <div class="section-header">
+                <div class="section-icon">⚖️</div>
+                <h2>6. Shalom: Más que Ausencia de Guerra</h2>
+            </div>
+
+            <p>En el pensamiento hebreo, <strong>Shalom</strong> no es simplemente la ausencia de conflicto o guerra. Es un concepto positivo y dinámico que describe un estado de plenitud y perfección. Como se explica en el estudio <em>"La Anatomía de un Corazón Endurecido"</em>:</p>
+
+            <div class="scripture-box">
+                <p>"Cuando una persona no vive en shalom, cuando una persona no vive en paz, se expone a múltiples problemas: trabajo, economía, cosas terrenales..."</p>
+                <span class="reference">— Estudio de Parashá Bo</span>
+            </div>
+
+            <h3 style="color: var(--primary); margin: 25px 0 15px;">Comparación entre el concepto occidental y hebreo</h3>
+            
+            <table class="comparison-table">
+                <thead>
+                    <tr>
+                        <th>Concepto Occidental de "Paz"</th>
+                        <th>Concepto Hebreo de "Shalom"</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Ausencia de guerra o conflicto</td>
+                        <td>Completitud y plenitud total</td>
+                    </tr>
+                    <tr>
+                        <td>Estado pasivo o inactivo</td>
+                        <td>Estado dinámico y completo</td>
+                    </tr>
+                    <tr>
+                        <td>Limitado al ámbito emocional</td>
+                        <td>Incluye todas las dimensiones de la vida</td>
+                    </tr>
+                    <tr>
+                        <td>Temporal y subjectivo</td>
+                        <td>Eterno y objetivo (viene de Dios)</td>
+                    </tr>
+                    <tr>
+                        <td>Depende de circunstancias</td>
+                        <td>Depende de la obediencia a la Torá</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="highlight-box">
+                <h4>El Shalom del Eterno es completo</h4>
+                <p>Los planes del Eterno son de shalom, de bienestar. Él desea que experimentemos una vida completa, donde haya prosperidad, paz, propósito y dirección en todas las áreas.</p>
+            </div>
+        </section>
+
+        <section id="shalom-dios" class="section">
+            <div class="section-header">
+                <div class="section-icon">👑</div>
+                <h2>7. El Shalom de Dios en las Escrituras</h2>
+            </div>
+
+            <p>La palabra <strong>Shalom</strong> aparece numerosas veces en las Escrituras Hebreas, revelando diferentes aspectos del plan de Dios para Su pueblo:</p>
+
+            <div class="verse-grid">
+                <div class="verse-card">
+                    <cite>Génesis 15:15</cite>
+                    <p class="verse-meaning">"Y tú irás a tus padres en paz..." — La paz como heredad para los justos.</p>
+                </div>
+                <div class="verse-card">
+                    <cite>Éxodo 4:18</cite>
+                    <p class="verse-meaning">"Vete en paz..." — La paz como permisión divina para partir.</p>
+                </div>
+                <div class="verse-card">
+                    <cite>Levítico 26:6</cite>
+                    <p class="verse-meaning">"Y daré paz en la tierra..." — La paz como bendición del pacto.</p>
+                </div>
+                <div class="verse-card">
+                    <cite>Números 6:26</cite>
+                    <p class="verse-meaning">"Y pondrá en ti paz" — La paz como coronación de la bendición.</p>
+                </div>
+                <div class="verse-card">
+                    <cite>Deuteronomio 20:10</cite>
+                    <p class="verse-meaning">"clamaréis a la paz..." — La paz como ofrecimiento antes de la guerra.</p>
+                </div>
+                <div class="verse-card">
+                    <cite>Josué 1:17</cite>
+                    <p class="verse-meaning">"Como oímos a Moisés, así te obedeceremos; que Adonay tu Elohim esté contigo como estuvo con él."</p>
+                </div>
+            </div>
+
+            <h3 style="color: var(--primary); margin: 25px 0 15px;">Shalom en los Salmos</h3>
+
+            <div class="scripture-box">
+                <p>"Jehová bendecirá a su pueblo con paz."</p>
+                <span class="reference">— Salmo 29:11</span>
+            </div>
+
+            <div class="scripture-box">
+                <p>"Jehová exaltará sobre la tierra su paz."</p>
+                <span class="reference">— Salmo 37:11</span>
+            </div>
+
+            <div class="scripture-box">
+                <p>"Jehová будет давать благо; y nuestra tierra dará su fruto."</p>
+                <span class="reference">— Salmo 85:12</span>
+            </div>
+
+            <h3 style="color: var(--primary); margin: 25px 0 15px;">Profecías de Isaías sobre el Shalom</h3>
+
+            <div class="scripture-box">
+                <p>"Yacuérdtense de lo que考... Porque en Sion pondrá su tabernáculo, y en Jerusalem su lugar de descanso."</p>
+                <span class="reference">— Isaías 8:10 (complementando Salmo 76:2)</span>
+            </div>
+
+            <p>En <em>"La Navidad: Un Invento del Corazón"</em>, se enseña que el reino de los cielos es un lugar donde:</p>
+            <div class="highlight-box">
+                <p><strong>"...habrá shalom, justicia, paz y una plenitud de la vida restaurada completamente en el Mesías."</strong></p>
+            </div>
+        </section>
+
+        <section id="yeshua-shalom" class="section">
+            <div class="section-header">
+                <div class="section-icon">✝️</div>
+                <h2>8. Yeshua y el Shalom</h2>
+            </div>
+
+            <p>El nombre <strong>Yeshua</strong> (יֵשׁוּעַ) significa "Salvación" o "YHWH salva", y está intrínsecamente relacionado con el concepto de shalom. Yeshua es llamado <em>el Shalom</em> porque Él es la fuente de toda paz y salvación.</p>
+
+            <h3 style="color: var(--primary); margin: 25px 0 15px;">Yeshua se apareció con Shalom Alejem</h3>
+
+            <div class="scripture-box">
+                <p>"Cuando llegó la noche de aquel mismo día, el primero de la semana, estando las puertas cerradas en el lugar donde los discípulos estaban reunidos por miedo a los judíos, vino Yeshua, puesto en medio, les dijo: Shalom Alejem — paz a vosotros."</p>
+                <span class="reference">— Juan 20:19</span>
+            </div>
+
+            <p>Este momento es significativo porque:</p>
+            <ul>
+                <li>Los discípulos estaban llenos de temor</li>
+                <li>Estaban escondidos por miedo</li>
+                <li>Yeshua se apareció en medio de ellos</li>
+                <li>Su primer palabras fueron "Shalom Alejem" (Paz a ustedes)</li>
+            </ul>
+
+            <h3 style="color: var(--primary); margin: 25px 0 15px;">El Shalom de Yeshua es diferente</h3>
+
+            <div class="scripture-box">
+                <p>"La paz os dejo, mi paz os doy; no os la doy como el mundo la da. No se turbe vuestro corazón, ni tenga miedo."</p>
+                <span class="reference">— Juan 14:27</span>
+            </div>
+
+            <p>Yeshua distingue claramente entre:</p>
+            <ul>
+                <li><strong>La paz del mundo</strong> — basada en circunstancias externas</li>
+                <li><strong>Su shalom</strong> — que no depende de las circunstancias y sobrepasa todo entendimiento</li>
+            </ul>
+
+            <div class="highlight-box">
+                <h4>Enseñanza de Raíces Hebreas</h4>
+                <p>En <em>"YOM TERUAH 2025 Mensaje Especial"</em>, se oro: <strong>"Proclamamos prosperidad y shalom que sobrepasa todo entendimiento para todos aquellos que proclaman a Yeshua como rey."</strong></p>
+            </div>
+        </section>
+
+        <section id="aplicacion" class="section">
+            <div class="section-header">
+                <div class="section-icon">🎯</div>
+                <h2>9. Aplicación Práctica en Nuestras Vidas</h2>
+            </div>
+
+            <p>Según los estudios de Raíces Hebreas, el shalom no es solo un concepto teórico, sino que debe ser experimentado y practicado activamente:</p>
+
+            <h3 style="color: var(--primary); margin: 25px 0 15px;">Cómo experimentar el Shalom divino</h3>
+
+            <div class="key-point">
+                <div class="key-point-icon">1</div>
+                <div>
+                    <strong>Obediencia a la Torá</strong>
+                    <p>El shalom viene como resultado de caminar en obediencia a los mandamientos del Eterno.</p>
+                </div>
+            </div>
+
+            <div class="key-point">
+                <div class="key-point-icon">2</div>
+                <div>
+                    <strong>Temor de Adonay</strong>
+                    <p>El temor del Eterno es el principio de la sabiduría, y la sabiduría nos lleva al shalom.</p>
+                </div>
+            </div>
+
+            <div class="key-point">
+                <div class="key-point-icon">3</div>
+                <div>
+                    <strong>Buscar Su presencia</strong>
+                    <p>Encontrar descanso en la presencia divina es experimentar el verdadero shalom.</p>
+                </div>
+            </div>
+
+            <div class="key-point">
+                <div class="key-point-icon">4</div>
+                <div>
+                    <strong>Vivir según el diseño original</strong>
+                    <p>Abandonar los diseños falsos del mundo y abrazar el plan perfecto de Dios.</p>
+                </div>
+            </div>
+
+            <h3 style="color: var(--primary); margin: 25px 0 15px;">El Shalom en las relaciones</h3>
+            <p>En <em>"YOM TERUAH 2025 Mensaje Especial"</em>, se oró específicamente por:</p>
+            <ul>
+                <li>La <strong>restauración familiar</strong> — que los lazos rotos sean reparados</li>
+                <li>La <strong>reconciliación</strong> en el pueblo del Eterno</li>
+                <li>Las <strong>relaciones entre padres e hijos, esposos y esposas</strong> sean sanadas</li>
+                <li>El <strong>amor y la unidad</strong> según la Torá reine en cada familia</li>
+            </ul>
+
+            <div class="highlight-box">
+                <h4>Pensamientos de Shalom</h4>
+                <p>Jeremías 29:11 nos enseña que los pensamientos del Eterno para nosotros son <strong>"pensamientos de shalom y no de mal, para darnos un futuro y una esperanza"</strong>. Esto significa que:</p>
+                <ul>
+                    <li>Dios tiene planes de bienestar para nosotros</li>
+                    <li>Sus planes buscan nuestra prosperidad completa</li>
+                    <li>El shalom es parte integral del plan divino para nuestra vida</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="bibliografia" class="biblio-section">
+            <h2>📚 Fuentes Bibliográficas y Referencias</h2>
+            
+            <p style="margin-bottom: 25px;">Este estudio ha sido compilado utilizando los siguientes materiales del proyecto <strong>Jazak Veematz</strong>:</p>
+
+            <ul class="biblio-list">
+                <li>
+                    <span class="biblio-num">1</span>
+                    <div>
+                        <strong>"¿Quién Soy y Para Qué Existo? El Diseño del Eterno"</strong><br>
+                        <em>Estudio sobre Jeremías 29:11 — Pensamientos de Shalom y el plan divino para nuestras vidas.</em><br>
+                        <strong>Referencias bíblicas:</strong> Jeremías 29:11, Proverbios 9:10
+                    </div>
+                </li>
+                <li>
+                    <span class="biblio-num">2</span>
+                    <div>
+                        <strong>"INTERPRETACIÓN ESPIRITUAL DE LA TORAH"</strong><br>
+                        <em>Enseñanza de Parashá Ki Tetzé sobre el espíritu de la Torá y el shalom.</em><br>
+                        <strong>Referencias bíblicas:</strong> 2 Corintios 3:6, Deuteronomio 11:26-28
+                    </div>
+                </li>
+                <li>
+                    <span class="biblio-num">3</span>
+                    <div>
+                        <strong>"PRESENTACIÓN DEL MATERIAL: LA TORAH REVELADA"</strong><br>
+                        <em>Estudio exhaustivo de la Parashá — Bendición (Verajá) y Shalom; Nombre de Jerusalén.</em><br>
+                        <strong>Referencias bíblicas:</strong> Deuteronomio 28:2, Génesis 14:18, Salmo 76:2, Génesis 22:14
+                    </div>
+                </li>
+                <li>
+                    <span class="biblio-num">4</span>
+                    <div>
+                        <strong>"NAVIDAD: UN INVENTO DEL CORAZÓN"</strong><br>
+                        <em>Enseñanza sobre el reino de los cielos y el shalom mesiánico.</em><br>
+                        <strong>Referencias bíblicas:</strong> Mateo 7:21, Juan 14:15, Jeremías 10:2-3
+                    </div>
+                </li>
+                <li>
+                    <span class="biblio-num">5</span>
+                    <div>
+                        <strong>"LA ANATOMÍA DE UN CORAZÓN ENDURECIDO"</strong><br>
+                        <em>Estudio de Parashá Bo — El shalom como vida de paz y prosperidad.</em><br>
+                        <strong>Referencias bíblicas:</strong> Éxodo 7-13
+                    </div>
+                </li>
+                <li>
+                    <span class="biblio-num">6</span>
+                    <div>
+                        <strong>"EL MOVIMIENTO THERIAN Y LA IDENTIDAD EN PELIGRO"</strong><br>
+                        <em>Enseñanza sobre Torá, orden y shalom.</em><br>
+                        <strong>Referencias:</strong> Números 6:24-26 (Bendición Sacerdotal)
+                    </div>
+                </li>
+                <li>
+                    <span class="biblio-num">7</span>
+                    <div>
+                        <strong>"YOM TERUAH 2025 MENSAJE ESPECIAL"</strong><br>
+                        <em>Estudio especial de Yom Terúa — La oración por shalom, prosperidad y el reino mesiánico.</em><br>
+                        <strong>Referencias bíblicas:</strong> Romanos 11:25 (Plenitud de gentiles)
+                    </div>
+                </li>
+                <li>
+                    <span class="biblio-num">8</span>
+                    <div>
+                        <strong>"¿Los DISCÍPULOS guardaron el día de reposo? ¿El Mesías guardó el día de reposo?"</strong><br>
+                        <em>Estudio sobre Juan 20:19 — Yeshua dice "Shalom Alejem" a los discípulos.</em><br>
+                        <strong>Referencias bíblicas:</strong> Juan 20:19, Hechos 20:7, Juan 14:27
+                    </div>
+                </li>
+                <li>
+                    <span class="biblio-num">9</span>
+                    <div>
+                        <strong>"PARASHAT VAYERÁ 4 — Y apareció ELOHIM se manifiesta con Abraham"</strong><br>
+                        <em>Estudio sobre la plenitud de la deidad y la expresión de Adonay.</em><br>
+                        <strong>Referencias bíblicas:</strong> Génesis 18:1-33
+                    </div>
+                </li>
+                <li>
+                    <span class="biblio-num">10</span>
+                    <div>
+                        <strong>Referencias Bíblicas Complementarias</strong><br>
+                        <em>Textos específicos cited en los documentos:</em><br>
+                        <strong>Números 6:24-26</strong> — Bendición Sacerdotal (Shalom Alejem)<br>
+                        <strong>Salmo 29:11</strong> — Bendición con paz<br>
+                        <strong>Salmo 37:11</strong> — Los mansos heredarán la tierra y disfrutarán de shalom<br>
+                        <strong>Salmo 85:10-12</strong> — La misericordia, verdad, justicia y paz se encontrarán<br>
+                        <strong>Isaías 9:6</strong> — El Príncipe de Paz<br>
+                        <strong>Isaías 26:3</strong> — La paz para los de mente firme<br>
+                        <strong>Miqueas 4:3</strong> — Dios juzgará entre naciones y pondrán sus espadas en rejas de arado<br>
+                        <strong>Juan 14:27</strong> — Mi paz os doy<br>
+                        <strong>Juan 16:33</strong> — En el mundo tendréis aflicción, pero confiad, Yo he vencido al mundo<br>
+                        <strong>Efesios 2:14</strong> — Él es nuestra paz
+                    </div>
+                </li>
+            </ul>
+
+            <div style="margin-top: 30px; padding: 20px; background: #f8f6ef; border-radius: 10px;">
+                <h4 style="color: var(--primary); margin-bottom: 10px;">📺 Fuente Principal</h4>
+                <p>Este estudio está basado en las enseñanzas del canal <strong>Jazak Veematz</strong> (Hasak Veematz — "Esfuérzate y sé valiente"), dirigido por Iván Martínez, donde se enseña raíces hebreas, la interpretación mesiánica de las Escrituras y la aplicación práctica de la Torá en la vida del creyente.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p><strong>Estudio Completo sobre SHALOM (שָׁלוֹם)</strong></p>
+        <p>Basado en las enseñanzas de Raíces Hebreas — Jazak Veematz</p>
+        <p style="margin-top: 10px; font-size: 0.9rem;">שָׁלוֹם עֲלֵיכֶם — Shalom Alejem</p>
+    </footer>
+</body>
+</html>

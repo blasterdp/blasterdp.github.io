@@ -1,0 +1,1174 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semana Santa vs Fiestas del Eterno | Jazak Veematz</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a365d;
+            --secondary: #c53030;
+            --accent: #d69e2e;
+            --bg-light: #f7fafc;
+            --bg-dark: #1a202c;
+            --text-dark: #2d3748;
+            --text-light: #e2e8f0;
+            --card-bg: #ffffff;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Open Sans', sans-serif;
+            background-color: var(--bg-light);
+            color: var(--text-dark);
+            line-height: 1.7;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, #2c5282 100%);
+            color: white;
+            padding: 3rem 2rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+            opacity: 0.5;
+        }
+
+        header h1 {
+            font-family: 'Cinzel', serif;
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+            position: relative;
+            z-index: 1;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .hebrew-accent {
+            font-family: 'Cinzel', serif;
+            color: var(--accent);
+        }
+
+        nav {
+            background-color: var(--bg-dark);
+            padding: 1rem 2rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: var(--shadow);
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 2rem;
+        }
+
+        nav a {
+            color: var(--text-light);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+        }
+
+        nav a:hover {
+            color: var(--accent);
+            background-color: rgba(255,255,255,0.1);
+        }
+
+        main {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        section {
+            margin-bottom: 4rem;
+        }
+
+        h2 {
+            font-family: 'Cinzel', serif;
+            font-size: 2rem;
+            color: var(--primary);
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.75rem;
+            border-bottom: 3px solid var(--accent);
+            display: inline-block;
+        }
+
+        h3 {
+            font-family: 'Cinzel', serif;
+            font-size: 1.5rem;
+            color: var(--primary);
+            margin: 2rem 0 1rem;
+        }
+
+        p {
+            margin-bottom: 1rem;
+            text-align: justify;
+        }
+
+        .intro-section {
+            background: linear-gradient(135deg, var(--primary) 0%, #2c5282 100%);
+            color: white;
+            padding: 3rem;
+            border-radius: 12px;
+            margin-bottom: 3rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .intro-section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23ffffff' fill-opacity='0.03' fill-rule='evenodd'%3E%3Cpath d='M0 40L40 0H20L0 20M40 40V20L20 40'/%3E%3C/g%3E%3C/svg%3E");
+        }
+
+        .intro-section h2 {
+            color: white;
+            border-bottom-color: var(--accent);
+        }
+
+        .intro-section p {
+            position: relative;
+            z-index: 1;
+            font-size: 1.1rem;
+        }
+
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+
+        @media (max-width: 768px) {
+            .comparison-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: var(--shadow);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1);
+        }
+
+        .card.semana-santa {
+            border-top: 4px solid var(--secondary);
+        }
+
+        .card.fiestas-eterno {
+            border-top: 4px solid var(--accent);
+        }
+
+        .card h3 {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .card.semana-santa h3 {
+            color: var(--secondary);
+        }
+
+        .card.fiestas-eterno h3 {
+            color: var(--accent);
+        }
+
+        .card-icon {
+            font-size: 1.5rem;
+        }
+
+        .card ul {
+            list-style: none;
+            margin-top: 1rem;
+        }
+
+        .card li {
+            padding: 0.75rem 0;
+            border-bottom: 1px solid #e2e8f0;
+            display: flex;
+            align-items: flex-start;
+            gap: 0.75rem;
+        }
+
+        .card li:last-child {
+            border-bottom: none;
+        }
+
+        .card li::before {
+            content: '✦';
+            color: var(--accent);
+            font-weight: bold;
+        }
+
+        .scripture-box {
+            background-color: #ebf8ff;
+            border-left: 4px solid var(--primary);
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            border-radius: 0 8px 8px 0;
+            font-style: italic;
+        }
+
+        .scripture-box .reference {
+            font-style: normal;
+            font-weight: 600;
+            color: var(--primary);
+            display: block;
+            margin-top: 0.5rem;
+        }
+
+        .warning-box {
+            background-color: #fff5f5;
+            border-left: 4px solid var(--secondary);
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .warning-box strong {
+            color: var(--secondary);
+        }
+
+        .highlight-box {
+            background: linear-gradient(135deg, #faf5ff 0%, #f0f4f8 100%);
+            border: 2px solid var(--accent);
+            padding: 2rem;
+            margin: 2rem 0;
+            border-radius: 12px;
+        }
+
+        .highlight-box h3 {
+            color: var(--accent);
+            text-align: center;
+            margin-top: 0;
+        }
+
+        .fiesta-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .fiesta-card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: var(--shadow);
+            border-left: 4px solid var(--accent);
+        }
+
+        .fiesta-card h4 {
+            font-family: 'Cinzel', serif;
+            color: var(--primary);
+            margin-bottom: 0.75rem;
+            font-size: 1.2rem;
+        }
+
+        .fiesta-card .hebrew-name {
+            color: var(--accent);
+            font-weight: 600;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .timeline {
+            position: relative;
+            padding: 2rem 0;
+            margin: 2rem 0;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 0;
+            bottom: 0;
+            width: 4px;
+            background: var(--accent);
+            transform: translateX(-50%);
+        }
+
+        @media (max-width: 768px) {
+            .timeline::before {
+                left: 20px;
+            }
+        }
+
+        .timeline-item {
+            position: relative;
+            width: 50%;
+            padding: 1.5rem;
+        }
+
+        .timeline-item:nth-child(odd) {
+            left: 0;
+            padding-right: 3rem;
+        }
+
+        .timeline-item:nth-child(even) {
+            left: 50%;
+            padding-left: 3rem;
+        }
+
+        @media (max-width: 768px) {
+            .timeline-item {
+                width: 100%;
+                left: 0 !important;
+                padding-left: 4rem !important;
+                padding-right: 1rem !important;
+            }
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            width: 20px;
+            height: 20px;
+            background: var(--accent);
+            border: 4px solid white;
+            border-radius: 50%;
+            top: 2rem;
+            box-shadow: var(--shadow);
+        }
+
+        .timeline-item:nth-child(odd)::before {
+            right: -10px;
+        }
+
+        .timeline-item:nth-child(even)::before {
+            left: -10px;
+        }
+
+        @media (max-width: 768px) {
+            .timeline-item::before {
+                left: 10px !important;
+                right: auto !important;
+            }
+        }
+
+        .timeline-content {
+            background: var(--card-bg);
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+        }
+
+        .timeline-content h4 {
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .accordion {
+            margin: 2rem 0;
+        }
+
+        .accordion-item {
+            background: var(--card-bg);
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            box-shadow: var(--shadow);
+            overflow: hidden;
+        }
+
+        .accordion-header {
+            background: var(--primary);
+            color: white;
+            padding: 1rem 1.5rem;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: background 0.3s;
+        }
+
+        .accordion-header:hover {
+            background: #2c5282;
+        }
+
+        .accordion-header h4 {
+            font-size: 1.1rem;
+        }
+
+        .accordion-icon {
+            font-size: 1.5rem;
+            transition: transform 0.3s;
+        }
+
+        .accordion-item.active .accordion-icon {
+            transform: rotate(45deg);
+        }
+
+        .accordion-content {
+            display: none;
+            padding: 1.5rem;
+        }
+
+        .accordion-item.active .accordion-content {
+            display: block;
+        }
+
+        .quote-section {
+            background: var(--bg-dark);
+            color: white;
+            padding: 3rem;
+            margin: 3rem 0;
+            text-align: center;
+            border-radius: 12px;
+        }
+
+        .quote-section blockquote {
+            font-size: 1.3rem;
+            font-style: italic;
+            max-width: 800px;
+            margin: 0 auto 1.5rem;
+            line-height: 1.8;
+        }
+
+        .quote-section cite {
+            color: var(--accent);
+            font-style: normal;
+        }
+
+        footer {
+            background-color: var(--bg-dark);
+            color: var(--text-light);
+            padding: 3rem 2rem;
+            text-align: center;
+        }
+
+        footer p {
+            text-align: center;
+        }
+
+        .source-note {
+            background-color: #f0f4f8;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-top: 1rem;
+            font-size: 0.9rem;
+            color: #4a5568;
+        }
+
+        .btn {
+            display: inline-block;
+            background: var(--accent);
+            color: var(--bg-dark);
+            padding: 0.75rem 1.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: transform 0.3s, box-shadow 0.3s;
+            margin-top: 1rem;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(214, 158, 46, 0.4);
+        }
+
+        .conclusion-box {
+            background: linear-gradient(135deg, #faf5ff 0%, #fff5f5 100%);
+            border: 2px solid var(--primary);
+            padding: 2rem;
+            border-radius: 12px;
+            margin: 2rem 0;
+        }
+
+        .key-point {
+            display: flex;
+            gap: 1rem;
+            margin: 1rem 0;
+            align-items: flex-start;
+        }
+
+        .key-point-icon {
+            background: var(--accent);
+            color: white;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+
+        .key-point-content h4 {
+            color: var(--primary);
+            margin-bottom: 0.25rem;
+        }
+
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 2rem 0;
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: var(--shadow);
+        }
+
+        .comparison-table th {
+            background: var(--primary);
+            color: white;
+            padding: 1rem;
+            text-align: left;
+        }
+
+        .comparison-table td {
+            padding: 1rem;
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        .comparison-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .comparison-table tr:hover td {
+            background-color: #f7fafc;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 1.8rem;
+            }
+
+            h2 {
+                font-size: 1.5rem;
+            }
+
+            .comparison-table {
+                font-size: 0.9rem;
+            }
+
+            .comparison-table th,
+            .comparison-table td {
+                padding: 0.75rem 0.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1><span class="hebrew-accent">שבוע טוב</span><br>Semana Santa vs Fiestas del Eterno</h1>
+        <p>Una comparación bíblica basada en las Escrituras y las enseñanzas de Raíces Hebreas</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#introduccion">Introducción</a></li>
+            <li><a href="#fiestas-biblicas">Fiestas del Eterno</a></li>
+            <li><a href="#comparacion">Comparación</a></li>
+            <li><a href="#senales">Señales del Fin</a></li>
+            <li><a href="#conclusion">Conclusión</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="introduccion" class="intro-section">
+            <h2>La Verdad sobre las Tradiciones vs la Palabra del Eterno</h2>
+            <p>
+                Las fiestas del Eterno son citas divinas establecidas en la Torá, los Profetas y los Escritos. Son 
+                <strong>tiempos señalados</strong> (Moadim) donde el Eterno ha prometido encontrarse con Su pueblo. 
+                Según Levítico 23:2, estas fiestas no son tradiciones humanas, sino mandamientos divinos que revelan 
+                el plan de salvación a través de la historia.
+            </p>
+            <p>
+                Por otro lado, tradiciones como la "Semana Santa" tienen su origen en el sistema religioso romano 
+                y no en las Escrituras. La celebración actual de la Semana Santa comenzó a tomar forma en el siglo IV 
+                d.C., cuando el emperador Constantino estableció el "domingo de resurrección" y el "viernes santo" 
+                como celebraciones oficiales del cristianismo romano.
+            </p>
+        </section>
+
+        <section id="fiestas-biblicas">
+            <h2>Las Fiestas del Eterno (מוֹעֲדִים)</h2>
+            <p>
+                Las fiestas bíblicas son <strong>tiempos señalados</strong> que Adonay establece para Su pueblo. 
+                Estas fiestas tienen un significado triple: recuerdan eventos del pasado, tienen cumplimiento en el 
+                presente y apuntan proféticamente hacia el futuro.
+            </p>
+
+            <div class="highlight-box">
+                <h3>Las Siete Fiestas de Adonay</h3>
+                <p>
+                    Según Levítico 23, existen siete santas convocaciones que Adonay instruye a Su pueblo 
+                    a celebrar. Cada una representa un paso en el plan redentor del Eterno para la humanidad.
+                </p>
+            </div>
+
+            <div class="fiesta-list">
+                <div class="fiesta-card">
+                    <h4>Pesaj (פסח) - Pascua</h4>
+                    <span class="hebrew-name">Pascua / El Sacrificio</span>
+                    <p>
+                        <strong>Fecha:</strong> 14 de Abib/Nisán<br>
+                        <strong>Significado:</strong> Representa el sacrificio de Yeshua para hacernos libres 
+                        de la condena del pecado y la muerte. El cordero pascual fue la sombra del Mesías.
+                    </p>
+                </div>
+
+                <div class="fiesta-card">
+                    <h4>Jamatzot (חמץ) - Panes sin Levadura</h4>
+                    <span class="hebrew-name">Fiesta de los Panes sin Levadura</span>
+                    <p>
+                        <strong>Fecha:</strong> 15-21 de Abib/Nisán (7 días)<br>
+                        <strong>Significado:</strong> Representa que somos hechos justos en Yeshua para vivir 
+                        una vida sin pecado. La levadura simboliza el pecado y la maldad.
+                    </p>
+                </div>
+
+                <div class="fiesta-card">
+                    <h4>Reshid Omer (עוֹמֶר רֵאשִׁית) - Primicias</h4>
+                    <span class="hebrew-name">Día de las Primicias</span>
+                    <p>
+                        <strong>Fecha:</strong> 16 de Abib/Nisán<br>
+                        <strong>Significado:</strong> Representa la resurrección del Mesías como las primicias 
+                        de los que durmieron. Yeshua resucitó al día siguiente del Shabbat pascual.
+                    </p>
+                </div>
+
+                <div class="fiesta-card">
+                    <h4>Shavuot (שָׁבוּעוֹת) - Pentecostés</h4>
+                    <span class="hebrew-name">Fiesta de las Semanas</span>
+                    <p>
+                        <strong>Fecha:</strong> 50 días después de Reshid Omer<br>
+                        <strong>Significado:</strong> La entrega de la Torá en el Monte Sinaí y la venida 
+                        del Ruaj Hakodesh (Espíritu Santo) sobre los discípulos.
+                    </p>
+                </div>
+
+                <div class="fiesta-card">
+                    <h4>Yom Teruah (תרועה) - Trompetas</h4>
+                    <span class="hebrew-name">Día del Toque de Trompeta</span>
+                    <p>
+                        <strong>Fecha:</strong> 1 de Tishrei<br>
+                        <strong>Significado:</strong> Fiesta profética que representa el día de la segunda 
+                        venida del Mesías y la unificación de Israel con sus tribus perdidas.
+                    </p>
+                </div>
+
+                <div class="fiesta-card">
+                    <h4>Yom Kipurim (כִּפּוּרִים) - Expiación</h4>
+                    <span class="hebrew-name">Día de la Expiación</span>
+                    <p>
+                        <strong>Fecha:</strong> 10 de Tishrei<br>
+                        <strong>Significado:</strong> Fiesta profética del día del juicio de las naciones 
+                        y la purificación de los santos. El día de la gran reconciliación.
+                    </p>
+                </div>
+
+                <div class="fiesta-card">
+                    <h4>Sukot (סֻכּוֹת) - Tabernáculos</h4>
+                    <span class="hebrew-name">Fiesta de los Tabernáculos</span>
+                    <p>
+                        <strong>Fecha:</strong> 15-21 de Tishrei<br>
+                        <strong>Significado:</strong> Fiesta profética que representa el establecimiento 
+                        del pacto, Elohim morando y reinando entre Su pueblo a través de Yeshua.
+                    </p>
+                </div>
+            </div>
+
+            <div class="scripture-box">
+                <strong>הָאָרוֹן בַּיָּם</strong><br>
+                "Habló Adonay a Moisés, diciendo: Habla a los hijos de Israel y diles: Las fiestas solemnes 
+                de Adonay, las cuales proclamaréis como santas convocaciones, serán estas."
+                <span class="reference">— Levítico 23:1-2</span>
+            </div>
+        </section>
+
+        <section id="comparacion">
+            <h2>Comparación: Tradiciones vs Mandamientos</h2>
+
+            <div class="comparison-grid">
+                <div class="card semana-santa">
+                    <h3><span class="card-icon">✝️</span> Semana Santa (Tradición)</h3>
+                    <ul>
+                        <li>
+                            <strong>Origen:</strong> Sistema religioso romano del siglo IV d.C., 
+                            no tiene base bíblica clara.
+                        </li>
+                        <li>
+                            <strong>Fecha:</strong> Determinado por la Iglesia católica romana, varía entre finales de marzo y principios de abril.
+                        </li>
+                        <li>
+                            <strong>Significado:</strong> Comemoración de la pasión, muerte y 
+                            resurrección de Yeshua según la tradición romana.
+                        </li>
+                        <li>
+                            <strong>Bases:</strong> No está basada en mandamientos divinos, sino 
+                            en tradiciones eclesiásticas.
+                        </li>
+                        <li>
+                            <strong>Conexión bíblica:</strong> Mezcla elementos bíblicos con 
+                            tradiciones y símbolos de origen pagano.
+                        </li>
+                        <li>
+                            <strong>Tradiciones:</strong> Cuaresma, miércoles de ceniza, procesiones, 
+                            imágenes religiosas, ayuno ritual.
+                        </li>
+                        <li>
+                            <strong>Cronología:</strong> Se basa en el conteo romano de días, no 
+                            en el calendario hebreo bíblico.
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="card fiestas-eterno">
+                    <h3><span class="card-icon">📜</span> Fiestas del Eterno (Mandamiento)</h3>
+                    <ul>
+                        <li>
+                            <strong>Origen:</strong> Mandamiento directo del Eterno dado a Moisés 
+                            en el Monte Sinaí hace más de 3,500 años.
+                        </li>
+                        <li>
+                            <strong>Fecha:</strong> Establecidas en el calendario hebreo según la 
+                            luna nueva de cada mes (Rosh Jodesh).
+                        </li>
+                        <li>
+                            <strong>Significado:</strong> Revelan el plan completo de salvación: 
+                            muerte, resurrección, derramamiento del Espíritu y regreso del Mesías.
+                        </li>
+                        <li>
+                            <strong>Bases:</strong> Completamente fundamentadas en la Torá, los 
+                            Neviim (Profetas) y los Ketuvim (Escritos).
+                        </li>
+                        <li>
+                            <strong>Conexión bíblica:</strong> Yeshua cumplió exactamente cada fiesta 
+                            durante Su primer advenimiento.
+                        </li>
+                        <li>
+                            <strong>Elementos:</strong> Sacrificio del cordero, pan sin levadura, 
+                            cuenta del Omer, shofar, ayuno sagrado.
+                        </li>
+                        <li>
+                            <strong>Cronología:</strong> Basada en el calendario lunar hebreo con 
+                            evidencia bíblica clara.
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <h3>La Diferencia Fundamental</h3>
+            
+            <div class="scripture-box">
+                <strong>מוֹעֲדִים - Moadim: Tiempos Señalados</strong><br>
+                "Estas son las fiestas solemnes de Adonay, las santas convocaciones que proclamaréis 
+                en sus tiempos señalados." La palabra Moadim viene de la raíz Yad, que significa fijar, 
+                establecer, citar. Las fiestas son citas divinas donde el Eterno se encuentra con Su pueblo.
+                <span class="reference">— Levítico 23:4</span>
+            </div>
+
+            <div class="warning-box">
+                <strong>⚠️ Advertencia bíblica sobre tradiciones humanas:</strong>
+                <p>
+                    "Guardaos que no os engañéis, apartándoos de los mandamientos de Dios para guardar 
+                    vuestras propias tradiciones." Yeshua reprendió a los líderes religiosos de Su tiempo 
+                    por dar prioridad a las tradiciones humanas sobre los mandamientos divinos.
+                    <span class="reference">— Marcos 7:8-9</span>
+                </p>
+            </div>
+
+            <h3>La Cuestión del Origen Pagano</h3>
+
+            <div class="highlight-box">
+                <p>
+                    Según los documentos del proyecto Jazak Veematz, celebraciones como la Semana Santa 
+                    están compuestas de símbolos, prácticas y rituales que son "el residuo cultural de 
+                    religiones paganas y adoración a dioses falsos, disfrazados de elementos que a las 
+                    personas les resultan amigables y con buena intención".
+                </p>
+            </div>
+
+            <div class="scripture-box">
+                <strong>רְאֵה</strong> - Reé (Observa)<br>
+                "No aprenderás el camino de las naciones ni tendrás temor de las señales del cielo, 
+                aunque las naciones tengan temor de ellas; porque las costumbres de los pueblos son vanidad."
+                <span class="reference">— Jeremías 10:2</span>
+            </div>
+
+            <h3>La Señal de Jonás: La Cuestión Cronológica</h3>
+
+            <p>
+                Uno de los aspectos más importantes para comprender la diferencia entre la cronología 
+                bíblica y la tradicional es la <strong>Señal de Jonás</strong>. Yeshua declaró:
+            </p>
+
+            <div class="scripture-box">
+                "Porque como estuvo Jonás en el vientre del gran pez tres días y tres noches, 
+                así estará el Hijo del Hombre en el corazón de la tierra tres días y tres noches."
+                <span class="reference">— Mateo 12:40</span>
+            </div>
+
+            <p>
+                Según el análisis del proyecto, la interpretación tradicional (viernes santo-domingo de 
+                resurrección) no cumple con esta profecía. Solo hay dos noches y un día entre el viernes 
+                y el domingo, no tres días y tres noches completos.
+            </p>
+
+            <p>
+                La cronología bíblica basada en Levítico 23 establece:
+            </p>
+
+            <table class="comparison-table">
+                <thead>
+                    <tr>
+                        <th>Fecha Hebrea</th>
+                        <th>Significado Bíblico</th>
+                        <th>Interpretación Tradicional</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>14 de Abib</td>
+                        <td>Día del sacrificio del cordero / Día de preparación</td>
+                        <td>Viernes (tradicional)</td>
+                    </tr>
+                    <tr>
+                        <td>15 de Abib</td>
+                        <td>Shabbat festivo - Primera Cena de Pesaj / Cena del Cordero</td>
+                        <td>Sábado</td>
+                    </tr>
+                    <tr>
+                        <td>16 de Abib</td>
+                        <td>Día comercial - Compras para la fiesta</td>
+                        <td>Domingo</td>
+                    </tr>
+                    <tr>
+                        <td>17 de Abib</td>
+                        <td>Shabbat semanal - Yeshua en el sepulcro (3er día)</td>
+                        <td>Error tradicional</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <p>
+                La interpretación bíblica demuestra que Yeshua fue puesto en el madero el miércoles 
+                14 de Abib, y resucitó al atardecer del sábado 17 de Abib, cumpliendo exactamente 
+                tres días y tres noches según la profecía de Mateo 12:40.
+            </p>
+        </section>
+
+        <section id="senales">
+            <h2>Las Fiestas como Testigos Proféticos</h2>
+
+            <div class="highlight-box">
+                <h3>El Significado de Moed (מוֹעֵד)</h3>
+                <p>
+                    La palabra hebrea <strong>Moed</strong> no solo significa "tiempo señalado" o "cita", 
+                    sino que también significa <strong>testigo</strong>. Las fiestas del Eterno son testigos 
+                    proféticos de los planes divinos para la humanidad.
+                </p>
+            </div>
+
+            <p>
+                Las fiestas bíblicas tienen cumplimiento en tres dimensiones temporales:
+            </p>
+
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <h4>Pasado - Cumplimiento Histórico</h4>
+                        <p>
+                            Las fiestas recuerdan eventos de la historia de Israel: la liberación de 
+                            Egipto (Pesaj), la recepción de la Torá (Shavuot), la nube que guió al 
+                            pueblo (Sukot).
+                        </p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <h4>Presente - Aplicación Espiritual</h4>
+                        <p>
+                            Cada fiesta tiene significado actual para los creyentes: libertad del 
+                            pecado, justicia en Messiah, caminando en el Ruaj Hakodesh.
+                        </p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <h4>Futuro - Profeción Mesiánica</h4>
+                        <p>
+                            Las fiestas apuntan hacia el futuro: la segunda venida del Mesías, el 
+                            juicio de las naciones, el establecimiento del Reino Milenial.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <h3>Las Fiestas y el Mesías Yeshua</h3>
+
+            <p>
+                Yeshua cumplió exactamente cada fiesta bíblica durante Su primer advenimiento:
+            </p>
+
+            <div class="accordion">
+                <div class="accordion-item">
+                    <div class="accordion-header">
+                        <h4>Pesaj - El Cordero de Elohim</h4>
+                        <span class="accordion-icon">+</span>
+                    </div>
+                    <div class="accordion-content">
+                        <p>
+                            <strong>Juan 1:29:</strong> "He aquí el Cordero de Elohim que quita el 
+                            pecado del mundo."
+                        </p>
+                        <p>
+                            Yeshua fue sacrificado a la misma hora que los corderos pascuales en el 
+                            templo (entre las tardes del 14 de Abib). Así como la sangre del cordero 
+                            protegió a los israelitas de la muerte, la sangre de Yeshua nos protege 
+                            del pecado y la muerte eterna.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="accordion-item">
+                    <div class="accordion-header">
+                        <h4>Jamatzot - Pan sin Levadura</h4>
+                        <span class="accordion-icon">+</span>
+                    </div>
+                    <div class="accordion-content">
+                        <p>
+                            <strong>1 Corintios 5:7-8:</strong> "Limpiaos de la vieja levadura, 
+                            para que seáis nueva masa... Porque nuestra pascua, que es el Mesías, 
+                            ya fue sacrificada por nosotros."
+                        </p>
+                        <p>
+                            La ausencia de levadura simboliza una vida sin pecado. Yeshua, llamado 
+                            "el pan de vida", vivió sin pecado y se convirtió en el pan perfecto 
+                            que nutrió a la humanidad espiritualmente.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="accordion-item">
+                    <div class="accordion-header">
+                        <h4>Reshid Omer - Las Primicias</h4>
+                        <span class="accordion-icon">+</span>
+                    </div>
+                    <div class="accordion-content">
+                        <p>
+                            <strong>1 Corintios 15:20-23:</strong> "Pero ahora, el Mesías ha 
+                            resucitado de los muertos, y se ha convertido en las primicias de los 
+                            que durmieron."
+                        </p>
+                        <p>
+                            Yeshua resucitó al día siguiente del Shabbat pascual, exactamente el 
+                            día de Reshid Omer, convirtiéndose en las primicias de la resurrección 
+                            de todos los creyentes.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="accordion-item">
+                    <div class="accordion-header">
+                        <h4>Shavuot - El Don del Ruaj Hakodesh</h4>
+                        <span class="accordion-icon">+</span>
+                    </div>
+                    <div class="accordion-content">
+                        <p>
+                            <strong>Hechos 2:1-4:</strong> "Cuando llegó el día de Pentecostés... 
+                            fueron todos llenos del Espíritu Santo."
+                        </p>
+                        <p>
+                            El derramamiento del Ruaj Hakodesh ocurrió exactamente 50 días después 
+                            de Reshid Omer, cumpliendo la fiesta de Shavuot. Así como Israel 
+                            recibió la Torá en Sinaí 50 días después de Pesaj, los creyentes 
+                            recibieron el Espíritu Santo como la "nueva Torá" escrita en sus corazones.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="quote-section">
+                <blockquote>
+                    "Las fiestas del Eterno son testimonios eternos, no porque celebren el pasado, 
+                    sino porque Dios las usa para mostrarnos el futuro y notrear quienes somos hoy 
+                    en relación con Su plan redentor."
+                </blockquote>
+                <cite>— Basado en las enseñanzas de Jazak Veematz</cite>
+            </div>
+        </section>
+
+        <section id="conclusion">
+            <h2>Conclusión: El Llamado a la Obediencia</h2>
+
+            <div class="conclusion-box">
+                <h3>Puntos Clave para Reflexionar</h3>
+                
+                <div class="key-point">
+                    <span class="key-point-icon">1</span>
+                    <div class="key-point-content">
+                        <h4>Las Fiestas Son Mandamientos, No Opciones</h4>
+                        <p>
+                            El Eterno instruyó específicamente: "Las fiestas solemnes de Adonay, 
+                            las cuales proclamaréis como santas convocaciones." No son tradiciones 
+                            opcionales, sino mandamientos vinculantes para Su pueblo.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="key-point">
+                    <span class="key-point-icon">2</span>
+                    <div class="key-point-content">
+                        <h4>Las Tradiciones No Pueden Reemplazar la Palabra</h4>
+                        <p>
+                            El Eterno advierte claramente que no debemos seguir "el camino de las 
+                            naciones" ni mezclar prácticas paganas con la adoración verdadera. 
+                            Las tradiciones religiosas, aunque bien intencionadas, pueden ser un 
+                            sustituto peligroso de la obediencia a los mandamientos divinos.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="key-point">
+                    <span class="key-point-icon">3</span>
+                    <div class="key-point-content">
+                        <h4>Las Fiestas Revelan a Yeshua</h4>
+                        <p>
+                            Cada fiesta apuntan directamente al Mesías y a Su obra redentora. Cuando comprendemos los *Moadim*, comprendemos el plan completo de salvación que Dios ha establecido para la humanidad.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="key-point">
+                    <span class="key-point-icon">4</span>
+                    <div class="key-point-content">
+                        <h4>Un Llamado a la Restauración</h4>
+                        <p>
+                            El creyente es llamado a caminar según la Torá de Elohim, a distinguir 
+                            "entre lo bueno y lo malo, entre lo profano y lo santo, lo que es 
+                            establecido por el Eterno y lo que es impuesto por el hombre."
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="scripture-box">
+                <strong>הָבוּ לַיהוָה כְּבוֹדוֹ</strong><br>
+                "Dad a YHWH la gloria debida a Su nombre; adorad a YHWH en la hermosura de la 
+                santidad." El Eterno desea que Lo adoremos según Sus mandamientos, no según las 
+                tradiciones de los hombres.
+                <span class="reference">— 1 Crónicas 16:29 / Salmo 29:2</span>
+            </div>
+
+            <div class="warning-box">
+                <strong>La Advertencia del Mesías:</strong>
+                <p>
+                    "No todo el que me dice: Señor, Señor, entrará en el reino de los cielos, 
+                    sino el que hace la voluntad de Mi Padre que está en los cielos." Yeshua 
+                    enseñó que la obediencia a los mandamientos del Padre es lo que importa, 
+                    no las tradiciones religiosas.
+                    <span class="reference">— Mateo 7:21</span>
+                </p>
+            </div>
+
+            <p style="text-align: center; margin-top: 2rem;">
+                <strong>שָׁלוֹם</strong><br>
+                Shalom - Paz<br><br>
+                Que el Eterno nos ayude a buscar Su voluntad en Sus mandamientos y a vivir 
+                conforme a Su palabra en cada estación del año.
+            </p>
+
+            <div class="source-note">
+                <strong>Fuente del contenido:</strong> Este material está basado en las enseñanzas 
+                y documentos del proyecto Jazak Veematz (Esfuérzate y sé valiente), donde se 
+                enseñan raíces hebreas y la incorporación de la Torá en la vida diaria. Las 
+                Escrituras son la fuente primaria de toda la información presentada.
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>
+            <strong>Jazak Veematz</strong> - Esfuérzate y sé valiente<br>
+           <a href="https://www.youtube.com/channel/UCg_lqfByNzFdAV6X5Wp2-Cw">@jazakveematz</a> 
+        </p>
+        <p style="margin-top: 1rem; font-size: 0.9rem; opacity: 0.8;">
+            Contenido basado en el estudio de las Escrituras desde la perspectiva de las Raíces Hebreas
+        </p>
+    </footer>
+
+    <script>
+        // Accordion functionality
+        document.querySelectorAll('.accordion-header').forEach(header => {
+            header.addEventListener('click', () => {
+                const item = header.parentElement;
+                const isActive = item.classList.contains('active');
+                
+                // Close all accordion items
+                document.querySelectorAll('.accordion-item').forEach(i => {
+                    i.classList.remove('active');
+                });
+                
+                // Open clicked item if it wasn't already open
+                if (!isActive) {
+                    item.classList.add('active');
+                }
+            });
+        });
+
+        // Smooth scroll for navigation links
+        document.querySelectorAll('nav a').forEach(link => {
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                const targetId = link.getAttribute('href');
+                const targetSection = document.querySelector(targetId);
+                const navHeight = document.querySelector('nav').offsetHeight;
+                
+                window.scrollTo({
+                    top: targetSection.offsetTop - navHeight - 20,
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>

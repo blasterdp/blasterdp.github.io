@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LA VERDAD SOBRE EL CERDO Y LOS CRISTIANOS | Antítesis</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #8B0000;
+            --secondary: #1a1a2e;
+            --accent: #d4af37;
+            --light: #f5f5f5;
+            --text: #333;
+            --card-bg: #ffffff;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Merriweather', Georgia, serif;
+            line-height: 1.8;
+            color: var(--text);
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+        }
+
+        header {
+            background: linear-gradient(180deg, rgba(139,0,0,0.95) 0%, rgba(139,0,0,0.8) 100%);
+            padding: 60px 20px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23d4af37' fill-opacity='0.1'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+            opacity: 0.5;
+        }
+
+        header h1 {
+            font-family: 'Cinzel', serif;
+            font-size: clamp(1.8rem, 5vw, 3rem);
+            color: #fff;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+            position: relative;
+            z-index: 1;
+            margin-bottom: 15px;
+        }
+
+        header .subtitle {
+            font-size: 1.2rem;
+            color: var(--accent);
+            position: relative;
+            z-index: 1;
+            font-style: italic;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .intro {
+            background: var(--card-bg);
+            border-radius: 15px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+            border-left: 5px solid var(--primary);
+        }
+
+        .intro h2 {
+            font-family: 'Cinzel', serif;
+            color: var(--primary);
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .intro p {
+            font-size: 1.1rem;
+            text-align: justify;
+        }
+
+        .section {
+            background: var(--card-bg);
+            border-radius: 15px;
+            padding: 35px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+            transition: transform 0.3s ease;
+        }
+
+        .section:hover {
+            transform: translateY(-5px);
+        }
+
+        .section h3 {
+            font-family: 'Cinzel', serif;
+            color: var(--secondary);
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--accent);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .section h3::before {
+            content: '✡';
+            color: var(--primary);
+            font-size: 1.2rem;
+        }
+
+        .bible-verse {
+            background: linear-gradient(135deg, #f9f9f9 0%, #ececec 100%);
+            border-left: 4px solid var(--primary);
+            padding: 20px 25px;
+            margin: 20px 0;
+            font-style: italic;
+            position: relative;
+        }
+
+        .bible-verse::before {
+            content: '"';
+            font-size: 3rem;
+            color: var(--primary);
+            position: absolute;
+            top: -10px;
+            left: 10px;
+            opacity: 0.3;
+        }
+
+        .bible-verse cite {
+            display: block;
+            margin-top: 10px;
+            font-weight: bold;
+            color: var(--primary);
+            font-style: normal;
+        }
+
+        .point {
+            display: flex;
+            gap: 15px;
+            margin: 20px 0;
+            padding: 15px;
+            background: #f8f8f8;
+            border-radius: 10px;
+        }
+
+        .point-number {
+            background: var(--primary);
+            color: white;
+            width: 35px;
+            height: 35px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+
+        .point-content h4 {
+            color: var(--secondary);
+            margin-bottom: 5px;
+        }
+
+        .warning-box {
+            background: linear-gradient(135deg, #fff3cd 0%, #ffeeba 100%);
+            border: 2px solid #ffc107;
+            border-radius: 10px;
+            padding: 25px;
+            margin: 25px 0;
+        }
+
+        .warning-box h4 {
+            color: #856404;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .science-box {
+            background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+            border: 2px solid #4caf50;
+            border-radius: 10px;
+            padding: 25px;
+            margin: 25px 0;
+        }
+
+        .science-box h4 {
+            color: #2e7d32;
+            margin-bottom: 15px;
+        }
+
+        .science-box ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .science-box li {
+            padding: 8px 0;
+            padding-left: 25px;
+            position: relative;
+        }
+
+        .science-box li::before {
+            content: '🔬';
+            position: absolute;
+            left: 0;
+        }
+
+        .conclusion {
+            background: linear-gradient(135deg, var(--secondary) 0%, #0f3460 100%);
+            color: white;
+            border-radius: 15px;
+            padding: 40px;
+            text-align: center;
+            margin-top: 40px;
+        }
+
+        .conclusion h3 {
+            color: var(--accent);
+            border-bottom: none;
+            justify-content: center;
+        }
+
+        .conclusion p {
+            font-size: 1.1rem;
+            margin-bottom: 20px;
+        }
+
+        .verse-highlight {
+            background: var(--primary);
+            color: white;
+            padding: 3px 8px;
+            border-radius: 3px;
+            font-weight: bold;
+        }
+
+        .counter-argument {
+            background: #fff5f5;
+            border: 2px solid var(--primary);
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+
+        .counter-argument .argument-title {
+            font-weight: bold;
+            color: var(--primary);
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        footer {
+            background: rgba(0,0,0,0.8);
+            color: #888;
+            text-align: center;
+            padding: 30px 20px;
+            margin-top: 40px;
+        }
+
+        footer p {
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px 15px;
+            }
+            
+            .section, .intro {
+                padding: 25px 20px;
+            }
+
+            header {
+                padding: 40px 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>¿PUEDEN LOS CRISTIANOS COMER CERDO?</h1>
+        <p class="subtitle">Una respuesta bíblica y científica a la pregunta que miles se hacen</p>
+    </header>
+
+    <div class="container">
+        <section class="intro">
+            <h2>⚠️ IMPORTANTE: Este mensaje va dirigido a quienes aman la verdad</h2>
+            <p>
+                El video que responde argumenta que los cristianos pueden comer cerdo porque "Jesús abolió la ley". 
+                Sin embargo, esta interpretación <strong>contradice directamente las palabras de Jesús</strong> y ha causado 
+                que millones de creyentes <strong>transgredan los mandamientos de Dios</strong> sin siquiera saberlo.
+            </p>
+            <p style="margin-top: 15px;">
+                En este documento demostraremos que:
+            </p>
+            <ul style="margin-left: 20px; margin-top: 10px;">
+                <li>Jesús NUNCA dijo que podemos comer cerdo</li>
+                <li>La ley de los alimentos sigue vigente</li>
+                <li>La ciencia confirma los peligros del cerdo</li>
+                <li>Jesús y sus apóstoles obedecieron la Torá</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h3>Jesús NUNCA Abrogó la Ley</h3>
+            
+            <div class="bible-verse">
+                <p>"No penséis que he venido para abrogar la ley o los profetas; no he venido para abrogar, sino para cumplir."</p>
+                <cite>Mateo 5:17</cite>
+            </div>
+
+            <div class="bible-verse">
+                <p>"Porque de cierto os digo que hasta que pasen el cielo y la tierra, ni una jota ni una tilde pasarán de la ley, hasta que todo se haya cumplido."</p>
+                <cite>Mateo 5:18</cite>
+            </div>
+
+            <div class="bible-verse">
+                <p>"De manera que cualquiera que quebrante uno de estos mandamientos muy pequeños, y así enseña a los hombres, muy pequeño será llamado en el reino de los cielos; mas cualquiera que los haga y los enseñe, este será llamado grande en el reino de los cielos."</p>
+                <cite>Mateo 5:19</cite>
+            </div>
+
+            <div class="counter-argument">
+                <div class="argument-title">❌ Respuesta al argumento del video:</div>
+                <p>El video afirma que Jesús "cumplió" la ley y por tanto la canceló. Esto es <strong>incorrecto</strong>. 
+                "Cumplir" significa completar el propósito de la ley, que es pointing hacia Cristo como el sacrificio final. 
+                <strong>Jesús nunca dijo que我们现在可以吃猪肉</strong>. Si eso fuera cierto, habríalo enseñado explícitamente.</p>
+            </div>
+        </section>
+
+        <section class="section">
+            <h3>Lo que Jesús REALMENTE dijo sobre los alimentos</h3>
+            
+            <div class="bible-verse">
+                <p>"No entendéis que todo lo de fuera que entra en el hombre, no le puede contaminar, porque no entra en su corazón, sino en el vientre, y sale a la letrina." (Declarando limpios todos los alimentos.)</p>
+                <cite>Marcos 7:18-19</cite>
+            </div>
+
+            <div class="warning-box">
+                <h4>⚠️ ¡CUIDADO! Esta es la interpretación más mal utilizada de la Biblia</h4>
+                <p>El video usa este versículo para claimar que Jesús permitió comer cerdo. Pero esto es un <strong>grave error de interpretación</strong>:</p>
+            </div>
+
+            <div class="point">
+                <span class="point-number">1</span>
+                <div class="point-content">
+                    <h4>El contexto: Tradición de los ancianos</h4>
+                    <p>Jesús estaba respondiendo a los fariseos que criticaban a sus discípulos por comer sin lavarse las manos. 
+                    <strong>Jesús estaba rechazando tradiciones humanas</strong>, no los mandamientos de Dios sobre alimentación.</p>
+                </div>
+            </div>
+
+            <div class="point">
+                <span class="point-number">2</span>
+                <div class="point-content">
+                    <h4>Jesús se refiere a los alimentos del ANTIGUO TESTAMENTO</h4>
+                    <p>Cuando Jesús dice "limpios todos los alimentos", se refiere a los alimentos que <strong>DIOS</strong> estableció como limpios en Levítico 11. 
+                    NO incluía al cerdo, que ya estaba prohibido.</p>
+                </div>
+            </div>
+
+            <div class="point">
+                <span class="point-number">3</span>
+                <div class="point-content">
+                    <h4>Jesús define qué ES la contaminación</h4>
+                    <p>Inmediatamente después, Jesús dice qué contamina al hombre: <strong>"los malos pensamientos, adulterios, fornicaciones, hurtos, avaricias, maldades, engaño"</strong>. 
+                    ¡Estos son los mandamientos de Dios que NO pueden ser cancelados!</p>
+                </div>
+            </div>
+
+            <div class="counter-argument">
+                <div class="argument-title">❌ Respuesta al argumento del video:</div>
+                <p>Si la comida no nos contamina, ¿por qué existen las enfermedades alimentarias? ¿Por qué la ciencia confirma que el cerdo causa enfermedades? 
+                <strong>Jesús no podía mentir</strong>. El contexto era sobre tradiciones humanas, no sobre los mandamientos divinos sobre alimentación.</p>
+            </div>
+        </section>
+
+        <section class="section">
+            <h3>La Visión de Pedro: NO Era Sobre Comida</h3>
+            
+            <div class="bible-verse">
+                <p>"Mas a mí me ha mostrado Dios que a ningún hombre llame común o inmundo."</p>
+                <cite>Hechos 10:28</cite>
+            </div>
+
+            <p>El video usa Hechos 10 para claimar que Pedro pudo comer animales inmundos. Pero esto es <strong>incorrecto</strong>:</p>
+
+            <div class="point">
+                <span class="point-number">1</span>
+                <div class="point-content">
+                    <h4>Pedro respondió: "Señor, no"</h4>
+                    <p>Cuando la voz dijo "mata y come", Pedro respondió: <strong>"Señor, no; porque nunca cosa común o inmunda he comido jamás"</strong>. 
+                    Esto demuestra que Pedro NUNCA había comido animales immundos y no tenía intención de empezar.</p>
+                </div>
+            </div>
+
+            <div class="point">
+                <span class="point-number">2</span>
+                <div class="point-content">
+                    <h4>La visión era sobre PERSONAS, no comida</h4>
+                    <p>Pedro misma interpretación: "Ustedes sabéis cuán abominable es para un varón judío juntarse o acercarse a un extranjero... 
+                    pero a mí me ha mostrado Dios que a ningún hombre llame común o inmundo."</p>
+                </div>
+            </div>
+
+            <div class="point">
+                <span class="point-number">3</span>
+                <div class="point-content">
+                    <h4>La visión simbolizaba a los GENTILES</h4>
+                    <p>El lienzo con animales representaba a las naciones gentiles que ahora podían recibir el evangelio. 
+                    NO era una autorización para comer cerdo.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <h3>Jesús y los Apóstoles: Ejemplo de Obediencia</h3>
+            
+            <div class="point">
+                <span class="point-number">✓</span>
+                <div class="point-content">
+                    <h4>Jesús NUNCA comió cerdo</h4>
+                    <p>El video reconoce que "Jesús no comía cerdo". Si Jesús, siendo perfecto, no comía cerdo, 
+                    ¿por qué nosotros, siendo pecadores, deberíamos comerlo?</p>
+                </div>
+            </div>
+
+            <div class="point">
+                <span class="point-number">✓</span>
+                <div class="point-content">
+                    <h4>Los apóstoles guardaban el Shabat</h4>
+                    <p>Los primeros cristianos, incluyendo Pablo, guardaban el séptimo día (Shabat) y las fiestas bíblicas. 
+                    Esto demuestra que la ley NO fue cancelada.</p>
+                </div>
+            </div>
+
+            <div class="point">
+                <span class="point-number">✓</span>
+                <div class="point-content">
+                    <h4>Pablo enseñó a guardar la ley</h4>
+                    <p>Pablo dijo: "¿Luego por la fe invalidamos la ley? En ninguna manera, sino que confirmamos la ley." (Romanos 3:31)</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <h3>La Ciencia CONFIRMA la Prohibición Bíblica</h3>
+            
+            <div class="science-box">
+                <h4>🦠 Peligros del Consumo de Cerdo Documentados Científicamente</h4>
+                <ul>
+                    <li><strong>Enfermedades zoonóticas:</strong> El Ébola, SARS, H1N1 y el Coronavirus son causados por animales que la Biblia prohíbe (incluido el cerdo)</li>
+                    <li><strong>La OMS clasifica la carne procesada de cerdo como carcinógena:</strong> El jamón, tocino y salchichas aumentan el riesgo de cáncer</li>
+                    <li><strong>69% de las muestras de carne de cerdo están contaminadas</strong> con bacteria Yersinia enterocolítica (Consumer Reports)</li>
+                    <li><strong>Triquinosis:</strong> Causada por larvas del cerdo, puede ser mortal</li>
+                    <li><strong>Cisticercosis:</strong> Parásito del cerdo que afecta a los humanos</li>
+                    <li><strong>El cerdo es carroñero:</strong> Come basura, desperdicios, animales muertos y excremento</li>
+                    <li><strong>No suda:</strong> Almacena toxinas en su grasa que luego consumimos</li>
+                </ul>
+            </div>
+
+            <div class="bible-verse">
+                <p>"Uns tras otros, los que comen carne de cerdo y abominación y ratón, juntamente serán talados, dice Jehovah."</p>
+                <cite>Isaías 66:17</cite>
+            </div>
+        </section>
+
+        <section class="section">
+            <h3>¿Por qué Dios Prohibió el Cerdo?</h3>
+            
+            <p>La prohibición no era arbitraria. Dios nos ama y quiere protegernos:</p>
+
+            <div class="point">
+                <span class="point-number">1</span>
+                <div class="point-content">
+                    <h4>Santidad y Separación</h4>
+                    <p>"Santifícense, pues, y sean santos; porque yo soy santo." (Levítico 11:44). 
+                    Dios quiere que su pueblo sea diferente de las naciones.</p>
+                </div>
+            </div>
+
+            <div class="point">
+                <span class="point-number">2</span>
+                <div class="point-content">
+                    <h4>Protección de la Salud</h4>
+                    <p>Nuestro cuerpo es "templo del Espíritu Santo" (1 Corintios 6:19). 
+                    Dios sabe lo que nos hace daño, aunque la ciencia tarde milenios en descubrirlo.</p>
+                </div>
+            </div>
+
+            <div class="point">
+                <span class="point-number">3</span>
+                <div class="point-content">
+                    <h4>Obediencia y Amor</h4>
+                    <p>"En esto conoceremos que amamos a los hijos de Dios, cuando amemos a Dios y guardemos sus mandamientos." (1 Juan 5:2)</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="conclusion">
+            <h3>✝️ CONCLUSIÓN: La Verdad Sobre el Cerdo</h3>
+            <p>
+                <strong>Jesús nunca permitió comer cerdo.</strong> Los argumentos del video son interpretaciones incorrectas 
+                que contradicen las palabras claras de Jesús en Mateo 5:17-19.
+            </p>
+            <p>
+                La ley de Dios sobre los alimentos en Levítico 11 <strong>NUNCA fue cancelada</strong>. 
+                Jesús vino a cumplir la ley, no a abrogarla.
+            </p>
+            <p style="margin-top: 25px; font-size: 1.2rem;">
+                Si <strong>Jesús mismo no comía cerdo</strong> siendo perfecto, ¿por qué nosotros, que somos pecadores, 
+                creemos que podemos comerlo?
+            </p>
+            <div style="margin-top: 30px; padding: 20px; background: rgba(255,255,255,0.1); border-radius: 10px;">
+                <p style="font-style: italic;">
+                    "Este es el amor de Dios, que guardemos sus mandamientos; y sus mandamientos no son gravosos."<br>
+                    <strong>1 Juan 5:3</strong>
+                </p>
+            </div>
+        </section>
+
+        <section class="section" style="text-align: center; background: linear-gradient(135deg, #f8f8f8 0%, #fff 100%);">
+            <h3>📜 Referencias Bibliográficas</h3>
+            <div style="text-align: left; margin-top: 20px;">
+                <p><strong>Levítico 11:</strong> Animales limpios e inmundos</p>
+                <p><strong>Deuteronomio 14:</strong> Leyes dietéticas detalladas</p>
+                <p><strong>Mateo 5:17-19:</strong> Jesús y la ley</p>
+                <p><strong>Marcos 7:14-23:</strong> El contexto real de "limpios todos los alimentos"</p>
+                <p><strong>Hechos 10:</strong> La visión de Pedro explicada por Pedro mismo</p>
+                <p><strong>Isaías 66:17:</strong> La abominación del cerdo en el juicio final</p>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>© 2024 - Este material fue creado con el propósito de escudriñar las Escrituras y buscar la verdad</p>
+        <p style="margin-top: 10px;">"Escudriña las Escrituras... ellas testifican de mí" - Juan 5:39</p>
+    </footer>
+</body>
+</html>
