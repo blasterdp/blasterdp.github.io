@@ -1,18 +1,32 @@
 // Configuración de las presentaciones disponibles
 const presentations = [
     {
+        id: 'Planos_del_Tabernáculo_Espiritual',
+        title: 'Planos del Tabernáculo Espiritual',
+        description: 'La arquitectura del Alma.',
+        cover: 'slides/Planos_del_Tabernáculo_Espiritual/01.webp',
+        slides: Array.from({length: 15}, (_, i) => `slides/Planos_del_Tabernáculo_Espiritual/${String(i + 1).padStart(2, '0')}.webp`)
+    },
+    {
+        id: 'LEVANTANDO_NUESTRA_VIDA_ESPIRITUAL',
+        title: 'LEVANTANDO NUESTRA VIDA ESPIRITUAL - Jazak VeEmatz',
+        description: 'La arquitectura del Alma.',
+        cover: 'slides/LEVANTANDO_NUESTRA_VIDA_ESPIRITUAL/01.webp',
+        slides: Array.from({length: 30}, (_, i) => `slides/LEVANTANDO_NUESTRA_VIDA_ESPIRITUAL/${String(i + 1).padStart(2, '0')}.webp`)
+    },
+    {
         id: 'pekudei',
         title: 'El Plan Divino',
         description: 'Estudio bíblico sobre el Plan divino en el Mishkan.',
         cover: 'slides/pekudei/01.webp',
-        slides: Array.from({length: 14}, (_, i) => `slides/pekudei/${String(i + 1).padStart(2, '0')}.webp`)
+        slides: Array.from({length: 15}, (_, i) => `slides/pekudei/${String(i + 1).padStart(2, '0')}.webp`)
     },
     {
         id: 'la_profecía_de_las_12_tribus',
         title: 'La Profecía de las 12 Tribus',
         description: 'Estudio bíblico de las 12 tribus.',
         cover: 'slides/la_profecía_de_las_12_tribus/01.webp',
-        slides: Array.from({length: 14}, (_, i) => `slides/la_profecía_de_las_12_tribus/${String(i + 1).padStart(2, '0')}.webp`)
+        slides: Array.from({length: 15}, (_, i) => `slides/la_profecía_de_las_12_tribus/${String(i + 1).padStart(2, '0')}.webp`)
     },
     {
         id: 'el_mesias_revelado_en_el_mishkan',
