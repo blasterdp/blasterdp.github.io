@@ -1,6 +1,13 @@
 // Configuración de las presentaciones disponibles
 const presentations = [
     {
+        id: 'Presentación_Anatomía_de_la_redención',
+        title: 'Presentación Anatomía de la redención',
+        description: 'La arquitectura del Alma.',
+        cover: 'slides/Presentación_Anatomía_de_la_redención/01.webp',
+        slides: Array.from({length: 15}, (_, i) => `slides/Presentación_Anatomía_de_la_redención/${String(i + 1).padStart(2, '0')}.webp`)
+    },
+    {
         id: 'Planos_del_Tabernáculo_Espiritual',
         title: 'Planos del Tabernáculo Espiritual',
         description: 'La arquitectura del Alma.',
