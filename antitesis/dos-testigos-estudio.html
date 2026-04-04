@@ -1,0 +1,1147 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Los Dos Testigos | Estudio Profético | Jazak Veematz</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a365d;
+            --secondary: #744210;
+            --accent: #d69e2e;
+            --bg-light: #f7fafc;
+            --bg-dark: #1a202c;
+            --text-dark: #2d3748;
+            --text-light: #e2e8f0;
+            --card-bg: #ffffff;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Open Sans', sans-serif;
+            background-color: var(--bg-light);
+            color: var(--text-dark);
+            line-height: 1.7;
+        }
+
+        header {
+            background: linear-gradient(135deg, #2c5282 0%, #1a365d 50%, #744210 100%);
+            color: white;
+            padding: 4rem 2rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+            opacity: 0.5;
+        }
+
+        header h1 {
+            font-family: 'Cinzel', serif;
+            font-size: 2.8rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        header h2 {
+            font-family: 'Cinzel', serif;
+            font-size: 1.3rem;
+            font-weight: 400;
+            opacity: 0.95;
+            margin-bottom: 1.5rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+            position: relative;
+            z-index: 1;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .hebrew-accent {
+            font-family: 'Cinzel', serif;
+            color: var(--accent);
+        }
+
+        nav {
+            background-color: var(--bg-dark);
+            padding: 1rem 2rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: var(--shadow);
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 2rem;
+        }
+
+        nav a {
+            color: var(--text-light);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+        }
+
+        nav a:hover {
+            color: var(--accent);
+            background-color: rgba(255,255,255,0.1);
+        }
+
+        main {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        section {
+            margin-bottom: 4rem;
+        }
+
+        h2 {
+            font-family: 'Cinzel', serif;
+            font-size: 1.8rem;
+            color: var(--primary);
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.75rem;
+            border-bottom: 3px solid var(--accent);
+            display: inline-block;
+        }
+
+        h3 {
+            font-family: 'Cinzel', serif;
+            font-size: 1.4rem;
+            color: var(--primary);
+            margin: 2rem 0 1rem;
+        }
+
+        p {
+            margin-bottom: 1rem;
+            text-align: justify;
+        }
+
+        .intro-section {
+            background: linear-gradient(135deg, #1a365d 0%, #2c5282 100%);
+            color: white;
+            padding: 3rem;
+            border-radius: 12px;
+            margin-bottom: 3rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .intro-section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23ffffff' fill-opacity='0.03' fill-rule='evenodd'%3E%3Cpath d='M0 40L40 0H20L0 20M40 40V20L20 40'/%3E%3C/g%3E%3C/svg%3E");
+        }
+
+        .intro-section h2 {
+            color: white;
+            border-bottom-color: var(--accent);
+        }
+
+        .intro-section p {
+            position: relative;
+            z-index: 1;
+            font-size: 1.1rem;
+        }
+
+        .scripture-box {
+            background-color: #ebf8ff;
+            border-left: 4px solid var(--primary);
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .scripture-box .hebrew {
+            font-family: 'Cinzel', serif;
+            color: var(--accent);
+            font-size: 1.2rem;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .scripture-box .text {
+            font-style: italic;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .scripture-box .reference {
+            font-style: normal;
+            font-weight: 600;
+            color: var(--primary);
+            font-size: 0.95rem;
+        }
+
+        .highlight-box {
+            background: linear-gradient(135deg, #faf5ff 0%, #fffaf0 100%);
+            border: 2px solid var(--accent);
+            padding: 2rem;
+            margin: 2rem 0;
+            border-radius: 12px;
+        }
+
+        .highlight-box h3 {
+            color: var(--accent);
+            text-align: center;
+            margin-top: 0;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: var(--shadow);
+            margin-bottom: 1.5rem;
+        }
+
+        .card h3 {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin-top: 0;
+        }
+
+        .card-icon {
+            font-size: 1.5rem;
+        }
+
+        .card.olive {
+            border-left: 5px solid #276749;
+        }
+
+        .card.olive h3 {
+            color: #276749;
+        }
+
+        .card.moses {
+            border-left: 5px solid #2b6cb0;
+        }
+
+        .card.moses h3 {
+            color: #2b6cb0;
+        }
+
+        .card.elijah {
+            border-left: 5px solid #c05621;
+        }
+
+        .card.elijah h3 {
+            color: #c05621;
+        }
+
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+
+        @media (max-width: 768px) {
+            .grid-2 {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .timeline {
+            position: relative;
+            padding: 2rem 0;
+            margin: 2rem 0;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 0;
+            bottom: 0;
+            width: 4px;
+            background: linear-gradient(to bottom, var(--accent), var(--primary));
+            transform: translateX(-50%);
+        }
+
+        @media (max-width: 768px) {
+            .timeline::before {
+                left: 20px;
+            }
+        }
+
+        .timeline-item {
+            position: relative;
+            width: 50%;
+            padding: 1.5rem;
+        }
+
+        .timeline-item:nth-child(odd) {
+            left: 0;
+            padding-right: 3rem;
+        }
+
+        .timeline-item:nth-child(even) {
+            left: 50%;
+            padding-left: 3rem;
+        }
+
+        @media (max-width: 768px) {
+            .timeline-item {
+                width: 100%;
+                left: 0 !important;
+                padding-left: 4rem !important;
+                padding-right: 1rem !important;
+            }
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            background: var(--accent);
+            border: 4px solid white;
+            border-radius: 50%;
+            top: 1.5rem;
+            box-shadow: var(--shadow);
+            z-index: 1;
+        }
+
+        .timeline-item:nth-child(odd)::before {
+            right: -12px;
+        }
+
+        .timeline-item:nth-child(even)::before {
+            left: -12px;
+        }
+
+        @media (max-width: 768px) {
+            .timeline-item::before {
+                left: 10px !important;
+                right: auto !important;
+            }
+        }
+
+        .timeline-content {
+            background: var(--card-bg);
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+        }
+
+        .timeline-content h4 {
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .quote-section {
+            background: var(--bg-dark);
+            color: white;
+            padding: 3rem;
+            margin: 3rem 0;
+            text-align: center;
+            border-radius: 12px;
+        }
+
+        .quote-section blockquote {
+            font-size: 1.2rem;
+            font-style: italic;
+            max-width: 800px;
+            margin: 0 auto 1.5rem;
+            line-height: 1.8;
+        }
+
+        .quote-section cite {
+            color: var(--accent);
+            font-style: normal;
+        }
+
+        .q-a-section {
+            margin: 2rem 0;
+        }
+
+        .question {
+            background: var(--card-bg);
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            box-shadow: var(--shadow);
+            border-left: 4px solid var(--accent);
+        }
+
+        .question h4 {
+            color: var(--primary);
+            font-size: 1.1rem;
+            margin-bottom: 0.75rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .question-icon {
+            background: var(--accent);
+            color: white;
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.9rem;
+        }
+
+        .verses-list {
+            background: #f0f4f8;
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin: 1.5rem 0;
+        }
+
+        .verses-list h4 {
+            color: var(--primary);
+            margin-bottom: 1rem;
+        }
+
+        .verse-item {
+            padding: 0.75rem 0;
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        .verse-item:last-child {
+            border-bottom: none;
+        }
+
+        .verse-ref {
+            font-weight: 600;
+            color: var(--accent);
+            display: block;
+            margin-bottom: 0.25rem;
+        }
+
+        footer {
+            background-color: var(--bg-dark);
+            color: var(--text-light);
+            padding: 3rem 2rem;
+            text-align: center;
+        }
+
+        footer p {
+            text-align: center;
+        }
+
+        .source-note {
+            background-color: #f0f4f8;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-top: 1rem;
+            font-size: 0.9rem;
+            color: #4a5568;
+        }
+
+        .key-point {
+            display: flex;
+            gap: 1rem;
+            margin: 1.5rem 0;
+            align-items: flex-start;
+        }
+
+        .key-point-icon {
+            background: var(--accent);
+            color: white;
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            flex-shrink: 0;
+            font-size: 1rem;
+        }
+
+        .key-point-content h4 {
+            color: var(--primary);
+            margin-bottom: 0.25rem;
+        }
+
+        .israel-division {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin: 2rem 0;
+            flex-wrap: wrap;
+        }
+
+        .house-card {
+            background: var(--card-bg);
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: var(--shadow);
+            text-align: center;
+            width: 280px;
+        }
+
+        .house-card.judah {
+            border-top: 5px solid #9b2c2c;
+        }
+
+        .house-card.ephraim {
+            border-top: 5px solid #2b6cb0;
+        }
+
+        .house-card h4 {
+            font-family: 'Cinzel', serif;
+            font-size: 1.3rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .house-card.judah h4 {
+            color: #9b2c2c;
+        }
+
+        .house-card.ephraim h4 {
+            color: #2b6cb0;
+        }
+
+        .house-card .symbol {
+            font-size: 2.5rem;
+            margin: 1rem 0;
+        }
+
+        .union-arrow {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            color: var(--accent);
+            margin: 1rem 0;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2rem;
+            }
+
+            h2 {
+                font-size: 1.5rem;
+            }
+
+            .israel-division {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1><span class="hebrew-accent">שְׁנֵי הָעֵדִים</span></h1>
+        <h2>Los Dos Testigos</h2>
+        <p>Estudio profético sobre la identidad simbólica de los testigos de Apocalipsis 11</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#introduccion">Introducción</a></li>
+            <li><a href="#identidad">Identidad</a></li>
+            <li><a href="#simbolismo">Simbolismo</a></li>
+            <li><a href="#espiritu">Espíritu de Moises y Elias</a></li>
+            <li><a href="#citas">Citas Bíblicas</a></li>
+            <li><a href="#preguntas">Preguntas</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="introduccion" class="intro-section">
+            <h2>¿Quiénes Son los Dos Testigos?</h2>
+            <p>
+                La identificación de los dos testigos como la representación de la <strong>Casa de Judá</strong> 
+                y la <strong>Casa de Efraín</strong> se fundamenta en una interpretación simbólica del libro 
+                de Apocalipsis. Esta perspectiva busca comprender el propósito profético de estos testigos 
+                en el contexto del plan redentor de Elohim para toda Israel.
+            </p>
+        </section>
+
+        <section id="identidad">
+            <h2>La Identidad de los Dos Testigos</h2>
+
+            <p>
+                Los dos testigos de Apocalipsis 11 son descritos de manera simbólica, no literal. 
+                Su identidad está intrínsecamente ligada a la historia y profecía de Israel como nación 
+                dividida.
+            </p>
+
+            <div class="scripture-box">
+                <span class="hebrew">שְׁנַיִם זֵיתִים וּשְׁנַיִם מְנוֹרוֹת</span>
+                <span class="text">"Estos testigos son los dos olivos, y los dos candeleros que están en pie delante del ELOHIM de la tierra."</span>
+                <span class="reference">— Apocalipsis 11:4</span>
+            </div>
+
+            <h3>La División Histórica de Israel</h3>
+
+            <div class="israel-division">
+                <div class="house-card judah">
+                    <h4>Casa de Judá</h4>
+                    <div class="symbol">👑</div>
+                    <p>Los judíos actuales que han mantenido la identidad nacional y religiosa a través de los siglos</p>
+                    <p><strong>Característica:</strong> Han guardado la Torá y las tradiciones del pueblo</p>
+                </div>
+
+                <div class="house-card ephraim">
+                    <h4>Casa de Efraín</h4>
+                    <div class="symbol">🌿</div>
+                    <p>Los dispersos entre las naciones que están regresando al pacto a través de la fe en Yeshúa</p>
+                    <p><strong>Característica:</strong> Han reconocido al Mesías pero están restaurando la identidad hebrea</p>
+                </div>
+            </div>
+
+            <div class="union-arrow">
+                ↓ Juntos Testifican ↓
+            </div>
+
+            <div class="highlight-box" style="text-align: center;">
+                <h3>Los Dos Testigos</h3>
+                <p>
+                    Representan la <strong>unión espiritual</strong> de las dos casas de Israel, 
+                    dando un testimonio conjunto ante las naciones en los tiempos finales.
+                </p>
+            </div>
+
+            <div class="key-point">
+                <span class="key-point-icon">!</span>
+                <div class="key-point-content">
+                    <h4>Fundamento Clave</h4>
+                    <p>
+                        Al haber <strong>dos olivos</strong> y <strong>dos candeleros</strong>, se representa 
+                        la totalidad de Israel en su condición actual de división, pero con el propósito de 
+                        ser restaurada y unificada.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section id="simbolismo">
+            <h2>El Simbolismo de los Olivos y Candeleros</h2>
+
+            <div class="grid-2">
+                <div class="card olive">
+                    <h3><span class="card-icon">🫒</span> Los Dos Olivos</h3>
+                    <p>
+                        El olivo es el <strong>símbolo por excelencia de Israel</strong> en las Escrituras. 
+                        Así como el olivo produce aceite para la Menoráh y alimento para el pueblo, Israel 
+                        fue establecido para ser una luz para las naciones y producir los frutos del Espíritu.
+                    </p>
+                    <p>
+                        Al haber dos olivos, simbolizan la división histórica de la nación en la 
+                        <strong>Casa de Judá</strong> (el reino del sur) y la <strong>Casa de Israel/Efraín</strong> 
+                        (el reino del norte, deportado y disperso).
+                    </p>
+                    <div class="scripture-box" style="margin-top: 1rem;">
+                        <span class="text">"11 Entonces pregunté al ángel: «¿Qué significan estos dos olivos a la derecha y a la izquierda del candelabro?». 12 Y también pregunté: «¿Qué significan estas dos ramas de olivo junto a los dos tubos de oro por los que fluye el aceite dorado?».
+
+13 El ángel me preguntó: «¿Acaso no sabes lo que significan?». Entonces respondí: «No, señor mío». 14 Así que el ángel me explicó: «Estos son los dos ungidos que están al servicio del Señor de toda la tierra»."</span>
+                        <span class="reference">— Zacarias 4:11-14 (conexión profética)</span>
+                    </div>
+                </div>
+
+                <div class="card olive">
+                    <h3><span class="card-icon">🕯️</span> Los Dos Candeleros (Menorot)</h3>
+                    <p>
+                        El candelero (<strong>Menoráh</strong>) representa a la congregación o cuerpo del Mesías. 
+                        En el contexto profético, representa la reunión de creyentes que reconocen tanto la Torá 
+                        como al Mesías Yeshúa.
+                    </p>
+                    <p>
+                        La interpretación integra ambos símbolos (olivos y candeleros) para indicar que 
+                        <strong>Israel y la congregación del Mesías son el mismo grupo</strong> — 
+                        las dos casas llegando a un entendimiento pleno de su identidad común.
+                    </p>
+                </div>
+            </div>
+
+            <h3>La Misión de los Testigos</h3>
+
+            <p>
+                La función de estos "testigos" es profetizar y llevar al mundo un mensaje de 
+                <strong>arrepentimiento</strong>. Para ser estos testigos, ambos grupos deben llegar 
+                a un entendimiento completo de su identidad:
+            </p>
+
+            <div class="highlight-box">
+                <h3>Requisitos para el Testimonio</h3>
+                <div class="key-point">
+                    <span class="key-point-icon">1</span>
+                    <div class="key-point-content">
+                        <h4>Reconocer la Torá como la Verdad</h4>
+                        <p>Ambos grupos deben abrazar la instrucción divina contenida en las Escrituras Hebreas.</p>
+                    </div>
+                </div>
+                <div class="key-point">
+                    <span class="key-point-icon">2</span>
+                    <div class="key-point-content">
+                        <h4>Reconocer a Yeshúa como el Único Redentor</h4>
+                        <p>Aceptar que el Mesías prometido es Yeshúa, quien cumple todas las profecías.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="espiritu">
+            <h2>El Espíritu de Moisés y Elías</h2>
+
+            <p>
+                No se trata de las personas literales de Moisés y Elías, sino de <strong>grupos que operan 
+                con su "espíritu"</strong>. Esta interpretación reconoce que ciertos ministerios y funciones 
+                espirituales están asociados con estos grandes profetas.
+            </p>
+
+            <div class="grid-2">
+                <div class="card elijah">
+                    <h3><span class="card-icon">🔥</span> El Espíritu de Elías</h3>
+                    <p>
+                        El espíritu de Elías representa el <strong>llamado al arrepentimiento</strong> y el 
+                        anuncio del regreso del Mesías. Este espíritu motiva a las personas a abandonar sus 
+                        caminos pecaminosos y prepararse para la venida del Señor.
+                    </p>
+                    <h4>Características:</h4>
+                    <ul style="margin-left: 1.5rem; margin-top: 0.5rem;">
+                        <li>Predicación de teshuvá (arrepentimiento)</li>
+                        <li>Preparación del camino del Señor</li>
+                        <li>Restauración de la identidad hebrea</li>
+                        <li>Anuncio del reino venidero</li>
+                    </ul>
+                    <div class="scripture-box" style="margin-top: 1rem;">
+                        <span class="text">"El dirá: He aquí, yo os envío el profeta Elías, antes que venga el día de YHWH, grande y terrible."</span>
+                        <span class="reference">— Malaquías 4:5</span>
+                    </div>
+                </div>
+
+                <div class="card moises">
+                    <h3><span class="card-icon">📜</span> El Espíritu de Moisés</h3>
+                    <p>
+                        El espíritu de Moisés asegura que la <strong>profecía y el testimonio sean 
+                        conformes a la instrucción de la Torá</strong>. Este espíritu garantiza que el 
+                        mensaje sea fundamentado en las Escrituras y no en tradiciones humanas.
+                    </p>
+                    <h4>Características:</h4>
+                    <ul style="margin-left: 1.5rem; margin-top: 0.5rem;">
+                        <li>Enseñanza de la Torá</li>
+                        <li>Establecimiento de mandamientos</li>
+                        <li>Testimonio conforme a las Escrituras</li>
+                        <li>Protección contra la apostasía</li>
+                    </ul>
+                    <div class="scripture-box" style="margin-top: 1rem;">
+                        <span class="text">"Y se levantó Moisés y fue tras ellos... y les enseñó los estatutos de Elohim y sus leyes."</span>
+                        <span class="reference">— Éxodo 18:20</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="quote-section">
+                <blockquote>
+                    "Los dos testigos operan con el espíritu de Elías para llamar al arrepentimiento 
+                    y con el espíritu de Moisés para asegurar que todo sea conforme a la Torá. 
+                    Juntos representan la combinación perfecta del mensaje profético y la correcta 
+                    interpretación de las Escrituras."
+                </blockquote>
+                <cite>— Interpretación basada en las fuentes proféticas</cite>
+            </div>
+        </section>
+
+        <section id="cronologia">
+            <h2>Cronología del Testimonio</h2>
+
+            <p>
+                La labor de los dos testigos durante los <strong>1,260 días</strong> (tres años y medio) 
+                de la primera etapa de la tribulación busca generar un Gran Despertar Espiritual.
+            </p>
+
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <h4>Día 1 - Inicio del Testimonio</h4>
+                        <p>
+                            Los dos testigos comienzan a profetizar. Casa de Judá y Casa de Efraín 
+                            se unen para dar un testimonio conjunto ante las naciones.
+                        </p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <h4>Días 1-1,260</h4>
+                        <p>
+                            Período de predicación profética. El espíritu de Elías llama al 
+                            arrepentimiento mientras el espíritu de Moisés enseña la Torá.
+                        </p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <h4>Día 1,260 - Sello de los 144,000</h4>
+                        <p>
+                            Como resultado del testimonio, 12,000 de cada tribu de Israel 
+                            son sellados y reconocen su identidad.
+                        </p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <h4>Después del Testimonio</h4>
+                        <p>
+                            Los enemigos intentan destruirlos, pero la bestia finalmente 
+                            los vence por 3.5 días adicionales.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <h3>El Resultado: Los 144,000</h3>
+
+            <p>
+                El fruto directo del testimonio de los dos testigos es el <strong>sellamiento de un 
+                remanente</strong> de todas las tribus de Israel. Este grupo está conformado por 
+                <strong>12,000 personas de cada una de las doce tribus</strong>.
+            </p>
+
+            <div class="scripture-box">
+                <span class="hebrew">מָסוּר עַל הַמֵּאָה וְאַרְבָּעִים וְאַרְבַּעַת אֲלָפִים</span>
+                <span class="text">"Y oí el número de los sellados: ciento cuarenta y cuatro mil sellados de todas las tribus de los hijos de Israel."</span>
+                <span class="reference">— Apocalipsis 7:4</span>
+            </div>
+
+            <div class="highlight-box">
+                <h3>Características de los 144,000</h3>
+                <p>
+                    Son creyentes que han reconocido su identidad como parte de Israel a través de 
+                    Yeshúa. Han pasado de ser "gentiles" a comprender que pertenecen a las 
+                    doce tribus del pacto. Son el resultado del <strong>despertar espiritual</strong> 
+                    generado por el testimonio de los dos testigos.
+                </p>
+            </div>
+        </section>
+
+        <section id="conexion">
+            <h2>Conexión con Apocalipsis 12 y 14</h2>
+
+            <h3>La Mujer Vestida de Sol</h3>
+
+            <p>
+                Se establece un vínculo entre el testimonio de los dos testigos y la descendencia 
+                de la mujer de Apocalipsis 12:
+            </p>
+
+            <div class="scripture-box">
+                <span class="text">"Mas la Jerusalén de arriba, la cual es madre de todos nosotros, es libre."</span>
+                <span class="reference">— Gálatas 4:26</span>
+            </div>
+
+            <p>
+                La mujer vestida de sol representa a la <strong>Jerusalén celestial</strong>, y su 
+                descendencia representa al pueblo de Elohim tanto del antiguo como del nuevo pacto.
+            </p>
+
+            <div class="scripture-box">
+                <span class="text">"Y se llenó de ira el dragón contra la mujer; y se fue a hacer guerra contra el resto de la descendencia de ella..."</span>
+                <span class="reference">— Apocalipsis 12:17</span>
+            </div>
+
+            <p>
+                Este "resto de la descendencia" es identificado como los <strong>144,000 sellados</strong>, 
+                resultado del despertar espiritual generado por el testimonio de los dos testigos.
+            </p>
+
+            <h3>Los Santos de Apocalipsis 14</h3>
+
+            <div class="scripture-box">
+                <span class="text">"Aquí está la paciencia (perseverancia) de los santos, los que guardan los mandamientos de ELOHIM (Torá) y la fe de YESHÚA."</span>
+                <span class="reference">— Apocalipsis 14:12</span>
+            </div>
+
+            <p>
+                Este versículo une los dos pilares del testimonio de los testigos:
+            </p>
+
+            <div class="grid-2">
+                <div class="card">
+                    <h3>La Obediencia a la Torá</h3>
+                    <p>
+                        Guardar los mandamientos de Elohim implica vivir conforme a la instrucción 
+                        divina revelada en las Escrituras Hebreas.
+                    </p>
+                </div>
+                <div class="card">
+                    <h3>La Fe en Yeshúa</h3>
+                    <p>
+                        Reconocer que Yeshúa es el Mesías prometido, el Redentor que cumple 
+                        las profecías del antiguo pacto.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section id="citas">
+            <h2>Citas Bíblicas que Fundamentan Esta Interpretación</h2>
+
+            <div class="verses-list">
+                <h4>📖 Apocalipsis 11:3-4 — La Descripción Profética</h4>
+                
+                <div class="verse-item">
+                    <span class="verse-ref">Apocalipsis 11:3</span>
+                    <p>"Y daré a mis dos testigos que profeticen por mil doscientos sesenta días, vestidos de cilicio."</p>
+                </div>
+                
+                <div class="verse-item">
+                    <span class="verse-ref">Apocalipsis 11:4</span>
+                    <p>"Estos testigos son los dos olivos, y los dos candeleros que están en pie delante del ELOHIM de la tierra."</p>
+                </div>
+            </div>
+
+            <div class="verses-list">
+                <h4>📖 El Espíritu de Elías — Malaquías 4:5-6</h4>
+                
+                <div class="verse-item">
+                    <span class="verse-ref">Malaquías 4:5</span>
+                    <p>"He aquí, yo os envío el profeta Elías, antes que venga el día de YHWH, grande y terrible."</p>
+                </div>
+                
+                <div class="verse-item">
+                    <span class="verse-ref">Malaquías 4:6</span>
+                    <p>"Y él volverá el corazón de los padres a los hijos, y el corazón de los hijos a sus padres..."</p>
+                </div>
+            </div>
+
+            <div class="verses-list">
+                <h4>📖 La Unión de Judá y Efraín — Ezequiel 37:15-22</h4>
+                
+                <div class="verse-item">
+                    <span class="verse-ref">Ezequiel 37:15-17</span>
+                    <p>"La palabra de YHWH vino a mí... Toma una vara, y escribe en ella: Para Judá, y con los hijos de Israel sus compañeros. Toma después otra vara, y escribe en ella: Para José, vara de Efraín, y toda la casa de Israel sus compañeros. Júntalos luego uno con otro en una sola vara..."</p>
+                </div>
+                
+                <div class="verse-item">
+                    <span class="verse-ref">Ezequiel 37:22</span>
+                    <p>"Y los haré una nación en la tierra, en los montes de Israel; y un rey será para todos ellos... Y no serán ya dos naciones, ni serán más divididos en dos reinos."</p>
+                </div>
+            </div>
+
+            <div class="verses-list">
+                <h4>📖 Los 144,000 — Apocalipsis 7:4-8</h4>
+                
+                <div class="verse-item">
+                    <span class="verse-ref">Apocalipsis 7:4</span>
+                    <p>"Y oí el número de los sellados: ciento cuarenta y cuatro mil sellados de todas las tribus de los hijos de Israel."</p>
+                </div>
+            </div>
+
+            <div class="verses-list">
+                <h4>📖 La Mujer y su Descendencia — Apocalipsis 12</h4>
+                
+                <div class="verse-item">
+                    <span class="verse-ref">Gálatas 4:26</span>
+                    <p>"Mas la Jerusalén de arriba, la cual es madre de todos nosotros, es libre."</p>
+                </div>
+                
+                <div class="verse-item">
+                    <span class="verse-ref">Apocalipsis 12:17</span>
+                    <p>"Y se fue a hacer guerra contra el resto de la descendencia de ella, los que guardan los mandamientos de Elohim y tienen el testimonio de Yeshúa."</p>
+                </div>
+            </div>
+
+            <div class="verses-list">
+                <h4>📖 Los Santos que Guardan la Torá — Apocalipsis 14:12</h4>
+                
+                <div class="verse-item">
+                    <span class="verse-ref">Apocalipsis 14:12</span>
+                    <p>"Aquí está la paciencia de los santos, los que guardan los mandamientos de Elohim (Torá) y la fe de Yeshúa."</p>
+                </div>
+            </div>
+
+            <div class="verses-list">
+                <h4>📖 Zacarias 4:11-14 — Los Dos Ungidos</h4>
+                
+                <div class="verse-item">
+                    <span class="verse-ref">Zacarias 4:12-14</span>
+                    <p>"¿Qué son estas dos espigas de olivo...? Respondió y me habló diciendo: Estos son los dos hijos del aceite, que están en pie junto al Señor de toda la tierra."</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="preguntas">
+            <h2>Preguntas de Reflexión</h2>
+
+            <div class="q-a-section">
+                <div class="question">
+                    <h4><span class="question-icon">?</span> ¿Qué pasará con Judá y Efraín durante la Gran Tribulación?</h4>
+                    <p>
+                        Durante la Gran Tribulación, ambos grupos experimentarán un despertar espiritual sin precedentes. 
+                        La Casa de Judá reconocerá que el Mesías ya vino en la persona de Yeshúa, mientras que la 
+                        Casa de Efraín comprenderá que su identidad como israelita no depende de la ley únicamente, 
+                        sino de la fe en el Redentor prometido. Juntos formarán el ejército espiritual de los 
+                        últimos días, produciendo el fruto de los 144,000 sellados.
+                    </p>
+                </div>
+
+                <div class="question">
+                    <h4><span class="question-icon">?</span> ¿Qué significa el sellamiento de los 144,000?</h4>
+                    <p>
+                        El sellamiento representa una <strong>protección espiritual divina</strong> sobre un 
+                        remanente fiel. Son 12,000 de cada tribu —una representación numérica completa— 
+                        que han llegado al conocimiento de la verdad. No son "judíos convertidos" ni "cristianos 
+                        judaitzantes", sino creyentes que comprenden ser <strong>Israel</strong> en su 
+                        totalidad, reconociendo tanto la Torá como a Yeshúa.
+                    </p>
+                    <p>
+                        El sellamiento indica que son apartados para una misión específica: ser testigos 
+                        durante la Tribulación y sobrevivir para entrar en el reino milenario.
+                    </p>
+                </div>
+
+                <div class="question">
+                    <h4><span class="question-icon">?</span> ¿Cómo se diferencia el espíritu de Elías del de Moisés?</h4>
+                    <p>
+                        El <strong>espíritu de Elías</strong> se enfoca en el llamado al arrepentimiento, 
+                        la preparación del corazón, y el anuncio profético de la venida del Mesías. Es 
+                        predominantemente un ministerio <em>exhortatorio y arrepentidor</em>.
+                    </p>
+                    <p>
+                        El <strong>espíritu de Moisés</strong> se enfoca en la enseñanza correcta de 
+                        las Escrituras, el establecimiento de mandamientos y la preservación de la sana 
+                        doctrina. Es predominantemente un ministerio <em>instructivo y gobernativo</em>.
+                    </p>
+                    <p>
+                        Juntos, estos dos espíritus producen un testimonio completo: tanto el corazón 
+                        arrepentido como la mente instruida en la verdad.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section id="conclusion">
+            <h2>Conclusión</h2>
+
+            <div class="highlight-box">
+                <h3 style="text-align: center;">El Testimonio Final de Israel Restaurado</h3>
+                <p>
+                    Los dos testigos personifican el <strong>testimonio profético final</strong> de todo 
+                    Israel —Judá y Efraín— restaurado en la verdad de la Torá y el reconocimiento de 
+                    Yeshúa antes del fin de los tiempos.
+                </p>
+            </div>
+
+            <div class="key-point">
+                <span class="key-point-icon">1</span>
+                <div class="key-point-content">
+                    <h4>Unidad en la División</h4>
+                    <p>
+                        Los dos testigos muestran que incluso en la división histórica de Israel, 
+                        existe un propósito divino de reunificación cuando ambos grupos reconocen 
+                        su identidad común.
+                    </p>
+                </div>
+            </div>
+
+            <div class="key-point">
+                <span class="key-point-icon">2</span>
+                <div class="key-point-content">
+                    <h4>Cumplimiento de la Profecía</h4>
+                    <p>
+                        La reunión de Judá y Efraín representa el cumplimiento de profecías como 
+                        Ezequiel 37, donde YHWH promete hacer de las dos naciones una sola.
+                    </p>
+                </div>
+            </div>
+
+            <div class="key-point">
+                <span class="key-point-icon">3</span>
+                <div class="key-point-content">
+                    <h4>Un Mensaje para Hoy</h4>
+                    <p>
+                        El entendimiento de los dos testigos nos enseña que la fe verdadera integra 
+                        tanto la Torá como el Mesías, sin dividirlos ni separar lo que Elohim 
+                        ha unido.
+                    </p>
+                </div>
+            </div>
+
+            <div class="quote-section">
+                <blockquote>
+                    "En los tiempos finales, cuando el testimonio de Israel sea completo y ambas 
+                    casas se reúnan en la verdad, el mundo verá la manifestación de la gloria 
+                    de Elohim de una manera sin precedentes."
+                </blockquote>
+            </div>
+
+            <div class="source-note">
+                <strong>Fuente del contenido:</strong> Este estudio está basado en las enseñanzas 
+                y documentos del proyecto Jazak Veematz (Esfuérzate y sé valiente), donde se 
+                enseñan raíces hebreas y la correcta interpretación de las Escrituras desde la 
+                perspectiva del antiguo pacto renovado.
+            </div>
+
+            <p style="text-align: center; margin-top: 2rem;">
+                <strong>שָׁלוֹם</strong><br>
+                Shalom - Paz
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>
+            <strong>Jazak Veematz</strong> - Esfuérzate y sé valiente<br>
+            Raíces Hebreas / Estudio Profético
+        </p>
+        <p style="margin-top: 1rem; font-size: 0.9rem; opacity: 0.8;">
+            Basado en el estudio de las Escrituras desde la perspectiva de las Raíces Hebreas
+        </p>
+    </footer>
+
+    <script>
+        document.querySelectorAll('nav a').forEach(link => {
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                const targetId = link.getAttribute('href');
+                const targetSection = document.querySelector(targetId);
+                const navHeight = document.querySelector('nav').offsetHeight;
+                
+                window.scrollTo({
+                    top: targetSection.offsetTop - navHeight - 20,
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>
