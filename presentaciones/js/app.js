@@ -1,6 +1,13 @@
 // Configuración de las presentaciones disponibles
 const presentations = [
     {
+        id: 'Presentación_Discernimiento_sagrado',
+        title: 'Presentación Disernimiento Sagrado',
+        description: 'Disernimiento Sagrado basado en la parashá 26 Sheminí.',
+        cover: 'slides/Presentación_Discernimiento_sagrado/01.webp',
+        slides: Array.from({length: 13}, (_, i) => `slides/Presentación_Discernimiento_sagrado/${String(i + 1).padStart(2, '0')}.webp`)
+    },
+    {
         id: 'Presentación_Anatomía_de_la_redención',
         title: 'Presentación Anatomía de la redención',
         description: 'La arquitectura del Alma.',

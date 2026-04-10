@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Productividad según las Sagradas Escrituras | Jazak Veematz</title>
+    <style>
+        :root {
+            --primary: #1a237e;
+            --secondary: #4a148c;
+            --accent: #ffd700;
+            --bg-light: #f5f5f5;
+            --bg-dark: #121212;
+            --text-light: #333333;
+            --text-light-muted: #666666;
+            --text-dark: #e0e0e0;
+            --text-dark-muted: #9e9e9e;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.8;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        body.light-mode {
+            background-color: var(--bg-light);
+            color: var(--text-light);
+        }
+
+        body.dark-mode {
+            background-color: var(--bg-dark);
+            color: var(--text-dark);
+        }
+
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1000;
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 14px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .theme-toggle:hover {
+            transform: scale(1.05);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            text-align: center;
+            padding: 60px 20px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+            opacity: 0.5;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+            position: relative;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            max-width: 600px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .intro {
+            text-align: center;
+            margin-bottom: 50px;
+            padding: 40px;
+            border-radius: 15px;
+            position: relative;
+        }
+
+        body.light-mode .intro {
+            background: white;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+        }
+
+        body.dark-mode .intro {
+            background: #1e1e1e;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+        }
+
+        .intro h2 {
+            color: var(--accent);
+            margin-bottom: 20px;
+            font-size: 1.8rem;
+        }
+
+        .principle {
+            margin-bottom: 40px;
+            border-radius: 15px;
+            overflow: hidden;
+            transition: transform 0.3s;
+        }
+
+        body.light-mode .principle {
+            background: white;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        }
+
+        body.dark-mode .principle {
+            background: #1e1e1e;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+        }
+
+        .principle:hover {
+            transform: translateY(-5px);
+        }
+
+        .principle-header {
+            padding: 25px 30px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: background 0.3s;
+        }
+
+        body.light-mode .principle-header {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+        }
+
+        body.dark-mode .principle-header {
+            background: linear-gradient(135deg, #2c3e50, #1a252f);
+            color: white;
+        }
+
+        .principle-header h3 {
+            font-size: 1.3rem;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .principle-header .day-badge {
+            background: var(--accent);
+            color: #333;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: bold;
+        }
+
+        .principle-header .arrow {
+            transition: transform 0.3s;
+            font-size: 1.5rem;
+        }
+
+        .principle.active .principle-header .arrow {
+            transform: rotate(180deg);
+        }
+
+        .principle-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.5s ease-out;
+        }
+
+        .principle.active .principle-content {
+            max-height: 2000px;
+        }
+
+        .principle-body {
+            padding: 30px;
+        }
+
+        .concept, .scripture {
+            margin-bottom: 25px;
+        }
+
+        .concept h4, .scripture h4 {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 12px;
+            font-size: 1.1rem;
+        }
+
+        body.light-mode .concept h4 {
+            color: var(--primary);
+        }
+
+        body.dark-mode .concept h4 {
+            color: #90caf9;
+        }
+
+        body.light-mode .scripture h4 {
+            color: var(--secondary);
+        }
+
+        body.dark-mode .scripture h4 {
+            color: #ce93d8;
+        }
+
+        .concept p, .scripture p {
+            padding-left: 35px;
+        }
+
+        body.light-mode .concept p {
+            color: var(--text-light-muted);
+        }
+
+        body.dark-mode .concept p {
+            color: var(--text-dark-muted);
+        }
+
+        .scripture .verse-box {
+            padding: 20px 25px;
+            border-radius: 10px;
+            margin-left: 35px;
+            position: relative;
+        }
+
+        body.light-mode .scripture .verse-box {
+            background: linear-gradient(135deg, #fff8e1, #fff3e0);
+            border-left: 4px solid var(--accent);
+        }
+
+        body.dark-mode .scripture .verse-box {
+            background: linear-gradient(135deg, #3e2723, #4e342e);
+            border-left: 4px solid var(--accent);
+        }
+
+        .scripture .verse-box .ref {
+            font-weight: bold;
+            margin-bottom: 8px;
+            display: block;
+        }
+
+        body.light-mode .scripture .verse-box .ref {
+            color: #e65100;
+        }
+
+        body.dark-mode .scripture .verse-box .ref {
+            color: #ffcc80;
+        }
+
+        .scripture .verse-box .text {
+            font-style: italic;
+            line-height: 1.7;
+        }
+
+        .scripture .verse-box .application {
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px dashed rgba(0,0,0,0.2);
+            font-size: 0.95rem;
+        }
+
+        body.light-mode .scripture .verse-box .application {
+            color: #555;
+        }
+
+        body.dark-mode .scripture .verse-box .application {
+            color: #bbb;
+        }
+
+        .summary {
+            margin-top: 50px;
+            padding: 40px;
+            border-radius: 15px;
+            text-align: center;
+        }
+
+        body.light-mode .summary {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+        }
+
+        body.dark-mode .summary {
+            background: linear-gradient(135deg, #1a237e, #4a148c);
+            color: white;
+        }
+
+        .summary h2 {
+            color: var(--accent);
+            margin-bottom: 20px;
+        }
+
+        .summary-points {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+            text-align: left;
+        }
+
+        .summary-point {
+            padding: 20px;
+            border-radius: 10px;
+            background: rgba(255,255,255,0.1);
+        }
+
+        .summary-point h4 {
+            color: var(--accent);
+            margin-bottom: 10px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            margin-top: 50px;
+        }
+
+        body.light-mode footer {
+            background: #eee;
+            color: #666;
+        }
+
+        body.dark-mode footer {
+            background: #0a0a0a;
+            color: #888;
+        }
+
+        .nav-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+
+        .nav-btn {
+            padding: 12px 25px;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+
+        body.light-mode .nav-btn {
+            background: var(--primary);
+            color: white;
+        }
+
+        body.dark-mode .nav-btn {
+            background: #2c3e50;
+            color: white;
+        }
+
+        .nav-btn:hover {
+            transform: scale(1.05);
+        }
+
+        .nav-btn.active {
+            background: var(--accent);
+            color: #333;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 1.8rem;
+            }
+            
+            header p {
+                font-size: 1rem;
+            }
+
+            .principle-header h3 {
+                font-size: 1.1rem;
+            }
+
+            .theme-toggle {
+                padding: 8px 15px;
+                font-size: 12px;
+            }
+        }
+    </style>
+</head>
+<body class="light-mode">
+    <button class="theme-toggle" onclick="toggleTheme()">Modo Oscuro</button>
+
+    <header>
+        <h1>Productividad según las Sagradas Escrituras</h1>
+        <p>Un estudio basado en principios bíblicos para una vida de enfoque, disciplina y propósito</p>
+    </header>
+
+    <div class="container">
+        <div class="intro">
+            <h2>La Sabiduría Eterna aplicada a la Productividad Moderna</h2>
+            <p>Este estudio correlaciona los principios del experimento de productividad de "mirar la pared" con las Sagradas Escrituras contenidas en el proyecto Jazak Veematz. Descubriremos cómo las palabras de los profetas y sabios de Israel nos enseñan sobre el enfoque, la disciplina, el descanso y la concentración que necesitamos para vivir una vida productiva según el diseño del Creador.</p>
+        </div>
+
+        <div class="nav-buttons">
+            <button class="nav-btn active" onclick="expandAll()">Expandir Todo</button>
+            <button class="nav-btn" onclick="collapseAll()">Contraer Todo</button>
+        </div>
+
+        <div class="principle" id="p1">
+            <div class="principle-header" onclick="togglePrinciple('p1')">
+                <h3><span class="day-badge">Día 1</span> Enfoque Total: O Trabajas o No Haces Nada</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="principle-content">
+                <div class="principle-body">
+                    <div class="concept">
+                        <h4>📌 El Concepto</h4>
+                        <p>La primera regla del experimento establece que durante las horas de trabajo intenso, debemos eliminar toda distracción. La mente humana solo puede procesar una cantidad limitada de información por segundo. Cada notificación, cada pensamiento pendiente, ocupa espacio mental que podría utilizarse para el trabajo importante. El primer día del experimento fue "horrible" porque el autor enfrentó la incomodidad de no tener estímulos artificiales, pero al final del día descubrió que no quería tomar el móvil, sino salir a caminar y conectar con la realidad.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Proverbios 16:3</span>
+                            <span class="text">"Encomienda a Jehovah tus obras, y tus proyectos serán establecidos."</span>
+                            <div class="application">Cuando encomendamos nuestras obras al Eterno, estamos decidiendo darle el control total a Él, no a las distracciones. Esto implica eliminar todo lo que nos separa de专心 (shinjing - concentración) en lo que realmente importa.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Mateo 6:33</span>
+                            <span class="text">"Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas."</span>
+                            <div class="application">Yeshúa nos enseña la primacía del enfoque. "Primeramente" implica dar prioridad absoluta, no dividir nuestra atención. En el contexto hebreo, buscar el reino es buscar la voluntad del Eterno con toda nuestra capacidad mental y espiritual.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Proverbios 3:5-6</span>
+                            <span class="text">"Confía en Jehovah con todo tu corazón, y no te apoyes en tu propia inteligencia. Reconócelo en todos tus caminos, y él enderezará tus veredas."</span>
+                            <div class="application">"Con todo tu corazón" implica full focus, sin distracciones mentales. No divide - no mitad de atención, sino entrega total. El Creador requiere nuestra atención completa para dirigirnos correctamente.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="principle" id="p2">
+            <div class="principle-header" onclick="togglePrinciple('p2')">
+                <h3><span class="day-badge">Día 2</span> El Silencio que Restaura: Mirar la Pared</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="principle-content">
+                <div class="principle-body">
+                    <div class="concept">
+                        <h4>📌 El Concepto</h4>
+                        <p>El descanso no es simplemente no trabajar, sino activamente elegir no consumir estímulos. Mirar la pared durante 10-12 minutos al inicio parece "absurdo" pero sensibiliza nuestra mente ante los estímulos externos. La Dra. Anna Lembke de Stanford descubrió que la sobreestimulación digital reduce la capacidad del cerebro para sentir placer natural. Al resetear nuestra base sensorial, actividades como dar un paseo o conversar vuelven a sentirse como recompensas genuinas.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Salmo 46:10</span>
+                            <span class="text">"Estad quietos, y conoced que yo soy Dios. Soy exaltado entre las naciones; soy exaltado en la tierra."</span>
+                            <div class="application">"Estad quietos" (harminu en hebreo) implica un silencio activo, deliberado. No es pasividad, es una práctica espiritual de detenerse ante el Eterno para reconocer Su soberanía. Este silencio mental que buscamos en la productividad es una sombra del reposo que el Eterno nos invita a vivir.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Isaías 30:15</span>
+                            <span class="text">"Porque así dijo el Señor Dios, el Santo de Israel: En returning and rest shall ye be saved; in quietness and in confidence shall be your strength."</span>
+                            <div class="application">"En returning and rest" - el retorno y el reposo son la fuente de nuestra salvación física y espiritual. La quietud y la confianza son nuestra fortaleza. El Eterno establece que necesitamos detenernos para recuperar fuerzas, no solo trabajar sin parar.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Salmo 23:2-3</span>
+                            <span class="text">"En lugares de delicados pastos me hará descansar; junto a aguas de reposo me pastoreará. Confortará mi alma."</span>
+                            <div class="application">El Salmo usa "aguas de reposo" - no agua agitada, sino agua quieta, calmada. El Eterno nos pastorea hacia la quietud, no hacia la sobreestimulación. Necesitamos encontrar esos "lugares de delicados pastos" donde nuestra alma pueda descansar y restaurarse.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="principle" id="p3">
+            <div class="principle-header" onclick="togglePrinciple('p3')">
+                <h3><span class="day-badge">Día 3</span> El Estado de Flow: Concentración Profunda</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="principle-content">
+                <div class="principle-body">
+                    <div class="concept">
+                        <h4>📌 El Concepto</h4>
+                        <p>El psicólogo Mihaly Csikszentmihalyi estudió a músicos, cirujanos, ajedrezistas y descubrió que el "flow" es el estado donde una persona está tan metida en lo que hace que pierde la noción del tiempo. La clave descubierta: la mente humana solo puede procesar 110 bits de información por segundo. Una conversación consume 40-60 bits. Cada notificación, cada pensamiento pendiente, ocupa bits valiosos. Cuando nuestra cabeza está llena de "ruido", el flow es matemáticamente imposible.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Proverbios 2:10-11</span>
+                            <span class="text">"Cuando el conocimiento fuere grato a tu alma, y la inteligencia guardare tu corazón, entonces discernirás el temor de Jehovah y hallarás el conocimiento de Dios."</span>
+                            <div class="application">"Guardare tu corazón" implica que el conocimiento ocupa espacio en nuestro ser. La sabiduría escritural requiere un corazón no saturado de ruido. El temor de Jehovah y Su conocimiento solo pueden entrar cuando hemos creado espacio mental y espiritual para recibirlos.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Colosenses 3:2</span>
+                            <span class="text">"Poned la mira en las cosas de arriba, no en las de la tierra."</span>
+                            <div class="application">"Poned la mira" - establece un enfoque único, no dividido. Cuando nuestra atención está en las cosas de arriba (las eternas, las importantes), automáticamente desconectamos de las distracciones terrestres. Es una elección deliberada de enfoque que posibilita la concentración profunda.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Éxodo 20:8-11</span>
+                            <span class="text">"Acuérdate del día de reposo para santificarlo. Seis días trabajarás y harás toda tu obra, más el seventh día es reposo para Jehovah tu Dios."</span>
+                            <div class="application">El mandamiento del Shabat incluye "hacer toda tu obra" en seis días con enfoque total, y luego descansar. El Eterno diseñó un sistema donde la productividad intensa y el descanso profundo alternan. El día de reposo no es pereza, es parte integral del diseño para mantener nuestra capacidad de enfoque durante la semana.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="principle" id="p4">
+            <div class="principle-header" onclick="togglePrinciple('p4')">
+                <h3><span class="day-badge">Día 4</span> La Disciplina de la No Exposición: Huir de la Tentación</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="principle-content">
+                <div class="principle-body">
+                    <div class="concept">
+                        <h4>📌 El Concepto</h4>
+                        <p>El jueves del experimento fue una recaída. El autor entró a Instagram "por una cosa de trabajo" y terminó perdiendo una hora. Alan Marlatt llamó a esto "las decisiones aparentemente irrelevantes" - una pequeña decisión llevó a otra, y otra, hasta perder el foco por completo. La conclusión: "La disciplina debe tener lo mínimo de fuerza de voluntad y muchísimo de no exponerse a la tentación." No hay mayor fuerza de voluntad que no necesitar tenerla.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">2 Timoteo 2:22</span>
+                            <span class="text">"Huye también de las concupiscencias juveniles; y sigue la justicia, la fe, el amor y la paz, con los que invocan al Señor con pureza de corazón."</span>
+                            <div class="application">Pablo no dice "resiste las concupiscencias", dice "huye de ellas". La Palabra nos manda activamente evitar, no solo resistir. "Huye" implica no exponerse. La estrategia de productividad que aprendimos tiene base bíblica: la victoria sobre las distracciones viene de evitarlas, no de intentar resistirlas cuando ya estamos comprometidos.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">1 Corintios 6:18</span>
+                            <span class="text">"Huid de la fornicación. Cualquier otro pecado que el hombre cometiere, fuera del cuerpo es; pero el que fornica, contra su propio cuerpo pecca."</span>
+                            <div class="application">"Huid de la fornicación" - el mismo verbo "huid" (flegete). El apóstol Pablo usa el mismo mandamiento para la inmoralidad sexual que aplica a cualquier distracción que nos aleja del propósito. Huir no es cobardía, es sabiduría estratégica.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Proverbios 4:14-15</span>
+                            <span class="text">"No entres por la vereda de los impíos, ni procures andar por camino de malos. Apártate de él, no pases por él; apártate y pasa de largo."</span>
+                            <div class="application">Tres veces dice "apártate". La sabiduría hebrea entiende que evitar el mal es más práctico que resistirl
+</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="principle" id="p5">
+            <div class="principle-header" onclick="togglePrinciple('p5')">
+                <h3><span class="day-badge">Día 5</span> El Fruto del Esfuerzo: La Recompensa Proporcional</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="principle-content">
+                <div class="principle-body">
+                    <div class="concept">
+                        <h4>📌 El Concepto</h4>
+                        <p>Investigadores de Stanford descubrieron que el cerebro no mide el logro en términos absolutos, sino en contraste con el punto de partida. Cuanto más difícil fue el camino, mayor incertidumbre hubo, mayor el contraste, mayor la descarga de dopamina al llegar a la meta. El autor sintió una satisfacción enorme el viernes no solo por completar la tarea, sino porque el contraste entre la dificultad del lunes y el éxito del viernes fue proporcionalmente grande. El cerebro premia el esfuerzo real.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Gálatas 6:9</span>
+                            <span class="text">"No nos cansemos de hacer el bien, porque a su tiempo segaremos, si no desmayamos."</span>
+                            <div class="application">"A su tiempo segaremos" - existe un momento de cosecha que es proporcional a nuestra labor. No sembramos hoy y cosechamos mañana; hay un proceso que requiere paciencia y persistencia. El desánimo viene cuando no vemos resultados inmediatos, pero la Palabra garantiza que el esfuerzo produce a su tiempo.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Proverbios 13:4</span>
+                            <span class="text">"El perezoso desea y nada tiene; mas el alma de los diligentes será saciada."</span>
+                            <div class="application">El texto distingue entre "el perezoso desea" (quiere resultados sin esfuerzo) y "los diligentes serán saciados" (el que trabaja con esfuerzo genuino recibe satisfacción plena). La productividad bíblica no promete que será fácil, sino que el resultado valdrá el esfuerzo invertido.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Santiago 1:12</span>
+                            <span class="text">"Bienaventurado el varón que sufre la tentación; porque cuando sea juzgado, recibirá la corona de vida que Dios ha prometido a los que le aman."</span>
+                            <div class="application">Hay una corona de vida para quienes resisten la tentación de la gratificación instantánea. La disciplina de no buscar estímulos fáciles ahora, sino trabajar con esfuerzo real, tiene una promesa de recompensa eterna y temporal. El contraste entre el esfuerzo presente y la corona futura hace que la victoria sea más dulce.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="principle" id="p6">
+            <div class="principle-header" onclick="togglePrinciple('p6')">
+                <h3><span class="day-badge">Principios Clave</span> El Dominio Propio: La Fortaleza Interior</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="principle-content">
+                <div class="principle-body">
+                    <div class="concept">
+                        <h4>📌 El Concepto</h4>
+                        <p>La Dra. Anna Lembke descubrió que la exposición repetida a actividades de alta dopamina (redes sociales, videojuegos, comida rápida) reduce la sensibilidad de los receptores cerebrales. Esto significa que necesitamos algo cada vez más intenso para sentir el mismo placer. El cerebro crea una "tolerancia" igual que con las sustancias adictivas. La solución: el aburrimiento deliberado. Cuando no hay sobreestimulación, el cerebro vuelve a niveles naturales y actividades simples vuelven a ser satisfactorias.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Gálatas 5:22-23</span>
+                            <span class="text">"Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza (dominio propio). Contra tales cosas no hay ley."</span>
+                            <div class="application">"Templanza" (enkrateia en griego) literalmente significa "dominio propio" o "fuerza interior". Es la capacidad de controlar nuestros deseos y impulsos. El Espíritu Santo produce este fruto en nosotros, no como esfuerzo humano, sino como transformación interior que nos permite say "no" a la sobreestimulación y "yes" al enfoque.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">2 Pedro 1:5-6</span>
+                            <span class="text">"Por lo cual a causa de eso mismo, añadid a vuestra fe la virtud; y a la virtud, el conocimiento; y al conocimiento, el domino propio; y al dominio propio, la paciencia."</span>
+                            <div class="application">Pedro establece una progresión espiritual ascendente donde el dominio propio (la misma palabra enkrateia) es una virtud que se desarrolla sobre la base de la fe y el conocimiento. El crecimiento espiritual incluye específicamente aprender el dominio propio como una habilidad espiritual necesaria.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Proverbios 25:28</span>
+                            <span class="text">"Como ciudad sin muro es el hombre que no tiene dominio sobre su espíritu."</span>
+                            <div class="application">Sin dominio propio, estamos desprotegidos como una ciudad sin murallas. Cada estímulo, cada distracción, cada tentación puede entrar y tomar nuestro enfoque. El dominio propio es la muralla que protege nuestra productividad y nuestro propósito.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="principle" id="p7">
+            <div class="principle-header" onclick="togglePrinciple('p7')">
+                <h3><span class="day-badge">Principios Clave</span> La Sensibilización: Volver a Sentir lo Pequeño</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="principle-content">
+                <div class="principle-body">
+                    <div class="concept">
+                        <h4>📌 El Concepto</h4>
+                        <p>Después de unos días sin sobreestimulación, el autor dijo: "Te estás sensibilizando ante los estímulos. Es como cuando dejas de comer con sal y pruebas algo que tiene un poquito y te sabe salado." El cerebro "resetea" su línea base y vuelve a notar los estímulos pequeños que antes ignoraba. Una conversación con su padre se sintió más significativa, un paseo fue más placentero. La productividad espiritual también funciona así: cuando dejamos el ruido, podemos notar la voz del Eterno en lo pequeño.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">1 Reyes 19:11-13</span>
+                            <span class="text">"Y he aquí que Jehovah pasaba, y un viento grande y fuerte derribaba los montes y quebraba las peñas delante de Jehovah; pero Jehovah no estaba en el viento. Y después del viento, un terremoto; pero Jehovah no estaba en el terremoto. Y después del terremoto, un fuego; pero Jehovah no estaba en el fuego. Y después del fuego, un silbo suave y apacible."</span>
+                            <div class="application">Eliézer experimentó la presencia de Dios no en lo grande y dramático (viento, terremoto, fuego), sino en lo pequeño y silencioso. La sobreestimulación de la vida moderna nos hace incapaces de percibir lo sutil. Cuando Elijah aprendió a silenciar el ruido, pudo escuchar la voz suave del Eterno. La productividad espiritual requiere la misma sensitividad.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Salmo 46:10</span>
+                            <span class="text">"Estad quietos (harminu), y conoced que yo soy Dios."</span>
+                            <div class="application">La palabra hebrea "harminu" significa "hagan silencio, callen". Es un imperativo de detenerse. Solo cuando hacemos silencio podemos "conocer" (yada) al Eterno - conocerle íntimamente, no solo saber de Él. La sensibilidad espiritual se desarrolla en la quietud, no en la sobreestimulación.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="principle" id="p8">
+            <div class="principle-header" onclick="togglePrinciple('p8')">
+                <h3><span class="day-badge">Principios Clave</span> Las Primeras Horas: Tiempo Sagrado</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="principle-content">
+                <div class="principle-body">
+                    <div class="concept">
+                        <h4>📌 El Concepto</h4>
+                        <p>El autor recomienda: "Tus cuatro primeras horas del día son sagradas. Cuanto más tarde metas correo, redes, ruido en general, más foco y más presente estarás en todo lo demás." La primera tarea a la que das atención se queda con el mejor espacio de tu cerebro. Si empiezas el día con lo importante, toda tu capacidad mental se alinea con ello. Las conclusiones del experimento son: 1) Trabaja primero en tu trabajo más importante, 2) Si te cuesta empezar, mira una pared 10 minutos, 3) Usa papel siempre que puedas, 4) Retrasa los inputs lo máximo posible.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Proverbios 6:10-11</span>
+                            <span class="text">"Un poco de sueño, un poco de dormitar, y por un poco cruzar de brazos sobre el pecho; y te vendrá la necesidad como bandido, y la escasez como hombre armado."</span>
+                            <div class="application">La Palabra condena la pereza que desperdicia el tiempo, pero más específicamente, condena posponer el trabajo. "Un poco de dormitar" y "cruzar de brazos" describe la dilación. El Eterno quiere que trabajemos con urgencia, especialmente en las primeras horas cuando nuestra energía y capacidad están en su punto máximo.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Eclesiastés 10:17</span>
+                            <span class="text">"Bienhadado eres, oh tierra, cuando tu rey es hijo de nobles, y cuando tus príncipes comen a su tiempo, para fortalecimiento y no para banquete."</span>
+                            <div class="application">"Comen a su tiempo" - los líderes sabios comen en los momentos apropiados, no dominan su agenda. El príncipe come cuando debe comer, no cuando quiere. La aplicación espiritual: haz lo importante cuando es el tiempo de hacerlo, no cuando las distracciones te lo permitan. El que hace las cosas "a su tiempo" es bienhadado.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Fundamento Bíblico</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Jeremías 8:6</span>
+                            <span class="text">"Ninguno se arrepiente de su mal, diciendo: ¿Qué he hecho? Cada uno vuelve a su proprio camino, como el caballo que se lanza al combate."</span>
+                            <div class="application">"Cada uno vuelve a su proprio camino" - la tendencia humana es volver a los patrones de distracción. No hay arrepentimiento genuino sin cambio de dirección. El que verdaderamente se arrepiente de la pereza y las distracciones empieza a hacer las cosas diferentes, especialmente en las primeras horas del día.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="summary">
+            <h2>Resumen: El Diseño Divino para una Vida Productiva</h2>
+            <p>Las Sagradas Escrituras contienen principios eternos que respaldan la productividad moderna. Los sabios del pueblo del pacto entendieron que la mente humana tiene límites, que el descanso es parte del diseño, y que el dominio propio es esencial para el propósito divino.</p>
+            
+            <div class="summary-points">
+                <div class="summary-point">
+                    <h4>🎯 Enfoque Total</h4>
+                    <p>Confía en Jehovah con todo tu corazón y no te apoyes en tu propia inteligencia (Proverbios 3:5).</p>
+                </div>
+                <div class="summary-point">
+                    <h4>🧘 Silencio y Reposo</h4>
+                    <p>Estad quietos y conoced que yo soy Dios (Salmo 46:10). El descanso es orden divino.</p>
+                </div>
+                <div class="summary-point">
+                    <h4>⚡ Flow y Concentración</h4>
+                    <p>Poned la mira en las cosas de arriba (Colosenses 3:2). El enfoque es elección.</p>
+                </div>
+                <div class="summary-point">
+                    <h4>🏃 Huir de Tentaciones</h4>
+                    <p>Huye de las concupiscencias (2 Timoteo 2:22). La victoria está en evitar.</p>
+                </div>
+                <div class="summary-point">
+                    <h4>🏆 Recompensa Proporcional</h4>
+                    <p>No nos cansemos de hacer el bien (Gálatas 6:9). El esfuerzo tiene cosecha.</p>
+                </div>
+                <div class="summary-point">
+                    <h4>💪 Dominio Propio</h4>
+                    <p>Fruto del Espíritu: templanza (Gálatas 5:22-23). La fortaleza interior es don.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="intro" style="margin-top: 50px;">
+            <h2>Conclusión Final</h2>
+            <p>El experimento de productividad moderno valida lo que las Sagradas Escrituras han enseñado por milenios: nuestra mente tiene límites, necesita descanso, y funciona mejor cuando está libre de sobreestimulación. El Eterno diseñó al ser humano con necesidad de silencio, reflexión y trabajo enfocado. Cuando aplicamos estos principios, no solo somos más productivos laboralmente, sino que también estamos más disponibles para escuchar Su voz, para discernir Su voluntad, y para vivir el propósito para el cual fuimos creados.</p>
+            <p style="margin-top: 20px; font-style: italic;">"Porque yo sé los pensamientos que pienso hacia vosotros, dice Jehovah, pensamientos de paz y no de mal, para daros un futuro y una esperanza." - Jeremías 29:11</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>Estudio basado en las Sagradas Escrituras del proyecto Jazak Veematz</p>
+        <p>Jazak Veematz - Esfuérzate y sé valiente</p>
+    </footer>
+
+    <script>
+        function toggleTheme() {
+            const body = document.body;
+            const button = document.querySelector('.theme-toggle');
+            
+            if (body.classList.contains('light-mode')) {
+                body.classList.remove('light-mode');
+                body.classList.add('dark-mode');
+                button.textContent = 'Modo Claro';
+            } else {
+                body.classList.remove('dark-mode');
+                body.classList.add('light-mode');
+                button.textContent = 'Modo Oscuro';
+            }
+        }
+
+        function togglePrinciple(id) {
+            const principle = document.getElementById(id);
+            principle.classList.toggle('active');
+        }
+
+        function expandAll() {
+            const principles = document.querySelectorAll('.principle');
+            principles.forEach(p => p.classList.add('active'));
+            document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+            document.querySelector('.nav-btn:first-child').classList.add('active');
+        }
+
+        function collapseAll() {
+            const principles = document.querySelectorAll('.principle');
+            principles.forEach(p => p.classList.remove('active'));
+            document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+            document.querySelector('.nav-btn:last-child').classList.add('active');
+        }
+    </script>
+</body>
+</html>

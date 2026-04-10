@@ -1,0 +1,1052 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Productividad Hebrea: Enfoque, Reposo y Propósito | Jazak Veematz</title>
+    <style>
+        :root {
+            --primary: #1a237e;
+            --secondary: #4a148c;
+            --accent: #ffd700;
+            --bg-light: #f5f5f5;
+            --bg-dark: #121212;
+            --text-light: #333333;
+            --text-light-muted: #666666;
+            --text-dark: #e0e0e0;
+            --text-dark-muted: #9e9e9e;
+            --shabat-gold: #c9a227;
+            --torah-blue: #1565c0;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.8;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        body.light-mode {
+            background-color: var(--bg-light);
+            color: var(--text-light);
+        }
+
+        body.dark-mode {
+            background-color: var(--bg-dark);
+            color: var(--text-dark);
+        }
+
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1000;
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 14px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            transition: transform 0.3s;
+        }
+
+        .theme-toggle:hover {
+            transform: scale(1.05);
+        }
+
+        header {
+            background: linear-gradient(135deg, #1a237e, #4a148c, #0d47a1);
+            color: white;
+            text-align: center;
+            padding: 80px 20px;
+            position: relative;
+        }
+
+        header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+        }
+
+        header h1 {
+            font-size: 2.8rem;
+            margin-bottom: 20px;
+            position: relative;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        header .subtitle {
+            font-size: 1.3rem;
+            opacity: 0.95;
+            max-width: 700px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .intro {
+            text-align: center;
+            margin-bottom: 50px;
+            padding: 50px;
+            border-radius: 20px;
+        }
+
+        body.light-mode .intro {
+            background: white;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+        }
+
+        body.dark-mode .intro {
+            background: #1e1e1e;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+        }
+
+        .intro h2 {
+            color: var(--shabat-gold);
+            margin-bottom: 25px;
+            font-size: 1.8rem;
+        }
+
+        .intro p {
+            font-size: 1.1rem;
+        }
+
+        body.light-mode .intro p {
+            color: #555;
+        }
+
+        body.dark-mode .intro p {
+            color: #bbb;
+        }
+
+        .practice {
+            margin-bottom: 40px;
+            border-radius: 20px;
+            overflow: hidden;
+            transition: transform 0.3s;
+        }
+
+        body.light-mode .practice {
+            background: white;
+            box-shadow: 0 5px 25px rgba(0,0,0,0.08);
+        }
+
+        body.dark-mode .practice {
+            background: #1e1e1e;
+            box-shadow: 0 5px 25px rgba(0,0,0,0.3);
+        }
+
+        .practice:hover {
+            transform: translateY(-3px);
+        }
+
+        .practice-header {
+            padding: 30px 35px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        body.light-mode .practice-header {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+        }
+
+        body.dark-mode .practice-header {
+            background: linear-gradient(135deg, #2c3e50, #1a252f);
+            color: white;
+        }
+
+        .practice-header h3 {
+            font-size: 1.4rem;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .practice-header .icon {
+            font-size: 1.8rem;
+        }
+
+        .practice-header .arrow {
+            transition: transform 0.3s;
+            font-size: 1.5rem;
+        }
+
+        .practice.active .practice-header .arrow {
+            transform: rotate(180deg);
+        }
+
+        .practice-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.5s ease-out;
+        }
+
+        .practice.active .practice-content {
+            max-height: 3000px;
+        }
+
+        .practice-body {
+            padding: 35px;
+        }
+
+        .method, .hebrew-practice, .scripture {
+            margin-bottom: 30px;
+        }
+
+        .method h4, .hebrew-practice h4, .scripture h4 {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 15px;
+            font-size: 1.15rem;
+        }
+
+        body.light-mode .method h4 {
+            color: #1565c0;
+        }
+
+        body.dark-mode .method h4 {
+            color: #64b5f6;
+        }
+
+        body.light-mode .hebrew-practice h4 {
+            color: #7b1fa2;
+        }
+
+        body.dark-mode .hebrew-practice h4 {
+            color: #ce93d8;
+        }
+
+        body.light-mode .scripture h4 {
+            color: var(--shabat-gold);
+        }
+
+        body.dark-mode .scripture h4 {
+            color: #ffe082;
+        }
+
+        .method p, .hebrew-practice p {
+            padding-left: 40px;
+        }
+
+        body.light-mode .method p, body.light-mode .hebrew-practice p {
+            color: #555;
+        }
+
+        body.dark-mode .method p, body.dark-mode .hebrew-practice p {
+            color: #bbb;
+        }
+
+        .scripture .verse-box {
+            padding: 25px 30px;
+            border-radius: 12px;
+            margin-left: 40px;
+            position: relative;
+        }
+
+        body.light-mode .scripture .verse-box {
+            background: linear-gradient(135deg, #fff8e1, #fffde7);
+            border-left: 5px solid var(--shabat-gold);
+        }
+
+        body.dark-mode .scripture .verse-box {
+            background: linear-gradient(135deg, #3e2723, #4e342e);
+            border-left: 5px solid var(--shabat-gold);
+        }
+
+        .scripture .verse-box .ref {
+            font-weight: bold;
+            margin-bottom: 10px;
+            display: block;
+            font-size: 1rem;
+        }
+
+        body.light-mode .scripture .verse-box .ref {
+            color: #e65100;
+        }
+
+        body.dark-mode .scripture .verse-box .ref {
+            color: #ffcc80;
+        }
+
+        .scripture .verse-box .text {
+            font-style: italic;
+            line-height: 1.8;
+            font-size: 1.05rem;
+        }
+
+        .scripture .verse-box .application {
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px dashed rgba(0,0,0,0.2);
+            font-size: 0.95rem;
+        }
+
+        body.light-mode .scripture .verse-box .application {
+            color: #616161;
+        }
+
+        body.dark-mode .scripture .verse-box .application {
+            color: #bdbdbd;
+        }
+
+        .highlight-box {
+            padding: 25px 30px;
+            border-radius: 12px;
+            margin: 25px 0;
+        }
+
+        body.light-mode .highlight-box {
+            background: linear-gradient(135deg, #e3f2fd, #bbdefb);
+            border: 2px solid #1565c0;
+        }
+
+        body.dark-mode .highlight-box {
+            background: linear-gradient(135deg, #1a237e, #0d47a1);
+            border: 2px solid #5c6bc0;
+        }
+
+        .highlight-box p {
+            margin: 0;
+            text-align: center;
+            font-weight: 500;
+        }
+
+        body.light-mode .highlight-box p {
+            color: #0d47a1;
+        }
+
+        body.dark-mode .highlight-box p {
+            color: #e3f2fd;
+        }
+
+        .nav-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+
+        .nav-btn {
+            padding: 12px 25px;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+
+        body.light-mode .nav-btn {
+            background: var(--primary);
+            color: white;
+        }
+
+        body.dark-mode .nav-btn {
+            background: #2c3e50;
+            color: white;
+        }
+
+        .nav-btn:hover {
+            transform: scale(1.05);
+        }
+
+        .nav-btn.active {
+            background: var(--shabat-gold);
+            color: #333;
+        }
+
+        .summary {
+            margin-top: 60px;
+            padding: 50px;
+            border-radius: 20px;
+            text-align: center;
+        }
+
+        body.light-mode .summary {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+        }
+
+        body.dark-mode .summary {
+            background: linear-gradient(135deg, #1a237e, #4a148c);
+            color: white;
+        }
+
+        .summary h2 {
+            color: var(--shabat-gold);
+            margin-bottom: 25px;
+            font-size: 2rem;
+        }
+
+        .summary-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            margin-top: 35px;
+            text-align: left;
+        }
+
+        .summary-item {
+            padding: 25px;
+            border-radius: 15px;
+            background: rgba(255,255,255,0.1);
+        }
+
+        .summary-item h4 {
+            color: var(--shabat-gold);
+            margin-bottom: 12px;
+            font-size: 1.2rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .summary-item p {
+            font-size: 0.95rem;
+            opacity: 0.9;
+        }
+
+        footer {
+            text-align: center;
+            padding: 50px 20px;
+            margin-top: 60px;
+        }
+
+        body.light-mode footer {
+            background: #eee;
+            color: #666;
+        }
+
+        body.dark-mode footer {
+            background: #0a0a0a;
+            color: #888;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2rem;
+            }
+            
+            header .subtitle {
+                font-size: 1.1rem;
+            }
+
+            .practice-header h3 {
+                font-size: 1.15rem;
+            }
+
+            .practice-body {
+                padding: 25px;
+            }
+
+            .scripture .verse-box {
+                margin-left: 15px;
+            }
+
+            .method p, .hebrew-practice p {
+                padding-left: 15px;
+            }
+        }
+    </style>
+</head>
+<body class="light-mode">
+    <button class="theme-toggle" onclick="toggleTheme()">Modo Oscuro</button>
+
+    <header>
+        <h1>La Productividad según el Diseño Hebreo</h1>
+        <p class="subtitle">Integrando el silencio contemplativo, el reposo sagrado y el enfoque eterno de las Raíces Hebreas con los principios de una vida productiva</p>
+    </header>
+
+    <div class="container">
+        <div class="intro">
+            <h2>El Diseño Divino del Tiempo y el Trabajo</h2>
+            <p>Las Raíces Hebreas nos revelan un diseño divino para la vida humana que trasciende las modernas técnicas de productividad. El Eterno estableció principios eternos sobre el trabajo, el reposo, el silencio contemplativo y el enfoque que fueron practicados por Abraham, Isaac y Jacob, perfeccionados en Sinaí, y enseñados por el Mesías Yeshúa. Este estudio explora cómo las prácticas ancestrales hebreas nos enseñan a trabajar con sabiduría, descansar con propósito y vivir con enfoque eterno.</p>
+        </div>
+
+        <div class="nav-buttons">
+            <button class="nav-btn active" onclick="expandAll()">Expandir Todo</button>
+            <button class="nav-btn" onclick="collapseAll()">Contraer Todo</button>
+        </div>
+
+        <div class="practice" id="p1">
+            <div class="practice-header" onclick="togglePractice('p1')">
+                <h3><span class="icon">🕎</span> SHABAT: El Diseño Original de Productividad</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="practice-content">
+                <div class="practice-body">
+                    <div class="method">
+                        <h4>⚡ El Método Moderno</h4>
+                        <p>El método de productividad establece: "Trabaja o no hagas nada. Zero pantallas. Solo una cosa a la vez." La premisa fundamental es que durante el tiempo de trabajo intenso, toda distracción debe ser eliminada. La mente humana tiene capacidad limitada y cada estímulo consume recursos mentales. El descanso no es opcional ni pasivo, es parte integral del diseño para mantener la capacidad de enfoque.</p>
+                    </div>
+
+                    <div class="hebrew-practice">
+                        <h4>✡️ La Práctica Hebrea</h4>
+                        <p>El SHABAT es el corazón del diseño productivo hebreo. Éxodo 20:8-11 establece: "Seis días trabajarás y harás toda tu obra, más el séptimo día es reposo para Jehovah." El descanso hebreo no es pereza ni inactividad, es una cesación activa y sagrada. El pueblo de Israel fue llamado a trabajar seis días con TODO su esfuerzo, y en el séptimo, soltar completamente. Esta alternancia de intensidad y reposo fue establecida desde la creación misma, cuando el Eterno "reposó" el séptimo día.</p>
+                    </div>
+
+                    <div class="highlight-box">
+                        <p>El SHABAT no es un día para "recargar baterías" como una batería, sino un día para TRANSFORMAR nuestra relación con el trabajo, reconociendo que el Eterno es quien da el incremento.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Génesis 2:2-3</span>
+                            <span class="text">"Y acabó Dios en el día séptimo la obra que hizo; y descansó el día séptimo de toda la obra que hizo. Y bendijo Dios al día séptimo, y lo santificó; porque en él reposó Dios de toda la obra que había hecho en la creación."</span>
+                            <div class="application">El Eterno自身示范ó el patrón de trabajo intenso seguido de reposo sagrado. El SHABAT no es solo descanso de algo, sino descanso PARA algo: para recordar que somos creados a imagen divina, no dioses que deben producir sin cesar.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Éxodo 31:17</span>
+                            <span class="text">"Porque en seis días hizo Jehovah los cielos y la tierra, y en el día séptimo cesó de trabajar y descansó."</span>
+                            <div class="application">"Césó" (wayyishbot) y "descansó" (wayyinnaphesh) implican una cesación completa. La palabra nephesh (alma) sugiere que el descanso es para el alma, no solo para el cuerpo. El SHABAT restaura el nephesh completo.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Isaías 58:13-14</span>
+                            <span class="text">"Si retrajeres del SHABAT tu pie, de hacer tu voluntad en mi día santo, y llamares al SHABAT delicia, santo, glorioso de Jehovah; y lo honrares no siguiendo tus caminos, ni buscando tu voluntad, ni hablando tus palabras; entonces te deleitarás en Jehovah."</span>
+                            <div class="application">El SHABAT es descrito como "delicia" (oneg) - un placer, algo deseable. El descanso hebreo no es privación, es gozo. Cuando guardamos el SHABAT correctamente, encontrando deleite en él, el Eterno promete satisfacernos con los bienes de la tierra.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="practice" id="p2">
+            <div class="practice-header" onclick="togglePractice('p2')">
+                <h3><span class="icon">🙏</span> El Silencio Contemplativo: Hitbodedut</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="practice-content">
+                <div class="practice-body">
+                    <div class="method">
+                        <h4>⚡ El Método Moderno</h4>
+                        <p>El método prescribe: "Mira una pared durante 10-12 minutos." Esto parece absurdo al inicio, pero la ciencia moderna muestra que el cerebro necesita tiempo sin estímulos para resetear su sistema de recompensa. La Dra. Anna Lembke descubrió que la sobreestimulación digital reduce la sensibilidad cerebral, haciendo que necesitemos cada vez más para sentir placer. El aburrimiento deliberado es la cura: cuando no hay sobreestimulación, el cerebro vuelve a niveles naturales y actividades simples vuelven a ser satisfactorias.</p>
+                    </div>
+
+                    <div class="hebrew-practice">
+                        <h4>✡️ La Práctica Hebrea</h4>
+                        <p>Hitbodedut (התבודדות) es una práctica jasídica de soledad y meditación silenciosa, basada en las palabras de Rabí Najmán de Breslav: "Es bueno hablar con el Eterno en cualquier momento, pero especialmente en el campo o en el bosque, o en tu casa, con palabras simples." Esta práctica involucra hablar directamente con el Eterno en un lugar tranquilo, sin libros ni pantallas, simplemente abriendo el corazón. Es una forma estructurada de lo que el método llama "mirar la pared" - eliminar estímulos para escuchar la voz del Eterno y de nuestra propia alma.</p>
+                    </div>
+
+                    <div class="highlight-box">
+                        <p>La tradición hebrea siempre ha entendido que el alma necesita soledad silenciosa para conectarse con su Creador. El hitbodedut es el arte de estar completamente solo con el Eterno, sin distracciones, sin ruido, sin nada que interponga entre el alma y su Dios.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Salmo 46:10</span>
+                            <span class="text">"Estad quietos (harminu), y conoced que yo soy Dios; soy exalted entre las naciones; soy exaltado en la tierra."</span>
+                            <div class="application">La palabra hebrea "harminu" (הַרְשִׁעוּ) significa "soltad, haced cesar, guardaos silencio". Es un imperativo que ordena detenerse completamente. Solo en ese silencio podemos "conocer" (yada) al Eterno - un conocer íntimo, experiencial, no meramente intelectual.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">1 Reyes 19:11-13</span>
+                            <span class="text">"Y he aquí que Jehovah pasaba, y un viento grande y fuerte derribaba los montes... pero Jehovah no estaba en el viento. Y después del viento, un terremoto... pero Jehovah no estaba en el terremoto. Y después del terremoto, un fuego... pero Jehovah no estaba en el fuego. Y después del fuego, un silbo suave y apacible."</span>
+                            <div class="application">Eliézer buscó a Dios en lo dramático (viento, terremoto, fuego) pero el Eterno se reveló en lo sutil, en el "silbo suave". La sobreestimulación nos hace incapaces de percibir Su presencia. El silencio contemplativo es donde Dios habla.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Salmo 62:1</span>
+                            <span class="text">"En Dios sola está acallada mi alma; de él viene mi salvación."</span>
+                            <div class="application">"Acallada" (dumá) también significa "en silencio". El salmista Testifica que su alma encuentra paz, descanso y salvación cuando está en silencio delante del Eterno. Esta es la promesa de la práctica del silencio contemplativo.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="practice" id="p3">
+            <div class="practice-header" onclick="togglePractice('p3')">
+                <h3><span class="icon">📖</span> Estudio de Torah: Yesod HaOlam</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="practice-content">
+                <div class="practice-body">
+                    <div class="method">
+                        <h4>⚡ El Método Moderno</h4>
+                        <p>El método enfatiza: "Usa papel siempre que puedas." La investigación muestra que escribir a mano activa diferentes regiones cerebrales que el tipeo digital, incluyendo la retención de información y el pensamiento crítico. Las pantallas fragmentan la atención, mientras que el papel permite pensamiento profundo y conexiones más ricas entre ideas.</p>
+                    </div>
+
+                    <div class="hebrew-practice">
+                        <h4>✡️ La Práctica Hebrea</h4>
+                        <p>Yesod HaOlam (יסוד עולם) es el fundamento del estudio judío: la Torah escrita es la fuente de toda sabiduría, pero debe estudiarse en comunidad y con guía rabínica. El estudio jasídico es diferente: Rabí Najmán enseñó que el estudio debe ser "con el corazón" (b'libo), no solo con la mente. Escribir los pensamientos en papel es parte de la práctica, documentando revelaciones y conexiones espirituales. El diario de estudio (cheshbon hanefesh) es una práctica para evaluar nuestros pensamientos, palabras y acciones.</p>
+                    </div>
+
+                    <div class="highlight-box">
+                        <p>En la tradición hebrea, el estudio de Torah es la forma suprema de trabajo. No es pasividad, es labor intelectual y espiritual intensa que produce sabiduría práctica para la vida cotidiana.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Josué 1:8</span>
+                            <span class="text">"No se aparte de tu boca el libro de esta ley (torah), antes de día y de noche meditarás en él, para que guardes y hagas conforme a todo lo que está escrito en él; porque entonces harás prosperar tu camino, y entonces te irá bien."</span>
+                            <div class="application">"Meditar" (hiyita) implica murmurar, murmullar, recitar en voz baja. La meditación hebrea involucra leer, repetir, escribir y aplicar. El resultado: prosperidad y buen éxito. El estudio constante de la Torah produce resultados prácticos en todas las áreas de la vida.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Salmo 1:1-3</span>
+                            <span class="text">"Bienaventurado el varón que no anduvo en consejo de impíos, ni estuvo en camino de pecadores, ni en silla de escarnecedores se ha sentado. Antes su delicia está en la ley de Jehovah, y en su ley medita de día y de noche. Será como árbol plantado junto a corrientes de aguas, que da su fruto en su tiempo."</span>
+                            <div class="application">El hombre bendito tiene su "delicia" (chefsod) en la Torah. No es obligación, es placer. Y medita "de día y de noche" - constantemente. El resultado: es como árbol con raíces profundas y fruto abundante. El estudio continuo produce productividad natural.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="practice" id="p4">
+            <div class="practice-header" onclick="togglePractice('p4')">
+                <h3><span class="icon">🌾</span> Cuenta del Omer: Preparación y Conteo</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="practice-content">
+                <div class="practice-body">
+                    <div class="method">
+                        <h4>⚡ El Método Moderno</h4>
+                        <p>El método establece una progresión de 5 días con etapas claramente definidas: Día 1 enfrentar la incomodidad, Día 2 llegar al foco, Día 3 alcanzar el flow, Día 4 manejar la recaída, Día 5 experimentar el contraste. La clave es que cada día tiene un propósito específico y.builds sobre el anterior. No se puede saltar etapas. El cerebro necesita tiempo para adaptarse a niveles más altos de concentración.</p>
+                    </div>
+
+                    <div class="hebrew-practice">
+                        <h4>✡️ La Práctica Hebrea</h4>
+                        <p>La Cuenta del Omer (Sefirat HaOmer) es un período de 49 días entre Pesaj y Shavuot, donde el pueblo de Israel cuenta cada día como preparación para recibir la Torah en Shavuot. Cada día tiene un número (hoy es el día X de 49) y se medita en cualidades espirituales específicas (chesed, guevurá, tiferet, Netzaj, Hod, Yesod, Maljut) aplicadas a diferentes partes del ser (compasión, juicio, armonía, victoria, humildad, conexión, realeza). Es un programa estructurado de crecimiento espiritual progresivo.</p>
+                    </div>
+
+                    <div class="highlight-box">
+                        <p>La Cuenta del Omer nos enseña que el crecimiento no es instantáneo sino progresivo. Cada día de preparación cuenta. No podemos recibir la Torah sin contar, sin prepararnos, sin avanzar día a día hacia la meta.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Levítico 23:15-16</span>
+                            <span class="text">"Y contaréis desde el día siguiente al día de reposo, desde el día que ofrecisteis la gavilla de la ofrenda mecida, siete semanas completas. Hasta el día siguiente de la séptima semana contaréis cincuenta días."</span>
+                            <div class="application">El Eterno mandó contar. La cuenta del Omer no es solo numerar días, es un acto consciente de preparación espiritual. Cada día cuenta, cada etapa importa. El número del día nos dice dónde estamos en el proceso de preparación para recibir.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Deuteronomio 16:9</span>
+                            <span class="text">"Siete semanas te contarás desde que begins a meter la hoz en la mies."</span>
+                            <div class="application">"Te contarás" (taSPor) - la forma reflexiva indica que cada persona debe contar personalmente. La preparación para la cosecha espiritual (Shavuot) requiere que cada uno participe activamente en el conteo. Nadie puede hacerlo por nosotros.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="practice" id="p5">
+            <div class="practice-header" onclick="togglePractice('p5')">
+                <h3><span class="icon">🛡️</span> Huir de la Tentación: Zerizut</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="practice-content">
+                <div class="practice-body">
+                    <div class="method">
+                        <h4>⚡ El Método Moderno</h4>
+                        <p>El método concluye: "La disciplina debe tener lo mínimo de fuerza de voluntad y muchísimo de no exponerte a la tentación. No hay mayor fuerza de voluntad que no necesitar tenerla." Alan Marlatt documentó "las decisiones aparentemente irrelevantes": una pequeña exposición a la tentación puede derivar en una hora de distracción. La victoria está en la prevención, no en la resistencia. Si no entras al Instagram, no necesitas resistir Instagram.</p>
+                    </div>
+
+                    <div class="hebrew-practice">
+                        <h4>✡️ La Práctica Hebrea</h4>
+                        <p>Zerizut (זריזות) es la virtud de la rapidez y diligencia en el cumplimiento de los mandamientos, pero también implica huir del mal antes de que nos alcance. La tradición jasídica enfatiza: "Huye de la坏事 antes de que te alcance." En términos prácticos, esto significa estructurar nuestro ambiente para que las tentaciones simplemente no estén disponibles. Los jasídicos guardan sus ojos y sus pensamientos, evitando lugares y compañía que conduzcan al mal. Zerizut también significa "ligereza" - la capacidad de saltar sobre los obstáculos del mal con agilidad espiritual.</p>
+                    </div>
+
+                    <div class="highlight-box">
+                        <p>El concepto de zerizut nos enseña que la obediencia no es沉重 (pesada) cuando la practicamos con agilidad y rapidez. El que huye del mal no necesita la fuerza del que lucha contra el mal.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">2 Timoteo 2:22</span>
+                            <span class="text">"Huye también de las concupiscencias juveniles; y sigue la justicia, la fe, el amor y la paz, con los que invocan al Señor con pureza de corazón."</span>
+                            <div class="application">Pablo usa el verbo "flee" (pheugo) - imperativo de urgencia inmediata. No dice "resiste" o "lucha", dice "huye". La estrategia divina para la victoria sobre la tentación es la evasión estratégica, no el combate frontal. Huye hacia la justicia, la fe, el amor y la paz.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">1 Corintios 6:18</span>
+                            <span class="text">"Huid de la fornicación. Cualquier otro pecado que el hombre cometiere, fuera del cuerpo es; pero el que fornica, contra su propio cuerpo pecca."</span>
+                            <div class="application">El mismo mandato "huid" (pheugo) aparece aquí con referencia a la inmoralidad sexual. La Escritura establece que la pureza sexual requiere huir activamente, no solo resistir. La preservación del cuerpo como templo del Ruaj Hakodesh demanda distancia estratégica de todo lo que profana.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Proverbios 4:14-15</span>
+                            <span class="text">"No entres por la vereda de los impíos, ni procures andar por camino de malos. Apártate de él, no passes por él; apártate y pasa de largo."</span>
+                            <div class="application">Tres veces el texto dice "apártate" (sur). La sabiduría hebrea insiste en la separación física y mental del mal. No es suficiente evitar el Mal camino, debemos apartarnos de él antes de que nos contamine. El que "pasa de largo" no se detiene a contemplar.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="practice" id="p6">
+            <div class="practice-header" onclick="togglePractice('p6')">
+                <h3><span class="icon">🌊</span> El Estado de Flow: Kavannah</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="practice-content">
+                <div class="practice-body">
+                    <div class="method">
+                        <h4>⚡ El Método Moderno</h4>
+                        <p>Mihaly Csikszentmihalyi descubrió que el "flow" es el estado donde una persona está completamente absorta en su actividad, perdiendo la noción del tiempo y experimentando gozo intrínseco. La condición para el flow: la mente debe tener espacio libre. Con 110 bits de capacidad por segundo y una conversación consumiendo 40-60 bits, no queda espacio para flow si la mente está llena de ruido. Cada notificación, cada pensamiento pendiente, cada distracción impide el estado óptimo de desempeño.</p>
+                    </div>
+
+                    <div class="hebrew-practice">
+                        <h4>✡️ La Práctica Hebrea</h4>
+                        <p>Kavannah (כַּוָּנָה) es la intención, la concentración del corazón y la mente en lo que se hace. En la oración jasídica, kavannah significa dirigir completamente el corazón hacia el Eterno, apartando toda vanidad y pensamiento ocioso. El Baal Shem Tov enseñó que se puede alcanzar kavannah incluso en medio del trabajo mundano, llevando la mente de vuelta constantemente a la presencia divina. Es un estado de conciencia elevada donde cada acción se convierte en servicio sagrado.</p>
+                    </div>
+
+                    <div class="highlight-box">
+                        <p>Kavannah no es solo concentración, es consagración. Cuando hacemos cualquier cosa "kaven" (con intención), la acción mundana se convierte en acción espiritual. El trabajo no es séparé de la santidad, es el lugar donde la santidad se manifiesta.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Colosenses 3:23</span>
+                            <span class="text">"Y todo lo que hicierais, hacedlo de corazón, como para Jehovah y no para hombres."</span>
+                            <div class="application">"De corazón" (tes kardia) - con toda el alma, mente y fuerza. Cuando trabajamos con kavannah, trabajamos para el Eterno, no para hombres. Esto transforma el trabajo mundano en acto de adoración y produce el gozo del flow espiritual.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Proverbios 16:3</span>
+                            <span class="text">"Encomienda a Jehovah tus obras, y tus proyectos serán establecidos."</span>
+                            <div class="application">"Encomienda" (golel) significa rouler, turn over, like turning something over to someone for safekeeping. Cuando entregamos nuestras obras al Eterno con confianza, Él las establece. La obra encomendada recibe Su imprimatur y se convierte en algo eterno.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="practice" id="p7">
+            <div class="practice-header" onclick="togglePractice('p7')">
+                <h3><span class="icon">🎯</span> Prioridades: Davar Echad</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="practice-content">
+                <div class="practice-body">
+                    <div class="method">
+                        <h4>⚡ El Método Moderno</h4>
+                        <p>La primera regla práctica: "Trabaja primero en tu trabajo más importante." La primera tarea a la que das atención se queda con el mejor espacio de tu cerebro. Si empiezas el día con lo importante, toda tu capacidad se alinea con ello. Las primeras horas del día son las más valiosas y deben dedicarse a lo que realmente importa. El método recomienda proteger las primeras 4 horas de cualquier input innecesario.</p>
+                    </div>
+
+                    <div class="hebrew-practice">
+                        <h4>✡️ La Práctica Hebrea</h4>
+                        <p>El judaísmodefinido tiene prioridades claras: Torah primero, oración segundo, actos de bondad (gemilut chasadim) tercero. El Shemá Israel establece: "Y te será esto mandamiento que yo te ordeno hoy: y lo escribirás en tus posts y en tus puertas" - la Torah debe estar visible, accesible, en el centro de la vida doméstica. El concepto de "Tadir veTashlum" (primero lo importante, después lo urgente) guía la estructura del día. En el hogar jasídico, el estudio de Torah antes del trabajo es innegociable.</p>
+                    </div>
+
+                    <div class="highlight-box">
+                        <p>La palabra hebrea para "prioridad" es "reshut" (רָאשׁוּת), de "rosh" (cabeza). Lo prioritario es lo que está a la cabeza, lo que dirige todo lo demás. La Torah ocupa el lugar de la cabeza en la vida del creyente hebreo.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Mateo 6:33</span>
+                            <span class="text">"Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas."</span>
+                            <div class="application">"Primeramente" (proton) - en primer lugar, antes que todo. Yeshúa establece la prioridad absoluta: el reino de Dios primero. Cuando esta prioridad ocupa el primer lugar, todo lo demás - incluyendo la productividad material - se añade sobrenaturalmente.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Proverbios 3:5-6</span>
+                            <span class="text">"Confía en Jehovah con todo tu corazón, y no te apoyes en tu propia inteligencia; reconócelo en todos tus caminos, y él enderezará tus veredas."</span>
+                            <div class="application">"Con todo tu corazón" (bekol levavecha) - con todos tus corazones, con toda tu capacidad mental, emocional y espiritual. No hay division, no hay compartimentalización. El Eterno quiere ser reconocido en TODOS los caminos, incluyendo el trabajo, las finanzas, las relaciones.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="practice" id="p8">
+            <div class="practice-header" onclick="togglePractice('p8')">
+                <h3><span class="icon">💪</span> Dominio Propio: Gershayim</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="practice-content">
+                <div class="practice-body">
+                    <div class="method">
+                        <h4>⚡ El Método Moderno</h4>
+                        <p>El método cita a la Dra. Anna Lembke: la exposición repetida a actividades de alta dopamina (redes, videojuegos, comida rápida) reduce la sensibilidad de los receptores cerebrales. Esto es tolerancia - el cerebro se adapta y necesita más para sentir lo mismo. La solución es el aburrimiento deliberado: eliminar la sobreestimulación para que el cerebro resetee su línea base. Actividades que antes parecían "aburridas" vuelven a ser satisfactorias.</p>
+                    </div>
+
+                    <div class="hebrew-practice">
+                        <h4>✡️ La Práctica Hebrea</h4>
+                        <p>Gershayim (גרשיים) representa los dos puntos que aparecen sobre la letra shin en el Nome de Dios (Shaddai), indicando que Dios es "El que escancia" - el que limita y mide. El concepto de "shomer petaim Adonai" (Jehovah guarda a los简单) implica que la simplicidad y la moderación son protección divina. La tradición jasídica valora el hambre spiritual sobre la saciedad, la soledad sobre la muchedumbre, el silencio sobre el ruido. La "dieta" espiritual de abstinencia periódica (como el ayuno de Yom Kipur) es esencial para mantener la sensibilidad espiritual.</p>
+                    </div>
+
+                    <div class="highlight-box">
+                        <p>El ayuno no es privación, es libertad. Cuando ayunamos de comida, nos demos cuenta de cuanta energia gastamos en procesar; cuando ayunamos de estímulos, descubrimos la paz del alma que estaba oculta bajo el ruido.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Gálatas 5:22-23</span>
+                            <span class="text">"Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza (enkrateia); contra tales cosas no hay ley."</span>
+                            <div class="application">"Templanza" traduce "enkrateia" (ἐγκράτεια) - dominio propio, autocontrol, la capacidad de someterse a sí mismo. Esta virtud es producción sobrenatural del Ruaj Hakodesh, no esfuerzo humano. Cuando caminamos en el Espíritu, el fruto incluye la fortaleza interior para decir "no" a la sobreestimulación.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Proverbios 25:28</span>
+                            <span class="text">"Como ciudad sin muro es el hombre que no tiene dominio sobre su espíritu."</span>
+                            <div class="application">Sin dominio propio, estamos completamente desprotegidos. Cada tentación puede entrar y tomar la ciudad del alma. El dominio del espíritu (reshit) es la muralla que protege nuestra productividad, nuestras relaciones, nuestra paz. Sin esta muralla, todo está expuesto al enemigo.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">2 Pedro 1:5-6</span>
+                            <span class="text">"Añadid a vuestra fe la virtud; y a la virtud, el conocimiento; y al conocimiento, el dominio propio; y al dominio propio, la paciencia."</span>
+                            <div class="application">Pedro presenta una cadena de virtudes donde el dominio propio (enkrateia) se desarrolla después de la fe, la virtud y el conocimiento. El crecimiento espiritual incluye específicamente el desarrollo de la fortaleza interior como habilidad práctica para la vida.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="practice" id="p9">
+            <div class="practice-header" onclick="togglePractice('p9')">
+                <h3><span class="icon">⛺</span> Desierto: Midbar</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="practice-content">
+                <div class="practice-body">
+                    <div class="method">
+                        <h4>⚡ El Método Moderno</h4>
+                        <p>El método enseña que las primeras 24 horas de abstinencia son las más difíciles: irritabilidad, inquietud, sensación de vibración fantasma del móvil. Wolf, el investigador de Heidelberg, documentó que la abstinencia produce cambios cerebrales medibles, pero la persona no siempre los siente. El precio del primer día es alto pero temporal. El "dolor" inicial es la señal de que el reset está ocurriendo.</p>
+                    </div>
+
+                    <div class="hebrew-practice">
+                        <h4>✡️ La Práctica Hebrea</h4>
+                        <p>Midbar (מִדְבָּר) significa "lugar de hablar" - donde Dios habla y el pueblo escucha. El desierto es el lugar de la dependencia absoluta del Eterno: sin recursos propios, sin蔽护, sin comida ni agua excepto lo que Él provee. El desierto stripping away todo lo superfluo, dejando solo lo esencial. Israel pasó 40 años en el midbar aprendiendo a confiar en Dios para el mana diario. El desierto es espacio de formación, no de castigo.</p>
+                    </div>
+
+                    <div class="highlight-box">
+                        <p>El desierto es donde el ego muere y la fe nace. En el midbar no hay nada que nos pueda mantener excepto Dios. Por eso el desierto es el lugar preferido de los profetas y los reformadores espirituales.</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Oseas 2:14-15</span>
+                            <span class="text">"Por tanto, he aquí que yo la atrairé, y la llevaré al desierto, y hablaré al corazón de ella. Y le daré sus viñas desde allí, y el valle de Achor por puerta de esperanza."</span>
+                            <div class="application">El Eterno dice que llevará a Su pueblo al desierto PARA HABLARLE AL CORAZÓN. El desierto no es solo lugar de privación, es lugar de revelación íntima. Donde no hay nada más, solo queda Dios y el alma. Esta es la promesa: el desierto se convierte en lugar de esperanza.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Deuteronomio 8:2-3</span>
+                            <span class="text">"Y acordar te has de todo el camino por donde el Señor tu Dios te ha traído estos cuarenta años en el desierto, para humillarte y para probarte, para saber lo que había en tu corazón, si habías o no guardado sus mandamientos."</span>
+                            <div class="application">El desierto es escuela de humildad y prueba. Dios permitió que Israel wander 40 años para revelar lo que estaba en sus corazones. El desierto stripping away las máscaras y revela la verdadera condición del alma. La prueba muestra si guardaremos los mandamientos cuando no hay nada que nos sostenga excepto la fe.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="practice" id="p10">
+            <div class="practice-header" onclick="togglePractice('p10')">
+                <h3><span class="icon">🎷</span> Yom Teruah: El Sonido que Despierta</h3>
+                <span class="arrow">▼</span>
+            </div>
+            <div class="practice-content">
+                <div class="practice-body">
+                    <div class="method">
+                        <h4>⚡ El Método Moderno</h4>
+                        <p>El método habla de "la sensación" del contraste: después de una semana difícil con presión, incertidumbre y esfuerzo, la satisfacción al completar la tarea es proporcionalmente mayor. Cuanto más difícil el camino, mayor la recompensa. El cerebro humano está diseñado para valorar el contraste - la diferencia entre el punto de partida y la meta - más que el logro absoluto. Esto es lo opuesto al "scroll" de redes sociales, que da dopamina fácil sin esfuerzo y sin contraste.</p>
+                    </div>
+
+                    <div class="hebrew-practice">
+                        <h4>✡️ La Práctica Hebrea</h4>
+                        <p>Yom Teruah (יוֹם תְּרוּעָה) es el día de la presentación de las primicias y el memorial del sonido del shofar. El sonido del shofar tiene poder para despertar la conciencia, romper la complacencia y anunciar el día del Señor. Es un "teruah" - un grito de alarma, un sonido que penetra el alma. Los jasídicos entiende que el shofar es sonido que rompe el status quo y llama a teshuvá (arrepentimiento). Yom Teruah es el día cuando el Eterno nos llama a despertar de la letargo espiritual.</p>
+                    </div>
+
+                    <div class="highlight-box">
+                        <p>El sonido del shofar es design to penetrate deaf ears and sleepy souls. Es el sonido que dice: "¡Despierta! El día del juicio se acerca. Es tiempo de prepararse."</p>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Números 29:1</span>
+                            <span class="text">"Y en el mes séptimo, al primero del mes, tendréis día de reposo, commemoración al son de trompetas (teruah), santa convocación."</span>
+                            <div class="application">"Teruah" es un sonido de alarma, un grito que despierta. Este día es diseñado para sacudir al pueblo de su letargo espiritual. El sonido del shofar rompe la complacencia y llama a preparación intensiva para los días de juicio que vienen.</div>
+                        </div>
+                    </div>
+
+                    <div class="scripture">
+                        <h4>📜 Las Escrituras Hablan</h4>
+                        
+                        <div class="verse-box">
+                            <span class="ref">Joel 2:1</span>
+                            <span class="text">"Tocad shofar en Sión, y gritad en mi monte santo; tiemblen todos los moradores de la tierra, porque el día de Jehovah viene, porque está cercano."</span>
+                            <div class="application">El día de Jehovah viene y su sonido de alarma (shofar) hace temblar la tierra. El shofar es instrumento de revelación profética, anunciando intervenciones divinas en la historia. El que escucha el shofar y tiembla está preparado; el que ignora el sonido está en peligro.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="summary">
+            <h2>El Diseño Hebreo de una Vida Productiva</h2>
+            <p style="max-width: 800px; margin: 0 auto; font-size: 1.1rem; opacity: 0.95;">Las prácticas de las Raíces Hebreas nos revelan un diseño divino que trasciende las técnicas modernas de productividad. Cuando entendemos el SHABAT como orden celestial, el silencio contemplativo como comunión con Dios, y el dominio propio como fruto del Espíritu, descubrimos que la verdadera productividad hebrea no es hacer más, sino hacer lo que importa con todo nuestro ser.</p>
+            
+            <div class="summary-grid">
+                <div class="summary-item">
+                    <h4>🕎 SHABAT - Reposo Consagrado</h4>
+                    <p>El descanso hebdomadario no es opcional, es orden divino. Seis días de trabajo intenso seguidos de un día de soltar completamente, reconociendo que Dios es la fuente de todo incremento.</p>
+                </div>
+                <div class="summary-item">
+                    <h4>🙏 Hitbodedut - Soledad Divina</h4>
+                    <p>El silencio contemplativo es donde el alma se encuentra con su Creador. Sin ruido, sin pantallas, sin estímulos - solo el alma y Dios en conversación íntima.</p>
+                </div>
+                <div class="summary-item">
+                    <h4>📖 Torah - Estudio con Propósito</h4>
+                    <p>La Palabra de Dios es la fuente de toda sabiduría práctica. Meditar en ella día y noche produce prosperidad en todos los aspectos de la vida.</p>
+                </div>
+                <div class="summary-item">
+                    <h4>🌾 Omer - Conteo Consciente</h4>
+                    <p>El crecimiento espiritual es progresivo. Cada día cuenta, cada etapa build on la anterior. La preparación requiere tiempo y práctica intencional.</p>
+                </div>
+                <div class="summary-item">
+                    <h4>🛡️ Zerizut - Huir del Mal</h4>
+                    <p>La victoria sobre la tentación está en la prevención. No hay mayor fortaleza que no necesitar resistir cuando nos hemos apartado del mal.</p>
+                </div>
+                <div class="summary-item">
+                    <h4>💪 Gershayim - Dominio Propio</h4>
+                    <p>El fruto del Espíritu incluye el dominio propio. Cuando caminamos en el Ruaj, recibimos la fortaleza interior para controlar nuestros deseos y pensamientos.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="intro" style="margin-top: 60px;">
+            <h2>Conclusión: Vivir según el Diseño</h2>
+            <p>El diseño divino para la productividad no es una lista de técnicas, sino un estilo de vida. Cuando guardamos el SHABAT, practicamos el hitbodedut, estudiamos la Torah, contamos el Omer, huimos del mal, buscamos el flow, establecemos prioridades, cultivamos el dominio propio, atravesamos el desierto con fe, y respondemos al llamado del shofar, estamos viviendo según el diseño original del Creador para el ser humano.</p>
+            <p style="margin-top: 20px;">Este diseño fue demostrado por el Mesías Yeshúa, quien vivía en comunión constante con el Padre, trabajaba con kavannah, descansaba en el SHABAT, huía de la tentación, y llamaba a sus discípulos a hacer likewise. La productividad hebrea no es solo para este mundo, es para el Reino eterno.</p>
+            <p style="margin-top: 20px; font-style: italic; color: var(--shabat-gold);">"Porque no somos de los que retroceden para perdición, sino de los que creen para salvación del alma." - Hebreos 10:39</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>Estudio basado en las Sagradas Escrituras y las prácticas de las Raíces Hebreas</p>
+        <p style="margin-top: 10px;">Jazak Veematz - Esfuérzate y sé valiente (יהיה חזק)</p>
+    </footer>
+
+    <script>
+        function toggleTheme() {
+            const body = document.body;
+            const button = document.querySelector('.theme-toggle');
+            
+            if (body.classList.contains('light-mode')) {
+                body.classList.remove('light-mode');
+                body.classList.add('dark-mode');
+                button.textContent = 'Modo Claro';
+            } else {
+                body.classList.remove('dark-mode');
+                body.classList.add('light-mode');
+                button.textContent = 'Modo Oscuro';
+            }
+        }
+
+        function togglePractice(id) {
+            const practice = document.getElementById(id);
+            practice.classList.toggle('active');
+        }
+
+        function expandAll() {
+            const practices = document.querySelectorAll('.practice');
+            practices.forEach(p => p.classList.add('active'));
+            document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+            document.querySelector('.nav-btn:first-child').classList.add('active');
+        }
+
+        function collapseAll() {
+            const practices = document.querySelectorAll('.practice');
+            practices.forEach(p => p.classList.remove('active'));
+            document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+            document.querySelector('.nav-btn:last-child').classList.add('active');
+        }
+    </script>
+</body>
+</html>
