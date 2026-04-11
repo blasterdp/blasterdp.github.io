@@ -51,6 +51,7 @@ const topicsByCategory = {
         'flashcards_parashá_yitró.csv'
     ],
     niños: [
+        'flashcards_trasmision_10_abr_2026_noche.csv',
         'flashcards_parashá_Sheminí_old.csv',
         'flashcards_parashá_vayakhel_old.csv',
         'flashcards_ki_tiza_niños_old.csv',
