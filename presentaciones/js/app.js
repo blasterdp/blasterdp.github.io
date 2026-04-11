@@ -1,6 +1,13 @@
 // Configuración de las presentaciones disponibles
 const presentations = [
     {
+        id: 'Presentación_Edificando_el_Templo_Interior',
+        title: 'Presentación Edificando el Templo Interior',
+        description: 'Edificando el Templo Interior basado en la parashá 26 Sheminí.',
+        cover: 'slides/Presentación_Edificando_el_Templo_Interior/01.webp',
+        slides: Array.from({length: 13}, (_, i) => `slides/Presentación_Edificando_el_Templo_Interior/${String(i + 1).padStart(2, '0')}.webp`)
+    },
+    {
         id: 'Presentación_Discernimiento_sagrado',
         title: 'Presentación Disernimiento Sagrado',
         description: 'Disernimiento Sagrado basado en la parashá 26 Sheminí.',
