@@ -1,22 +1,29 @@
 // Configuración de las presentaciones disponibles
 const presentations = [
     {
+        id: 'Presentasión_CONSTRUIR_UNA_FE_VISIBLE',
+        title: 'CONSTRUIR UNA FE VISIBLE - Jazak VeEmatz',
+        description: 'Edificando el Templo Interior basado en la parashá 26 Sheminí.',
+        cover: 'slides/Presentasión_CONSTRUIR_UNA_FE_VISIBLE/01.webp',
+        slides: Array.from({length: 45}, (_, i) => `slides/Presentasión_CONSTRUIR_UNA_FE_VISIBLE/${String(i + 1).padStart(2, '0')}.webp`)
+    },
+    {
         id: 'Presentación_Edificando_el_Templo_Interior',
-        title: 'Presentación Edificando el Templo Interior',
+        title: 'Edificando el Templo Interior',
         description: 'Edificando el Templo Interior basado en la parashá 26 Sheminí.',
         cover: 'slides/Presentación_Edificando_el_Templo_Interior/01.webp',
-        slides: Array.from({length: 13}, (_, i) => `slides/Presentación_Edificando_el_Templo_Interior/${String(i + 1).padStart(2, '0')}.webp`)
+        slides: Array.from({length: 14}, (_, i) => `slides/Presentación_Edificando_el_Templo_Interior/${String(i + 1).padStart(2, '0')}.webp`)
     },
     {
         id: 'Presentación_Discernimiento_sagrado',
-        title: 'Presentación Disernimiento Sagrado',
+        title: 'Disernimiento Sagrado',
         description: 'Disernimiento Sagrado basado en la parashá 26 Sheminí.',
         cover: 'slides/Presentación_Discernimiento_sagrado/01.webp',
         slides: Array.from({length: 13}, (_, i) => `slides/Presentación_Discernimiento_sagrado/${String(i + 1).padStart(2, '0')}.webp`)
     },
     {
         id: 'Presentación_Anatomía_de_la_redención',
-        title: 'Presentación Anatomía de la redención',
+        title: 'Anatomía de la redención',
         description: 'La arquitectura del Alma.',
         cover: 'slides/Presentación_Anatomía_de_la_redención/01.webp',
         slides: Array.from({length: 15}, (_, i) => `slides/Presentación_Anatomía_de_la_redención/${String(i + 1).padStart(2, '0')}.webp`)
