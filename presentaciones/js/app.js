@@ -1,9 +1,16 @@
 // Configuración de las presentaciones disponibles
 const presentations = [
     {
+        id: 'LEPRA_HACER_VISIBLE_LO_INVISIBLE',
+        title: 'LEPRA HACER VISIBLE LO INVISIBLE - Jazak VeEmatz',
+        description: '',
+        cover: 'slides/LEPRA_HACER_VISIBLE_LO_INVISIBLE/01.webp',
+        slides: Array.from({length: 73}, (_, i) => `slides/LEPRA_HACER_VISIBLE_LO_INVISIBLE/${String(i + 1).padStart(2, '0')}.webp`)
+    },
+    {
         id: 'Presentasión_CONSTRUIR_UNA_FE_VISIBLE',
         title: 'CONSTRUIR UNA FE VISIBLE - Jazak VeEmatz',
-        description: 'Edificando el Templo Interior basado en la parashá 26 Sheminí.',
+        description: '',
         cover: 'slides/Presentasión_CONSTRUIR_UNA_FE_VISIBLE/01.webp',
         slides: Array.from({length: 45}, (_, i) => `slides/Presentasión_CONSTRUIR_UNA_FE_VISIBLE/${String(i + 1).padStart(2, '0')}.webp`)
     },
