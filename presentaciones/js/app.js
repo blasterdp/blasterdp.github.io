@@ -1,6 +1,13 @@
 // Configuración de las presentaciones disponibles
 const presentations = [
     {
+        id: 'Presentación_Código_de_Santidad',
+        title: 'Código de Santidad',
+        description: '',
+        cover: 'slides/Presentación_Código_de_Santidad/01.webp',
+        slides: Array.from({length: 13}, (_, i) => `slides/Presentación_Código_de_Santidad/${String(i + 1).padStart(2, '0')}.webp`)
+    },
+    {
         id: 'LEPRA_HACER_VISIBLE_LO_INVISIBLE',
         title: 'LEPRA HACER VISIBLE LO INVISIBLE - Jazak VeEmatz',
         description: '',

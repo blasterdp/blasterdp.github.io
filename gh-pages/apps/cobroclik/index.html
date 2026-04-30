@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>CobroClick - Gestiona tus transferencias</title>
+    <!-- Font Awesome 6 (gratis) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background: linear-gradient(145deg, #f0f5fe 0%, #e9f0fa 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 1.5rem;
+        }
+
+        /* Contenedor principal elegante */
+        .card {
+            max-width: 1100px;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.96);
+            backdrop-filter: blur(0px);
+            border-radius: 3rem;
+            box-shadow: 0 25px 45px -12px rgba(0, 0, 0, 0.25), 0 8px 18px rgba(0, 0, 0, 0.05);
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        /* Header con degradado sutil */
+        .hero {
+            background: linear-gradient(135deg, #0B2B40 0%, #1C5D7A 100%);
+            padding: 2.5rem 2rem;
+            text-align: center;
+            color: white;
+        }
+
+        .logo-area {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .logo-icon {
+            background: white;
+            width: 60px;
+            height: 60px;
+            border-radius: 24px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 10px 20px -5px rgba(0,0,0,0.2);
+            overflow: hidden;
+        }
+
+        .logo-icon img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+
+        .logo-icon i {
+            font-size: 2.4rem;
+            color: #1C5D7A;
+        }
+
+        .logo-text {
+            font-size: 2.8rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+        }
+
+        .logo-text span {
+            font-weight: 300;
+            font-size: 2rem;
+        }
+
+        .hero p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+            max-width: 500px;
+            margin: 0.8rem auto 0;
+        }
+
+        /* contenido principal */
+        .content {
+            padding: 2.5rem 2rem;
+        }
+
+        .info-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            margin-bottom: 2.5rem;
+            justify-content: center;
+        }
+
+        .feature {
+            flex: 1;
+            min-width: 180px;
+            text-align: center;
+            background: #f8fafd;
+            padding: 1.2rem;
+            border-radius: 2rem;
+            transition: transform 0.2s;
+        }
+
+        .feature i {
+            font-size: 2rem;
+            color: #1C5D7A;
+            margin-bottom: 0.6rem;
+        }
+
+        .feature h3 {
+            font-size: 1.2rem;
+            margin-bottom: 0.3rem;
+            color: #0B2B40;
+        }
+
+        .feature p {
+            color: #4a6272;
+            font-size: 0.85rem;
+        }
+
+        /* zona de descarga */
+        .download-section {
+            text-align: center;
+            border-top: 1px solid #e2edf7;
+            padding-top: 2rem;
+            margin-top: 0.5rem;
+        }
+
+        .download-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #0B2B40;
+            margin-bottom: 0.5rem;
+        }
+
+        .badge {
+            background: #eef3fc;
+            display: inline-block;
+            padding: 0.3rem 1rem;
+            border-radius: 40px;
+            font-size: 0.8rem;
+            margin-bottom: 1.8rem;
+            color: #1C5D7A;
+            font-weight: 500;
+        }
+
+        .buttons-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.2rem;
+            justify-content: center;
+            margin-bottom: 2rem;
+        }
+
+        .download-btn {
+            background: #0B2B40;
+            border: none;
+            border-radius: 3rem;
+            padding: 1rem 2rem;
+            min-width: 240px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: white;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+            text-decoration: none;
+        }
+
+        .download-btn i {
+            font-size: 1.4rem;
+        }
+
+        .download-btn:hover {
+            background: #1C5D7A;
+            transform: translateY(-3px);
+            box-shadow: 0 12px 20px -8px rgba(28,93,122,0.4);
+        }
+
+        .btn-secondary {
+            background: #ffffff;
+            color: #0B2B40;
+            border: 2px solid #cbdde9;
+            box-shadow: none;
+        }
+
+        .btn-secondary:hover {
+            background: #eef3fc;
+            border-color: #1C5D7A;
+            transform: translateY(-2px);
+        }
+
+        .info-apk {
+            background: #f4f9fe;
+            border-radius: 1.5rem;
+            padding: 1.2rem;
+            margin-top: 1.5rem;
+            font-size: 0.85rem;
+            text-align: left;
+            display: inline-block;
+            width: auto;
+            max-width: 550px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .info-apk p {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: #2c4b62;
+            margin: 0.3rem 0;
+        }
+
+        .detected {
+            background: #e0f0e6;
+            border-left: 5px solid #2c9f6e;
+            padding: 0.8rem 1.2rem;
+            border-radius: 1.2rem;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        footer {
+            background: #f0f5fb;
+            text-align: center;
+            padding: 1.2rem;
+            font-size: 0.75rem;
+            color: #5d7a8c;
+            border-top: 1px solid #e2edf7;
+        }
+
+        @media (max-width: 640px) {
+            .hero {
+                padding: 1.8rem 1rem;
+            }
+            .logo-text {
+                font-size: 2rem;
+            }
+            .logo-text span {
+                font-size: 1.5rem;
+            }
+            .content {
+                padding: 1.5rem;
+            }
+            .download-btn {
+                width: 100%;
+                min-width: unset;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <div class="hero">
+        <div class="logo-area">
+            <div class="logo-icon">
+                <i class="fas fa-hand-holding-usd"></i>
+            </div>
+            <div class="logo-text">Cobro<span>Click</span></div>
+        </div>
+        <p>Registro elegante de transferencias · Tu negocio al instante</p>
+    </div>
+
+    <div class="content">
+        <div class="info-grid">
+            <div class="feature">
+                <i class="fas fa-bolt"></i>
+                <h3>Click rápido</h3>
+                <p>Registra transferencias en segundos</p>
+            </div>
+            <div class="feature">
+                <i class="fas fa-chart-line"></i>
+                <h3>Control total</h3>
+                <p>Reportes y estadísticas al momento</p>
+            </div>
+            <div class="feature">
+                <i class="fas fa-shield-alt"></i>
+                <h3>Seguro</h3>
+                <p>Tus datos protegidos</p>
+            </div>
+        </div>
+
+        <div class="download-section">
+            <div class="download-title">Descarga CobroClick</div>
+            <div class="badge">
+                <i class="fab fa-android"></i> Android · APK oficial
+            </div>
+
+            <!-- Zona detección automática -->
+            <div id="autoDetectionArea" style="text-align: center;">
+                <!-- JS mostrará detección de arquitectura -->
+            </div>
+
+            <div class="buttons-container" id="buttonsContainer">
+                <!-- Botones principales generados con JS (y fallback manual) -->
+            </div>
+
+            <div class="info-apk">
+                <p><i class="fas fa-microchip"></i> <strong>Arquitectura compatible:</strong> El sistema elige el APK óptimo para tu dispositivo.</p>
+                <p><i class="fas fa-download"></i> Versiones: x86_64 • armeabi-v7a • arm64-v8a</p>
+                <p><i class="fas fa-lock"></i> Instalación segura. Requiere permitir "Orígenes desconocidos" en Android.</p>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <i class="far fa-registered"></i> CobroClick 2026 · Gestión inteligente de transferencias
+    </footer>
+</div>
+
+<script>
+    // Rutas de los APKs (misma carpeta donde está este HTML)
+    const APKS = {
+        x86_64: './app-x86_64-release.apk',
+        armeabi_v7a: './app-armeabi-v7a-release.apk',
+        arm64_v8a: './app-arm64-v8a-release.apk'
+    };
+
+    // Función para detectar la arquitectura del dispositivo Android (desde el User-Agent)
+    function detectArchitecture() {
+        const ua = navigator.userAgent || navigator.vendor || window.opera;
+        
+        // Patrones comunes para detectar arquitectura en Android
+        // Nota: No es 100% infalible pero cubre la mayoría de casos modernos
+        if (ua.indexOf('Android') !== -1) {
+            // ARM64 strings
+            if (ua.indexOf('aarch64') !== -1 || ua.indexOf('arm64') !== -1 || ua.indexOf('ARM64') !== -1) {
+                return 'arm64_v8a';
+            }
+            // ARMv7 / armeabi
+            else if (ua.indexOf('armv7') !== -1 || ua.indexOf('armeabi-v7a') !== -1 || (ua.indexOf('ARM') !== -1 && ua.indexOf('64') === -1)) {
+                return 'armeabi_v7a';
+            }
+            // x86_64 (emuladores o dispositivos Intel)
+            else if (ua.indexOf('x86_64') !== -1 || ua.indexOf('x86-64') !== -1 || (ua.indexOf('x86') !== -1 && ua.indexOf('64') !== -1)) {
+                return 'x86_64';
+            }
+            else {
+                // Intento de detectar por navigator.userAgentData (experimental)
+                if (navigator.userAgentData && navigator.userAgentData.brands) {
+                    // fallback genérico: hoy mayoría son arm64-v8a, asumimos seguro
+                    return 'arm64_v8a';
+                }
+                return 'arm64_v8a'; // default moderno
+            }
+        }
+        // Si no es Android, devolvemos null pero sugerimos versión universal o arm64
+        return null;
+    }
+
+    // Obtener URL de descarga recomendada
+    function getRecommendedApk() {
+        const arch = detectArchitecture();
+        if (arch && APKS[arch]) {
+            return { arch, url: APKS[arch] };
+        }
+        // fallback: el más compatible actualmente es arm64-v8a (cubre casi todos los móviles 2017+)
+        return { arch: 'arm64_v8a (recomendado)', url: APKS.arm64_v8a };
+    }
+
+    // Mostrar interfaz y botones
+    function renderDownloadUI() {
+        const isAndroid = /Android/i.test(navigator.userAgent);
+        const detectionDiv = document.getElementById('autoDetectionArea');
+        const buttonsContainer = document.getElementById('buttonsContainer');
+        
+        if (!isAndroid) {
+            // Usuario en PC / iOS: mostrar mensaje + opción de descarga manual de cualquier versión
+            detectionDiv.innerHTML = `
+                <div class="detected">
+                    <i class="fas fa-desktop"></i> 
+                    <span>Parece que estás en PC o iOS. <strong>CobroClick</strong> es nativo Android. Puedes descargar el APK y transferirlo a tu dispositivo.</span>
+                </div>
+            `;
+            // Botones manuales para todas las arquitecturas
+            buttonsContainer.innerHTML = `
+                <a href="${APKS.arm64_v8a}" class="download-btn" download><i class="fas fa-download"></i> ARM64-v8a (moderno)</a>
+                <a href="${APKS.armeabi_v7a}" class="download-btn btn-secondary" download><i class="fas fa-download"></i> ARMv7 (32-bit)</a>
+                <a href="${APKS.x86_64}" class="download-btn btn-secondary" download><i class="fas fa-download"></i> x86_64 (emuladores)</a>
+            `;
+            return;
+        }
+
+        // EN ANDROID: detección automática + botón principal recomendado + manual
+        const recommended = getRecommendedApk();
+        
+        detectionDiv.innerHTML = `
+            <div class="detected">
+                <i class="fas fa-robot"></i> 
+                <span>Dispositivo compatible detectado: <strong>${recommended.arch.toUpperCase()}</strong> · APK optimizado para tu equipo.</span>
+            </div>
+        `;
+        
+        // Botón principal de descarga inteligente
+        const mainBtn = `
+            <a href="${recommended.url}" class="download-btn" id="smartDownloadBtn" download>
+                <i class="fas fa-cloud-download-alt"></i> Descargar CobroClick (recomendado)
+            </a>
+        `;
+        
+        // Botones adicionales para otras arquitecturas (por si acaso)
+        const manualBtns = `
+            <a href="${APKS.arm64_v8a}" class="download-btn btn-secondary" download><i class="fas fa-microchip"></i> ARM64-v8a</a>
+            <a href="${APKS.armeabi_v7a}" class="download-btn btn-secondary" download><i class="fas fa-microchip"></i> ARMv7 (32-bit)</a>
+            <a href="${APKS.x86_64}" class="download-btn btn-secondary" download><i class="fas fa-desktop"></i> x86_64</a>
+        `;
+        
+        buttonsContainer.innerHTML = mainBtn + manualBtns;
+        
+        // Añadir evento extra para tracking simple de descarga (opcional)
+        const smartBtn = document.getElementById('smartDownloadBtn');
+        if (smartBtn) {
+            smartBtn.addEventListener('click', (e) => {
+                console.log(`Descarga iniciada: APK recomendado (${recommended.arch}) - CobroClick`);
+                // Podrías enviar analytics aquí si quieres
+            });
+        }
+        
+        // Añadir eventos para los botones manuales también (pequeño feedback)
+        const allBtns = document.querySelectorAll('.download-btn');
+        allBtns.forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                // Pequeño efecto opcional (solo visual feedback)
+                const originalText = btn.innerHTML;
+                btn.innerHTML = '<i class="fas fa-spinner fa-pulse"></i> Iniciando...';
+                setTimeout(() => {
+                    btn.innerHTML = originalText;
+                }, 1200);
+            });
+        });
+    }
+
+    function loadAppLogo() {
+        const logoContainer = document.querySelector('.logo-icon');
+        if (!logoContainer) return;
+
+        const logoImage = document.createElement('img');
+        logoImage.src = `./logo.png?cache=${Date.now()}`;
+        logoImage.alt = 'CobroClick logo';
+        logoImage.loading = 'lazy';
+        logoImage.onload = () => {
+            logoContainer.innerHTML = '';
+            logoContainer.appendChild(logoImage);
+        };
+        logoImage.onerror = () => {
+            logoImage.remove();
+        };
+    }
+    
+    // Verificar si los archivos existen (opcional, evitar errores 404 en consola pero no bloquea)
+    // Simplemente avisamos amigablemente si no puede acceder al archivo (sin romper UX)
+    function preFlightCheck() {
+        // Esto es opcional: fetch head para verificar existencia sin afectar descarga. 
+        // Como los archivos estarán en el servidor, omitimos para no saturar.
+        // Confiamos en que ./app-xxx-release.apk están presentes.
+        console.log('Página de descarga CobroClick lista - Archivos esperados en el directorio raíz.');
+    }
+    
+    // Inicializar todo cuando el DOM esté listo
+    document.addEventListener('DOMContentLoaded', () => {
+        loadAppLogo();
+        renderDownloadUI();
+        preFlightCheck();
+    });
+</script>
+</body>
+</html>
