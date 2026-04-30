@@ -1,17 +1,5 @@
 [
   {
-    "name": "Vendi",
-    "description": "Gestión de inventario y ventas inteligente para tu negocio.",
-    "path": "apps/vendi/",
-    "icon": null
-  },
-  {
-    "name": "ReportesStock",
-    "description": "Gestión de productos y cuadres inteligente para tu negocio.",
-    "path": "apps/reportes_stock/",
-    "icon": null
-  },
-  {
     "name": "Menu Flow",
     "description": "Gestión de menus y ofertas inteligente para tu negocio.",
     "path": "apps/menu_flow/",
@@ -21,6 +9,18 @@
     "name": "CobroClik",
     "description": "Gestión de registros de transferencias inteligente para tu negocio.",
     "path": "apps/cobroclik/",
+    "icon": null
+  },
+  {
+    "name": "ReportesStock",
+    "description": "Gestión de productos y cuadres inteligente para tu negocio.",
+    "path": "apps/reportes_stock/",
+    "icon": null
+  },
+  {
+    "name": "Vendi",
+    "description": "Gestión de inventario y ventas inteligente para tu negocio.",
+    "path": "apps/vendi/",
     "icon": null
   }
 ]
