@@ -1,6 +1,13 @@
 // Configuración de las presentaciones disponibles
 const presentations = [
     {
+        id: 'Presentación_Architecture_of_Holiness',
+        title: 'Código de Santidad',
+        description: '',
+        cover: 'slides/Presentación_Architecture_of_Holiness/01.webp',
+        slides: Array.from({length: 13}, (_, i) => `slides/Presentación_Architecture_of_Holiness/${String(i + 1).padStart(2, '0')}.webp`)
+    },
+    {
         id: 'Presentación_Código_de_Santidad',
         title: 'Código de Santidad',
         description: '',

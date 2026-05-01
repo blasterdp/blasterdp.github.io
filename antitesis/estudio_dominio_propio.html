@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Dominio Propio · Enkráteia | Estudio Jazak Veematz</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background: #F9F6EF;
+      color: #2C2418;
+      font-family: 'Inter', sans-serif;
+      line-height: 1.5;
+      scroll-behavior: smooth;
+    }
+
+    /* Tipografía jerárquica */
+    h1, h2, h3, h4, .hebrew, .greek, .serif-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-weight: 600;
+    }
+
+    h1 {
+      font-size: 3.5rem;
+      letter-spacing: -0.01em;
+      line-height: 1.2;
+      background: linear-gradient(135deg, #2C2418 0%, #6B4E2E 100%);
+      background-clip: text;
+      -webkit-background-clip: text;
+      color: transparent;
+      margin-bottom: 0.5rem;
+    }
+
+    h2 {
+      font-size: 2.2rem;
+      border-left: 5px solid #B48C48;
+      padding-left: 1.2rem;
+      margin: 2rem 0 1rem;
+      font-weight: 600;
+      color: #3B2A1F;
+    }
+
+    h3 {
+      font-size: 1.6rem;
+      margin: 1.6rem 0 0.8rem;
+      color: #5A3E28;
+      font-weight: 600;
+    }
+
+    h4 {
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin: 1rem 0 0.5rem;
+      color: #7A5A3A;
+    }
+
+    .container {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+
+    /* encabezado hero */
+    .hero {
+      text-align: center;
+      padding: 3rem 0 2rem;
+      border-bottom: 2px solid #E6DBCF;
+      margin-bottom: 2rem;
+    }
+
+    .hero-sub {
+      font-size: 1.2rem;
+      color: #8B6B42;
+      font-style: italic;
+      font-family: 'Cormorant Garamond', serif;
+      margin-top: 0.5rem;
+    }
+
+    .verse-callout {
+      background: #F0E9DF;
+      padding: 1.8rem;
+      border-radius: 32px;
+      margin: 2rem 0;
+      text-align: center;
+      font-style: italic;
+      font-size: 1.25rem;
+      border: 1px solid #E2D4C4;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.02);
+    }
+
+    .hebrew-word {
+      font-size: 1.8rem;
+      font-weight: 500;
+      font-family: 'Cormorant Garamond', serif;
+      background: #EADFCB;
+      display: inline-block;
+      padding: 0.2rem 1rem;
+      border-radius: 60px;
+      margin: 0.5rem 0;
+    }
+
+    .greek-word {
+      font-size: 1.6rem;
+      font-family: 'Cormorant Garamond', serif;
+      font-style: italic;
+      color: #8B5A2B;
+    }
+
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+      margin: 2rem 0;
+    }
+
+    .card {
+      background: white;
+      border-radius: 28px;
+      padding: 1.8rem;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.03);
+      border: 1px solid #EADFCB;
+      transition: all 0.2s;
+    }
+
+    .card:hover {
+      border-color: #D4BC98;
+      box-shadow: 0 12px 24px rgba(0,0,0,0.05);
+    }
+
+    .table-scripture {
+      background: #FFFFFFD9;
+      border-radius: 24px;
+      overflow-x: auto;
+      margin: 1.5rem 0;
+      border: 1px solid #E8DDD0;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.95rem;
+    }
+
+    th, td {
+      padding: 0.9rem 1rem;
+      text-align: left;
+      border-bottom: 1px solid #EADFCB;
+    }
+
+    th {
+      background: #F4EDE3;
+      font-weight: 600;
+      color: #4D3520;
+    }
+
+    .scripture-ref {
+      font-weight: 700;
+      color: #A5713C;
+      white-space: nowrap;
+    }
+
+    .prayer {
+      background: #F1EADE;
+      padding: 2rem 2rem;
+      border-radius: 40px;
+      margin: 2.5rem 0;
+      text-align: center;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.2rem;
+      border: 1px solid #DAC9B4;
+    }
+
+    footer {
+      margin-top: 3rem;
+      text-align: center;
+      padding: 2rem 0 1rem;
+      border-top: 1px solid #E2D4C4;
+      font-size: 0.85rem;
+      color: #8F7A60;
+    }
+
+    .strong-note {
+      background: #E8DFD1;
+      padding: 0.6rem 1.2rem;
+      border-radius: 60px;
+      display: inline-block;
+      font-size: 0.85rem;
+      font-weight: 500;
+    }
+
+    .badge {
+      background: #C4A27A20;
+      border-left: 3px solid #B48C48;
+      padding: 0.8rem 1.2rem;
+      margin: 1rem 0;
+      font-size: 0.95rem;
+    }
+
+    @media (max-width: 700px) {
+      h1 { font-size: 2.2rem; }
+      h2 { font-size: 1.7rem; }
+      .container { padding: 1.5rem; }
+      .hero { padding: 1.5rem 0; }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="hero">
+    <h1>DOMINIO PROPIO<br><span style="font-size: 2rem;">שליטה עצמית | ἐγκράτεια</span></h1>
+    <div class="strong-note" style="margin-top: 0.75rem;">Strong Griego #1466 — enkráteia: fuerza interior, autocontrol</div>
+    <div class="hero-sub">“Pero también vosotros, poniendo toda diligencia por esto mismo, añadid a vuestra fe virtud; a la virtud, conocimiento; al conocimiento, dominio propio...” <br>— 2 Pedro (Kepha) 1:5-6</div>
+  </div>
+
+  <!-- INTRO -->
+  <div class="verse-callout">
+    <span style="font-size: 1.8rem;">🕊️</span><br>
+    Amados hermanos, shalom. Bienvenidos al estudio del proyecto <strong>Jazak Veematz</strong> — Esfuérzate y sé valiente.<br>
+    En hebreo: <strong>שליטה עצמית</strong> (<em>shlitá atzmít</em>). En griego: <strong>ἐγκράτεια</strong> — fuerza interior que gobierna los impulsos.
+  </div>
+
+  <!-- SECCIÓN 1 -->
+  <h2>1. ¿QUÉ ES ἐγκράτεια (ENKRÁTEIA)?</h2>
+  <p>La palabra griega <strong>ἐγκράτεια</strong> se compone de <strong>ἐν</strong> (dentro de) y <strong>κράτος</strong> (fuerza, poder): literalmente <strong>“fuerza interior”, “poder sobre sí mismo”</strong>. Strong #1466 la define como <em>self-control, mastery over one's desires and passions</em>. En el contexto hebreo se conecta con la capacidad que el Eterno depositó en el ser humano para gobernar sus impulsos: no es mera fuerza de voluntad, sino el poder del Ruaj HaKodesh.</p>
+  <div class="badge">“Y todo aquel que lucha, de todo se abstiene; ellos, a la verdad, para recibir una corona corruptible, pero nosotros, una incorruptible.” — 1 Corintios 9:25</div>
+
+  <!-- SECCIÓN 2: estructura tripartita -->
+  <h2>2. EL FUNDAMENTO BÍBLICO: LAS DOS INCLINACIONES</h2>
+  <div class="card-grid">
+    <div class="card"><strong>🏛️ Cuerpo (גּוּף / בָּשָׂר)</strong><br>Existencia física, interacción con el mundo material.</div>
+    <div class="card"><strong>🌿 Alma (נֶפֶשׁ)</strong><br>Mente, voluntad, emociones — recipiente de decisiones.</div>
+    <div class="card"><strong>✨ Espíritu (נְשָׁמָה)</strong><br>Conexión con Elohim, percepción espiritual.</div>
+  </div>
+  <p><em>“Y el mismo Elohim de paz os santifique por completo; y todo vuestro ser, espíritu, alma y cuerpo, sea guardado irreprensible...”</em> — 1 Tesalonicenses 5:23. El alma funciona como recipiente: <strong>יֵצֶר הָרָע</strong> (inclinación al mal) o <strong>יֵצֶר הַטּוֹב</strong> (inclinación al bien). El dominio propio decide <strong>con qué llenamos nuestra alma</strong>.</p>
+
+  <!-- SECCIÓN 3 - yetzer hará -->
+  <h2>3. YETZER HARÁ: EL ENEMIGO INTERNO</h2>
+  <p>En Gan Edén la serpiente introdujo la tentación: “bueno para comer, agradable a los ojos, codiciable” (Génesis 3:6). Así nació la inclinación que nos impulsa contra la voluntad del Eterno. Luego el Eterno advierte a Caín: <strong>“el pecado está a la puerta; con todo esto, a ti será su deseo, y tú te enseñorearás de él”</strong> (Génesis 4:7). La raíz מָשַׁל (<em>mashal</em>) significa <strong>gobernar, tener autoridad sobre</strong>. ¡El dominio propio es un mandato divino!</p>
+
+  <!-- Génesis 6 -->
+  <div class="card" style="background: #F7F2EA;">
+    <h4 style="margin-top: 0;">💧 La generación del diluvio: pérdida total del dominio propio</h4>
+    <p>“Y vio YHWH que la maldad de los hombres era mucha ... todo designio del corazón era de continuo solamente el mal” (Génesis 6:5). La <em>yetzer hará</em> dominó por completo, pero <strong>Noé halló gracia</strong>; ejerció dominio propio en medio de corrupción total.</p>
+  </div>
+
+  <!-- ENKRATEIA en el Pacto Renovado -->
+  <h2>4. ENKRÁTEIA EN EL BRIT JADASHÁ</h2>
+  <p><strong>Gálatas 5:17</strong> — “el deseo de la carne es contra el espíritu”. Las obras de la carne (inmoralidad, enemistades, borracheras) son fruto de la <em>yetzer hará</em> sin dominio. El <strong>fruto del Espíritu</strong> incluye <strong>templanza, dominio propio (ἐγκράτεια)</strong> (Gálatas 5:22-23). No es mera fuerza humana, es resultado de ser guiados por el Ruaj HaKodesh.</p>
+  <div class="badge">“Porque el que siembra para su carne, de la carne segará corrupción (φθορά); mas el que siembra para el espíritu, del espíritu segará vida eterna.” — Gálatas 6:8</div>
+
+  <!-- Proceso Santiago -->
+  <h3>📖 El proceso de la tentación (Santiago 1:13-15)</h3>
+  <p>La concupiscencia (<em>epithymía</em>) atrae, seduce, concibe y da a luz pecado. El dominio propio interviene en el paso 2: cuando el deseo aparece, la fuerza interior lo detiene antes que conciba destrucción.</p>
+
+  <!-- Circuncisión del corazón -->
+  <h2>5. LA CIRCUNCISIÓN DEL CORAZÓN: PODER DIVINO</h2>
+  <p>Deuteronomio 30:6: “Y circuncidará YHWH tu Elohim tu corazón […] para que ames”. El nuevo pacto promete corazón nuevo (Ezequiel 36:26-27): <strong>quitar el corazón de piedra</strong> para obedecer con sensibilidad. Colosenses 2:11 nos recuerda la circuncisión del Mesías, que anula la iniquidad carnal. Solo el Eterno obra la verdadera capacidad de dominio.</p>
+
+  <!-- cadena crecimiento -->
+  <h2>6. LA CADENA DEL CRECIMIENTO ESPIRITUAL</h2>
+  <div class="card-grid">
+    <div class="card"><span style="font-size:1.8rem;">⚓</span><br><strong>Fe (πίστις)</strong> — fundamento, confianza activa.</div>
+    <div class="card"><span style="font-size:1.8rem;">🛡️</span><br><strong>Virtud (ἀρετή)</strong> — excelencia moral, valor.</div>
+    <div class="card"><span style="font-size:1.8rem;">📜</span><br><strong>Conocimiento (γνῶσις)</strong> — da’at relacional, Torá interiorizada.</div>
+    <div class="card"><span style="font-size:1.8rem;">🏹</span><br><strong>Dominio propio (ἐγκράτεια)</strong> — fuerza para gobernar la carne y elegir la <em>yetzer hatov</em>.</div>
+  </div>
+  <p>El conocimiento sin dominio propio es como un guerrero sin disciplina. La <strong>enkráteia</strong> nos permite sujetar impulsos antes de que conciban pecado, resistir la influencia externa y elegir deliberadamente lo que agrada al Eterno.</p>
+
+  <!-- manifestaciones prácticas -->
+  <h2>7. MANIFESTACIONES DE LA FALTA DE DOMINIO PROPIO</h2>
+  <ul style="margin: 1rem 0 1rem 1.8rem;">
+    <li>Deseo de poder/reconocimiento fuera de la voluntad divina.</li>
+    <li>Obsesión por la apariencia, lo material y la codicia.</li>
+    <li>Falta de contentamiento, envidia, comparación constante.</li>
+    <li>Ira, resentimiento, celos (como Caín).</li>
+    <li>Presión social, malas amistades, influencia de modas sin convicción.</li>
+    <li>Desobediencia a la Torá, manipulación de mandamientos.</li>
+  </ul>
+
+  <!-- herramientas espirituales -->
+  <h2>8. HERRAMIENTAS ESPIRITUALES PARA EJERCER DOMINIO PROPIO</h2>
+  <div class="card-grid">
+    <div class="card"><strong>📖 Estudio de la Torá</strong><br>“Más cortante que espada de dos filos” (Hebreos 4:12).</div>
+    <div class="card"><strong>🙏 Oración</strong><br>Comunión que fortalece la neshamá.</div>
+    <div class="card"><strong>🎵 Adoración</strong><br>Enfoque en la grandeza de Elohim.</div>
+    <div class="card"><strong>🍞 Ayuno</strong><br>Disciplina física que entrena el espíritu.</div>
+    <div class="card"><strong>🕊️ Teshuvá</strong><br>Arrepentimiento genuino y retorno.</div>
+    <div class="card"><strong>🕯️ Guardar Shabbat</strong><br>Reposo semanal que ejercita confianza y obediencia.</div>
+    <div class="card"><strong>🤝 Comunión</strong><br>Congregación que exhorta al amor (Hebreos 10:24-25).</div>
+  </div>
+
+  <!-- el fruto y modelo de Yeshúa -->
+  <h2>9. YESHÚA: MODELO SUPREMO DE DOMINIO PROPIO</h2>
+  <p>En el desierto, Yeshúa fue tentado en los tres ejes de la <em>yetzer hará</em>: apetito carnal, orgullo y poder mundano. Su respuesta fue <strong>“Escrito está”</strong>, sujetando cada impulso a la Palabra del Eterno. Él nos dejó ejemplo para seguir sus pisadas (1 Pedro 2:21).</p>
+
+  <!-- ejercicios diarios -->
+  <h2>10. APLICACIÓN PRÁCTICA: EJERCICIOS DIARIOS</h2>
+  <div class="card-grid">
+    <div class="card"><strong>🌅 Cada mañana</strong><br>Ora pidiendo dominio propio, declara un versículo, identifica tu batalla principal.</div>
+    <div class="card"><strong>⏳ Durante el día</strong><br>Practica “la pausa” antes de reaccionar; sujeta tus palabras (Efesios 4:29); controla tus ojos (Job 31:1).</div>
+    <div class="card"><strong>🌙 Cada noche</strong><br>Examina tu día, haz teshuvá, da gracias por las victorias.</div>
+  </div>
+
+  <!-- tabla de referencias clave -->
+  <h2>📖 REFERENCIAS ESCRITURALES CLAVE</h2>
+  <div class="table-scripture">
+    <table>
+      <thead><tr><th>Tema</th><th>Referencia</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Estructura del ser (cuerpo, alma, espíritu)</td><td class="scripture-ref">Génesis 2:7 / 1 Tes. 5:23</td></tr>
+        <tr><td>Primera manifestación de yetzer hará</td><td class="scripture-ref">Génesis 3:6</td></tr>
+        <tr><td>“Tú te enseñorearás de él”</td><td class="scripture-ref">Génesis 4:6-7</td></tr>
+        <tr><td>Yetzer hará dominante en el diluvio</td><td class="scripture-ref">Génesis 6:5,12</td></tr>
+        <tr><td>Circuncisión del corazón</td><td class="scripture-ref">Deuteronomio 30:6</td></tr>
+        <tr><td>Corazón nuevo / Espíritu nuevo</td><td class="scripture-ref">Ezequiel 36:26-27</td></tr>
+        <tr><td>Yeshúa: dominio propio en el desierto</td><td class="scripture-ref">Mateo 4:1-11</td></tr>
+        <tr><td>Deseo de la carne vs. espíritu</td><td class="scripture-ref">Gálatas 5:17</td></tr>
+        <tr><td>Fruto del Espíritu: enkráteia</td><td class="scripture-ref">Gálatas 5:22-23</td></tr>
+        <tr><td>Siembra para la carne = corrupción</td><td class="scripture-ref">Gálatas 6:8</td></tr>
+        <tr><td>Proceso de la tentación</td><td class="scripture-ref">Santiago 1:13-15</td></tr>
+        <tr><td>Cadena crecimiento espiritual</td><td class="scripture-ref">2 Pedro 1:5-6</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- conclusión -->
+  <h2>11. CONCLUSIÓN: LA DECISIÓN ESTÁ EN TUS MANOS</h2>
+  <p>“Mira, yo he puesto delante de ti hoy la vida y el bien, la muerte y el mal” (Deuteronomio 30:15). Cada día decides si llenas tu alma con lo carnal o lo espiritual. <strong>Fe → Virtud → Conocimiento → Dominio Propio</strong>. Sin <em>enkráteia</em>, la fe se debilita; con ella, gobernamos el pecado como el Eterno ordenó a Caín: <strong>“Tú te enseñorearás de él”</strong>. El Ruaj HaKodesh nos capacita para producir este fruto y caminar en victoria.</p>
+
+  <!-- oración final -->
+  <div class="prayer">
+    <span style="font-size:2rem;">🙌</span><br>
+    <strong>ORACIÓN FINAL</strong><br>
+    <em>Amado Padre, Rey del universo, circuncida nuestro corazón. Quita el corazón de piedra y danos un corazón de carne. Pon tu Espíritu dentro de nosotros para que andemos en tus estatutos. Ayúdanos a añadir a nuestra fe virtud, conocimiento y dominio propio. Que la templanza — enkráteia — se manifieste en cada área. Que podamos enseñorearnos del pecado y elegir la yetzer hatov cada día. En el nombre de Yeshúa HaMashíaj. Amén veamén.</em>
+  </div>
+
+  <div class="verse-callout" style="background: #E8D9CA;">
+    💪 “Y todo aquel que lucha, de todo se abstiene; ellos, a la verdad, para recibir una corona corruptible, pero nosotros, una incorruptible.” <br>— 1 Corintios 9:25
+  </div>
+
+  <footer>
+    Jazak Veematz — Esfuérzate y sé valiente · Estudio basado en las raíces hebreas y el conteo del Omer · <span style="font-family: monospace;">ἐγκράτεια · שליטה עצמית</span>
+  </footer>
+</div>
+</body>
+</html>
