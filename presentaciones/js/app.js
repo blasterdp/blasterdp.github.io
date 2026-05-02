@@ -2,7 +2,7 @@
 const presentations = [
     {
         id: 'Presentación_Architecture_of_Holiness',
-        title: 'Código de Santidad',
+        title: 'Arquitectura de la Santidad',
         description: '',
         cover: 'slides/Presentación_Architecture_of_Holiness/01.webp',
         slides: Array.from({length: 13}, (_, i) => `slides/Presentación_Architecture_of_Holiness/${String(i + 1).padStart(2, '0')}.webp`)
