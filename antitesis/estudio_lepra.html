@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudio sobre la Lepra Espiritual (Tzaraat) - Jazak Veematz</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:ital,wght@0,700;1,700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a2a6c;
+            --secondary: #b21f1f;
+            --accent: #fdbb2d;
+            --light: #f8f9fa;
+            --dark: #121212;
+            --glass: rgba(255, 255, 255, 0.1);
+            --glass-blur: blur(12px);
+            --text-main: #333;
+            --text-muted: #666;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            line-height: 1.6;
+            color: var(--text-main);
+            background-color: #0c0f1d;
+            overflow-x: hidden;
+        }
+
+        h1,
+        h2,
+        h3 {
+            font-family: 'Playfair Display', serif;
+        }
+
+        /* Hero Section */
+        .hero {
+            position: relative;
+            height: 80vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('spiritual_leprosy_study_hero_1776469864521.png');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            padding: 2rem;
+        }
+
+        .hero-content {
+            max-width: 800px;
+            z-index: 1;
+            opacity: 0;
+            transform: translateY(30px);
+            animation: fadeIn 1.2s forwards ease-out 0.3s;
+        }
+
+        @keyframes fadeIn {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .hero h1 {
+            font-size: 3.5rem;
+            margin-bottom: 1rem;
+            text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+        }
+
+        .hero p {
+            font-size: 1.4rem;
+            font-weight: 300;
+            letter-spacing: 1px;
+            color: var(--accent);
+        }
+
+        /* Container */
+        .container {
+            max-width: 1000px;
+            margin: -100px auto 100px;
+            padding: 0 20px;
+            position: relative;
+            z-index: 2;
+        }
+
+        /* Section Styling */
+        .section-card {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 3rem;
+            margin-bottom: 4rem;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+            border-top: 5px solid var(--accent);
+            transition: transform 0.3s ease;
+        }
+
+        .section-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .section-title {
+            font-size: 2.2rem;
+            color: var(--primary);
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .section-title::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: linear-gradient(to right, var(--accent), transparent);
+        }
+
+        .highlight {
+            color: var(--secondary);
+            font-weight: 600;
+        }
+
+        /* Grid for Cards */
+        .principles-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-top: 2rem;
+        }
+
+        .concept-card {
+            background: var(--light);
+            padding: 2rem;
+            border-radius: 15px;
+            border-left: 4px solid var(--primary);
+            height: 100%;
+        }
+
+        .concept-card h3 {
+            color: var(--primary);
+            margin-bottom: 1rem;
+        }
+
+        /* Specific Metaphors */
+        .wheat-comparison {
+            display: flex;
+            gap: 30px;
+            margin-top: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .wheat-item {
+            flex: 1;
+            min-width: 250px;
+            padding: 1.5rem;
+            border-radius: 15px;
+            background: white;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+            text-align: center;
+        }
+
+        .wheat-item.tame {
+            border: 2px solid #ddd;
+        }
+
+        .wheat-item.taor {
+            border: 2px solid var(--accent);
+        }
+
+        .wheat-item h4 {
+            margin-bottom: 1rem;
+            font-size: 1.4rem;
+        }
+
+        /* Interactive Elements */
+        .quote {
+            font-style: italic;
+            border-left: 4px solid var(--accent);
+            padding-left: 1.5rem;
+            margin: 2rem 0;
+            font-size: 1.1rem;
+            color: var(--text-muted);
+        }
+
+        /* Footer */
+        footer {
+            background: var(--dark);
+            color: white;
+            padding: 4rem 2rem;
+            text-align: center;
+        }
+
+        .footer-logo {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.5rem;
+            color: var(--accent);
+            margin-bottom: 1rem;
+        }
+
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+
+            .section-card {
+                padding: 2rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <section class="hero">
+        <div class="hero-content">
+            <p>Jazak Veematz | Raíces Hebreas</p>
+            <h1>La Lepra Espiritual: Pureza desde el Corazón</h1>
+            <p>Un estudio profundo de Parashat Tazria (#27) y Metzorá</p>
+        </div>
+    </section>
+
+    <div class="container">
+
+        <!-- Intro Section -->
+        <article class="section-card">
+            <h2 class="section-title">¿Qué es la Sarah (Tzaraat)?</h2>
+            <p>Comúnmente traducida como "lepra", la <span class="highlight">Sarah (Tzaraat)</span> en el contexto
+                bíblico no es la enfermedad de Hansen que conocemos hoy. Era una serie de afecciones físicas en la piel,
+                la ropa e incluso las paredes de las casas, diseñada por el Eterno como una <span
+                    class="highlight">ayuda visual</span> para evidenciar una condición espiritual interna.</p>
+
+            <div class="principles-grid">
+                <div class="concept-card">
+                    <h3>Manifestación Física</h3>
+                    <p>La lepra aparecía para que el sacerdote pudiera identificar la impureza que nadie más podía ver:
+                        la del corazón humano.</p>
+                </div>
+                <div class="concept-card">
+                    <h3>Propósito Divino</h3>
+                    <p>No era un castigo vacío, sino un llamado a la introspección y madurez espiritual. Una señal de
+                        que algo debía cambiar.</p>
+                </div>
+            </div>
+        </article>
+
+        <!-- Motzi Ra Section -->
+        <article class="section-card">
+            <h2 class="section-title">Metzorá: El Peligro de las Palabras</h2>
+            <p>La palabra hebrea para el leproso es <span class="highlight">Metzorá</span>. Los sabios enseñan que este
+                término es una contracción de <strong>"Motzi Ra"</strong>, que significa "el que emite mal".</p>
+
+            <div class="quote">
+                "No es lo que entra por la boca lo que contamina al hombre, sino lo que sale del corazón..." - Mateo
+                15:18
+            </div>
+
+            <p>El pecado principal asociado con la Tzaraat es el <span class="highlight">Lashon Hara</span> (la lengua
+                maligna). La crítica, la murmuración y el chisme tienen su origen en un corazón inmaduro y falto de
+                amor.</p>
+
+            <div class="principles-grid">
+                <div class="concept-card">
+                    <h3>Murmuración</h3>
+                    <p>Como en el caso de Miriam, hablar contra la autoridad delegada por Elohim trae consecuencias
+                        espirituales visibles.</p>
+                </div>
+                <div class="concept-card">
+                    <h3>Envidia y Orgullo</h3>
+                    <p>La cizaña siempre está recta (orgullo), mientras que el trigo maduro se inclina (humildad).</p>
+                </div>
+            </div>
+        </article>
+
+        <!-- Tazria Section (The Seed of Life) -->
+        <article class="section-card">
+            <h2 class="section-title">Tazria: La Semilla de Vida</h2>
+            <p>El nombre de la Parashá 27, <span class="highlight">Tazria</span>, significa "cuando ella conciba" (del
+                término <em>Zará</em> - sembrar). Este estudio nos enseña que la vida no es un accidente, sino una
+                semilla plantada por el Creador.</p>
+
+            <div class="principles-grid">
+                <div class="concept-card">
+                    <h3>Lo Valioso requiere Purificación</h3>
+                    <p>En la Torá, las cosas más valiosas para el Eterno requieren un proceso de purificación. El
+                        nacimiento, al ser el inicio de un alma con propósito divino, demanda un tiempo de separación y
+                        renovación antes de volver a lo sagrado.</p>
+                </div>
+                <div class="concept-card">
+                    <h3>El Tejedor Divino</h3>
+                    <p>Salmos 139 nos recuerda que somos "entretejidos" en el vientre. Elohim es el autor activo de la
+                        vida desde la concepción, lo cual otorga a cada ser humano un valor infinito.</p>
+                </div>
+            </div>
+
+            <p style="margin-top: 1.5rem;">Tras el parto, la mujer entra en un estado de <strong>Tumá (Impureza
+                    Ritual)</strong>. Es vital entender que esto no es por "pecado", sino por el contacto con la
+                mortalidad (sangre). El Eterno, siendo Vida pura, establece estos límites para enseñarnos a discernir
+                entre lo común y lo sagrado.</p>
+        </article>
+
+        <!-- Tame vs Taor Section -->
+        <article class="section-card">
+            <h2 class="section-title">Tame vs. Taor: Estar "Presentable"</h2>
+            <p>En el pensamiento hebreo, ser <strong>Inmundo (Tame)</strong> se entiende mejor como <span
+                    class="highlight">"no estar presentable"</span> temporalmente para los asuntos del Tabernáculo
+                (Mishkán). No es un estado de suciedad moral, sino una transición hacia la santidad.</p>
+
+            <div class="wheat-comparison">
+                <div class="wheat-item tame">
+                    <h4>Trigo Tame (Inmaduro)</h4>
+                    <p>Verde y recto. Aún no es apto para el consumo ni para cumplir su propósito de alimentar. Requiere
+                        tiempo y maduración.</p>
+                </div>
+                <div class="wheat-item taor">
+                    <h4>Trigo Taor (Limpio)</h4>
+                    <p>Marrón y <span class="highlight">curvado por el peso de su fruto</span>. Su inclinación es
+                        símbolo de la humildad que precede a la verdadera madurez espiritual.</p>
+                </div>
+            </div>
+        </article>
+
+        <!-- Miriam Section -->
+        <article class="section-card">
+            <h2 class="section-title">El Caso de Miriam (Números 12)</h2>
+            <p>Miriam y Aarón hablaron contra Moisés por la mujer cusita que había tomado. Cuestionaron su autoridad
+                exclusiva. Como resultado, la nube de la presencia de Elohim se apartó y Miriam quedó leprosa como la
+                nieve.</p>
+
+            <div class="principles-grid">
+                <div class="concept-card">
+                    <h3>Reflexión en Aislamiento</h3>
+                    <p>Debió permanecer 7 días fuera del campamento. El número 7 representa que un proceso ha llegado a
+                        su plenitud. El aislamiento obliga a mirar hacia adentro.</p>
+                </div>
+            </div>
+        </article>
+
+        <!-- Yeshua Section -->
+        <article class="section-card" style="border-top-color: var(--secondary);">
+            <h2 class="section-title">Restauración en el Mesías</h2>
+            <p>Yeshúa, nuestro Sumo Sacerdote celestial, no necesita señales en la piel para ver nuestro corazón. Él
+                penetra hasta lo más profundo para purificar la fuente misma de la "lepra espiritual".</p>
+
+            <div class="concept-card" style="background: rgba(26, 42, 108, 0.05); margin-top: 2rem;">
+                <p style="font-size: 1.2rem; text-align: center;">"Cuando permitimos que Yeshúa limpie nuestras
+                    impurezas, pasamos de ser <strong>Azotados</strong> por nuestras palabras a ser
+                    <strong>Portadores</strong> de Su Luz."</p>
+            </div>
+        </article>
+
+    </div>
+
+    <footer>
+        <div class="footer-logo">JAZAK VEEMATZ</div>
+        <p>Esfuérzate y sé valiente | Restaurando las Raíces Hebreas</p>
+        <p style="margin-top: 2rem; font-size: 0.8rem; opacity: 0.6;">© 2026 Jazak Veematz. Basado en el estudio de
+            Parashat Tazria-Metzora.</p>
+    </footer>
+
+    <script>
+        // Smooth scroll reveal animation
+        window.addEventListener('scroll', () => {
+            const sections = document.querySelectorAll('.section-card');
+            sections.forEach(section => {
+                const sectionTop = section.getBoundingClientRect().top;
+                const windowHeight = window.innerHeight;
+                if (sectionTop < windowHeight * 0.85) {
+                    section.style.opacity = '1';
+                    section.style.transform = 'translateY(0)';
+                }
+            });
+        });
+
+        // Initialize sections with hidden state
+        document.querySelectorAll('.section-card').forEach((section, index) => {
+            section.style.opacity = '0';
+            section.style.transform = 'translateY(40px)';
+            section.style.transition = `all 0.8s ease ${index * 0.1}s`;
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Día de la Madre: ¿Honrar o Celebrar? - Estudio Bíblico | Jazak Veematz</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a2a6c;
+            --secondary: #b21f1f;
+            --accent: #fdbb2d;
+            --light: #f8f9fa;
+            --dark: #121212;
+            --glass: rgba(255, 255, 255, 0.08);
+            --text-main: #333;
+            --text-light: #e4e4e4;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            line-height: 1.8;
+            color: var(--text-main);
+            background: linear-gradient(135deg, #0c0f1d 0%, #1a1530 40%, #0f0c1a 100%);
+            overflow-x: hidden;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Playfair Display', serif;
+        }
+
+        .hero {
+            position: relative;
+            min-height: 85vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800"><rect fill="%231a2a6c" width="1200" height="800"/><circle fill="%23fdbb2d" opacity="0.08" cx="200" cy="200" r="300"/><circle fill="%23b21f1f" opacity="0.05" cx="900" cy="500" r="250"/><circle fill="%23fdbb2d" opacity="0.06" cx="600" cy="700" r="200"/><path fill="none" stroke="%23fdbb2d" stroke-width="1" opacity="0.1" d="M0 400 Q300 200 600 400 T1200 400"/></svg>');
+            background-size: cover;
+            background-position: center;
+            padding: 2rem;
+        }
+
+        .hero-content {
+            max-width: 850px;
+            z-index: 1;
+            opacity: 0;
+            transform: translateY(30px);
+            animation: fadeIn 1.2s forwards ease-out 0.3s;
+        }
+
+        @keyframes fadeIn {
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .hero-tag {
+            display: inline-block;
+            background: rgba(253, 187, 45, 0.2);
+            border: 1px solid var(--accent);
+            color: var(--accent);
+            padding: 0.4rem 1.5rem;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            margin-bottom: 1.5rem;
+        }
+
+        .hero h1 {
+            font-size: 3.2rem;
+            margin-bottom: 1rem;
+            text-shadow: 2px 2px 15px rgba(0,0,0,0.5);
+            line-height: 1.3;
+        }
+
+        .hero h1 span {
+            color: var(--accent);
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            font-weight: 300;
+            letter-spacing: 0.5px;
+            opacity: 0.9;
+            max-width: 650px;
+            margin: 0 auto;
+        }
+
+        .hero .subtitle {
+            font-style: italic;
+            margin-top: 1rem;
+            opacity: 0.7;
+            font-size: 1rem;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: -80px auto 80px;
+            padding: 0 20px;
+            position: relative;
+            z-index: 2;
+        }
+
+        .section-card {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 3rem;
+            margin-bottom: 3rem;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            border-top: 5px solid var(--accent);
+            transition: transform 0.3s ease;
+        }
+
+        .section-card:hover {
+            transform: translateY(-4px);
+        }
+
+        .section-card.dark {
+            background: rgba(15, 15, 26, 0.96);
+            color: var(--text-light);
+            border-top-color: var(--secondary);
+        }
+
+        .section-card.dark .section-title {
+            color: var(--accent);
+        }
+
+        .section-card.dark p {
+            color: #ccc;
+        }
+
+        .section-title {
+            font-size: 2rem;
+            color: var(--primary);
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .section-title::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: linear-gradient(to right, var(--accent), transparent);
+        }
+
+        .section-title .icon {
+            font-size: 1.8rem;
+        }
+
+        .highlight {
+            color: var(--secondary);
+            font-weight: 600;
+        }
+
+        .highlight-gold {
+            color: #b8860b;
+            font-weight: 600;
+        }
+
+        .verse {
+            background: rgba(26, 42, 108, 0.06);
+            border-left: 4px solid var(--primary);
+            padding: 1.2rem 1.8rem;
+            margin: 1.5rem 0;
+            font-style: italic;
+            border-radius: 0 10px 10px 0;
+            position: relative;
+        }
+
+        .verse::before {
+            content: '"';
+            font-size: 3rem;
+            color: var(--primary);
+            opacity: 0.15;
+            position: absolute;
+            top: -5px;
+            left: 10px;
+            font-family: serif;
+        }
+
+        .verse-ref {
+            display: block;
+            margin-top: 0.5rem;
+            font-style: normal;
+            font-size: 0.85rem;
+            color: var(--primary);
+            font-weight: 600;
+        }
+
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin: 2rem 0;
+        }
+
+        @media (max-width: 768px) {
+            .grid-2 { grid-template-columns: 1fr; }
+        }
+
+        .card-topic {
+            background: var(--light);
+            padding: 2rem;
+            border-radius: 15px;
+            border-left: 4px solid var(--primary);
+            height: 100%;
+        }
+
+        .card-topic h3 {
+            color: var(--primary);
+            margin-bottom: 1rem;
+            font-size: 1.3rem;
+        }
+
+        .card-topic.danger {
+            border-left-color: var(--secondary);
+        }
+
+        .card-topic.danger h3 {
+            color: var(--secondary);
+        }
+
+        .card-topic.gold {
+            border-left-color: var(--accent);
+        }
+
+        .card-topic.gold h3 {
+            color: #8b6914;
+        }
+
+        .quote-block {
+            background: linear-gradient(135deg, #1e3a5f, #0d1b2a);
+            color: #e4e4e4;
+            padding: 2rem;
+            border-radius: 15px;
+            margin: 2rem 0;
+            border: 1px solid rgba(253, 187, 45, 0.3);
+            position: relative;
+        }
+
+        .quote-block p {
+            font-style: italic;
+            font-size: 1.1rem;
+        }
+
+        .quote-block .attribution {
+            margin-top: 1rem;
+            font-style: normal;
+            font-size: 0.85rem;
+            color: var(--accent);
+            text-align: right;
+        }
+
+        .timeline-compare {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin: 2rem 0;
+        }
+
+        .timeline-row {
+            display: flex;
+            align-items: stretch;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .timeline-row .col {
+            flex: 1;
+            min-width: 250px;
+            padding: 1.5rem;
+            border-radius: 12px;
+        }
+
+        .col.pagan {
+            background: rgba(178, 31, 31, 0.08);
+            border: 1px solid rgba(178, 31, 31, 0.3);
+        }
+
+        .col.pagan h4 {
+            color: var(--secondary);
+            margin-bottom: 0.8rem;
+        }
+
+        .col.biblical {
+            background: rgba(26, 42, 108, 0.08);
+            border: 1px solid rgba(26, 42, 108, 0.3);
+        }
+
+        .col.biblical h4 {
+            color: var(--primary);
+            margin-bottom: 0.8rem;
+        }
+
+        .principle-box {
+            border: 2px solid var(--accent);
+            border-radius: 15px;
+            padding: 2rem;
+            margin: 2rem 0;
+            background: rgba(253, 187, 45, 0.05);
+        }
+
+        .principle-box h3 {
+            color: #8b6914;
+            margin-bottom: 1rem;
+        }
+
+        .conclusion {
+            background: linear-gradient(135deg, #1a2a6c, #16213e);
+            padding: 2.5rem;
+            border-radius: 15px;
+            color: white;
+            margin-top: 2rem;
+        }
+
+        .conclusion h3 {
+            color: var(--accent);
+            margin-bottom: 1.5rem;
+        }
+
+        .conclusion ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .conclusion li {
+            padding: 0.8rem 0;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            display: flex;
+            gap: 15px;
+            align-items: flex-start;
+        }
+
+        .conclusion li:last-child {
+            border-bottom: none;
+        }
+
+        .conclusion li::before {
+            content: '✦';
+            color: var(--accent);
+            font-size: 1.2rem;
+            flex-shrink: 0;
+            margin-top: 2px;
+        }
+
+        .footnote {
+            font-size: 0.85rem;
+            color: #999;
+            text-align: center;
+            margin-top: 2rem;
+            border-top: 1px solid #ddd;
+            padding-top: 1.5rem;
+        }
+
+        footer {
+            background: var(--dark);
+            color: white;
+            padding: 4rem 2rem;
+            text-align: center;
+        }
+
+        .footer-logo {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.5rem;
+            color: var(--accent);
+            margin-bottom: 1rem;
+        }
+
+        .hebrew-word {
+            font-family: 'Segoe UI', sans-serif;
+            color: #c7254e;
+            font-weight: 600;
+        }
+
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 2rem; }
+            .hero { min-height: 60vh; }
+            .section-card { padding: 1.8rem; }
+            .section-title { font-size: 1.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <section class="hero">
+        <div class="hero-content">
+            <div class="hero-tag">Estudio Bíblico | Raíces Hebreas</div>
+            <h1>El Día de la Madre:<br><span>¿Honrar o Celebrar?</span></h1>
+            <p>Un análisis bíblico sobre la tensión entre el mandamiento de honrar a los padres y el origen pagano de esta celebración. Una duda que afecta a muchos creyentes hoy.</p>
+            <p class="subtitle">Jazak Veematz — Esfuérzate y sé valiente</p>
+        </div>
+    </section>
+
+    <div class="container">
+
+        <!-- Introduction -->
+        <article class="section-card">
+            <h2 class="section-title"><span class="icon">⚔️</span> La Disyuntiva del Creyente</h2>
+            <p>Cada año, cuando se acerca el 10 de mayo en México y América Latina, o el segundo domingo de mayo en otros países, surge una pregunta en el corazón de muchos creyentes que están buscando vivir conforme a las Escrituras:</p>
+
+            <div class="quote-block">
+                <p>"Si la Biblia me manda honrar a mi madre, ¿por qué no debería celebrar el Día de la Madre? ¿Acaso no es una oportunidad para mostrar amor y gratitud?"</p>
+            </div>
+
+            <p>Esta pregunta es legítima y revela un corazón que desea agradar al Eterno. Sin embargo, como veremos en este estudio basado en las Escrituras y en los documentos del proyecto <strong>Jazak Veematz</strong>, la respuesta requiere que distingamos entre <span class="highlight">lo que la Biblia ordena</span> y <span class="highlight">lo que la tradición humana ha establecido</span>.</p>
+
+            <p>El propósito de este estudio no es condenar, sino <strong>instruir</strong> y <strong>aclarar</strong>, para que cada creyente pueda tomar una decisión informada basada en la Palabra del Eterno.</p>
+        </article>
+
+        <!-- The Biblical Commandment -->
+        <article class="section-card">
+            <h2 class="section-title"><span class="icon">📜</span> El Mandamiento: Honrar a los Padres</h2>
+
+            <p>Comencemos por lo que la Biblia sí ordena de manera clara e inequívoca. El mandamiento de honrar a los padres no es una sugerencia ni una tradición cultural — es <span class="highlight">Torá</span>, instrucción divina.</p>
+
+            <div class="verse">
+                "Honra a tu padre y a tu madre, para que tus días se alarguen en la tierra que Adonay tu Elohim te da."
+                <span class="verse-ref">— Éxodo 20:12</span>
+            </div>
+
+            <p>Este es el quinto de los Diez Mandamientos, y es notable porque es el <span class="highlight">primer mandamiento con promesa</span>. El apóstol Pablo lo confirma en el Nuevo Pacto:</p>
+
+            <div class="verse">
+                "Honra a tu padre y a tu madre, que es el primer mandamiento con promesa; para que te vaya bien, y seas de larga vida sobre la tierra."
+                <span class="verse-ref">— Efesios 6:2-3</span>
+            </div>
+
+            <p>En Levítico 19:3, el Eterno conecta directamente el honrar a los padres con la santidad:</p>
+
+            <div class="verse">
+                "Cada uno temerá a su madre y a su padre, y mis días de reposo guardaréis. Yo Adonay vuestro Elohim."
+                <span class="verse-ref">— Levítico 19:3</span>
+            </div>
+
+            <div class="grid-2">
+                <div class="card-topic">
+                    <h3>El Significado de "Temer"</h3>
+                    <p>La palabra hebrea es <span class="hebrew-word">יָרֵא</span> (<em>yaré</em>), que significa temer, reverenciar, honrar profundamente. No es miedo paralizante, sino un <strong>reconocimiento sagrado de autoridad</strong>. La misma palabra se usa para el temor a Elohim.</p>
+                </div>
+                <div class="card-topic">
+                    <h3>El Amor Comienza en Casa</h3>
+                    <p>La forma en que tratas a tus padres es un <strong>reflejo directo</strong> de cómo te relacionas con el Eterno. No puedes amar a Elohim, a quien no ves, si no honras a tus padres, a quien sí ves.</p>
+                </div>
+            </div>
+
+            <p>La enseñanza de la Torá es profunda: <span class="highlight">el mandamiento de honrar a los padres no es condicional</span>. No dice "honra a tu padre y a tu madre solo si fueron buenos padres". Es una instrucción permanente que trasciende las circunstancias personales.</p>
+
+            <div class="quote-block">
+                <p>"Honrar a padres con defectos entrena la capacidad de amar más allá del mérito o de esperar algo a cambio. Cuando eliges honrar, temer, reverenciar la vida que te fue dada a través de ellos, te liberas del rencor que a muchos los encadena."</p>
+                <div class="attribution">— Estudio de Parashat Kedoshim, Jazak Veematz</div>
+            </div>
+        </article>
+
+        <!-- Pagan Origins -->
+        <article class="section-card dark">
+            <h2 class="section-title"><span class="icon">🏛️</span> El Origen del Día de la Madre</h2>
+
+            <p>Ahora examinemos la celebración en sí misma. El Día de la Madre, tal como lo conocemos hoy, no tiene su origen en las Escrituras. Sus raíces se remontan a prácticas religiosas paganas de la antigüedad.</p>
+
+            <div class="timeline-compare">
+                <div class="timeline-row">
+                    <div class="col pagan">
+                        <h4>📅 Antigua Grecia</h4>
+                        <p>Se rendían honores a <strong>Rea</strong>, la madre de los dioses Zeus, Poseidón y Hades. Una celebración a una deidad pagana del panteón griego.</p>
+                    </div>
+                    <div class="col pagan">
+                        <h4>🏛️ Roma: Hilaria</h4>
+                        <p>Los romanos adoptaron esta celebración griega y la llamaron <strong>Hilaria</strong>, celebrada el 15 de marzo en el templo de Cibeles. Durante tres días se realizaban ofrendas a esta diosa madre.</p>
+                    </div>
+                </div>
+                <div class="timeline-row">
+                    <div class="col pagan">
+                        <h4>🌳 Cultos de Fertilidad</h4>
+                        <p>En muchas culturas antiguas existía el culto a la "diosa madre" o "reina del cielo" (Jeremías 7:18, 44:17-25), una práctica que el Eterno condenó repetidamente a través de los profetas.</p>
+                    </div>
+                    <div class="col biblical">
+                        <h4>✝️ Cristianización</h4>
+                        <p>Con la llegada del cristianismo, estas celebraciones se transformaron para honrar a la Virgen María. En Inglaterra surgió el "Mothering Sunday" (domingo de las madres) vinculado a la Virgen.</p>
+                    </div>
+                </div>
+                <div class="timeline-row">
+                    <div class="col biblical">
+                        <h4>🇺🇸 Versión Moderna</h4>
+                        <p>En 1914, el presidente Woodrow Wilson oficializó el Día de la Madre en Estados Unidos, luego de la campaña de Anna Jarvis. <strong>Lo que comenzó como un homenaje se convirtió rápidamente en un evento comercial.</strong></p>
+                    </div>
+                    <div class="col pagan">
+                        <h4>💰 Comercialización</h4>
+                        <p>Curiosamente, la propia Anna Jarvis pasó sus últimos años luchando contra la comercialización de la fecha que ella misma promovió. La celebración se expandió globalmente como un fenómeno cultural y mercantil.</p>
+                    </div>
+                </div>
+            </div>
+
+            <p>Es importante notar: la celebración moderna del Día de la Madre es una <span class="highlight-gold">fusión de tradiciones paganas, cristianización posterior e intereses comerciales</span>. No hay ningún mandato bíblico que la establezca, ni siquiera la mencione.</p>
+        </article>
+
+        <!-- The Core Principle -->
+        <article class="section-card">
+            <h2 class="section-title"><span class="icon">⚠️</span> "No Aprendáis el Camino de las Naciones"</h2>
+
+            <p>Aquí llegamos al corazón del asunto. La Biblia contiene una advertencia recurrente y enfática sobre adoptar las prácticas de adoración de los pueblos paganos.</p>
+
+            <div class="verse">
+                "Así dijo Adonay: No aprendáis el camino de las naciones, ni de las señales del cielo tengáis temor, aunque las naciones las teman. Porque las costumbres de los pueblos son vanidad..."
+                <span class="verse-ref">— Jeremías 10:2-3</span>
+            </div>
+
+            <p>Este principio no está aislado. La Torá lo establece repetidamente:</p>
+
+            <div class="grid-2">
+                <div class="card-topic">
+                    <h3>Levítico 18:3</h3>
+                    <p>"No haréis como hacen en la tierra de Egipto... ni haréis como hacen en la tierra de Canaán... ni andaréis en sus estatutos." El Eterno nos llama a <strong>no contaminarnos</strong> con las prácticas de las naciones.</p>
+                </div>
+                <div class="card-topic danger">
+                    <h3>Deuteronomio 12:30-31</h3>
+                    <p>"No preguntes acerca de sus dioses, diciendo: De la manera que servían aquellas naciones a sus dioses, yo también serviré. No harás así a Adonay tu Elohim..." <strong>No debemos servir al Eterno usando prácticas de adoración paganas.</strong></p>
+                </div>
+                <div class="card-topic">
+                    <h3>Levtíco 20:23</h3>
+                    <p>"No andéis en las prácticas de las naciones que yo echaré de delante de vosotros; porque ellos hicieron todas estas cosas, y los tuve en abominación."</p>
+                </div>
+                <div class="card-topic danger">
+                    <h3>Deuteronomio 18:9</h3>
+                    <p>"Cuando entres a la tierra que Adonay tu Elohim te da, <strong>no aprenderás a hacer según las abominaciones de aquellas naciones.</strong>"</p>
+                </div>
+            </div>
+
+            <p>El apóstol Pablo, en el Nuevo Pacto, refuerza exactamente el mismo principio:</p>
+
+            <div class="verse">
+                "No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento, para que comprobéis cuál sea la buena voluntad de Elohim, agradable y perfecta."
+                <span class="verse-ref">— Romanos 12:2</span>
+            </div>
+
+            <div class="verse">
+                "Esto pues digo y requiero en el Señor: no andemos como los otros gentiles (naciones), que andan en la vanidad de su mente."
+                <span class="verse-ref">— Efesios 4:17</span>
+            </div>
+
+            <div class="principle-box">
+                <h3>El Principio Fundamental</h3>
+                <p>La Biblia es consistente de principio a fin: <span class="highlight">Elohim no acepta que lo adoremos o honremos utilizando prácticas, tradiciones o símbolos que tienen su origen en la adoración a dioses falsos</span>, incluso si nuestras intenciones son buenas. Este fue exactamente el pecado del becerro de oro (Éxodo 32): el pueblo usó una práctica pagana para adorar a Yahveh, y el Eterno lo llamó <strong>corrupción</strong>.</p>
+            </div>
+        </article>
+
+        <!-- The Golden Calf -->
+        <article class="section-card dark">
+            <h2 class="section-title"><span class="icon">🐂</span> La Lección del Becerro de Oro</h2>
+
+            <p>Uno de los pasajes más instructivos para nuestro tema es la historia del becerro de oro en Éxodo 32. Es crucial entender lo que realmente sucedió:</p>
+
+            <div class="verse" style="border-left-color: var(--accent);">
+                "Entonces dijo Aaron: Mañana será <strong>fiesta para Adonay</strong>."
+                <span class="verse-ref">— Éxodo 32:5</span>
+            </div>
+
+            <p>El pueblo de Israel no estaba adorando a un dios egipcio. Ellos <span class="highlight-gold">creían que estaban honrando al verdadero Elohim</span>, pero utilizando un método —un becerro de oro— que habían aprendido en Egipto. Pensaban que sus intenciones sinceras justificaban el medio. Pero el Eterno lo llamó <strong>corrupción</strong>.</p>
+
+            <div class="quote-block">
+                <p>"El pueblo de Israel consideró que podían honrar al Eterno por medio de tradiciones, símbolos y prácticas que habían aprendido en su esclavitud de Egipto. Sin embargo, el Eterno consideró esto como una abominación."</p>
+                <div class="attribution">— "No aprendas el camino de las naciones", Jazak Veematz</div>
+            </div>
+
+            <p>Esta misma dinámica se repite hoy. Muchos creyentes toman una celebración de origen pagano (como el Día de la Madre) y le asignan un significado "cristiano", pensando que así honran a sus madres y al Eterno. Pero el principio bíblico es claro: <span class="highlight">no podemos tomar lo que es pagano y dedicarlo a Elohim</span>.</p>
+        </article>
+
+        <!-- Distinction: Honor vs Celebration -->
+        <article class="section-card">
+            <h2 class="section-title"><span class="icon">🔑</span> La Distinción Crucial: Honrar vs. Celebrar</h2>
+
+            <p>Aquí está el núcleo de la respuesta a la disyuntiva inicial. Es vital entender que <span class="highlight">honrar a la madre no es lo mismo que celebrar el "Día de la Madre"</span> como una fecha comercial de origen pagano.</p>
+
+            <div class="grid-2">
+                <div class="card-topic gold">
+                    <h3>✅ Honrar (Mandato Bíblico)</h3>
+                    <ul style="margin-left: 1.2rem; margin-top: 0.8rem;">
+                        <li>Es un mandamiento perpetuo del Eterno</li>
+                        <li>Se practica <strong>todos los días</strong> del año</li>
+                        <li>Incluye: respeto, reverencia, ayuda en la necesidad, gratitud, perdón</li>
+                        <li>Es incondicional — no depende de la fecha</li>
+                        <li><em>"La forma en la que tratas a tus padres es un reflejo directo de cómo te relacionas con el Eterno."</em></li>
+                    </ul>
+                </div>
+                <div class="card-topic danger">
+                    <h3>❌ Celebrar (Tradición Humana)</h3>
+                    <ul style="margin-left: 1.2rem; margin-top: 0.8rem;">
+                        <li>No tiene origen en las Escrituras</li>
+                        <li>Se reduce a <strong>un solo día</strong> al año</li>
+                        <li>Está vinculado a prácticas paganas y comerciales</li>
+                        <li>Es una costumbre de las naciones</li>
+                        <li><em>"El mundo ha encerrado el honrar en una fecha. La pregunta no es si honras a tu madre, sino si lo haces conforme a la Palabra."</em></li>
+                    </ul>
+                </div>
+            </div>
+
+            <p>En los documentos del proyecto se menciona algo muy revelador al respecto:</p>
+
+            <div class="quote-block">
+                <p>"El problema es ese, que el sistema del mundo ha encerrado todo en una fecha. 'Tengo que honrar a mi madre en esta fecha y celebrar el 10 de mayo, el día de las madres.' Cómo honrar, que puede definirse de muchas maneras a través de otras conductas, se ha encerrado en una conducta, una costumbre del mundo."</p>
+                <div class="attribution">— Parashat Ajarei Mot-Kedoshim, Jazak Veematz</div>
+            </div>
+        </article>
+
+        <!-- Practical Application -->
+        <article class="section-card dark">
+            <h2 class="section-title"><span class="icon">💡</span> Aplicación Práctica</h2>
+
+            <p>Entonces, ¿cómo vive un creyente esta verdad en la práctica? Aquí hay principios basados en las Escrituras y en las enseñanzas del proyecto:</p>
+
+            <div class="grid-2">
+                <div class="card-topic gold" style="background: rgba(253, 187, 45, 0.1); border-left-color: var(--accent);">
+                    <h3>🙏 Honra Diariamente</h3>
+                    <p>El mandamiento no se limita a un día. Honra a tu madre con acciones concretas: llámala, ayúdala, ora por ella, expresarle tu gratitud. La obediencia verdadera trasciende los calendarios.</p>
+                </div>
+                <div class="card-topic gold" style="background: rgba(253, 187, 45, 0.1); border-left-color: var(--accent);">
+                    <h3>📖 Distingue con Amor</h3>
+                    <p>Puedes explicar a tu familia que, por convicción bíblica, no participas de las celebraciones de origen pagano, pero que tu amor y honra hacia tu madre no dependen de una fecha comercial. Hazlo con respeto y sin juzgar a otros.</p>
+                </div>
+                <div class="card-topic gold" style="background: rgba(253, 187, 45, 0.1); border-left-color: var(--accent);">
+                    <h3>🍽️ Crea Nuevas Tradiciones</h3>
+                    <p>Si deseas tener un momento especial con tu madre, hazlo en un contexto que no esté ligado a lo pagano. Prepara una comida, comparte las Escrituras, bendícela. Esto no depende del calendario del mundo.</p>
+                </div>
+                <div class="card-topic gold" style="background: rgba(253, 187, 45, 0.1); border-left-color: var(--accent);">
+                    <h3>🌅 Sé Luz, No Aislamiento</h3>
+                    <p>La santidad no es aislamiento. Como enseñó Yeshúa: "No ruego que los quites del mundo, sino que los guardes del mal" (Juan 17:15). Puedes relacionarte con tu familia sin participar en sus tradiciones paganas.</p>
+                </div>
+            </div>
+
+            <div class="quote-block" style="margin-top: 2rem;">
+                <p>"La santidad es separación del mal, no separación del prójimo. La obediencia no es apartarse del mundo, sino no dejarse influir por el mundo. El amor nos conecta con las personas que están en el mundo para mostrar la luz del reino."</p>
+                <div class="attribution">— Respuesta a hermana Karina, Parashat Ajarei Mot-Kedoshim, Jazak Veematz</div>
+            </div>
+        </article>
+
+        <!-- Conclusion -->
+        <article class="section-card">
+            <h2 class="section-title"><span class="icon">📌</span> Conclusión</h2>
+
+            <p>Hemos visto dos verdades que deben sostenerse en equilibrio:</p>
+
+            <div class="conclusion">
+                <h3>Lo que las Escrituras nos enseñan</h3>
+                <ul>
+                    <li><strong>Honrar a los padres es un mandamiento divino,</strong> perpetuo e incondicional. No está sujeto a debate ni a sentimientos personales. Es Torá.</li>
+                    <li><strong>El Día de la Madre como celebración</strong> no tiene origen en la Biblia. Sus raíces están en cultos paganos a diosas madre, luego cristianizado y finalmente comercializado.</li>
+                    <li><strong>El principio de "no aprender el camino de las naciones"</strong> (Jeremías 10:2) nos advierte contra adoptar prácticas de adoración de origen pagano, incluso con buenas intenciones.</li>
+                    <li><strong>No todo lo que parece bueno es necesariamente santo.</strong> El becerro de oro nos enseña que las intenciones sinceras no justifican métodos que Elohim no ha ordenado.</li>
+                    <li><strong>Honrar no se limita a una fecha.</strong> La obediencia al mandamiento se vive a diario: con respeto, ayuda, gratitud, perdón y amor constante hacia nuestros padres.</li>
+                    <li><strong>Podemos ser luz sin aislarnos.</strong> Rechazar la celebración pagana no significa rechazar a la familia. Busquemos formas de honrar que estén alineadas con la Palabra.</li>
+                </ul>
+            </div>
+
+            <div class="verse" style="margin-top: 2rem;">
+                "Cada uno temerá a su madre y a su padre, y mis días de reposo guardaréis. Yo Adonay vuestro Elohim."
+                <span class="verse-ref">— Levítico 19:3</span>
+            </div>
+
+            <p style="margin-top: 2rem;">Que el Eterno nos dé sabiduría para vivir en obediencia a su Palabra, honrando a nuestros padres cada día de nuestra vida, no por tradición humana, sino por amor a Aquel que nos mandó honrarlos.</p>
+
+            <p style="text-align: center; font-size: 1.1rem; font-weight: 600; color: var(--primary); margin-top: 2rem;">"Esfuérzate y sé valiente" — Jazak Veematz</p>
+
+            <p class="footnote">Estudio basado en los documentos y enseñanzas del proyecto Jazak Veematz (Raíces Hebreas).<br>Referencias históricas basadas en Wikipedia y fuentes documentales citadas en los estudios del proyecto.</p>
+        </article>
+
+    </div>
+
+    <footer>
+        <div class="footer-logo">JAZAK VEEMATZ</div>
+        <p>Esfuérzate y sé valiente | Restaurando las Raíces Hebreas</p>
+        <p style="margin-top: 2rem; font-size: 0.8rem; opacity: 0.6;">© 2026 Jazak Veematz. Basado en el estudio de las Escrituras y los documentos del proyecto.</p>
+    </footer>
+
+    <script>
+        window.addEventListener('scroll', () => {
+            const sections = document.querySelectorAll('.section-card');
+            sections.forEach(section => {
+                const sectionTop = section.getBoundingClientRect().top;
+                const windowHeight = window.innerHeight;
+                if (sectionTop < windowHeight * 0.85) {
+                    section.style.opacity = '1';
+                    section.style.transform = 'translateY(0)';
+                }
+            });
+        });
+
+        document.querySelectorAll('.section-card').forEach((section, index) => {
+            section.style.opacity = '0';
+            section.style.transform = 'translateY(40px)';
+            section.style.transition = `all 0.8s ease ${index * 0.1}s`;
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudio Profundo: La Piedad Bíblica - Jazak Veematz</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,700;1,700&family=Source+Serif+4:opsz@8..60&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a2a6c;
+            --secondary: #b21f1f;
+            --accent: #fdbb2d;
+            --gold: #d4a843;
+            --light: #f8f9fa;
+            --dark: #0c0f1d;
+            --card-bg: rgba(255,255,255,0.97);
+            --glass: rgba(255,255,255,0.08);
+            --text-main: #2c2c2c;
+            --text-muted: #666;
+            --serif: 'Source Serif 4','Times New Roman',serif;
+        }
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body {
+            font-family:'Inter',sans-serif;
+            line-height:1.8;
+            color:var(--text-main);
+            background:var(--dark);
+            overflow-x:hidden;
+        }
+        h1,h2,h3,h4 { font-family:'Playfair Display',serif; }
+
+        .hero {
+            position:relative;
+            min-height:85vh;
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            text-align:center;
+            color:white;
+            background:
+                linear-gradient(135deg,rgba(12,15,29,0.92) 0%,rgba(26,42,108,0.85) 50%,rgba(12,15,29,0.92) 100%),
+                radial-gradient(ellipse at 20% 50%, rgba(178,31,31,0.15) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 50%, rgba(253,187,45,0.08) 0%, transparent 50%);
+            padding:2rem;
+            overflow:hidden;
+        }
+        .hero::before {
+            content:'εὐσέβεια';
+            position:absolute;
+            top:50%;
+            left:50%;
+            transform:translate(-50%,-50%);
+            font-size:20vw;
+            font-weight:700;
+            color:rgba(255,255,255,0.03);
+            pointer-events:none;
+            letter-spacing:0.1em;
+        }
+        .hero-content {
+            max-width:900px;
+            z-index:1;
+            opacity:0;
+            transform:translateY(30px);
+            animation:fadeIn 1.2s forwards ease-out .3s;
+        }
+        @keyframes fadeIn { to { opacity:1; transform:translateY(0); } }
+        .hero-badge {
+            display:inline-block;
+            background:var(--glass);
+            backdrop-filter:blur(8px);
+            border:1px solid rgba(253,187,45,0.3);
+            padding:.5rem 1.5rem;
+            border-radius:50px;
+            font-size:.85rem;
+            letter-spacing:2px;
+            text-transform:uppercase;
+            color:var(--accent);
+            margin-bottom:2rem;
+        }
+        .hero h1 { font-size:4rem; line-height:1.2; margin-bottom:1.5rem; text-shadow:2px 2px 20px rgba(0,0,0,0.4); }
+        .hero h1 .accent { color:var(--accent); }
+        .hero-sub {
+            font-size:1.3rem;
+            font-weight:300;
+            color:rgba(255,255,255,0.85);
+            max-width:700px;
+            margin:0 auto 2rem;
+        }
+        .hero-verse {
+            font-family:var(--serif);
+            font-style:italic;
+            font-size:1.25rem;
+            color:var(--gold);
+            border-top:1px solid rgba(253,187,45,0.2);
+            border-bottom:1px solid rgba(253,187,45,0.2);
+            padding:1.5rem 2rem;
+            display:inline-block;
+        }
+        .hero-verse .ref {
+            display:block;
+            font-size:.85rem;
+            color:rgba(255,255,255,0.5);
+            margin-top:.5rem;
+            font-style:normal;
+        }
+
+        .container { max-width:1100px; margin:-80px auto 80px; padding:0 24px; position:relative; z-index:2; }
+
+        .section-card {
+            background:var(--card-bg);
+            border-radius:24px;
+            padding:3.5rem;
+            margin-bottom:3rem;
+            box-shadow:0 25px 50px -12px rgba(0,0,0,0.4);
+            border-top:5px solid var(--accent);
+            transition:transform .3s ease, box-shadow .3s ease;
+            opacity:0;
+            transform:translateY(40px);
+        }
+        .section-card.visible { opacity:1; transform:translateY(0); }
+        .section-card:hover { transform:translateY(-4px); box-shadow:0 30px 60px -12px rgba(0,0,0,0.5); }
+        .section-card.accent-red { border-top-color:var(--secondary); }
+        .section-card.accent-blue { border-top-color:var(--primary); }
+
+        .section-title {
+            font-size:2.2rem;
+            color:var(--primary);
+            margin-bottom:1.5rem;
+            display:flex;
+            align-items:center;
+            gap:15px;
+        }
+        .section-title::after {
+            content:'';
+            flex:1;
+            height:2px;
+            background:linear-gradient(to right, var(--accent), transparent);
+        }
+        .section-title .icon { font-size:2rem; line-height:1; }
+        .section-title.accent-title { color:var(--secondary); }
+        .section-title.accent-title::after { background:linear-gradient(to right, var(--secondary), transparent); }
+        .section-title.gold-title { color:#8b7517; }
+        .section-title.gold-title::after { background:linear-gradient(to right, var(--gold), transparent); }
+
+        p { margin-bottom:1.2rem; font-size:1.05rem; }
+        .highlight { color:var(--secondary); font-weight:600; }
+        .highlight-blue { color:var(--primary); font-weight:600; }
+        .highlight-gold { color:#8b7517; font-weight:600; }
+
+        .quote {
+            font-family:var(--serif);
+            font-style:italic;
+            border-left:4px solid var(--accent);
+            padding:1.2rem 1.8rem;
+            margin:1.8rem 0;
+            background:rgba(253,187,45,0.06);
+            border-radius:0 12px 12px 0;
+            font-size:1.05rem;
+            color:#444;
+        }
+        .quote .ref { display:block; font-size:.85rem; color:var(--text-muted); margin-top:.5rem; font-style:normal; }
+        .quote.blue { border-left-color:var(--primary); background:rgba(26,42,108,0.05); }
+        .quote.red { border-left-color:var(--secondary); background:rgba(178,31,31,0.05); }
+
+        .grid-2 { display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:1.5rem; margin:2rem 0; }
+        .grid-3 { display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:1.5rem; margin:2rem 0; }
+
+        .insight-card {
+            background:var(--light);
+            padding:2rem;
+            border-radius:16px;
+            border-left:4px solid var(--primary);
+            height:100%;
+        }
+        .insight-card h3 { color:var(--primary); margin-bottom:1rem; font-size:1.3rem; }
+        .insight-card.gold-border { border-left-color:var(--gold); }
+        .insight-card.gold-border h3 { color:#8b7517; }
+        .insight-card.red-border { border-left-color:var(--secondary); }
+        .insight-card.red-border h3 { color:var(--secondary); }
+
+        .table-wrap { overflow-x:auto; margin:2rem 0; }
+        table { width:100%; border-collapse:collapse; font-size:.95rem; }
+        table thead { background:linear-gradient(135deg, var(--primary), #2a3f8a); color:white; }
+        table th { padding:1rem 1.2rem; text-align:left; font-weight:600; }
+        table td { padding:1rem 1.2rem; border-bottom:1px solid #e0e0e0; }
+        table tbody tr:nth-child(even) { background:rgba(26,42,108,0.03); }
+        table tbody tr:hover { background:rgba(253,187,45,0.08); }
+
+        .comparison { display:grid; grid-template-columns:1fr 1fr; gap:2rem; margin:2rem 0; }
+        .comp-col { padding:2rem; border-radius:16px; }
+        .comp-col h4 { font-size:1.3rem; margin-bottom:1rem; text-align:center; }
+        .comp-col.left { background:rgba(178,31,31,0.05); border:2px solid rgba(178,31,31,0.2); }
+        .comp-col.left h4 { color:var(--secondary); }
+        .comp-col.right { background:rgba(26,42,108,0.05); border:2px solid rgba(26,42,108,0.2); }
+        .comp-col.right h4 { color:var(--primary); }
+
+        .highlight-box {
+            background:linear-gradient(135deg, #1a2a6c, #2a3f8a);
+            color:white;
+            padding:2.5rem;
+            border-radius:16px;
+            margin:2rem 0;
+        }
+        .highlight-box h3 { color:var(--accent); margin-bottom:1rem; font-size:1.4rem; }
+        .highlight-box p { color:rgba(255,255,255,0.9); }
+        .highlight-box.gold-box { background:linear-gradient(135deg, #8b7517, #b8962a); }
+        .highlight-box.dark-box { background:linear-gradient(135deg, #1a1a2e, #0d0d1a); }
+
+        .conclusion-box {
+            background:linear-gradient(135deg, #0c0f1d, #1a2a6c);
+            padding:3rem;
+            border-radius:20px;
+            border:2px solid var(--accent);
+            color:white;
+            margin-top:2rem;
+        }
+        .conclusion-box h3 { color:var(--accent); font-size:1.6rem; margin-bottom:1.5rem; text-align:center; }
+        .conclusion-box ol { margin:0 0 0 1.5rem; }
+        .conclusion-box li { margin-bottom:1rem; padding-left:.5rem; }
+        .conclusion-box li strong { color:var(--accent); }
+
+        footer {
+            background:var(--dark);
+            color:rgba(255,255,255,0.6);
+            padding:4rem 2rem;
+            text-align:center;
+        }
+        .footer-logo { font-family:'Playfair Display',serif; font-size:1.8rem; color:var(--accent); margin-bottom:.5rem; }
+        footer p { font-size:.9rem; }
+        .footer-divider { width:60px; height:2px; background:var(--accent); margin:1.5rem auto; }
+
+        .greek-word { color:#8b0000; font-weight:600; }
+        .list { margin:1rem 0 1rem 1.5rem; }
+        .list li { margin-bottom:.5rem; }
+
+        @media (max-width:768px) {
+            .hero h1 { font-size:2.5rem; }
+            .hero-verse { font-size:1rem; padding:1rem; }
+            .section-card { padding:2rem; }
+            .section-title { font-size:1.6rem; }
+            .comparison { grid-template-columns:1fr; }
+            .grid-2, .grid-3 { grid-template-columns:1fr; }
+            .conclusion-box { padding:2rem; }
+        }
+        @media (max-width:480px) {
+            .hero h1 { font-size:2rem; }
+            .section-card { padding:1.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+<section class="hero">
+    <div class="hero-content">
+        <div class="hero-badge">εὐσέβεια — PIEDAD</div>
+        <h1>La <span class="accent">Piedad</span><br>Estudio Profundo Bíblico</h1>
+        <p class="hero-sub">Un examen exhaustivo de la piedad bíblica desde las Raíces Hebreas: desde el misterio supremo de ELOHIM manifestado en carne, hasta su expresión más práctica en la vida del creyente.</p>
+        <div class="hero-verse">
+            "E indiscutiblemente, grande es el misterio de la piedad: ELOHIM fue manifestado en carne."
+            <span class="ref">— 1 Timoteo 3:16</span>
+        </div>
+    </div>
+</section>
+
+<div class="container">
+
+    <!-- INTRODUCCIÓN -->
+    <article class="section-card visible">
+        <h2 class="section-title"><span class="icon">📜</span> Introducción</h2>
+        <p>La palabra <span class="highlight">"piedad"</span> (del griego <em>eusebeia</em>, del hebreo <em>jased</em> / <em>yiráh</em>) es uno de los conceptos más profundos y a la vez más malentendidos de las Escrituras. Para algunos, es simplemente "religiosidad" o "devoción externa". Para otros, es un conjunto de rituales vacíos. Pero la Biblia revela que la piedad es mucho más: es el <strong>misterio supremo de la fe</strong> y, a la vez, la <strong>virtud práctica</strong> que todo creyente debe cultivar.</p>
+        <p>Este estudio examina la piedad desde seis facetas fundamentales, comenzando desde su cumbre más alta —el mismo ELOHIM manifestado en carne— hasta su expresión más concreta en la vida diaria del creyente.</p>
+        <div class="quote">
+            "La piedad es <strong>devoción al Creador</strong>."
+            <span class="ref">— Jazak Veematz, Estudio de Metzorá</span>
+        </div>
+        <div class="grid-3">
+            <div class="insight-card red-border">
+                <h3>Misterio Divino</h3>
+                <p>La piedad en su cumbre es ELOHIM manifestado en carne (1 Timoteo 3:16). El Creador tomando forma humana para redimir a su pueblo.</p>
+            </div>
+            <div class="insight-card">
+                <h3>Virtud Espiritual</h3>
+                <p>La piedad es el sexto escalón en la cadena de crecimiento espiritual de 2 Pedro 1:5-7, construida sobre la perseverancia.</p>
+            </div>
+            <div class="insight-card gold-border">
+                <h3>Amor Activo</h3>
+                <p>La piedad genuina se demuestra en obras concretas de misericordia hacia los santos y los necesitados (Mateo 25).</p>
+            </div>
+        </div>
+    </article>
+
+    <!-- CAPÍTULO 1: MISTERIO DE LA PIEDAD -->
+    <article class="section-card accent-red">
+        <h2 class="section-title accent-title"><span class="icon">🕊️</span> Capítulo 1: El Misterio de la Piedad</h2>
+        <p>La cumbre de la revelación bíblica sobre la piedad se encuentra en <strong>1 Timoteo 3:16</strong>:</p>
+        <div class="quote red">
+            "E indiscutiblemente, grande es el <strong>misterio de la piedad</strong>: ELOHIM fue manifestado en carne, Justificado en el Espíritu, Visto por los ángeles, Proclamado entre los gentiles, Creído en el mundo, Recibido arriba en gloria."
+            <span class="ref">— 1 Timoteo 3:16</span>
+        </div>
+        <p>Este versículo es singular. No dice que la piedad sea un conjunto de prácticas religiosas humanas. Dice que la piedad, en su esencia más profunda, es <strong>ELOHIM manifestándose en carne</strong>. El Creador del universo, el Eterno e invisible, tomando forma humana para redimir a su pueblo.</p>
+        <h3>Análisis Textual</h3>
+        <p>En el griego original, el pronombre <span class="greek-word">HOS</span> ("el cual") se refiere al antecedente inmediato del versículo 15: <strong>ELOHIM</strong>. Por lo tanto, la traducción más exacta es que fue ELOHIM mismo quien fue manifestado en carne.</p>
+        <div class="quote blue">
+            "1 Timoteo 3:15-16 — 'para que sepas cómo hay que comportarse en la casa de ELOHIM, que es la iglesia del ELOHIM vivo... E indiscutiblemente, grande es el misterio de la piedad: <strong>EL CUAL</strong> fue manifestado en Carne.' El pronombre EL CUAL se refiere a ELOHIM."
+            <span class="ref">— Jazak Veematz, análisis textual</span>
+        </div>
+        <h3>¿Por qué se llama "Misterio"?</h3>
+        <p>La palabra "misterio" (<em>mysterion</em> en griego) no significa algo que deba permanecer oculto, sino algo que ha sido revelado por ELOHIM y que la mente humana no podría haber concebido por sí misma. Que el Creador infinito, eterno, omnipresente e invisible haya tomado forma humana es algo que trasciende toda comprensión.</p>
+        <div class="quote red">
+            "No hay una explicación humana para la manifestación del Eterno en carne, por eso se le llama <strong>el misterio de la piedad</strong>, porque es algo que no es explicable."
+            <span class="ref">— Jazak Veematz, YESHÚA ES YHWH</span>
+        </div>
+        <h3>La Promesa Profética</h3>
+        <div class="grid-3">
+            <div class="insight-card">
+                <p><strong>Isaías 35:4</strong> — "He aquí que vuestro ELOHIM viene con retribución; <strong>ELOHIM mismo vendrá, y os salvará</strong>."</p>
+            </div>
+            <div class="insight-card gold-border">
+                <p><strong>Isaías 43:11</strong> — "Yo, yo YHVH, y <strong>fuera de mí no hay quien salve</strong>."</p>
+            </div>
+            <div class="insight-card red-border">
+                <p><strong>Oseas 13:4</strong> — "No conocerás, pues, otro ELOHIM fuera de mí, <strong>ni otro salvador sino a mí</strong>."</p>
+            </div>
+        </div>
+        <div class="highlight-box">
+            <h3>Conclusión del Capítulo 1</h3>
+            <p>La piedad en su forma más sublime no es un esfuerzo humano ascendiendo hacia ELOHIM, sino ELOHIM descendiendo hacia la humanidad. El "misterio de la piedad" es que el Único ELOHIM tomó forma humana para redimir a su pueblo. Esta es la base sobre la cual toda piedad genuina se construye.</p>
+        </div>
+    </article>
+
+    <!-- CAPÍTULO 2: VIRTUD EN EL CRECIMIENTO -->
+    <article class="section-card">
+        <h2 class="section-title"><span class="icon">📈</span> Capítulo 2: La Piedad como Virtud en el Crecimiento Espiritual</h2>
+        <p>El apóstol Pedro establece una progresión espiritual que es fundamental para entender el lugar de la piedad en la vida del creyente:</p>
+        <div class="quote">
+            "Vosotros también, poniendo toda diligencia por esto mismo, <strong>añadid a vuestra fe virtud; a la virtud, conocimiento; al conocimiento, dominio propio; al dominio propio, perseverancia; a la perseverancia, piedad; a la piedad, afecto fraternal; y al afecto fraternal, amor</strong>."
+            <span class="ref">— 2 Pedro 1:5-7</span>
+        </div>
+        <p>Esta cadena revela que la piedad no es espontánea ni instantánea. Es el resultado de un proceso de crecimiento espiritual:</p>
+        <div class="table-wrap">
+            <table>
+                <thead>
+                    <tr><th>Escalón</th><th>Virtud</th><th>Descripción</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td>1</td><td><strong>Fe</strong> (<em>pistis</em>)</td><td>El fundamento de todo. Creer en ELOHIM y en su Palabra.</td></tr>
+                    <tr><td>2</td><td><strong>Virtud</strong> (<em>areté</em>)</td><td>Excelencia moral, carácter íntegro.</td></tr>
+                    <tr><td>3</td><td><strong>Conocimiento</strong> (<em>gnosis</em>)</td><td>Comprensión de las Escrituras y la voluntad de ELOHIM.</td></tr>
+                    <tr><td>4</td><td><strong>Dominio Propio</strong> (<em>enkrateia</em>)</td><td>Control sobre las pasiones y deseos.</td></tr>
+                    <tr><td>5</td><td><strong>Perseverancia</strong> (<em>hypomoné</em>)</td><td>Resistencia firme en medio de las pruebas.</td></tr>
+                    <tr><td style="background:rgba(253,187,45,0.15);"><strong>6</strong></td><td style="background:rgba(253,187,45,0.15);"><strong>Piedad</strong> (<em>eusebeia</em>)</td><td style="background:rgba(253,187,45,0.15);">Devoción reverente al Creador.</td></tr>
+                    <tr><td>7</td><td><strong>Afecto Fraternal</strong> (<em>filadelfia</em>)</td><td>Amor entre hermanos en la fe.</td></tr>
+                    <tr><td>8</td><td><strong>Amor</strong> (<em>ágape</em>)</td><td>La cumbre de todas las virtudes.</td></tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="quote blue">
+            "A la perseverancia hay que añadirle <strong>Piedad</strong> (*eusebia*). Piedad, sí. <strong>Piedad: ser piadoso</strong>."
+            <span class="ref">— Jazak Veematz, CONSTRUYENDO NUESTRA IDENTIDAD (Parashat Toldot)</span>
+        </div>
+        <div class="highlight-box gold-box">
+            <h3>¿Por qué la Piedad va después de la Perseverancia?</h3>
+            <p>No puedes tener piedad genuina si no has desarrollado dominio propio y perseverancia primero. La piedad auténtica nace de un carácter que ha sido probado y refinado. Una "piedad" que no ha pasado por la perseverancia en las pruebas es superficial y corre el riesgo de ser solo "apariencia de piedad".</p>
+        </div>
+    </article>
+
+    <!-- CAPÍTULO 3: DEFINICIÓN -->
+    <article class="section-card accent-blue">
+        <h2 class="section-title gold-title"><span class="icon">💎</span> Capítulo 3: La Definición de Piedad — Devoción al Creador</h2>
+        <p>El proyecto ofrece una definición precisa y poderosa:</p>
+        <div class="quote blue">
+            "La <strong>piedad es devoción al creador</strong>."
+            <span class="ref">— Jazak Veematz, LIMPIEZA PARA LA LEPRA (TZARÁAT) ESPIRITUAL</span>
+        </div>
+        <h3>Los Elementos de la Devoción Genuina</h3>
+        <div class="grid-2">
+            <div class="insight-card">
+                <h3>Temor Reverente (<em>yiráh</em>)</h3>
+                <p>No miedo, sino asombro y reverencia ante la majestad de ELOHIM. "El temor de YHVH es el principio de la sabiduría" (Proverbios 9:10).</p>
+            </div>
+            <div class="insight-card gold-border">
+                <h3>Obediencia a la Torá</h3>
+                <p>La devoción al Creador se demuestra en la obediencia a sus mandamientos. Yeshúa dijo: "Si me amáis, guardad mis mandamientos" (Juan 14:15).</p>
+            </div>
+            <div class="insight-card red-border">
+                <h3>Fe en Yeshúa</h3>
+                <p>La piedad genuina reconoce que Yeshúa es el Mesías, la manifestación visible de ELOHIM invisible, y el único mediador (1 Timoteo 2:5).</p>
+            </div>
+            <div class="insight-card">
+                <h3>Transformación Interior</h3>
+                <p>La piedad no es una máscara externa, sino una transformación del corazón que se refleja en acciones.</p>
+            </div>
+        </div>
+        <h3>Lo que la Piedad NO es</h3>
+        <div class="comparison">
+            <div class="comp-col left">
+                <h4>✗ NO es religiosidad vacía</h4>
+                <p>Prácticas externas sin corazón.</p>
+                <h4>✗ NO es tradición humana</h4>
+                <p>Costumbres heredadas sin base bíblica.</p>
+                <h4>✗ NO es hipocresía</h4>
+                <p>Aparentar devoción mientras el corazón está lejos.</p>
+            </div>
+            <div class="comp-col right">
+                <h4>✓ La Piedad Bíblica</h4>
+                <p>"Ahora, pues, Israel, ¿qué pide YHVH tu ELOHIM de ti? Solamente que <strong>temas a YHVH tu ELOHIM, que andes en todos sus caminos, que lo ames y sirvas a YHVH tu ELOHIM con todo tu corazón y con toda tu alma; que guardes los mandamientos de YHVH y sus estatutos</strong>."</p>
+                <p style="text-align:right;font-style:italic;color:var(--text-muted);">— Deuteronomio 10:12-13</p>
+            </div>
+        </div>
+    </article>
+
+    <!-- CAPÍTULO 4: APARIENCIA DE PIEDAD -->
+    <article class="section-card accent-red">
+        <h2 class="section-title accent-title"><span class="icon">⚠️</span> Capítulo 4: La "Apariencia de Piedad" — La Falsa Piedad</h2>
+        <div class="quote red">
+            "También debes saber esto: que en los postreros días vendrán tiempos peligrosos. Porque habrá hombres... <strong>que tendrán apariencia de piedad, pero negarán la eficacia de ella</strong>; a estos evita."
+            <span class="ref">— 2 Timoteo 3:1-5</span>
+        </div>
+        <p>La <strong>"apariencia de piedad"</strong> (<em>morfosis eusebeias</em> en griego) describe a aquellos que tienen la <strong>forma externa</strong> de devoción religiosa, pero <strong>niegan el poder</strong> (<em>dynamis</em>) de ella. Tienen el cascarón, pero no la sustancia.</p>
+        <div class="quote red">
+            "Está describiendo personas que no guardan Torá, que tendrán <strong>apariencia de piedad</strong>, pero negarán la eficacia de ella."
+            <span class="ref">— Jazak Veematz, LEYES SOBRE MEZCLAS PROHIBIDAS (Parashat Ki Tetzé)</span>
+        </div>
+        <h3>Características de la Falsa Piedad</h3>
+        <div class="grid-2">
+            <div class="insight-card red-border">
+                <h3>Religiosidad sin Torá</h3>
+                <p>Personas que profesan seguir a ELOHIM pero rechazan sus mandamientos. Tienen "apariencia" de fe, pero no caminan en obediencia a la Torá.</p>
+            </div>
+            <div class="insight-card red-border">
+                <h3>Sistema sin Autoridad</h3>
+                <p>"Tienen apariencia de servicio, tienen apariencia de piedad, pero no reconocen ni la Torá como guía, ni al Mesías como autoridad."</p>
+            </div>
+            <div class="insight-card red-border">
+                <h3>Hojas sin Fruto</h3>
+                <p>En la parábola de la higuera estéril, las hojas representan la religiosidad externa, pero la ausencia de fruto revela falta de arrepentimiento genuino.</p>
+            </div>
+            <div class="insight-card red-border">
+                <h3>Prácticas Humanas</h3>
+                <p>"Prácticas humanas que pueden aparentar piedad, pero no transforman el corazón."</p>
+            </div>
+        </div>
+        <div class="highlight-box dark-box">
+            <h3>La Advertencia Escatológica</h3>
+            <p>La palabra <em>jalepos</em> ("tiempos peligrosos") solo aparece en dos lugares del Nuevo Testamento: aquí en 2 Timoteo 3:1 y en Mateo 8:28 describiendo a los endemoniados gadarenos. La conexión es poderosa: <strong>una generación que solo tiene "apariencia de piedad" es una generación espiritualmente salvaje y peligrosa</strong>.</p>
+        </div>
+    </article>
+
+    <!-- CAPÍTULO 5: OBRA DE VERDADERA PIEDAD -->
+    <article class="section-card">
+        <h2 class="section-title"><span class="icon">🤲</span> Capítulo 5: La Obra de Verdadera Piedad — Amor Activo</h2>
+        <p>Uno de los pasajes más reveladores sobre la piedad genuina es el relato de Yeshúa sobre el juicio de las naciones:</p>
+        <div class="quote">
+            "Porque <strong>tuve hambre, y me disteis de comer; tuve sed, y me disteis de beber; fui forastero, y me recogisteis; estuve desnudo, y me vestisteis; enfermo, y me visitasteis; en la cárcel, y vinisteis a mí</strong>."
+            <span class="ref">— Mateo 25:34-36</span>
+        </div>
+        <h3>¿Quiénes son los "pequeños"?</h3>
+        <p>El proyecto enseña que los "hermanos más pequeños" son <strong>los santos</strong>, aquellos que guardan los mandamientos de ELOHIM y la fe de Yeshúa (Apocalipsis 14:12). Yeshúa mismo dijo: "Todo aquel que hace la voluntad de mi Padre, ése es mi hermano" (Mateo 12:50).</p>
+        <div class="quote blue">
+            "Habrá naciones que mostrarán esa <strong>piedad</strong> con los santos... Serán esas naciones que demostraron esa <strong>piedad con empatía, piedad, ayuda para con los santos, los que guardan los mandamientos del Eterno</strong>."
+            <span class="ref">— Jazak Veematz, ¿NO ES ÉL TU PADRE? (Parashat Haazinu)</span>
+        </div>
+        <div class="grid-3">
+            <div class="insight-card"><h3>Dar de comer</h3><p>Proveer sustento físico y espiritual al hambriento.</p></div>
+            <div class="insight-card gold-border"><h3>Dar de beber</h3><p>Satisfacer necesidades básicas del sediento.</p></div>
+            <div class="insight-card"><h3>Vestir al desnudo</h3><p>Cubrir la vergüenza del necesitado.</p></div>
+            <div class="insight-card red-border"><h3>Visitar al enfermo</h3><p>Llevar consuelo y ayuda al que sufre.</p></div>
+            <div class="insight-card"><h3>Visitar al encarcelado</h3><p>No abandonar a los perseguidos por la fe.</p></div>
+            <div class="insight-card gold-border"><h3>Recibir al forastero</h3><p>Abrir el corazón y el hogar al extranjero.</p></div>
+        </div>
+        <div class="highlight-box gold-box">
+            <h3>La Piedad que Hereda el Reino</h3>
+            <p>"Esa es la piedad que enseña el Mesías Yeshúa, que demuestra un <strong>amor activo</strong>. Lo que hacemos por el necesitado, por el más pequeño, por los vulnerables, es como si lo hiciéramos con el Rey mismo."</p>
+        </div>
+    </article>
+
+    <!-- CAPÍTULO 6: PIEDAD Y HONESTIDAD -->
+    <article class="section-card accent-blue">
+        <h2 class="section-title gold-title"><span class="icon">🏛️</span> Capítulo 6: Piedad y Honestidad en la Vida Cotidiana</h2>
+        <div class="quote blue">
+            "Exhorto ante todo a que se hagan rogativas, oraciones, peticiones, acciones de gracias, por todos los hombres; por los reyes y por todos los que están en eminencia, <strong>para que vivamos quieta y reposadamente en toda piedad y honestidad</strong>."
+            <span class="ref">— 1 Timoteo 2:1-2</span>
+        </div>
+        <p>La piedad no es solo un concepto teológico elevado. También tiene una expresión práctica en la vida diaria y en la sociedad.</p>
+        <div class="grid-2">
+            <div class="insight-card">
+                <h3>Orar por las autoridades</h3>
+                <p>No para apoyar un sistema político, sino para poder vivir en paz y continuar sirviendo a ELOHIM.</p>
+            </div>
+            <div class="insight-card gold-border">
+                <h3>Promover un entorno justo</h3>
+                <p>Apoyar gobiernos y políticas que permitan la libertad de conciencia y la práctica de la fe.</p>
+            </div>
+            <div class="insight-card red-border">
+                <h3>Ser buenos ciudadanos</h3>
+                <p>La piedad incluye vivir honestamente, pagar impuestos, respetar las leyes que no contradicen la Torá.</p>
+            </div>
+            <div class="insight-card">
+                <h3>Piedad + Honestidad</h3>
+                <p>Piedad sin honestidad = hipocresía. Honestidad sin piedad = moralismo humano. Piedad con honestidad = la vida del creyente íntegro.</p>
+            </div>
+        </div>
+        <div class="quote blue">
+            "Debemos promover, debemos apoyar con nuestro voto a alguien que va a permitir que como creyentes podamos vivir quieta y reposadamente en toda piedad y honestidad."
+            <span class="ref">— Jazak Veematz, UN LLAMADO PARA LA RESTAURACIÓN</span>
+        </div>
+    </article>
+
+    <!-- CAPÍTULO 7: CONTRASTE -->
+    <article class="section-card accent-red">
+        <h2 class="section-title accent-title"><span class="icon">⚖️</span> Capítulo 7: El Contraste — Piedad Verdadera vs. Falsa Piedad</h2>
+        <div class="table-wrap">
+            <table>
+                <thead>
+                    <tr><th>Aspecto</th><th>Piedad Verdadera</th><th>Falsa Piedad (Apariencia)</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td><strong>Fundamento</strong></td><td>Fe en Yeshúa + Torá</td><td>Tradición humana</td></tr>
+                    <tr><td><strong>Origen</strong></td><td>Transformación del corazón</td><td>Presión social o costumbre</td></tr>
+                    <tr><td><strong>Fruto</strong></td><td>Obediencia, amor activo, perseverancia</td><td>Hojas sin fruto, hipocresía</td></tr>
+                    <tr><td><strong>Relación con la Torá</strong></td><td>Guarda los mandamientos con gozo</td><td>Rechaza o ignora la Torá</td></tr>
+                    <tr><td><strong>Relación con Yeshúa</strong></td><td>Lo reconoce como YHVH manifestado</td><td>Tiene "apariencia" de fe mesiánica</td></tr>
+                    <tr><td><strong>Actitud</strong></td><td>Humildad, temor de ELOHIM</td><td>Orgullo espiritual, autojustificación</td></tr>
+                    <tr><td><strong>Resultado</strong></td><td>Hereda el reino</td><td>"Nunca os conocí, apartaos"</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <h3>La Higuera Estéril: La Advertencia Visual</h3>
+        <div class="grid-2">
+            <div class="comp-col left">
+                <h4>Hojas = Apariencia de Piedad</h4>
+                <p>Religiosidad externa, rituales vacíos, tradiciones humanas. Una fachada de devoción sin sustancia.</p>
+            </div>
+            <div class="comp-col right">
+                <h4>Fruto = Piedad Verdadera</h4>
+                <p>Arrepentimiento genuino, obediencia a la Torá, amor activo, perseverancia, transformación del corazón.</p>
+            </div>
+        </div>
+        <div class="quote">
+            "Las <strong>hojas</strong> simbolizan esa <strong>apariencia de religiosidad externa</strong>... Las hojas representan una <strong>piedad superficial</strong>, mientras que la ausencia de fruto es una señal de falta de arrepentimiento y obediencia a la Torá."
+            <span class="ref">— Jazak Veematz, DÍA 17: LA PARÁBOLA DE LA HIGUERA ESTÉRIL</span>
+        </div>
+    </article>
+
+    <!-- CAPÍTULO 8: TIEMPOS FINALES -->
+    <article class="section-card">
+        <h2 class="section-title"><span class="icon">🔥</span> Capítulo 8: La Piedad en los Tiempos Finales</h2>
+        <div class="quote red">
+            "Y también todos los que quieren <strong>vivir piadosamente</strong> en Yeshúa el Mesías, serán perseguidos."
+            <span class="ref">— 2 Timoteo 3:12</span>
+        </div>
+        <p>La piedad genuina no es popular. En los últimos tiempos, el verdadero temor de ELOHIM y la obediencia a sus mandamientos traerán persecución. El proyecto enseña que el sistema del Antimesías perseguirá específicamente a aquellos que:</p>
+        <div class="grid-3">
+            <div class="insight-card red-border">
+                <h3>Guardan los Mandamientos</h3>
+                <p>La Torá de ELOHIM — aquellos que perseveran en la obediencia a la instrucción divina.</p>
+            </div>
+            <div class="insight-card">
+                <h3>Tienen la Fe de Yeshúa</h3>
+                <p>Creer en Él como el Mesías, el Hijo de ELOHIM, YHVH manifestado en carne.</p>
+            </div>
+            <div class="insight-card gold-border">
+                <h3>Perseveran hasta el Fin</h3>
+                <p>"El que persevere hasta el fin, éste será salvo" (Mateo 24:13).</p>
+            </div>
+        </div>
+        <div class="quote blue">
+            "Tienen apariencia de servicio, tienen <strong>apariencia de piedad</strong>, pero no reconocen ni la Torá como guía, ni al Mesías como autoridad. El resultado, un sistema religioso sin cobertura espiritual genuina."
+            <span class="ref">— Jazak Veematz, ESPÍRITU DE KORAJ EN EL SISTEMA RELIGIOSO</span>
+        </div>
+        <div class="highlight-box dark-box">
+            <h3>El Remanente Piadoso</h3>
+            <p>A pesar de la apostasía generalizada, siempre hay un remanente que busca la piedad genuina, caracterizado por: amor a la Torá, fe firme en Yeshúa, perseverancia en la persecución, amor activo hacia los santos, y separación de los sistemas religiosos corruptos.</p>
+        </div>
+    </article>
+
+    <!-- CONCLUSIÓN -->
+    <article class="section-card">
+        <h2 class="section-title"><span class="icon">📖</span> Conclusión Final</h2>
+        <p>Después de examinar las Escrituras, la piedad bíblica puede resumirse en estos puntos fundamentales:</p>
+        <div class="conclusion-box">
+            <h3>Lo que la Biblia Enseña sobre la Piedad</h3>
+            <ol>
+                <li><strong>La piedad en su forma más elevada es el misterio de ELOHIM manifestado en carne.</strong> El "misterio de la piedad" (1 Timoteo 3:16) es que el Único ELOHIM tomó forma humana en Yeshúa para redimir a su pueblo. Esta es la base de toda piedad genuina.</li>
+                <li><strong>La piedad es una virtud que se construye sobre otras virtudes.</strong> Según 2 Pedro 1:5-7, la piedad viene después de la fe, la virtud, el conocimiento, el dominio propio y la perseverancia. Requiere crecimiento espiritual progresivo.</li>
+                <li><strong>La piedad se define como devoción al Creador.</strong> No es religiosidad vacía, sino una devoción sincera que se expresa en temor reverente, obediencia a la Torá, fe en Yeshúa y amor activo.</li>
+                <li><strong>La falsa piedad es "apariencia" sin poder.</strong> 2 Timoteo 3:1-5 advierte sobre aquellos que tienen "apariencia de piedad" pero niegan la eficacia de ella: religiosidad externa sin obediencia ni relación genuina.</li>
+                <li><strong>La piedad verdadera se demuestra en amor activo.</strong> Según Mateo 25:31-46, la piedad genuina se manifiesta en obras concretas de misericordia. Lo que hacemos por los "más pequeños", lo hacemos por el Mesías.</li>
+                <li><strong>La piedad incluye honestidad y vida íntegra.</strong> 1 Timoteo 2:1-3 nos enseña a orar por las autoridades para vivir "quieta y reposadamente en toda piedad y honestidad".</li>
+                <li><strong>La piedad genuina será perseguida en los tiempos finales.</strong> Pero los que perseveren hasta el fin heredarán el reino.</li>
+            </ol>
+        </div>
+        <div style="margin-top:2rem; padding:1.5rem; background:rgba(253,187,45,0.08); border-radius:12px; border:1px solid rgba(253,187,45,0.3); text-align:center; font-family:var(--serif); font-style:italic; font-size:1.1rem;">
+            <p style="margin-bottom:0;">"E indiscutiblemente, grande es el misterio de la piedad: ELOHIM fue manifestado en carne, Justificado en el Espíritu, Visto por los ángeles, Proclamado entre los gentiles, Creído en el mundo, Recibido arriba en gloria."</p>
+            <p style="margin-top:.5rem; color:var(--text-muted); font-style:normal;">— 1 Timoteo 3:16</p>
+        </div>
+        <div style="margin-top:1.5rem; text-align:center;">
+            <p><strong>Conozcamos la Verdad, porque la Verdad nos hará libres.</strong></p>
+            <p style="color:var(--text-muted); font-size:.9rem; margin-top:.5rem;">Jazak Veematz — Esfuérzate y sé valiente</p>
+        </div>
+    </article>
+
+    <!-- REFERENCIAS -->
+    <article class="section-card accent-blue" style="margin-bottom:0;">
+        <h2 class="section-title gold-title"><span class="icon">📑</span> Referencias de los Documentos del Proyecto</h2>
+        <p>Este estudio fue elaborado exclusivamente a partir del análisis de los documentos del proyecto Jazak Veematz:</p>
+        <div class="grid-2" style="font-size:.9rem;">
+            <ul class="list">
+                <li>YESHÚA ES YHWH | Los Atributos de Dios — Parte 3</li>
+                <li>La Divinidad de Yeshúa: ELOHIM manifestado en carne</li>
+                <li>INVITACIÓN AL CURSO DE RAÍCES HEBREAS</li>
+                <li>CONSTRUYENDO NUESTRA IDENTIDAD — Parashat Toldot</li>
+                <li>LIMPIEZA PARA LA LEPRA ESPIRITUAL — Parashat Metzorá</li>
+                <li>LEYES SOBRE MEZCLAS PROHIBIDAS — Parashat Ki Tetzé</li>
+                <li>ESPÍRITU DE KORAJ EN EL SISTEMA RELIGIOSO</li>
+            </ul>
+            <ul class="list">
+                <li>DÍA 17: LA PARÁBOLA DE LA HIGUERA ESTÉRIL</li>
+                <li>#23 Los Tiempos Finales: El mundo cambiará</li>
+                <li>¿NO ES ÉL TU PADRE? — Parashat Haazinu (#53)</li>
+                <li>UN LLAMADO PARA LA RESTAURACIÓN</li>
+                <li>Estudio sobre el Dominio Propio (<em>Enkrateia</em>)</li>
+                <li>FIRMES EN LA LIBERTAD DEL MESÍAS — Gálatas 5</li>
+                <li>¿Será edificado un TERCER TEMPLO?</li>
+            </ul>
+        </div>
+    </article>
+
+</div>
+
+<footer>
+    <div class="footer-logo">JAZAK VEEMATZ</div>
+    <p>Esfuérzate y sé valiente</p>
+    <p style="margin-top:.3rem;font-size:.85rem;">Restaurando las Raíces Hebreas de la Fe</p>
+    <div class="footer-divider"></div>
+    <p>Estudio basado exclusivamente en los documentos del proyecto Jazak Veematz.</p>
+    <p style="margin-top:.3rem;font-size:.8rem;opacity:.6;">© 2026 Jazak Veematz. Conozcamos la Verdad, porque la Verdad nos hará libres.</p>
+</footer>
+
+<script>
+const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) { entry.target.classList.add('visible'); }
+    });
+}, { threshold: 0.1 });
+document.querySelectorAll('.section-card').forEach((card, i) => {
+    observer.observe(card);
+    card.style.transition = `all 0.8s ease ${i * 0.08}s`;
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,1177 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudio Profundo: ¿La Biblia enseña la Trinidad? - Jazak Veematz</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,700;1,700&family=Source+Serif+4:opsz@8..60&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a2a6c;
+            --secondary: #b21f1f;
+            --accent: #fdbb2d;
+            --gold: #d4a843;
+            --light: #f8f9fa;
+            --dark: #0c0f1d;
+            --card-bg: rgba(255, 255, 255, 0.97);
+            --glass: rgba(255, 255, 255, 0.08);
+            --text-main: #2c2c2c;
+            --text-muted: #666;
+            --serif: 'Source Serif 4', 'Times New Roman', serif;
+            --hebrew-color: #c0392b;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            line-height: 1.8;
+            color: var(--text-main);
+            background: var(--dark);
+            overflow-x: hidden;
+        }
+
+        h1, h2, h3, h4 { font-family: 'Playfair Display', serif; }
+
+        /* ===== HERO ===== */
+        .hero {
+            position: relative;
+            min-height: 85vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+            background:
+                linear-gradient(135deg, rgba(12,15,29,0.92) 0%, rgba(26,42,108,0.85) 50%, rgba(12,15,29,0.92) 100%),
+                radial-gradient(ellipse at 20% 50%, rgba(178,31,31,0.15) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 50%, rgba(253,187,45,0.08) 0%, transparent 50%);
+            padding: 2rem;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: 'אֶחָד';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 30vw;
+            font-weight: 700;
+            color: rgba(255,255,255,0.03);
+            pointer-events: none;
+            letter-spacing: 0.1em;
+        }
+
+        .hero-content {
+            max-width: 900px;
+            z-index: 1;
+            opacity: 0;
+            transform: translateY(30px);
+            animation: fadeIn 1.2s forwards ease-out 0.3s;
+        }
+
+        @keyframes fadeIn { to { opacity: 1; transform: translateY(0); } }
+
+        .hero-badge {
+            display: inline-block;
+            background: var(--glass);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(253,187,45,0.3);
+            padding: 0.5rem 1.5rem;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: var(--accent);
+            margin-bottom: 2rem;
+        }
+
+        .hero h1 {
+            font-size: 4rem;
+            line-height: 1.2;
+            margin-bottom: 1.5rem;
+            text-shadow: 2px 2px 20px rgba(0,0,0,0.4);
+        }
+
+        .hero h1 .accent { color: var(--accent); }
+
+        .hero-sub {
+            font-size: 1.3rem;
+            font-weight: 300;
+            color: rgba(255,255,255,0.85);
+            max-width: 700px;
+            margin: 0 auto 2rem;
+        }
+
+        .hero-verse {
+            font-family: var(--serif);
+            font-style: italic;
+            font-size: 1.25rem;
+            color: var(--gold);
+            border-top: 1px solid rgba(253,187,45,0.2);
+            border-bottom: 1px solid rgba(253,187,45,0.2);
+            padding: 1.5rem 2rem;
+            display: inline-block;
+        }
+
+        .hero-verse .ref {
+            display: block;
+            font-size: 0.85rem;
+            color: rgba(255,255,255,0.5);
+            margin-top: 0.5rem;
+            font-style: normal;
+        }
+
+        /* ===== CONTAINER ===== */
+        .container {
+            max-width: 1100px;
+            margin: -80px auto 80px;
+            padding: 0 24px;
+            position: relative;
+            z-index: 2;
+        }
+
+        /* ===== SECTION CARDS ===== */
+        .section-card {
+            background: var(--card-bg);
+            border-radius: 24px;
+            padding: 3.5rem;
+            margin-bottom: 3rem;
+            box-shadow: 0 25px 50px -12px rgba(0,0,0,0.4);
+            border-top: 5px solid var(--accent);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            opacity: 0;
+            transform: translateY(40px);
+        }
+
+        .section-card.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .section-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 30px 60px -12px rgba(0,0,0,0.5);
+        }
+
+        .section-card.accent-red { border-top-color: var(--secondary); }
+        .section-card.accent-blue { border-top-color: var(--primary); }
+
+        .section-title {
+            font-size: 2.2rem;
+            color: var(--primary);
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .section-title::after {
+            content: '';
+            flex: 1;
+            height: 2px;
+            background: linear-gradient(to right, var(--accent), transparent);
+        }
+
+        .section-title .icon {
+            font-size: 2rem;
+            line-height: 1;
+        }
+
+        .section-title.accent-title { color: var(--secondary); }
+        .section-title.accent-title::after { background: linear-gradient(to right, var(--secondary), transparent); }
+
+        .section-title.gold-title { color: #8b7517; }
+        .section-title.gold-title::after { background: linear-gradient(to right, var(--gold), transparent); }
+
+        /* ===== CONTENT ===== */
+        p { margin-bottom: 1.2rem; font-size: 1.05rem; }
+
+        .highlight { color: var(--secondary); font-weight: 600; }
+        .highlight-blue { color: var(--primary); font-weight: 600; }
+        .highlight-gold { color: #8b7517; font-weight: 600; }
+
+        .hebrew-word {
+            color: var(--hebrew-color);
+            font-weight: 600;
+        }
+        .hebrew-font {
+            font-family: 'Noto Sans Hebrew', 'Segoe UI', sans-serif;
+            font-size: 1.3em;
+        }
+
+        /* ===== QUOTE ===== */
+        .quote {
+            font-family: var(--serif);
+            font-style: italic;
+            border-left: 4px solid var(--accent);
+            padding: 1.2rem 1.8rem;
+            margin: 1.8rem 0;
+            background: rgba(253,187,45,0.06);
+            border-radius: 0 12px 12px 0;
+            font-size: 1.05rem;
+            color: #444;
+        }
+
+        .quote .ref {
+            display: block;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            margin-top: 0.5rem;
+            font-style: normal;
+        }
+
+        .quote.blue { border-left-color: var(--primary); background: rgba(26,42,108,0.05); }
+        .quote.red { border-left-color: var(--secondary); background: rgba(178,31,31,0.05); }
+
+        /* ===== GRID CARDS ===== */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .insight-card {
+            background: var(--light);
+            padding: 2rem;
+            border-radius: 16px;
+            border-left: 4px solid var(--primary);
+            height: 100%;
+        }
+
+        .insight-card h3 {
+            color: var(--primary);
+            margin-bottom: 1rem;
+            font-size: 1.3rem;
+        }
+
+        .insight-card.gold-border { border-left-color: var(--gold); }
+        .insight-card.gold-border h3 { color: #8b7517; }
+        .insight-card.red-border { border-left-color: var(--secondary); }
+        .insight-card.red-border h3 { color: var(--secondary); }
+
+        /* ===== TABLE ===== */
+        .table-wrap {
+            overflow-x: auto;
+            margin: 2rem 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.95rem;
+        }
+
+        table thead {
+            background: linear-gradient(135deg, var(--primary), #2a3f8a);
+            color: white;
+        }
+
+        table th {
+            padding: 1rem 1.2rem;
+            text-align: left;
+            font-weight: 600;
+        }
+
+        table td {
+            padding: 1rem 1.2rem;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        table tbody tr:nth-child(even) { background: rgba(26,42,108,0.03); }
+        table tbody tr:hover { background: rgba(253,187,45,0.08); }
+
+        /* ===== COMPARISON ===== */
+        .comparison {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+
+        .comp-col {
+            padding: 2rem;
+            border-radius: 16px;
+        }
+
+        .comp-col h4 {
+            font-size: 1.3rem;
+            margin-bottom: 1rem;
+            text-align: center;
+        }
+
+        .comp-col.left {
+            background: rgba(178,31,31,0.05);
+            border: 2px solid rgba(178,31,31,0.2);
+        }
+        .comp-col.left h4 { color: var(--secondary); }
+
+        .comp-col.right {
+            background: rgba(26,42,108,0.05);
+            border: 2px solid rgba(26,42,108,0.2);
+        }
+        .comp-col.right h4 { color: var(--primary); }
+
+        /* ===== TIMELINE ===== */
+        .timeline {
+            position: relative;
+            padding-left: 2.5rem;
+            margin: 2rem 0;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 8px;
+            top: 0;
+            bottom: 0;
+            width: 3px;
+            background: linear-gradient(to bottom, var(--accent), var(--primary), var(--secondary));
+            border-radius: 3px;
+        }
+
+        .timeline-item {
+            position: relative;
+            margin-bottom: 2rem;
+            padding-left: 0.5rem;
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -2.15rem;
+            top: 0.6rem;
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            background: var(--accent);
+            border: 3px solid white;
+            box-shadow: 0 0 0 2px var(--accent);
+        }
+
+        .timeline-item h4 {
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+
+        /* ===== HIGHLIGHT BOX ===== */
+        .highlight-box {
+            background: linear-gradient(135deg, #1a2a6c, #2a3f8a);
+            color: white;
+            padding: 2.5rem;
+            border-radius: 16px;
+            margin: 2rem 0;
+        }
+
+        .highlight-box h3 {
+            color: var(--accent);
+            margin-bottom: 1rem;
+            font-size: 1.4rem;
+        }
+
+        .highlight-box p { color: rgba(255,255,255,0.9); }
+
+        .highlight-box.gold-box {
+            background: linear-gradient(135deg, #8b7517, #b8962a);
+        }
+
+        .highlight-box.dark-box {
+            background: linear-gradient(135deg, #1a1a2e, #0d0d1a);
+        }
+
+        /* ===== CONCLUSION ===== */
+        .conclusion-box {
+            background: linear-gradient(135deg, #0c0f1d, #1a2a6c);
+            padding: 3rem;
+            border-radius: 20px;
+            border: 2px solid var(--accent);
+            color: white;
+            margin-top: 2rem;
+        }
+
+        .conclusion-box h3 {
+            color: var(--accent);
+            font-size: 1.6rem;
+            margin-bottom: 1.5rem;
+            text-align: center;
+        }
+
+        .conclusion-box ol {
+            margin: 0 0 0 1.5rem;
+        }
+
+        .conclusion-box li {
+            margin-bottom: 1rem;
+            padding-left: 0.5rem;
+        }
+
+        .conclusion-box li strong { color: var(--accent); }
+
+        /* ===== FOOTER ===== */
+        footer {
+            background: var(--dark);
+            color: rgba(255,255,255,0.6);
+            padding: 4rem 2rem;
+            text-align: center;
+        }
+
+        .footer-logo {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.8rem;
+            color: var(--accent);
+            margin-bottom: 0.5rem;
+        }
+
+        footer p { font-size: 0.9rem; }
+
+        .footer-divider {
+            width: 60px;
+            height: 2px;
+            background: var(--accent);
+            margin: 1.5rem auto;
+        }
+
+        /* ===== SCRIPTURE REF ===== */
+        .scripture-ref {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: rgba(26,42,108,0.08);
+            padding: 0.2rem 0.8rem;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            color: var(--primary);
+            font-weight: 600;
+        }
+
+        /* ===== RESPONSIVE ===== */
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 2.5rem; }
+            .hero-verse { font-size: 1rem; padding: 1rem; }
+            .section-card { padding: 2rem; }
+            .section-title { font-size: 1.6rem; }
+            .comparison { grid-template-columns: 1fr; }
+            .grid-2, .grid-3 { grid-template-columns: 1fr; }
+            .conclusion-box { padding: 2rem; }
+        }
+
+        @media (max-width: 480px) {
+            .hero h1 { font-size: 2rem; }
+            .section-card { padding: 1.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <section class="hero">
+        <div class="hero-content">
+            <div class="hero-badge">שְׁמַע יִשְׂרָאֵל</div>
+            <h1>La Doctrina de la <span class="accent">Trinidad</span><br>¿Es Bíblica?</h1>
+            <p class="hero-sub">Un estudio exhaustivo basado en las Escrituras desde las Raíces Hebreas, examinando cada fundamento de la doctrina trinitaria a la luz de la Torá, los Profetas y el Pacto Renovado.</p>
+            <div class="hero-verse">
+                "Oye, Israel: YHVH nuestro ELOHIM, YHVH uno es."
+                <span class="ref">— Deuteronomio 6:4 (El Shemá)</span>
+            </div>
+        </div>
+    </section>
+
+    <div class="container">
+
+        <!-- ===== INTRODUCCIÓN ===== -->
+        <article class="section-card visible">
+            <h2 class="section-title"><span class="icon">📜</span> Introducción</h2>
+            <p>La doctrina de la <span class="highlight">Trinidad</span> es uno de los dogmas centrales del cristianismo tradicional. Establece que ELOHIM existe como tres personas distintas —Padre, Hijo y Espíritu Santo— que comparten una misma esencia divina. Sin embargo, tras un examen cuidadoso de las Escrituras desde una perspectiva hebrea, surgen preguntas fundamentales: <strong>¿Aparece esta doctrina en la Biblia? ¿La enseñó Yeshúa? ¿La creyeron los apóstoles?</strong></p>
+
+            <p>Este estudio tiene como objetivo examinar cada pilar de la doctrina trinitaria a la luz de las Escrituras, utilizando las herramientas de interpretación hebrea y el contexto histórico del primer siglo. No se trata de un debate filosófico, sino de una investigación sincera de lo que la Palabra de ELOHIM realmente enseña acerca de quién es Él y cómo se ha revelado a la humanidad.</p>
+
+            <div class="quote">
+                "Una lectura honesta de las Escrituras y sin prejuicios doctrinales nos ayudaría a comprobar que la doctrina de la Trinidad no es una doctrina bíblica."
+                <span class="ref">— Jazak Veematz, Serie: ELOHIM es UNO</span>
+            </div>
+
+            <div class="grid-3">
+                <div class="insight-card">
+                    <h3>¿Qué es la Trinidad?</h3>
+                    <p>Dogma que sostiene que ELOHIM es tres personas distintas (Padre, Hijo, Espíritu Santo) que forman una misma esencia divina. El Padre no es el Hijo, el Hijo no es el Espíritu Santo, el Espíritu Santo no es el Padre, pero los tres son igualmente ELOHIM.</p>
+                </div>
+                <div class="insight-card gold-border">
+                    <h3>¿Qué dice la Biblia?</h3>
+                    <p>La Escritura declara enfáticamente que YHVH es <strong>UNO</strong> (<em>Echad</em>). "No hay otro ELOHIM fuera de mí" (Isaías 45:5). "Yo soy YHVH, y ninguno más hay" (Isaías 45:6). "No hay dioses conmigo" (Deuteronomio 32:39).</p>
+                </div>
+                <div class="insight-card red-border">
+                    <h3>El Origen del Debate</h3>
+                    <p>La palabra "Trinidad" no aparece en la Biblia. El debate sobre si ELOHIM es una Trinidad no existe en las Escrituras. Fue formulado siglos después en concilios post-apostólicos bajo influencia de la filosofía griega.</p>
+                </div>
+            </div>
+        </article>
+
+        <!-- ===== CAPÍTULO 1: EL SHEMÁ ===== -->
+        <article class="section-card">
+            <h2 class="section-title"><span class="icon">🕊️</span> Capítulo 1: El Shemá — La Declaración Fundamental</h2>
+
+            <p>La base de toda la fe bíblica se encuentra en la declaración conocida como el <span class="highlight">Shemá</span>, que significa "Oye" u "Escucha". Esta es la confesión de fe más importante de las Escrituras.</p>
+
+            <div class="quote">
+                "Oye, Israel: YHVH nuestro ELOHIM, YHVH <strong>UNO</strong> es. Y amarás a YHVH tu ELOHIM de todo tu corazón, y de toda tu alma, y con todas tus fuerzas."
+                <span class="ref">— Deuteronomio 6:4-5</span>
+            </div>
+
+            <p>Cuando se le preguntó a Yeshúa cuál era el <strong>mandamiento más importante de todos</strong>, su respuesta fue clara e inequívoca:</p>
+
+            <div class="quote blue">
+                "El primer mandamiento de todos es: Oye, Israel; el Señor nuestro ELOHIM, el Señor <strong>uno</strong> es."
+                <span class="ref">— Marcos 12:29-30</span>
+            </div>
+
+            <p>Notablemente, el escriba que escuchó a Yeshúa respondió:</p>
+
+            <div class="quote">
+                "Bien, Maestro, verdad has dicho, que <strong>uno es ELOHIM, y no hay otro fuera de Él</strong>."
+                <span class="ref">— Marcos 12:32</span>
+            </div>
+
+            <p>Si Yeshúa hubiera enseñado la Trinidad, este habría sido el momento perfecto para corregir al escriba y explicar que ELOHIM no es "uno" en sentido absoluto, sino que es tres personas. Sin embargo, <span class="highlight">Yeshúa no solo estuvo de acuerdo con el escriba, sino que lo elogió</span>:</p>
+
+            <div class="quote blue">
+                "Yeshúa entonces, viendo que había respondido sabiamente, le dijo: No estás lejos del reino de ELOHIM."
+                <span class="ref">— Marcos 12:34</span>
+            </div>
+
+            <div class="highlight-box">
+                <h3>Conclusión del Capítulo 1</h3>
+                <p>El mandamiento más importante de toda la Escritura —confirmado por Yeshúa mismo— declara que ELOHIM es UNO. No dice que sean tres personas, ni una unidad compuesta de múltiples personas. Dice que es UNO. Y Yeshúa afirmó que quien entiende esto "no está lejos del reino de ELOHIM".</p>
+            </div>
+        </article>
+
+        <!-- ===== CAPÍTULO 2: LA PALABRA EJAD ===== -->
+        <article class="section-card accent-blue">
+            <h2 class="section-title accent-title"><span class="icon">א</span> Capítulo 2: "Echad" — Unidad Compuesta o Absoluta</h2>
+
+            <p>Uno de los argumentos más comunes a favor de la Trinidad es que la palabra hebrea <span class="hebrew-word">אֶחָד</span> (<em>echad</em>) significa "unidad compuesta", sugiriendo que ELOHIM está compuesto de múltiples personas. Examinemos esta afirmación a la luz de las Escrituras.</p>
+
+            <h3>¿Qué significa realmente <em>echad</em>?</h3>
+
+            <p>La palabra <em>echad</em> es el numeral "uno" en hebreo. Puede usarse tanto para <strong>unidad compuesta</strong> como para <strong>unidad absoluta</strong>, exactamente igual que la palabra "uno" en español.</p>
+
+            <div class="grid-2">
+                <div class="comp-col left">
+                    <h4>Unidad Compuesta (Ejemplos)</h4>
+                    <p><strong>Génesis 2:24</strong> — "y serán una (<em>echad</em>) sola carne" (compuesta de hombre y mujer)</p>
+                    <p><strong>Génesis 1:5</strong> — "fue la tarde y la mañana un (<em>echad</em>) día" (compuesto de tarde y mañana)</p>
+                    <p><strong>Números 13:23</strong> — "un (<em>echad</em>) racimo de uvas" (compuesto de muchas uvas)</p>
+                </div>
+                <div class="comp-col right">
+                    <h4>Unidad Absoluta (Ejemplos)</h4>
+                    <p><strong>Génesis 1:9</strong> — "en un (<em>echad</em>) lugar" (un solo lugar, no compuesto)</p>
+                    <p><strong>Génesis 22:2</strong> — "sobre uno (<em>echad</em>) de los montes" (un monte específico)</p>
+                    <p><strong>Eclesiastés 4:8</strong> — "un (<em>echad</em>) hombre solo" (un hombre único, absoluto)</p>
+                </div>
+            </div>
+
+            <p><strong>El punto crucial:</strong> Aun si <em>echad</em> en Deuteronomio 6:4 fuera una "unidad compuesta", esto no especifica <em>de qué</em> está compuesto ELOHIM. Decir que "echad prueba la Trinidad" es como decir que "un libro" debe estar compuesto solo de imágenes, o que "una casa" debe ser solo de madera. La Biblia nunca define los "elementos" que componen a ELOHIM como personas.</p>
+
+            <p>Además, cuando la Biblia quiere enfatizar la <strong>unicidad absoluta</strong> de ELOHIM, no necesita usar <em>yajid</em> (único) en lugar de <em>echad</em>. La evidencia es clara:</p>
+
+            <div class="quote blue">
+                "Ved ahora que yo, YO SOY, y <strong>no hay dioses conmigo</strong>; Yo hago morir, y yo hago vivir; Yo hiero, y yo sano; Y no hay quien pueda librar de mi mano."
+                <span class="ref">— Deuteronomio 32:39</span>
+            </div>
+
+            <p>El Eterno declara explícitamente: <strong>"No hay dioses conmigo"</strong>. No hay otros poderes, autoridades o personas divinas junto a Él o en Él. Esta declaración desmantela por completo la idea de que ELOHIM esté compuesto de múltiples personas divinas.</p>
+
+            <div class="highlight-box gold-box">
+                <h3>En conclusión sobre Echad</h3>
+                <p>La palabra <em>echad</em> puede significar tanto unidad absoluta como compuesta, dependiendo del contexto. En el caso de ELOHIM, el contexto de toda la Escritura —con cientos de versículos que declaran que Él es único y que no hay otro fuera de Él— demuestra que se trata de una unidad absoluta. Forzar la interpretación de "unidad compuesta" para apoyar la Trinidad es leer un dogma en el texto, no extraer lo que el texto dice.</p>
+            </div>
+        </article>
+
+        <!-- ===== CAPÍTULO 3: EL DEBATE INEXISTENTE ===== -->
+        <article class="section-card accent-red">
+            <h2 class="section-title accent-title"><span class="icon">⚖️</span> Capítulo 3: El Debate que NO Existe en la Biblia</h2>
+
+            <p>Un argumento silencioso pero poderoso contra la Trinidad es la <strong>ausencia total de debate</strong> sobre este tema en toda la Escritura. Consideremos el contexto histórico:</p>
+
+            <p>Las comunidades judías del primer siglo eran <strong>monoteístas celosos</strong>. Creían firmemente que YHVH es UNO, basados en la Torá. Si Yeshúa o los apóstoles hubieran enseñado que ELOHIM es una Trinidad —tres personas en un solo Dios— esto habría causado un conflicto monumental.</p>
+
+            <p>Sin embargo, encontramos que los debates registrados en el Nuevo Testamento son sobre otros temas:</p>
+
+            <div class="grid-3">
+                <div class="insight-card red-border">
+                    <h3>Temas que SÍ causaron debate</h3>
+                    <ul style="margin-left: 1.2rem;">
+                        <li>La circuncisión de los gentiles (Hechos 15)</li>
+                        <li>La observancia del shabat</li>
+                        <li>Las tradiciones de los ancianos</li>
+                        <li>La resurrección de los muertos</li>
+                        <li>La limpieza ritual</li>
+                    </ul>
+                </div>
+                <div class="insight-card gold-border">
+                    <h3>Lo que NO causó debate</h3>
+                    <ul style="margin-left: 1.2rem;">
+                        <li>La unicidad de ELOHIM</li>
+                        <li>Si ELOHIM es uno o tres</li>
+                        <li>La naturaleza trina de la deidad</li>
+                        <li>La relación entre las "personas" divinas</li>
+                    </ul>
+                </div>
+                <div class="insight-card">
+                    <h3>¿Por qué es significativo?</h3>
+                    <p>Si la Trinidad fuera una doctrina verdadera y fundamental para la salvación, sería increíble que no hubiera generado absolutamente ningún debate, discusión o enseñanza explícita en todo el Nuevo Testamento.</p>
+                </div>
+            </div>
+
+            <div class="quote red">
+                "El debate sobre la Trinidad no existe en la Biblia. En ninguna parte de la Biblia el Creador del universo establece que es una Trinidad divina o que está conformado por dos poderes, sino que es claro e insistente en que desea que comprendamos que ELOHIM es UNO."
+                <span class="ref">— Jazak Veematz, "LA TRINIDAD: Un Debate inexistente en la BIBLIA"</span>
+            </div>
+
+            <p>Incluso Santiago 2:19 nos recuerda que <strong>los demonios</strong> creen que ELOHIM es uno y tiemblan. La unicidad de ELOHIM es una verdad tan fundamental que hasta los demonios la reconocen. Sin embargo, son los hombres quienes insisten en complicarla con doctrinas humanas.</p>
+        </article>
+
+        <!-- ===== CAPÍTULO 4: YESHÚA Y LA TRINIDAD ===== -->
+        <article class="section-card">
+            <h2 class="section-title"><span class="icon">✡️</span> Capítulo 4: Yeshúa Nunca Enseñó la Trinidad</h2>
+
+            <p>Yeshúa era <strong>judío</strong>. Creció en una familia judía, enseñó en las sinagogas, guardó la Torá y afirmó repetidamente las Escrituras hebreas. En ningún momento enseñó que ELOHIM es una Trinidad.</p>
+
+            <p>Examinemos algunas de sus declaraciones clave:</p>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Versículo</th>
+                            <th>Declaración de Yeshúa</th>
+                            <th>Implicación</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Marcos 12:29</td>
+                            <td>"El Señor nuestro ELOHIM, el Señor uno es"</td>
+                            <td>Afirma el Shemá como el mandamiento más importante</td>
+                        </tr>
+                        <tr>
+                            <td>Juan 17:3</td>
+                            <td>"Que te conozcan a ti, el único ELOHIM verdadero"</td>
+                            <td>Llama al Padre "el único ELOHIM verdadero"</td>
+                        </tr>
+                        <tr>
+                            <td>Juan 14:28</td>
+                            <td>"El Padre mayor es que yo"</td>
+                            <td>Establece una clara jerarquía</td>
+                        </tr>
+                        <tr>
+                            <td>Juan 20:17</td>
+                            <td>"Subo a mi Padre y a vuestro Padre, a mi ELOHIM y a vuestro ELOHIM"</td>
+                            <td>Distingue entre Él y el Padre como su ELOHIM</td>
+                        </tr>
+                        <tr>
+                            <td>Mateo 27:46</td>
+                            <td>"ELOHIM mío, ELOHIM mío, ¿por qué me has desamparado?"</td>
+                            <td>Habla a ELOHIM como alguien distinto a Él</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <p>En Juan 17:3, Yeshúa define la vida eterna en términos de conocer a dos seres: <strong>al "único ELOHIM verdadero"</strong> (el Padre) y a Él mismo como el Mesías enviado. Esta distinción es clara y consistente en todas las enseñanzas de Yeshúa.</p>
+
+            <div class="highlight-box dark-box">
+                <h3>Reflexión</h3>
+                <p>Si Yeshúa hubiera querido enseñar la Trinidad, habría tenido innumerables oportunidades para hacerlo. En su lugar, afirmó consistentemente la fe monoteísta de Israel: ELOHIM es UNO. Yeshúa no enseñó que Él era "Dios el Hijo, segunda persona de la Trinidad". Enseñó que era el <strong>Hijo de ELOHIM</strong>, el <strong>Mesías</strong>, la manifestación visible del Único ELOHIM.</p>
+            </div>
+        </article>
+
+        <!-- ===== CAPÍTULO 5: MONOTEÍSMO BÍBLICO ===== -->
+        <article class="section-card accent-blue">
+            <h2 class="section-title gold-title"><span class="icon">🔯</span> Capítulo 5: El Monoteísmo Bíblico — Un Único ELOHIM</h2>
+
+            <p>La Biblia es inequívoca en su mensaje: hay un solo ELOHIM, y no hay otro fuera de Él. Este no es un tema menor, sino que es la base de toda la revelación bíblica.</p>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Referencia</th>
+                            <th>Texto</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Éxodo 20:3</td>
+                            <td>"No tendrás dioses ajenos delante de mí."</td>
+                        </tr>
+                        <tr>
+                            <td>Deuteronomio 4:35</td>
+                            <td>"A ti te fue mostrado, para que supieses que YHVH es ELOHIM, y no hay otro fuera de Él."</td>
+                        </tr>
+                        <tr>
+                            <td>1 Crónicas 17:20</td>
+                            <td>"YHVH, no hay semejante a ti, ni hay ELOHIM sino tú."</td>
+                        </tr>
+                        <tr>
+                            <td>Salmos 86:10</td>
+                            <td>"Porque tú eres grande, y hacedor de maravillas; <strong>Solo tú</strong> eres ELOHIM."</td>
+                        </tr>
+                        <tr>
+                            <td>Isaías 43:10</td>
+                            <td>"Antes de mí no fue formado ELOHIM, ni lo será después de mí."</td>
+                        </tr>
+                        <tr>
+                            <td>Isaías 44:6</td>
+                            <td>"Yo soy el primero, y yo soy el postrero, y <strong>no hay ELOHIM fuera de mí</strong>."</td>
+                        </tr>
+                        <tr>
+                            <td>Isaías 45:5</td>
+                            <td>"Yo soy YHVH, y ninguno más hay; no hay ELOHIM fuera de mí."</td>
+                        </tr>
+                        <tr>
+                            <td>Isaías 46:9</td>
+                            <td>"Porque yo soy ELOHIM, y <strong>no hay otro ELOHIM</strong>, y nada hay semejante a mí."</td>
+                        </tr>
+                        <tr>
+                            <td>Oseas 13:4</td>
+                            <td>"No conocerás, pues, otro ELOHIM fuera de mí, <strong>ni otro salvador sino a mí</strong>."</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <p>Esta misma verdad es afirmada en el Nuevo Testamento:</p>
+
+            <div class="grid-2">
+                <div class="insight-card">
+                    <h3>1 Corintios 8:4-6</h3>
+                    <p>"No hay más que un ELOHIM. ... para nosotros, sin embargo, <strong>solo hay un ELOHIM, el Padre</strong>, del cual proceden todas las cosas, y nosotros somos para él; y un Señor, Yeshúa el Mesías."</p>
+                </div>
+                <div class="insight-card gold-border">
+                    <h3>1 Timoteo 2:5</h3>
+                    <p>"Porque hay <strong>un solo ELOHIM</strong>, y un solo mediador entre ELOHIM y los hombres, Yeshúa el Mesías <strong>hombre</strong>."</p>
+                </div>
+                <div class="insight-card red-border">
+                    <h3>Efesios 4:5-6</h3>
+                    <p>"<strong>Un</strong> Señor, una fe, un bautismo, <strong>un</strong> ELOHIM y Padre de todos, el cual es sobre todos, y por todos, y en todos."</p>
+                </div>
+                <div class="insight-card">
+                    <h3>Romanos 3:30</h3>
+                    <p>"Porque <strong>uno</strong> es ELOHIM, el cual justificará por la fe a los de la circuncisión."</p>
+                </div>
+            </div>
+
+            <p>Pablo es claro: "solo hay un ELOHIM, el Padre". No dice "tres personas en un solo Dios". Dice "un ELOHIM, el Padre". Y llama a Yeshúa "un Señor" y "mediador", distinguiéndolo claramente del Único ELOHIM.</p>
+        </article>
+
+        <!-- ===== CAPÍTULO 6: LA MEMRÁ ===== -->
+        <article class="section-card accent-red">
+            <h2 class="section-title accent-title"><span class="icon">מ</span> Capítulo 6: La Memrá de ELOHIM — La Expresión Corpórea del Creador</h2>
+
+            <p>Si ELOHIM es UNO, ¿cómo entendemos la divinidad de Yeshúa? La respuesta se encuentra en un concepto hebreo antiguo conocido como la <span class="highlight">Memrá</span> (אִמְרָא), la Palabra de ELOHIM.</p>
+
+            <h3>¿Qué es la Memrá?</h3>
+
+            <p>La <span class="hebrew-word">Memrá</span> (en arameo) o <span class="hebrew-word">Dabar</span> (en hebreo) es un concepto judío que aparece en los <strong>Targumim</strong> (traducciones arameas de las Escrituras) utilizados en las sinagogas del primer siglo. La Memrá representa la <strong>manifestación física y perceptible de ELOHIM</strong> en el mundo finito.</p>
+
+            <div class="highlight-box">
+                <h3>El concepto clave</h3>
+                <p>Un ELOHIM infinito, atemporal, omnipresente e invisible necesita una <strong>expresión limitada y corpórea</strong> para interactuar con un mundo finito, material y sujeto al tiempo. Esa expresión es la Memrá, y NO es una persona separada de ELOHIM, sino ELOHIM MISMO manifestado.</p>
+            </div>
+
+            <h3>La Memrá en los Targumim</h3>
+
+            <p>Los Targumim (traducciones arameas de las Escrituras) usan consistentemente la palabra <em>Memrá</em> para describir las interacciones físicas de ELOHIM con el mundo:</p>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Evento</th>
+                            <th>Texto Bíblico</th>
+                            <th>Targum (Paráfrasis)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Creación</td>
+                            <td>Génesis 1:3 "Y dijo ELOHIM: Sea la luz"</td>
+                            <td>"Y dijo la <strong>Memrá</strong> de YHVH: haya luz"</td>
+                        </tr>
+                        <tr>
+                            <td>Creación del hombre</td>
+                            <td>Génesis 1:27 "Creó ELOHIM al hombre"</td>
+                            <td>"Y la <strong>Memrá</strong> de YHVH creó al hombre"</td>
+                        </tr>
+                        <tr>
+                            <td>El Edén</td>
+                            <td>Génesis 3:8 "Oyeron la voz de YHVH"</td>
+                            <td>"Oyeron la <strong>Memrá</strong> de YHVH ELOHIM"</td>
+                        </tr>
+                        <tr>
+                            <td>Pacto con Abraham</td>
+                            <td>Génesis 15:6 "Creyó a YHVH"</td>
+                            <td>"Creyó en el nombre de la <strong>Memrá</strong> de YHVH"</td>
+                        </tr>
+                        <tr>
+                            <td>Reposo del shabat</td>
+                            <td>Génesis 2:2 "Reposó en el séptimo día"</td>
+                            <td>"La <strong>Memrá</strong> de YHVH reposó en el séptimo día"</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <p>La Memrá <strong>no era entendida como una entidad separada de ELOHIM</strong>, sino como ELOHIM mismo participando en la historia. Exactamente el mismo concepto que Juan utiliza en su Evangelio:</p>
+
+            <div class="quote blue">
+                "En el principio existía el <strong>Logos</strong> (Verbo/Palabra/Memrá), y el Logos pertenecía a ELOHIM, y <strong>ELOHIM era el Logos</strong>."
+                <span class="ref">— Juan 1:1 (traducción literal del griego)</span>
+            </div>
+
+            <p>Juan 1:1 no dice que el Verbo sea una "segunda persona" de la Trinidad. Dice que el Verbo <strong>pertenecía</strong> a ELOHIM (ELOHIM poseía una expresión corpórea) y que <strong>ELOHIM era el Verbo</strong> (esa expresión corpórea es el mismo ELOHIM). No hay dos seres; hay un ÚNICO ELOHIM que posee una manifestación visible.</p>
+
+            <div class="quote red">
+                "La MEMRA es responsable de la creación del mundo. ... La MEMRA no era entendido como una entidad separada o diferente de ELOHIM, sino como la participación de ELOHIM en la historia. <strong>Era ELOHIM MISMO</strong>."
+                <span class="ref">— Jazak Veematz, "La Divinidad de YESHÚA"</span>
+            </div>
+        </article>
+
+        <!-- ===== CAPÍTULO 7: YESHÚA ES ELOHIM MANIFESTADO ===== -->
+        <article class="section-card">
+            <h2 class="section-title"><span class="icon">✝️</span> Capítulo 7: Yeshúa — ELOHIM Manifestado en Carne</h2>
+
+            <p>La posición de este estudio no es negar la divinidad de Yeshúa, sino afirmarla <strong>dentro del marco del monoteísmo bíblico</strong>. Yeshúa no es un "segundo Dios" ni una "segunda persona de la Trinidad". Yeshúa es <strong>el mismo YHVH manifestado en carne</strong> para redimir a su pueblo.</p>
+
+            <div class="quote">
+                "E indiscutiblemente, grande es el misterio de la piedad: <strong>ELOHIM fue manifestado en carne</strong>, Justificado en el Espíritu, Visto por los ángeles, Proclamado entre los gentiles, Creído en el mundo, Recibido arriba en gloria."
+                <span class="ref">— 1 Timoteo 3:16</span>
+            </div>
+
+            <p>Este versículo es uno de los más claros: fue <strong>ELOHIM</strong> (el Único ELOHIM) quien fue manifestado en carne. No fue un segundo Dios. Fue el mismo Creador que tomó forma humana.</p>
+
+            <h3>La promesa profética: YHVH mismo vendría a salvar</h3>
+
+            <div class="grid-3">
+                <div class="insight-card">
+                    <h3>Isaías 35:4</h3>
+                    <p>"He aquí que vuestro ELOHIM viene con retribución; <strong>ELOHIM mismo vendrá, y os salvará</strong>."</p>
+                </div>
+                <div class="insight-card gold-border">
+                    <h3>Isaías 43:11</h3>
+                    <p>"Yo, yo YHVH, y <strong>fuera de mí no hay quien salve</strong>."</p>
+                </div>
+                <div class="insight-card red-border">
+                    <h3>Oseas 13:4</h3>
+                    <p>"No conocerás, pues, otro ELOHIM fuera de mí, <strong>ni otro salvador sino a mí</strong>."</p>
+                </div>
+            </div>
+
+            <p>Los profetas fueron claros: <strong>YHVH mismo vendría a salvar</strong>. No enviaría a otro, sino que Él mismo vendría. Y esto es exactamente lo que ocurrió en Yeshúa.</p>
+
+            <div class="quote blue">
+                "Porque en él habita <strong>corporalmente toda la plenitud de la Deidad</strong>."
+                <span class="ref">— Colosenses 2:9</span>
+            </div>
+
+            <p>No dice que "una parte" de la Deidad habite en Yeshúa, ni que "la segunda persona" habite en Él. Dice que <strong>TODA la plenitud</strong> de la Deidad habita en Yeshúa <strong>corporalmente</strong> (físicamente, perceptiblemente). Yeshúa es la manifestación completa del Único ELOHIM en forma humana.</p>
+
+            <div class="highlight-box">
+                <h3>Yeshúa: La imagen visible del ELOHIM invisible</h3>
+                <p>Filipenses 2:6 dice que Yeshúa era en <em>"forma de ELOHIM"</em> (griego: <em>morfé Theou</em>). La palabra <em>morfé</em> significa aspecto, figura, apariencia visible. Yeshúa siempre ha sido la <strong>expresión visible</strong> del ELOHIM invisible. Antes de la creación, era el Logos/Memrá. En el tiempo señalado, se hizo carne como Yeshúa. Pero siempre es el MISMO ÚNICO ELOHIM manifestándose.</p>
+            </div>
+        </article>
+
+        <!-- ===== CAPÍTULO 8: PADRE, HIJO Y ESPÍRITU ===== -->
+        <article class="section-card accent-blue">
+            <h2 class="section-title gold-title"><span class="icon">🕯️</span> Capítulo 8: Padre, Hijo y Espíritu Santo — Una Comprensión Bíblica</h2>
+
+            <p>La Biblia menciona al Padre, al Hijo y al Espíritu Santo. Pero <span class="highlight">no los presenta como una Trinidad de tres personas</span>. Veamos cómo las Escrituras describen a cada uno:</p>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Rol</th>
+                            <th>Descripción Bíblica</th>
+                            <th>No es...</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Padre</strong></td>
+                            <td>La plenitud eterna e invisible de ELOHIM. El Único ELOHIM verdadero (Juan 17:3). El ELOHIM y Padre de Yeshúa (Juan 20:17). El origen de todas las cosas (1 Corintios 8:6).</td>
+                            <td>No es una "persona" separada. Es la esencia misma del Único ELOHIM en su plenitud infinita.</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Hijo (Yeshúa)</strong></td>
+                            <td>La manifestación visible del ELOHIM invisible (Colosenses 1:15). La Memrá/Logos hecha carne (Juan 1:14). ELOHIM manifestado en carne (1 Timoteo 3:16).</td>
+                            <td>No es una "segunda persona" separada. Es el Único ELOHIM manifestado en forma humana para la salvación.</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Ruaj HaKodesh (Espíritu Santo)</strong></td>
+                            <td>El poder y la presencia activa de ELOHIM en el mundo. El Espíritu de YHVH que actúa en la creación, en los profetas y en los creyentes.</td>
+                            <td>No es una "tercera persona" separada. Es el mismo ELOHIM obrando y actuando en su creación.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h3>La analogía del tabernáculo</h3>
+
+            <p>En el pensamiento hebreo, el <strong>Mishkán (Tabernáculo)</strong> nos ayuda a entender esta relación:</p>
+
+            <div class="timeline">
+                <div class="timeline-item">
+                    <h4>El Lugar Santísimo (Padre)</h4>
+                    <p>La presencia invisible, inaccesible e infinita de ELOHIM. Nadie podía entrar excepto el Sumo Sacerdote una vez al año. Representa la plenitud eterna de ELOHIM que ningún hombre ha visto ni puede ver.</p>
+                </div>
+                <div class="timeline-item">
+                    <h4>El Lugar Santo (Hijo)</h4>
+                    <p>El lugar de la manifestación visible: la Menorá, la mesa del pan, el altar del incienso. Era accesible a los sacerdotes. Representa la manifestación visible de ELOHIM — la Memrá, el Logos, Yeshúa.</p>
+                </div>
+                <div class="timeline-item">
+                    <h4>El Atrio Exterior (Espíritu Santo)</h4>
+                    <p>El lugar donde el pueblo se congregaba y donde se ofrecían los sacrificios. Representa la presencia activa de ELOHIM obrando en medio de su pueblo.</p>
+                </div>
+            </div>
+
+            <p>Los tres son el <strong>mismo y único Tabernáculo</strong>. No son tres tabernáculos diferentes, ni tres secciones independientes. Son una sola estructura con diferentes manifestaciones y funciones. Así también, <strong>el Padre, el Hijo y el Espíritu Santo son el mismo y único ELOHIM</strong> manifestado de diferentes maneras para relacionarse con su creación.</p>
+        </article>
+
+        <!-- ===== CAPÍTULO 9: ORIGEN HISTÓRICO ===== -->
+        <article class="section-card accent-red">
+            <h2 class="section-title accent-title"><span class="icon">📚</span> Capítulo 9: El Origen Histórico de la Doctrina</h2>
+
+            <p>Si la Trinidad no es una doctrina bíblica, ¿de dónde proviene? La historia nos muestra que se desarrolló gradualmente durante los primeros siglos del cristianismo, bajo fuerte influencia de la filosofía griega.</p>
+
+            <div class="grid-2">
+                <div class="comp-col left">
+                    <h4>El Desarrollo Histórico</h4>
+                    <p><strong>Siglo I:</strong> Los apóstoles y la iglesia primitiva, compuesta mayormente por judíos, mantenían una fe monoteísta unitaria.</p>
+                    <p><strong>Siglo II:</strong> Comienza la influencia de la filosofía griega a través de los "padres apologistas" como Justino Mártir, quien introdujo el concepto del <em>Logos</em> como un "segundo Dios".</p>
+                    <p><strong>Siglo III:</strong> Teólogos como Tertuliano acuñan el término "Trinidad" (<em>trinitas</em> en latín) y desarrollan el lenguaje de "una sustancia, tres personas".</p>
+                    <p><strong>Siglo IV:</strong> El Concilio de Nicea (325 d.C.) y el Concilio de Constantinopla (381 d.C.) definen y formalizan la doctrina como dogma oficial.</p>
+                </div>
+                <div class="comp-col right">
+                    <h4>Influencias Filosóficas</h4>
+                    <p>La Trinidad no surgió del judaísmo bíblico, sino que fue moldeada por conceptos filosóficos griegos:</p>
+                    <ul style="margin-left: 1.2rem;">
+                        <li><strong>Platonismo:</strong> La distinción entre el mundo ideal y el material, y la noción de la "tríada" divina.</li>
+                        <li><strong>Neoplatonismo:</strong> La emanación de lo divino en diferentes hipóstasis (sustancias).</li>
+                        <li><strong>Estoicismo:</strong> El concepto del <em>Logos</em> como principio racional del universo.</li>
+                    </ul>
+                    <p style="margin-top: 1rem;">La iglesia cristiana, al alejarse de sus raíces hebreas y adoptar la filosofía griega, desarrolló una comprensión de ELOHIM que no se encuentra en las Escrituras.</p>
+                </div>
+            </div>
+
+            <div class="quote red">
+                "La Trinidad es un concepto que se ha heredado del sistema religioso que se nos ha enseñado desde pequeños distorsionando nuestra comprensión de quién es nuestro PADRE ETERNO."
+                <span class="ref">— Jazak Veematz, "Refutando la Doctrina de la Trinidad"</span>
+            </div>
+
+            <p>Es significativo que la doctrina de la Trinidad fue formalizada en concilios convocados por emperadores romanos (Constantino, Teodosio), no por los apóstoles. El Concilio de Nicea fue convocado por el emperador Constantino, quien aún no estaba bautizado y presidió las sesiones. La doctrina se impuso no por consenso bíblico, sino por decreto imperial.</p>
+        </article>
+
+        <!-- ===== CAPÍTULO 10: VERSÍCULOS TRINITARIOS ===== -->
+        <article class="section-card">
+            <h2 class="section-title"><span class="icon">🔍</span> Capítulo 10: Versículos Usados para Apoyar la Trinidad</h2>
+
+            <p>Examinemos los versículos más comúnmente citados para apoyar la doctrina trinitaria y veamos qué dicen realmente en su contexto:</p>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Versículo</th>
+                            <th>Interpretación Trinitaria</th>
+                            <th>Interpretación desde las Raíces Hebreas</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Mateo 28:19</strong><br>"bautizándolos en el nombre del Padre, del Hijo y del Espíritu Santo"</td>
+                            <td>Fórmula de tres personas en un solo Dios.</td>
+                            <td>No dice "en los nombres" (plural) sino "en el <strong>nombre</strong>" (singular). Se refiere a la autoridad del Único ELOHIM manifestado en estos tres roles. Hechos 2:38 muestra que el bautismo era "en el nombre de Yeshúa el Mesías".</td>
+                        </tr>
+                        <tr>
+                            <td><strong>1 Juan 5:7</strong><br>"tres son los que dan testimonio en el cielo: el Padre, el Verbo y el Espíritu Santo"</td>
+                            <td>Prueba textual de la Trinidad.</td>
+                            <td>Este versículo <strong>no aparece en los manuscritos griegos más antiguos</strong>. Fue añadido siglos después (la Comma Johanneum). Las versiones modernas lo omiten por no ser parte del texto original.</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Juan 10:30</strong><br>"Yo y el Padre uno somos"</td>
+                            <td>Yeshúa afirma ser Dios, co-igual al Padre.</td>
+                            <td>La palabra "uno" es <em>hen</em> en griego (neutro), no "una persona". Yeshúa ora en Juan 17:21-22 "para que todos sean uno (<em>hen</em>), como tú, oh Padre, en mí y yo en ti". Así como los creyentes son uno sin dejar de ser individuos, Yeshúa y el Padre son uno en unidad de propósito y esencia.</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Juan 8:58</strong><br>"Antes que Abraham fuese, YO SOY"</td>
+                            <td>Yeshúa se identifica como YHVH del Éxodo 3:14.</td>
+                            <td><strong>Esto es correcto.</strong> Yeshúa es YHVH manifestado en carne. Pero esto no prueba la Trinidad; prueba que el Único ELOHIM se manifestó como Yeshúa. Es evidencia de la <strong>unicidad</strong> de ELOHIM, no de tres personas.</td>
+                        </tr>
+                        <tr>
+                            <td><strong>2 Corintios 13:14</strong><br>"La gracia del Señor Yeshúa... el amor de ELOHIM... la comunión del Espíritu Santo"</td>
+                            <td>Los tres son mencionados como fuentes de bendición.</td>
+                            <td>Mencionar a los tres juntos no prueba que sean tres personas en un solo Dios. Pablo menciona a ELOHIM (el Padre), al Señor Yeshúa y al Espíritu como manifestaciones del Único ELOHIM obrando en la vida del creyente.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="highlight-box gold-box">
+                <h3>Un principio importante</h3>
+                <p>"Es verdad que versículos de la Biblia han sido usados para apoyar la Trinidad, pero de la misma manera, la Biblia puede utilizarse para apoyar la esclavitud, el antisemitismo, la poligamia y otras cosas que las Escrituras no enseñan como doctrina. Si usas mal la Biblia, esta puede afirmar o apoyar cualquier teoría, si no vemos el cuadro completo."</p>
+                <p style="margin-top:0.5rem; opacity:0.9;">— Jazak Veematz</p>
+            </div>
+        </article>
+
+        <!-- ===== CAPÍTULO 11: TRES TEXTOS CLAVE ===== -->
+        <article class="section-card accent-blue">
+            <h2 class="section-title gold-title"><span class="icon">💎</span> Capítulo 11: Tres Textos Clave que Afirman la Unicidad</h2>
+
+            <h3>1. 1 Timoteo 3:16 — "ELOHIM fue manifestado en carne"</h3>
+
+            <p>La versión de la Biblia Textual dice: <em>"E indiscutiblemente, grande es el misterio de la piedad: <strong>ÉL</strong> fue manifestado en carne"</em>. En el griego, el pronombre <em>HOS</em> (el cual) se refiere al antecedente inmediato: <strong>ELOHIM</strong> (versículo 15). Por lo tanto, quien fue manifestado en carne fue ELOHIM mismo.</p>
+
+            <div class="quote">
+                "1 Timoteo 3:15-16 — 'para que sepas cómo hay que comportarse en la casa de ELOHIM, que es la iglesia del ELOHIM vivo... E indiscutiblemente, grande es el misterio de la piedad: <strong>EL CUAL</strong> fue manifestado en Carne.' El pronombre EL CUAL se refiere a ELOHIM."
+                <span class="ref">— Jazak Veematz, análisis textual</span>
+            </div>
+
+            <h3>2. Juan 1:1 — "ELOHIM era el Logos"</h3>
+
+            <p>La traducción más exacta de Juan 1:1 no es "el Verbo era Dios" (que puede interpretarse como dos seres), sino: <em>"En el principio era el Logos, y el Logos pertenecía a ELOHIM, y <strong>ELOHIM era el Logos</strong>"</em>. Esto es una declaración de identidad completa, no de distinción de personas.</p>
+
+            <h3>3. Colosenses 2:9 — "Toda la plenitud de la Deidad"</h3>
+
+            <p>Este versículo no dice que "la segunda persona de la Trinidad" habite en Yeshúa. Dice que <strong>toda la plenitud</strong> de la Deidad (la totalidad del Único ELOHIM) habita corporalmente en Él. No hay partes ni personas en la Deidad; hay un Único ELOHIM manifestado plenamente en Yeshúa.</p>
+
+            <div class="highlight-box">
+                <h3>La clave de todo: Unicidad, no Trinidad</h3>
+                <p>La Biblia enseña la <strong>UNICIDAD</strong> de ELOHIM: un único ELOHIM que se ha manifestado como Padre (plenitud invisible), como Hijo (manifestación visible para la redención) y como Espíritu Santo (presencia activa y poder). No son tres seres ni tres personas. Es un Único ELOHIM revelándose de múltiples maneras para relacionarse con su creación.</p>
+            </div>
+        </article>
+
+        <!-- ===== CAPÍTULO 12: ELOHIM ES ESPÍRITU ===== -->
+        <article class="section-card">
+            <h2 class="section-title"><span class="icon">💨</span> Capítulo 12: ELOHIM No es una "Persona"</h2>
+
+            <p>Un problema fundamental con la Trinidad es el concepto mismo de "persona". La Biblia dice:</p>
+
+            <div class="grid-3">
+                <div class="insight-card red-border">
+                    <h3>Juan 4:24</h3>
+                    <p>"<strong>ELOHIM es Espíritu</strong>; y los que le adoran, en espíritu y en verdad es necesario que adoren."</p>
+                </div>
+                <div class="insight-card">
+                    <h3>1 Juan 1:5</h3>
+                    <p>"ELOHIM es <strong>luz</strong>, y no hay tinieblas en él."</p>
+                </div>
+                <div class="insight-card gold-border">
+                    <h3>Números 23:19</h3>
+                    <p>"ELOHIM <strong>no es hombre</strong>."</p>
+                </div>
+            </div>
+
+            <p>ELOHIM no es una "persona" en el sentido humano del término (un individuo con cuerpo, mente, emociones y voluntad limitada). Decir que ELOHIM es "tres personas" es proyectar conceptos humanos sobre la Deidad.</p>
+
+            <div class="quote blue">
+                "La palabra persona tiene que ver con un individuo que tiene espíritu, aliento de vida y un cuerpo. Por lo que no podemos definir a nuestro Creador como una persona. Mucho menos tres personas."
+                <span class="ref">— Jazak Veematz, "Refutando la Doctrina de la Trinidad"</span>
+            </div>
+
+            <p>La Trinidad reduce a ELOHIM a conceptos humanos y lo limita a tres relaciones interpersonales. Pero ELOHIM es infinito, incognoscible en su plenitud, y no puede ser encerrado en el concepto de "tres personas". El Único ELOHIM se ha manifestado de maneras que trascienden nuestra comprensión, pero la Escritura es clara: Él es UNO.</p>
+        </article>
+
+        <!-- ===== CONCLUSIÓN ===== -->
+        <article class="section-card">
+            <h2 class="section-title"><span class="icon">📖</span> Conclusión Final</h2>
+
+            <p>Después de examinar cuidadosamente las Escrituras, podemos llegar a las siguientes conclusiones sobre la base de lo que está escrito, sin añadir filosofías humanas ni dogmas post-apostólicos:</p>
+
+            <div class="conclusion-box">
+                <h3>Lo que la Biblia Enseña</h3>
+                <ol>
+                    <li><strong>ELOHIM es UNO.</strong> La Escritura es consistente y enfática: hay un solo ELOHIM, y no hay otro fuera de Él. El Shemá (Deuteronomio 6:4) es la declaración fundamental confirmada por Yeshúa mismo como el mandamiento más importante.</li>
+                    <li><strong>El Padre es el Único ELOHIM verdadero.</strong> Yeshúa mismo declaró: "Esta es la vida eterna: que te conozcan a ti, el único ELOHIM verdadero" (Juan 17:3). Pablo afirma: "para nosotros solo hay un ELOHIM, el Padre" (1 Corintios 8:6).</li>
+                    <li><strong>Yeshúa es YHVH manifestado en carne.</strong> No es un segundo Dios ni una persona separada. Es el mismo Único ELOHIM que tomó forma humana para redimir a su pueblo, cumpliendo las profecías que decían: "ELOHIM mismo vendrá y os salvará" (Isaías 35:4).</li>
+                    <li><strong>El Ruaj HaKodesh es el poder y la presencia del Único ELOHIM</strong> obrando en la creación, en los profetas, en Yeshúa y en los creyentes.</li>
+                    <li><strong>La Trinidad es una doctrina post-bíblica</strong> desarrollada bajo influencia de la filosofía griega y formalizada en concilios del siglo IV, no una enseñanza de las Escrituras.</li>
+                    <li><strong>La salvación es por medio de Yeshúa, el Mesías,</strong> quien es la imagen visible del ELOHIM invisible, el único mediador entre ELOHIM y los hombres.</li>
+                </ol>
+            </div>
+
+            <div style="margin-top: 2rem; padding: 1.5rem; background: rgba(253,187,45,0.08); border-radius: 12px; border: 1px solid rgba(253,187,45,0.3); text-align: center; font-family: var(--serif); font-style: italic; font-size: 1.1rem;">
+                <p style="margin-bottom: 0;">"Oye, Israel: YHVH nuestro ELOHIM, YHVH UNO es. Y amarás a YHVH tu ELOHIM con todo tu corazón, y con toda tu alma, y con todas tus fuerzas."</p>
+                <p style="margin-top: 0.5rem; color: var(--text-muted); font-style: normal;">— Deuteronomio 6:4-5</p>
+            </div>
+
+            <div style="margin-top: 1.5rem; text-align: center;">
+                <p><strong>Conozcamos la Verdad, porque la Verdad nos hará libres.</strong></p>
+                <p style="color: var(--text-muted); font-size: 0.9rem; margin-top: 0.5rem;">Jazak Veematz — Esfuérzate y sé valiente</p>
+            </div>
+        </article>
+
+        <!-- ===== REFERENCIAS ===== -->
+        <article class="section-card accent-blue" style="margin-bottom: 0;">
+            <h2 class="section-title gold-title"><span class="icon">📑</span> Referencias de los Documentos del Proyecto</h2>
+
+            <p>Este estudio fue elaborado exclusivamente a partir del análisis de los documentos del proyecto Jazak Veematz. Las siguientes fuentes fueron utilizadas:</p>
+
+            <div class="grid-2" style="font-size: 0.9rem;">
+                <ul style="margin-left: 1.2rem;">
+                    <li>Refutando la Doctrina de la Trinidad — Parte 1: ELOHIM es UNO</li>
+                    <li>La Divinidad de Yeshúa: ELOHIM manifestado en carne — Parte 2</li>
+                    <li>La Biblia no enseña TRINIDAD</li>
+                    <li>LA TRINIDAD: Un Debate inexistente en la BIBLIA</li>
+                    <li>Yeshúa NO enseñó la Trinidad</li>
+                    <li>La Doctrina de la TRINIDAD</li>
+                </ul>
+                <ul style="margin-left: 1.2rem;">
+                    <li>ELOHIM es UNO y la Biblia enseña que Yeshúa es ELOHIM</li>
+                    <li>ELOHIM MANIFESTADO</li>
+                    <li>Significado del término EJAD en hebreo</li>
+                    <li>La MEMRÁ (Palabra) de ELOHIM</li>
+                    <li>El significado de ELOHIM</li>
+                    <li>Yeshúa es ELOHIM entre nosotros (Emanuel)</li>
+                </ul>
+            </div>
+        </article>
+
+    </div>
+
+    <footer>
+        <div class="footer-logo">JAZAK VEEMATZ</div>
+        <p>Esfuérzate y sé valiente</p>
+        <p style="margin-top: 0.3rem; font-size: 0.85rem;">Restaurando las Raíces Hebreas de la Fe</p>
+        <div class="footer-divider"></div>
+        <p>Estudio basado exclusivamente en los documentos del proyecto Jazak Veematz.</p>
+        <p style="margin-top: 0.3rem; font-size: 0.8rem; opacity: 0.6;">© 2026 Jazak Veematz. Conozcamos la Verdad, porque la Verdad nos hará libres.</p>
+    </footer>
+
+    <script>
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, { threshold: 0.1 });
+
+        document.querySelectorAll('.section-card').forEach((card, i) => {
+            observer.observe(card);
+            card.style.transition = `all 0.8s ease ${i * 0.08}s`;
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tu Brújula Filosófica</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=Lora:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #1a1a2e;
+            --bg-secondary: #16213e;
+            --bg-card: #0f3460;
+            --accent-gold: #e6b31e;
+            --accent-copper: #c17f59;
+            --text-primary: #f5f5f5;
+            --text-secondary: #b8b8b8;
+            --stoic: #4a5568;
+            --epicurean: #9f7aea;
+            --existentialist: #e53e3e;
+            --aristotelian: #38a169;
+            --platonist: #3182ce;
+            --taoist: #d69e2e;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Lora', serif;
+            background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 50%, #0d1b2a 100%);
+            min-height: 100vh;
+            color: var(--text-primary);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            position: relative;
+        }
+
+        header::after {
+            content: '◆';
+            display: block;
+            color: var(--accent-gold);
+            font-size: 24px;
+            margin-top: 20px;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 0.5; }
+            50% { opacity: 1; }
+        }
+
+        h1 {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 3.5rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--accent-gold), var(--accent-copper));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            color: var(--text-secondary);
+            font-style: italic;
+        }
+
+        .card {
+            background: var(--bg-card);
+            border-radius: 16px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+            border: 1px solid rgba(230, 179, 30, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 15px 50px rgba(0, 0, 0, 0.4);
+        }
+
+        .progress-container {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            height: 8px;
+            margin-bottom: 30px;
+            overflow: hidden;
+        }
+
+        .progress-bar {
+            height: 100%;
+            background: linear-gradient(90deg, var(--accent-gold), var(--accent-copper));
+            border-radius: 20px;
+            transition: width 0.5s ease;
+        }
+
+        .question-number {
+            color: var(--accent-gold);
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 15px;
+        }
+
+        .question-text {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 1.6rem;
+            font-weight: 600;
+            margin-bottom: 30px;
+            line-height: 1.4;
+        }
+
+        .options {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .option {
+            background: rgba(255, 255, 255, 0.05);
+            border: 2px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 18px 22px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-align: left;
+            font-size: 1rem;
+            color: var(--text-primary);
+        }
+
+        .option:hover {
+            background: rgba(230, 179, 30, 0.15);
+            border-color: var(--accent-gold);
+            transform: translateX(8px);
+        }
+
+        .option.selected {
+            background: rgba(230, 179, 30, 0.25);
+            border-color: var(--accent-gold);
+        }
+
+        .btn {
+            background: linear-gradient(135deg, var(--accent-gold), var(--accent-copper));
+            color: var(--bg-primary);
+            border: none;
+            padding: 16px 40px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            border-radius: 30px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-family: 'Lora', serif;
+            margin-top: 20px;
+        }
+
+        .btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 10px 30px rgba(230, 179, 30, 0.3);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            border: 2px solid var(--accent-gold);
+            color: var(--accent-gold);
+        }
+
+        .intro-card {
+            text-align: center;
+        }
+
+        .intro-card p {
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+        }
+
+        .intro-card ul {
+            text-align: left;
+            margin: 25px 0;
+            padding-left: 20px;
+        }
+
+        .intro-card li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .result-card {
+            text-align: center;
+        }
+
+        .result-title {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .result-subtitle {
+            color: var(--text-secondary);
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+
+        .result-description {
+            text-align: left;
+            margin-bottom: 30px;
+        }
+
+        .result-description p {
+            margin-bottom: 15px;
+            color: var(--text-secondary);
+        }
+
+        .result-description strong {
+            color: var(--accent-gold);
+        }
+
+        .scores {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+            margin: 30px 0;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 12px;
+        }
+
+        .score-item {
+            text-align: center;
+            padding: 10px;
+            border-radius: 8px;
+            font-size: 0.85rem;
+        }
+
+        .score-value {
+            font-weight: 600;
+            font-size: 1.2rem;
+        }
+
+        .doubt-section {
+            background: rgba(230, 179, 30, 0.1);
+            border: 1px solid var(--accent-gold);
+            border-radius: 12px;
+            padding: 25px;
+            margin-top: 30px;
+            text-align: left;
+        }
+
+        .doubt-section h3 {
+            color: var(--accent-gold);
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 1.4rem;
+            margin-bottom: 15px;
+        }
+
+        .doubt-section p {
+            color: var(--text-secondary);
+            margin-bottom: 15px;
+            font-size: 0.95rem;
+        }
+
+        .doubt-buttons {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .doubt-btn {
+            padding: 12px 25px;
+            border-radius: 25px;
+            font-size: 0.95rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-family: 'Lora', serif;
+        }
+
+        .doubt-btn.yes {
+            background: rgba(230, 179, 30, 0.2);
+            border: 1px solid var(--accent-gold);
+            color: var(--accent-gold);
+        }
+
+        .doubt-btn.yes:hover {
+            background: var(--accent-gold);
+            color: var(--bg-primary);
+        }
+
+        .doubt-btn.no {
+            background: transparent;
+            border: 1px solid var(--text-secondary);
+            color: var(--text-secondary);
+        }
+
+        .doubt-btn.no:hover {
+            border-color: var(--text-primary);
+            color: var(--text-primary);
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .philosophy-badge {
+            display: inline-block;
+            padding: 8px 20px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .quote {
+            font-style: italic;
+            color: var(--text-secondary);
+            border-left: 3px solid var(--accent-gold);
+            padding-left: 20px;
+            margin: 20px 0;
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 1.3rem;
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2.5rem;
+            }
+            .question-text {
+                font-size: 1.3rem;
+            }
+            .card {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Tu Brújula Filosófica</h1>
+            <p class="subtitle">Descubre qué corrientes filosóficas definen tu forma de ver el mundo</p>
+        </header>
+
+        <div id="quiz-container">
+            <div class="card intro-card" id="intro-screen">
+                <p>¿Alguna vez te has preguntado qué filósofo antiguo o moderno compartiría tu forma de pensar? Este cuestionario te ayudará a descubrir qué corrientes filosóficas definen tu perspectiva ante la vida.</p>
+                <ul>
+                    <li><strong>Estoicismo:</strong> Distingue entre lo que depende de ti y lo que no</li>
+                    <li><strong>Epicureísmo:</strong> Busca la serenidad y los placeres sencillos</li>
+                    <li><strong>Existencialismo:</strong> Asume la responsabilidad de crear tu propio sentido</li>
+                    <li><strong>Aristotelismo:</strong> Busca el equilibrio y el florecimiento personal</li>
+                    <li><strong> Platonismo:</strong> Busca verdades absolutas más allá de las apariencias</li>
+                    <li><strong>Taoísmo:</strong> Fluye con el orden natural de las cosas</li>
+                </ul>
+                <button class="btn" onclick="startQuiz()">Comenzar el Cuestionario</button>
+            </div>
+
+            <div class="card hidden" id="question-screen">
+                <div class="progress-container">
+                    <div class="progress-bar" id="progress-bar"></div>
+                </div>
+                <div class="question-number" id="question-number"></div>
+                <div class="question-text" id="question-text"></div>
+                <div class="options" id="options"></div>
+            </div>
+
+            <div class="card hidden" id="result-screen"></div>
+        </div>
+    </div>
+
+    <script>
+        const questions = [
+            {
+                text: "Te enfrentas a una situación completamente fuera de tu control. ¿Cómo respondes?",
+                options: [
+                    { text: "Acepto lo que no puedo cambiar y me concentro en mi reacción interna", philosophy: "stoic" },
+                    { text: "Busco la manera de encontrar calma y paz mental despite todo", philosophy: "epicurean" },
+                    { text: "Asumo que soy libre de elegir cómo crear significado de esta situación", philosophy: "existentialist" },
+                    { text: "Analizo qué virtud puedo desarrollar y qué equilibrio debo encontrar", philosophy: "aristotelian" },
+                    { text: "Me pregunto qué verdad más profunda hay más allá de esta apariencia", philosophy: "platonist" },
+                    { text: "Fluyo con lo que viene, sin resistir ni forzar resultados", philosophy: "taoist" }
+                ]
+            },
+            {
+                text: "¿Qué valoras más en tu vida cotidiana?",
+                options: [
+                    { text: "La tranquilidad interior y la fortaleza emocional", philosophy: "stoic" },
+                    { text: "Los momentos de placer simple y la ausencia de preocupaciones", philosophy: "epicurean" },
+                    { text: "La autenticidad y la libertad de definir mi propio camino", philosophy: "existentialist" },
+                    { text: "El desarrollo personal y alcanzar mi máximo potencial", philosophy: "aristotelian" },
+                    { text: "La sabiduría y la comprensión de verdades permanentes", philosophy: "platonist" },
+                    { text: "La armonía con la naturaleza y la simplicidad", philosophy: "taoist" }
+                ]
+            },
+            {
+                text: "Cuando tomas una decisión importante, ¿cuál es tu enfoque principal?",
+                options: [
+                    { text: "Considero qué está en mi poder y qué no, actúando en consecuencia", philosophy: "stoic" },
+                    { text: "Evalúo qué me traer paz y evitará futuros dolores", philosophy: "epicurean" },
+                    { text: "Me pregunto qué responsabilidad estoy dispuesto a asumir", philosophy: "existentialist" },
+                    { text: "Busco el punto medio entre extremos, lo práctico y razonable", philosophy: "aristotelian" },
+                    { text: "Pienso en principios universales que deberían guiar toda acción", philosophy: "platonist" },
+                    { text: "Permito que la situación me muestre el camino, sin forzar", philosophy: "taoist" }
+                ]
+            },
+            {
+                text: "¿Cómo manejas el sufrimiento o el dolor?",
+                options: [
+                    { text: "Lo veo como una oportunidad para fortalecer mi carácter", philosophy: "stoic" },
+                    { text: "Trabajo para eliminar el dolor innecesario y aceptar el inevitable", philosophy: "epicurean" },
+                    { text: "Reconozco que debo crear mi propio sentido ante el sufrimiento", philosophy: "existentialist" },
+                    { text: "Busco la virtud en medio del sufrimiento, encontrando el balance", philosophy: "aristotelian" },
+                    { text: "Considero que el sufrimiento revela verdades sobre la realidad", philosophy: "platonist" },
+                    { text: "Acepto el flujo natural de la vida, incluyendo el dolor", philosophy: "taoist" }
+                ]
+            },
+            {
+                text: "Cuando fails en algo importante, ¿quéThoughts viene a tu mente?",
+                options: [
+                    { text: "Lo que pasó no está en mi control; lo que sí está es mi juicio", philosophy: "stoic" },
+                    { text: "Busco no sufrido más de lo necesario y aprendo a relativizar", philosophy: "epicurean" },
+                    { text: "Asumo la responsabilidad total de mis elecciones y sus consecuencias", philosophy: "existentialist" },
+                    { text: "Analizo qué hice mal y cómo puedo mejorar virtúd", philosophy: "aristotelian" },
+                    { text: "Me pregunto qué ilusión o apariencia me llevó al error", philosophy: "platonist" },
+                    { text: "Acepto el fracaso como parte del flujo natural de la vida", philosophy: "taoist" }
+                ]
+            },
+            {
+                text: "¿Qué significaría para ti vivir una 'vida buena'?",
+                options: [
+                    { text: "Vivir de acuerdo con la razón y la virtud, controlando mis emociones", philosophy: "stoic" },
+                    { text: "Alcanzar ataraxia: serenidad total y placeres estables", philosophy: "epicurean" },
+                    { text: "Crear mi propia esencia a través de decisiones auténticas", philosophy: "existentialist" },
+                    { text: "Alcanzar eudaimonía: florecimiento integral como ser humano", philosophy: "aristotelian" },
+                    { text: "Vivir en contacto con las verdades eternas e inmutables", philosophy: "platonist" },
+                    { text: "Vivir en armonía con el Tao, sin esfuerzo ni resistencia", philosophy: "taoist" }
+                ]
+            },
+            {
+                text: "En una discusión donde todos parecen tener razón, ¿qué haces?",
+                options: [
+                    { text: "Me mantengo firme en mis principios racionales, sin Alterarme", philosophy: "stoic" },
+                    { text: "Evito el conflicto innecesario y busco la tranquilidad", philosophy: "epicurean" },
+                    { text: "Reconozco que no hay esencia predefinida; cada cual construye su verdad", philosophy: "existentialist" },
+                    { text: "Busco el término medio有理, lo que es proporcionado y sensato", philosophy: "aristotelian" },
+                    { text: "Investigo más allá de las opiniones hacia la verdad absoluta", philosophy: "platonist" },
+                    { text: "No fuerzo mi观点; permito que cada cual siga su camino", philosophy: "taoist" }
+                ]
+            },
+            {
+                text: "¿Qué rol juega la naturaleza en tu visión del mundo?",
+                options: [
+                    { text: "La naturaleza tiene un orden que debemos comprender y respetar", philosophy: "stoic" },
+                    { text: "La naturaleza nos guía hacia lo que verdaderamente nos satisface", philosophy: "epicurean" },
+                    { text: "Somos condemned a ser libres; la naturaleza no nos define", philosophy: "existentialist" },
+                    { text: "La naturaleza tiene un propósito que podemos descubrir y seguir", philosophy: "aristotelian" },
+                    { text: "El mundo natural es una sombra de la verdadera realidad ideal", philosophy: "platonist" },
+                    { text: "Debemo fluir con la naturaleza, no resistir su corriente", philosophy: "taoist" }
+                ]
+            },
+            {
+                text: "Si pudieras elegir un legado para dejar al mundo, ¿cuál sería?",
+                options: [
+                    { text: "El ejemplo de alguien que vivió con virtud y ecuanimidad", philosophy: "stoic" },
+                    { text: "La muestra de que la serenidad es posible en este mundo", philosophy: "epicurean" },
+                    { text: "La inspiración para que otros asuman su libertad radical", philosophy: "existentialist" },
+                    { text: "Contribuir al florecimiento humano a través de la razón práctica", philosophy: "aristotelian" },
+                    { text: "Ayudar a otros a ver más allá de las apariencias", philosophy: "platonist" },
+                    { text: "Demostrar que se puede vivir en armonía con el orden natural", philosophy: "taoist" }
+                ]
+            },
+            {
+                text: "Frente a la muerte, ¿qué pensamientos te dan más paz?",
+                options: [
+                    { text: "La muerte es natural; lo que importa es cómo vivo, no cuánto", philosophy: "stoic" },
+                    { text: "Si he vivido bien, no hay nada que temer en el final", philosophy: "epicurean" },
+                    { text: "La muerte es mi mayor libertad: me recuerda que debo crear mi vida", philosophy: "existentialist" },
+                    { text: "Una vida virtuosa deja un legado que trasciende la muerte", philosophy: "aristotelian" },
+                    { text: "El alma es inmortal; la muerte es solo un paso hacia lo eterno", philosophy: "platonist" },
+                    { text: "La muerte es parte del ciclo natural; aceptar brings paz", philosophy: "taoist" }
+                ]
+            },
+            {
+                text: "En tu trabajo o proyecto, ¿qué principio guía tus decisiones?",
+                options: [
+                    { text: "Hago lo que está en mi control y acepto lo que no puedo determinar", philosophy: "stoic" },
+                    { text: "Prefiero un trabajo que me dé tranquilidad sobre uno que me estrese", philosophy: "epicurean" },
+                    { text: "No hay un propósito dado; yo debo crear el mío propios", philosophy: "existentialist" },
+                    { text: "Busco la excelencia (arete) y el balance entre ambición ymoderación", philosophy: "aristotelian" },
+                    { text: "Me pregunto qué ideales deberían guiar toda acción humana", philosophy: "platonist" },
+                    { text: "Trabajo sin forzar, dejando que las cosas evolucionen naturalmente", philosophy: "taoist" }
+                ]
+            },
+            {
+                text: "¿Cómo definirías la verdadera sabiduría?",
+                options: [
+                    { text: "Saber distinguir lo que depende de nosotros de lo que no", philosophy: "stoic" },
+                    { text: "Conocer cómo alcanzar la serenidad y evitar el dolor", philosophy: "epicurean" },
+                    { text: "Asumir la responsabilidad de crear tu propia esencia", philosophy: "existentialist" },
+                    { text: "Encontrar el término medio a través de la razón práctica", philosophy: "aristotelian" },
+                    { text: "Acceder a verdades absolutas más allá del mundo material", philosophy: "platonist" },
+                    { text: "Comprender y fluir con el Tao, el orden natural del universo", philosophy: "taoist" }
+                ]
+            }
+        ];
+
+        const philosophyInfo = {
+            stoic: {
+                name: "El Estoico",
+                subtitle: "El guardián de la razón interior",
+                description: `<p><strong>Tu brújula apunta al Estoicismo.</strong> Al igual que Séneca, Epicteto y Marco Aurelio, tu enfoque filosófico se centra en distinguir claramente entre lo que está en tu poder y lo que no lo está.</p>
+                
+                <p><strong>Lo que te define:</strong> Tienes una fortaleza interior notable. Cuando el mundo externo parece caótico, tú mantienes el control sobre lo único que realmente puedes dominar: tus juicios, tus emociones y tus acciones. No eres insensible, sino que has aprendido a no sufrir por cosas que están fuera de tu alcance.</p>
+                
+                <p><strong>Tu fortaleza:</strong> La ecuanimidad ante la adversidad. Puedes mantener la calma cuando otros pierden el control, porque entiendes que las circunstancias externas no determinan tu bienestar interior.</p>
+                
+                <p><strong>Una reflexión:</strong> Aunque el estoicismo te ofrece una gran paz interior, recuerda también valorar las conexiones humanas y las emociones como parte integral de una vida plena. El estoicismo no consiste en sentirse vacío, sino en encontrar equilibrio.</p>`,
+                quote: "No te perturbationes por las cosas que no están en tu poder. Acepta las que sí lo están y haz lo mejor de ellas.",
+                color: "#4a5568"
+            },
+            epicurean: {
+                name: "El Epicúreo",
+                subtitle: "El buscador de serenidad",
+                description: `<p><strong>Tu brújula apunta al Epicureísmo.</strong> Contrary a la imagen popular, ser epicúreo no significa entregarse a los excesos, sino buscar una vida de verdadera serenidad (ataraxia).</p>
+                
+                <p><strong>Lo que te define:</strong> Valoras la paz mental sobre la ambición desenfrenada. Entiendes que los placeres más auténticos son los sencillos: una buena conversación, un momento de quietud, la compañía de quienes aprecias. Sabes que el sufrimiento innecesario es algo a evitar.</p>
+                
+                <p><strong>Tu fortaleza:</strong> La capacidad de simplificar. Mientras otros persiguen metas complejas y estresantes, tú has aprendido que la felicidad souvent se encuentra en lo ordinario. No necesitasudinero excesivo ni lujos para sentirte realizado.</p>
+                
+                <p><strong>Una reflexión:</strong> El epicureísmo trueano a veces se malinterpreta como hedonismo. Tu tarea es demostrar que buscar la serenidad es una filosofía seria, no una excusa para la complacencia. Además, recuerda que algunos placeres momentáneos pueden generar mayores dolores posteriores.</p>`,
+                quote: "No es el que tiene poco el que es pobre, sino el que desea más.",
+                color: "#9f7aea"
+            },
+            existentialist: {
+                name: "El Existencialista",
+                subtitle: "El creador de su propio destino",
+                description: `<p><strong>Tu brújula apunta al Existencialismo.</strong> Como Sartre, Camus o Kierkegaard, has abrazado una de las ideas más radicales de la filosofía: <strong>la existencia precede a la esencia</strong>.</p>
+                
+                <p><strong>Lo que te define:</strong> No esperas que el universo te dé un guion. Entiendes que no hay valores predefinidos, y eso, lejos de paralizarte, te libera. Asumes la responsabilidad total de crear tu propio significado en un mundo que, en apariencia, no tiene ninguno.</p>
+                
+                <p><strong>Tu fortaleza:</strong> La autenticidad radical. No vives según las expectativas de otros ni te escondes detrás de excusas. Entiendes que eres "condenado a ser libre" y eso te da un poder enorme sobre tu propia vida.</p>
+                
+                <p><strong>Una reflexión:</strong> Esta libertad radical puede ser abrumadora. Cuando todo parece posible, la elección puede paralizar. Encuentra структуру en lo que tú mismo creas, ya sea un proyecto, relaciones o valores que decidas adoptar conscientemente.</p>`,
+                quote: "Estamos solos. No hay excusas. Existir es decidir qué somos.",
+                color: "#e53e3e"
+            },
+            aristotelian: {
+                name: "El Aristotélico",
+                subtitle: "El buscador del término medio",
+                description: `<p><strong>Tu brújula apunta al Aristotélismo.</strong> Siguiendo los pasos de Aristóteles, tu filosofía se centra en encontrar el equilibrio (la virtud) y perseguir el florecimiento humano (eudaimonía).</p>
+                
+                <p><strong>Lo que te define:</strong> Eres práctico y observador. No te pierdes en abstracciones ni en sueños; buscas lo que funciona, lo que permite vivir bien. Entiendes que la virtud no está en los extremos, sino en el punto medio entre el exceso y el defecto.</p>
+                
+                <p><strong>Tu fortaleza:</strong> La razón práctica (phronesis). Sabes adaptar tus principios a las circunstancias concretas. No eres rígido ni relativista; buscas lo que es apropiado en cada situación.</p>
+                
+                <p><strong>Una reflexión:</strong> El aristotelismo puede tender a ser conformista si no se cuida. Recuerda que el "trmino medio" no significa mediocridad, sino excelencia. Y a veces, ser virtuoso requiere valentía para salirse de lo "normal".</p>`,
+                quote: "Somos lo que hacemos repetidamente. La excelencia, entonces, no es un acto, sino un hábito.",
+                color: "#38a169"
+            },
+            platonist: {
+                name: "El Platónico",
+                subtitle: "El perseguidor de verdades absolutas",
+                description: `<p><strong>Tu brújula apunta al Platonismo.</strong> Como el propio Platón, desconfías de las apariencias y buscas verdades más profundas, universales e inmutables.</p>
+                
+                <p><strong>Lo que te define:</strong> Tienes una naturaleza idealista. Cuando others ven caos, tú buscas el orden. Cuando otros se conforman con lo inmediato, tú te preguntas por los principios eternos que subyacen a todo.</p>
+                
+                <p><strong>Tu fortaleza:</strong> La capacidad de ver más allá. No te dejas engañar por las apariencias y tienes un fuerte sentido de que hay algo más grande y verdadero que el mundo material.</p>
+                
+                <p><strong>Una reflexión:</strong> El platonismo puede conducirte al desprecio del mundo material. Recuerda que las Ideas también se manifiestan en lo concreto. El cuerpo y el alma, lo material y lo ideal, no son enemigos. Integra ambas dimensiones.</p>`,
+                quote: "El conocimiento es la回忆起 de lo que el alma ya sabía antes de nacer.",
+                color: "#3182ce"
+            },
+            taoist: {
+                name: "El Taoísta",
+                subtitle: "El que fluye con la naturaleza",
+                description: `<p><strong>Tu brújula apunta al Taoísmo.</strong> Siguiendo a Laozi y Zhuangzi, has comprendido el principio del Wu Wei: la acción sin esfuerzo, el fluir con el orden natural del universo.</p>
+                
+                <p><strong>Lo que te define:</strong> No fuerzas los resultados. Entiendes que el agua es más fuerte que la roca porque no resiste, sino que fluye. Confías en el proceso natural de las cosas y no necesitas controlar todo.</p>
+                
+                <p><strong>Tu fortaleza:</strong> La adaptación. Como el bambú, te doblas sin romperte. No te aferras a resultados específicos y eso te da una flexibilidadremarkable para manejar los cambios de la vida.</p>
+                
+                <p><strong>Una reflexión:</strong> El taoísmo puede interpretarse como pasividad. Sin embargo, Wu Wei no es inacción, sino acción que está en armonía con las circunstancias. En el momento apropiado, actúas; en el apropiado, teretiras.</p>`,
+                quote: "Cuando el sabio pointera, el pueblo lo sigue sin necesidad de órdenes.",
+                color: "#d69e2e"
+            }
+        };
+
+        let currentQuestion = 0;
+        let scores = {
+            stoic: 0,
+            epicurean: 0,
+            existentialist: 0,
+            aristotelian: 0,
+            platonist: 0,
+            taoist: 0
+        };
+        let userAnswers = [];
+
+        function startQuiz() {
+            document.getElementById('intro-screen').classList.add('hidden');
+            document.getElementById('question-screen').classList.remove('hidden');
+            showQuestion();
+        }
+
+        function showQuestion() {
+            const q = questions[currentQuestion];
+            document.getElementById('question-number').textContent = `Pregunta ${currentQuestion + 1} de ${questions.length}`;
+            document.getElementById('question-text').textContent = q.text;
+            document.getElementById('progress-bar').style.width = `${((currentQuestion + 1) / questions.length) * 100}%`;
+
+            const optionsContainer = document.getElementById('options');
+            optionsContainer.innerHTML = '';
+
+            q.options.forEach((option, index) => {
+                const btn = document.createElement('button');
+                btn.className = 'option';
+                btn.textContent = option.text;
+                btn.onclick = () => selectOption(option.philosophy, index);
+                optionsContainer.appendChild(btn);
+            });
+        }
+
+        function selectOption(philosophy, index) {
+            scores[philosophy]++;
+            userAnswers.push({ question: currentQuestion, answer: index });
+
+            const options = document.querySelectorAll('.option');
+            options[index].classList.add('selected');
+
+            setTimeout(() => {
+                currentQuestion++;
+                if (currentQuestion < questions.length) {
+                    showQuestion();
+                } else {
+                    showResults();
+                }
+            }, 300);
+        }
+
+        function showResults() {
+            const sortedScores = Object.entries(scores).sort((a, b) => b[1] - a[1]);
+            const topPhilosophy = sortedScores[0][0];
+            const info = philosophyInfo[topPhilosophy];
+
+            document.getElementById('question-screen').classList.add('hidden');
+            const resultScreen = document.getElementById('result-screen');
+            resultScreen.classList.remove('hidden');
+
+            let scoresHtml = '';
+            sortedScores.forEach(([key, value]) => {
+                const percentage = Math.round((value / questions.length) * 100);
+                const infoKey = philosophyInfo[key];
+                scoresHtml += `<div class="score-item" style="background: ${infoKey.color}22; border-left: 3px solid ${infoKey.color}">
+                    <div style="color: ${infoKey.color}">${infoKey.name}</div>
+                    <div class="score-value" style="color: ${infoKey.color}">${percentage}%</div>
+                </div>`;
+            });
+
+            resultScreen.innerHTML = `
+                <div class="result-card">
+                    <span class="philosophy-badge" style="background: ${info.color}; color: white;">${info.name}</span>
+                    <h2 class="result-title" style="color: ${info.color}">${info.subtitle}</h2>
+                    <div class="quote">"${info.quote}"</div>
+                    <div class="result-description">${info.description}</div>
+                    
+                    <h3 style="margin: 30px 0 15px; font-family: 'Cormorant Garamond', serif; font-size: 1.5rem;">Tu perfil filosófico completo</h3>
+                    <div class="scores">${scoresHtml}</div>
+
+                    <div class="doubt-section">
+                        <h3>Duda Metódica</h3>
+                        <p>Como nos diría Descartes: "Si alguna vez he aceptado algo como verdadero, fue solo porque lo sabía con evidencia". Antes de ver tu resultado final, ¿quieres cuestionar alguna de tus respuestas?</p>
+                        <div class="doubt-buttons">
+                            <button class="doubt-btn yes" onclick="reconsiderAnswers()">Reconsiderar mis respuestas</button>
+                            <button class="doubt-btn no" onclick="finalResult()">Mantener mi resultado</button>
+                        </div>
+                    </div>
+
+                    <div id="reconsider-container" class="hidden" style="margin-top: 20px;">
+                        <p style="color: var(--text-secondary); margin-bottom: 15px;">Revisa tus respuestas y cambia las que desees:</p>
+                        <div id="answers-review"></div>
+                        <button class="btn" onclick="finalResult()">Ver Resultado Final</button>
+                    </div>
+                </div>
+            `;
+        }
+
+        function reconsiderAnswers() {
+            document.querySelector('.doubt-section').classList.add('hidden');
+            const reconsiderContainer = document.getElementById('reconsider-container');
+            reconsiderContainer.classList.remove('hidden');
+
+            const reviewContainer = document.getElementById('answers-review');
+            reviewContainer.innerHTML = '';
+
+            userAnswers.forEach((answer, qIndex) => {
+                const q = questions[qIndex];
+                const answerInfo = q.options[answer.answer];
+                
+                const reviewItem = document.createElement('div');
+                reviewItem.style.cssText = 'margin-bottom: 20px; padding: 15px; background: rgba(0,0,0,0.2); border-radius: 10px;';
+                reviewItem.innerHTML = `
+                    <p style="font-weight: 600; margin-bottom: 10px; color: var(--accent-gold);">Pregunta ${qIndex + 1}: ${q.text.substring(0, 60)}...</p>
+                    <p style="color: var(--text-secondary); margin-bottom: 10px;">Tu respuesta: ${answerInfo.text}</p>
+                    <p style="font-size: 0.85rem; color: var(--text-secondary);">¿Cambiar a:</p>
+                    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px;">
+                        ${q.options.map((opt, optIndex) => `
+                            <button onclick="changeAnswer(${qIndex}, ${optIndex})" 
+                                    style="padding: 8px 15px; border-radius: 20px; border: 1px solid ${optIndex === answer.answer ? 'var(--accent-gold)' : 'var(--text-secondary)'}; 
+                                           background: ${optIndex === answer.answer ? 'var(--accent-gold)' : 'transparent'}; 
+                                           color: ${optIndex === answer.answer ? 'var(--bg-primary)' : 'var(--text-secondary)'};
+                                           cursor: pointer; font-size: 0.85rem;">
+                                ${opt.philosophy}
+                            </button>
+                        `).join('')}
+                    </div>
+                `;
+                reviewContainer.appendChild(reviewItem);
+            });
+        }
+
+        function changeAnswer(qIndex, newIndex) {
+            const oldAnswer = userAnswers[qIndex];
+            const q = questions[qIndex];
+            const oldPhilosophy = q.options[oldAnswer.answer].philosophy;
+            const newPhilosophy = q.options[newIndex].philosophy;
+
+            scores[oldPhilosophy]--;
+            scores[newPhilosophy]++;
+
+            userAnswers[qIndex] = { question: qIndex, answer: newIndex };
+
+            reconsiderAnswers();
+        }
+
+        function finalResult() {
+            const sortedScores = Object.entries(scores).sort((a, b) => b[1] - a[1]);
+            const topPhilosophy = sortedScores[0][0];
+            const info = philosophyInfo[topPhilosophy];
+
+            const resultScreen = document.getElementById('result-screen');
+            
+            let scoresHtml = '';
+            sortedScores.forEach(([key, value]) => {
+                const percentage = Math.round((value / questions.length) * 100);
+                const infoKey = philosophyInfo[key];
+                scoresHtml += `<div class="score-item" style="background: ${infoKey.color}22; border-left: 3px solid ${infoKey.color}">
+                    <div style="color: ${infoKey.color}">${infoKey.name}</div>
+                    <div class="score-value" style="color: ${infoKey.color}">${percentage}%</div>
+                </div>`;
+            });
+
+            resultScreen.innerHTML = `
+                <div class="result-card">
+                    <span class="philosophy-badge" style="background: ${info.color}; color: white;">${info.name}</span>
+                    <h2 class="result-title" style="color: ${info.color}">${info.subtitle}</h2>
+                    <div class="quote">"${info.quote}"</div>
+                    <div class="result-description">${info.description}</div>
+                    
+                    <h3 style="margin: 30px 0 15px; font-family: 'Cormorant Garamond', serif; font-size: 1.5rem;">Tu perfil filosófico completo</h3>
+                    <div class="scores">${scoresHtml}</div>
+
+                    <button class="btn" onclick="location.reload()">Realizar el Cuestionario de Nuevo</button>
+                </div>
+            `;
+        }
+    </script>
+</body>
+</html>

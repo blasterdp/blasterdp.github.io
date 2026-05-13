@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Paciencia · Makrothymía · Hupomoné | Estudio Jazak Veematz</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background: #F9F6EF;
+      color: #2C2418;
+      font-family: 'Inter', sans-serif;
+      line-height: 1.5;
+      scroll-behavior: smooth;
+    }
+
+    h1, h2, h3, h4, .hebrew, .greek, .serif-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-weight: 600;
+    }
+
+    h1 {
+      font-size: 3.5rem;
+      letter-spacing: -0.01em;
+      line-height: 1.2;
+      background: linear-gradient(135deg, #2C2418 0%, #6B4E2E 100%);
+      background-clip: text;
+      -webkit-background-clip: text;
+      color: transparent;
+      margin-bottom: 0.5rem;
+    }
+
+    h2 {
+      font-size: 2.2rem;
+      border-left: 5px solid #B48C48;
+      padding-left: 1.2rem;
+      margin: 2rem 0 1rem;
+      font-weight: 600;
+      color: #3B2A1F;
+    }
+
+    h3 {
+      font-size: 1.6rem;
+      margin: 1.6rem 0 0.8rem;
+      color: #5A3E28;
+      font-weight: 600;
+    }
+
+    h4 {
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin: 1rem 0 0.5rem;
+      color: #7A5A3A;
+    }
+
+    .container {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 3rem 0 2rem;
+      border-bottom: 2px solid #E6DBCF;
+      margin-bottom: 2rem;
+    }
+
+    .hero-sub {
+      font-size: 1.2rem;
+      color: #8B6B42;
+      font-style: italic;
+      font-family: 'Cormorant Garamond', serif;
+      margin-top: 0.5rem;
+    }
+
+    .verse-callout {
+      background: #F0E9DF;
+      padding: 1.8rem;
+      border-radius: 32px;
+      margin: 2rem 0;
+      text-align: center;
+      font-style: italic;
+      font-size: 1.25rem;
+      border: 1px solid #E2D4C4;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.02);
+    }
+
+    .hebrew-word {
+      font-size: 1.8rem;
+      font-weight: 500;
+      font-family: 'Cormorant Garamond', serif;
+      background: #EADFCB;
+      display: inline-block;
+      padding: 0.2rem 1rem;
+      border-radius: 60px;
+      margin: 0.5rem 0;
+    }
+
+    .greek-word {
+      font-size: 1.6rem;
+      font-family: 'Cormorant Garamond', serif;
+      font-style: italic;
+      color: #8B5A2B;
+    }
+
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+      margin: 2rem 0;
+    }
+
+    .card {
+      background: white;
+      border-radius: 28px;
+      padding: 1.8rem;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.03);
+      border: 1px solid #EADFCB;
+      transition: all 0.2s;
+    }
+
+    .card:hover {
+      border-color: #D4BC98;
+      box-shadow: 0 12px 24px rgba(0,0,0,0.05);
+    }
+
+    .table-scripture {
+      background: #FFFFFFD9;
+      border-radius: 24px;
+      overflow-x: auto;
+      margin: 1.5rem 0;
+      border: 1px solid #E8DDD0;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.95rem;
+    }
+
+    th, td {
+      padding: 0.9rem 1rem;
+      text-align: left;
+      border-bottom: 1px solid #EADFCB;
+    }
+
+    th {
+      background: #F4EDE3;
+      font-weight: 600;
+      color: #4D3520;
+    }
+
+    .scripture-ref {
+      font-weight: 700;
+      color: #A5713C;
+      white-space: nowrap;
+    }
+
+    .prayer {
+      background: #F1EADE;
+      padding: 2rem 2rem;
+      border-radius: 40px;
+      margin: 2.5rem 0;
+      text-align: center;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.2rem;
+      border: 1px solid #DAC9B4;
+    }
+
+    footer {
+      margin-top: 3rem;
+      text-align: center;
+      padding: 2rem 0 1rem;
+      border-top: 1px solid #E2D4C4;
+      font-size: 0.85rem;
+      color: #8F7A60;
+    }
+
+    .strong-note {
+      background: #E8DFD1;
+      padding: 0.6rem 1.2rem;
+      border-radius: 60px;
+      display: inline-block;
+      font-size: 0.85rem;
+      font-weight: 500;
+    }
+
+    .badge {
+      background: #C4A27A20;
+      border-left: 3px solid #B48C48;
+      padding: 0.8rem 1.2rem;
+      margin: 1rem 0;
+      font-size: 0.95rem;
+    }
+
+    @media (max-width: 700px) {
+      h1 { font-size: 2.2rem; }
+      h2 { font-size: 1.7rem; }
+      .container { padding: 1.5rem; }
+      .hero { padding: 1.5rem 0; }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="hero">
+    <h1>PACIENCIA<br><span style="font-size: 2rem;">אֹרֶךְ רוּחַ | μακροθυμία · ὑπομονή</span></h1>
+    <div class="strong-note" style="margin-top: 0.75rem;">Strong Griego #5281 (ὑπομονή — hupomoné: perseverancia, constancia) · #3115 (μακροθυμία — makrothymía: longanimidad, paciencia con personas)</div>
+    <div class="hero-sub">“Mas el fruto del Espíritu es: amor, gozo, paz, <strong>paciencia</strong> (μακροθυμία), benignidad, bondad, fe…” <br>— Gálatas 5:22</div>
+  </div>
+
+  <!-- INTRO -->
+  <div class="verse-callout">
+    <span style="font-size: 1.8rem;">🕊️</span><br>
+    Amados hermanos, shalom. Bienvenidos al estudio del proyecto <strong>Jazak Veematz</strong> — Esfuérzate y sé valiente.<br>
+    En hebreo: <strong>אֹרֶךְ רוּחַ</strong> (<em>érek rúaj</em> — largura de espíritu, paciencia). En griego: <strong>μακροθυμία</strong> (<em>makrothymía</em> — longanimidad) y <strong>ὑπομονή</strong> (<em>hupomoné</em> — perseverancia bajo presión).
+  </div>
+
+  <!-- SECCIÓN 1: Definición -->
+  <h2>1. ¿QUÉ ES LA PACIENCIA BÍBLICA?</h2>
+  <p>La paciencia en las Escrituras tiene dos dimensiones que se complementan:</p>
+
+  <div class="card-grid">
+    <div class="card">
+      <strong><span style="font-size:1.6rem;">⏳</span><br>ὑπομονή (Hupomoné) — Strong #5281</strong><br>
+      De <em>ὑπό</em> (debajo de) + <em>μένω</em> (permanecer): literalmente <strong>“permanecer debajo de una carga”</strong>. Es la capacidad de soportar pruebas, tribulaciones y dificultades sin rendirse. No es pasividad, sino <strong>resistencia activa y fiel</strong> bajo presión.
+    </div>
+    <div class="card">
+      <strong><span style="font-size:1.6rem;">🌿</span><br>μακροθυμία (Makrothymía) — Strong #3115</strong><br>
+      De <em>μακρός</em> (largo) + <em>θυμός</em> (ira, pasión): <strong>“largura de ira”</strong>. Es la paciencia con las personas — ser tardo para enojarse, soportar las debilidades ajenas. Se manifiesta en la relación con el prójimo.
+    </div>
+  </div>
+
+  <p>En hebreo, <strong>אֹרֶךְ רוּחַ</strong> (<em>érek rúaj</em> — literalmente “largura de aliento/espíritu”) aparece en Proverbios como virtud del sabio: <em>“El que es tardo para la ira (אֶרֶךְ רוּחַ) tiene gran entendimiento, mas el que es de espíritu impetuoso engrandece la necedad”</em> (Proverbios 14:29). La raíz <strong>קָוָה</strong> (<em>kaváh</em> — esperar, aguardar) se traduce como “esperar en YHWH”, la confianza paciente que renueva las fuerzas (Isaías 40:31).</p>
+
+  <div class="badge">“Porque os es necesaria la paciencia (ὑπομονή), para que habiendo hecho la voluntad de Dios, obtengáis la promesa.” — Hebreos 10:36</div>
+
+  <!-- SECCIÓN 2: Dos dimensiones -->
+  <h2>2. DOS DIMENSIONES, UN MISMO FRUTO</h2>
+  <p>La <strong>hupomoné</strong> mira hacia <strong>abajo</strong> (soportar la carga) — está orientada a las circunstancias, pruebas y el tiempo de Elohim. La <strong>makrothymía</strong> mira hacia <strong>afuera</strong> (soportar al prójimo) — está orientada a las personas, sus fallas y el tiempo de crecimiento ajeno. Ambas son inseparables y forman parte del mismo fruto del Espíritu (Gálatas 5:22).</p>
+
+  <div class="card" style="background: #F7F2EA;">
+    <h4 style="margin-top: 0;">📊 La paciencia como puente entre la fe y la madurez</h4>
+    <p><strong>Santiago 1:3-4</strong> — “sabiendo que la prueba de vuestra fe produce paciencia (ὑπομονή). Mas tenga la paciencia su obra completa, para que seáis perfectos y cabales, sin que os falte cosa alguna.” La paciencia no es el destino, sino el <strong>camino</strong> hacia la madurez espiritual. Sin paciencia, la fe se queda en emoción pasajera; con ella, la fe se forja en carácter firme.</p>
+  </div>
+
+  <p><strong>Romanos 5:3-4</strong> presenta la cadena: tribulación → paciencia (ὑπομονή) → experiencia (δοκιμή — carácter aprobado) → esperanza. No hay atajos: la paciencia es el <strong>horno</strong> donde Elohim purifica nuestra confianza en Él.</p>
+
+  <!-- SECCIÓN 3: Paciencia en el Tanakh -->
+  <h2>3. PACIENCIA EN EL TANAKH: EL ETERNO PACIENTE</h2>
+
+  <h3>YHWH: el primero en ser paciente</h3>
+  <p>“¡YHWH! ¡YHWH! Fuerte, misericordioso y piadoso; <strong>tardo para la ira (אֶרֶךְ אַפַּיִם)</strong> y grande en bondad y verdad” (Éxodo 34:6). Antes de demandar paciencia de Su pueblo, el Eterno se revela a Sí mismo como paciente. La misma frase aparece en Números 14:18, Nehemías 9:17, Salmos 86:15, Joel 2:13 — un eco constante.</p>
+
+  <div class="badge">“Mas tú, Señor, Dios misericordioso y clemente, <strong>tardo para la ira</strong> (אֶרֶךְ אַפַּיִם), y grande en misericordia y verdad.” — Salmo 86:15</div>
+
+  <h3>Ejemplos de paciencia humana en el Tanakh</h3>
+  <div class="card-grid">
+    <div class="card">
+      <strong><span style="font-size:1.6rem;">📖</span><br>Abraham</strong> — Esperó 25 años por Isaac. “Y creyó a YHWH, y le fue contado por justicia” (Génesis 15:6). Su fe paciente es modelo para todos los creyentes.
+    </div>
+    <div class="card">
+      <strong><span style="font-size:1.6rem;">💎</span><br>Job</strong> — “Habéis oído de la paciencia de Job (ὑπομονήν Ἰώβ)” (Santiago 5:11). Job perdió todo, pero no maldijo a Elohim. Su <em>hupomoné</em> es emblema de perseverancia bajo sufrimiento extremo.
+    </div>
+    <div class="card">
+      <strong><span style="font-size:1.6rem;">🌊</span><br>José</strong> — Vendido por sus hermanos, esclavo, encarcelado injustamente durante años. Nunca perdió la fe ni buscó venganza. “Vosotros pensasteis mal contra mí, mas Elohim lo encaminó a bien” (Génesis 50:20).
+    </div>
+    <div class="card">
+      <strong><span style="font-size:1.6rem;">🏜️</span><br>Moisés</strong> — 40 años en Madián, 40 años guiando a un pueblo rebelde. “Moisés era muy manso, más que todos los hombres sobre la faz de la tierra” (Números 12:3). Su <em>érek rúaj</em> reflejaba al Eterno.
+    </div>
+    <div class="card">
+      <strong><span style="font-size:1.6rem;">🕊️</span><br>David</strong> — Ungido rey, pero esperó años huyendo de Saúl sin tomar venganza cuando tuvo oportunidad. “No toques a mi ungido” (1 Samuel 26:11) — su paciencia le costó, pero heredó el trono.
+    </div>
+    <div class="card">
+      <strong><span style="font-size:1.6rem;">📜</span><br>Jeremías</strong> — El profeta que predicó 40 años sin ver conversión. Perseguido, encarcelado, humillado. Pero su <em>hupomoné</em> nos legó las más dulces promesas de restauración.
+    </div>
+  </div>
+
+  <h3>Esperar en YHWH: la paciencia como confianza activa</h3>
+  <p>“Los que esperan (קֹוֵי — <em>kovéi</em>, participio activo de <em>kaváh</em>) a YHWH tendrán nuevas fuerzas” (Isaías 40:31). El verbo <strong>קָוָה</strong> implica una espera tensa, activa, expectante — como quien estira una cuerda hacia adelante. No es esperar pasivamente, sino <strong>aguardar con confianza expectante</strong>. “Bueno es esperar (יָחִיל — <em>iajíl</em>) en silencio la salvación de YHWH” (Lamentaciones 3:26).</p>
+
+  <!-- SECCIÓN 4: Brit Jadashá -->
+  <h2>4. PACIENCIA EN EL BRIT JADASHÁ</h2>
+  <p>El Nuevo Pacto no introduce una virtud nueva, sino que profundiza la revelación de la paciencia divina y la capacita por el Ruaj HaKodesh.</p>
+
+  <div class="card-grid">
+    <div class="card">
+      <strong><span style="font-size:1.6rem;">🍇</span><br>Fruto del Espíritu</strong><br>
+      “Mas el fruto del Espíritu es amor, gozo, paz, <strong>paciencia (μακροθυμία)</strong>…” (Gálatas 5:22). No es obra de la carne, sino producción sobrenatural del Ruaj en el creyente.
+    </div>
+    <div class="card">
+      <strong><span style="font-size:1.6rem;">🏃</span><br>Carrera de la fe</strong><br>
+      “Corramos con <strong>paciencia (ὑπομονή)</strong> la carrera que tenemos por delante, puestos los ojos en Yeshúa…” (Hebreos 12:1-2). La paciencia es el ritmo de la carrera espiritual.
+    </div>
+    <div class="card">
+      <strong><span style="font-size:1.6rem;">💍</span><br>Amor paciente</strong><br>
+      “El amor es sufrido (μακροθυμεῖ), es benigno…” (1 Corintios 13:4). La primera característica del amor es la paciencia. Sin ella, ningún otro don tiene valor.
+    </div>
+  </div>
+
+  <h3>El ejemplo supremo: Yeshúa</h3>
+  <p>Yeshúa es el modelo perfecto de ambas dimensiones. Soportó la cruz con <em>hupomoné</em>: “el cual por el gozo puesto delante de él <strong>sufrió la cruz</strong>, menospreciando el oprobio” (Hebreos 12:2). Y mostró <em>makrothymía</em> con Sus discípulos: soportó su lentitud para entender, sus dudas, sus negaciones. “¡Oh generación incrédula! ¿Hasta cuándo he de estar con vosotros? ¿Hasta cuándo os he de soportar?” (Marcos 9:19) — y sin embargo, sigió pacientemente enseñándoles.</p>
+
+  <p><strong>2 Tesalonicenses 3:5</strong> resume ambas: “El Señor encamine vuestros corazones al amor de Dios y a la <strong>paciencia (ὑπομονή)</strong> de Cristo.” Somos llamados a participar de la misma paciencia que caracterizó a Yeshúa.</p>
+
+  <!-- SECCIÓN 5: Propósito -->
+  <h2>5. EL PROPÓSITO DE LA PACIENCIA: HEREDAR LAS PROMESAS</h2>
+  <p>“Para que no os hagáis perezosos, sino imitadores de aquellos que por la <strong>fe y la paciencia (μακροθυμία)</strong> heredan las promesas” (Hebreos 6:12). Abraham esperó con paciencia y obtuvo la promesa (Hebreos 6:15). No es que la paciencia <em>merezca</em> la promesa, sino que <strong>dispone el corazón</strong> para recibirla en el tiempo correcto de Elohim.</p>
+
+  <div class="badge">“He aquí, tenemos por bienaventurados a los que sufren (ὑπομείναντας). Habéis oído de la <strong>paciencia de Job</strong>, y habéis visto el fin del Señor, que el Señor es muy misericordioso y compasivo.” — Santiago 5:11</div>
+
+  <p>“Porque aún un poquito, y el que ha de venir vendrá, y no tardará. Mas el justo vivirá por fe; y si se retirare, no agradará a mi alma. Pero nosotros no somos de los que se retiran para perdición, sino de los que tienen fe para preservación del alma” (Hebreos 10:37-39). La paciencia es la fe extendida en el tiempo.</p>
+
+  <!-- SECCIÓN 6: Manifestaciones de impaciencia -->
+  <h2>6. LA RAÍZ DE LA IMPACIENCIA</h2>
+  <p>La impaciencia revela lo que hay en el corazón. No es un simple defecto de carácter, sino un síntoma espiritual.</p>
+
+  <ul style="margin: 1rem 0 1rem 1.8rem;">
+    <li><strong>Falta de confianza en el tiempo de Elohim</strong> — Como Saúl, que ofreció sacrificio sin esperar a Samuel (1 Samuel 13:8-14). La impaciencia lleva a actuar fuera de la voluntad divina.</li>
+    <li><strong>Orgullo</strong> — Creer que nuestro tiempo es mejor que el de Elohim. “El que es tardo para la ira tiene gran entendimiento, mas el de espíritu impetuoso engrandece la necedad” (Proverbios 14:29).</li>
+    <li><strong>Falta de emuná (fe)</strong> — Israel en el desierto: “¿No hay sepulcros en Egipto? ¿Por qué nos has traído a morir?” (Éxodo 14:11). La impaciencia nace de dudar que Elohim tiene un plan.</li>
+    <li><strong>Autosuficiencia</strong> — Abram y Sarai tomaron el camino de Agar cuando la promesa tardó (Génesis 16). Nuestras soluciones impacientes producen “ismaeles” — frutos de la carne que traen conflicto.</li>
+  </ul>
+
+  <div class="card" style="background: #F7F2EA;">
+    <h4 style="margin-top: 0;">⚡ El coste de la impaciencia</h4>
+    <p>Moisés golpeó la roca dos veces con ira (Números 20:10-12) — perdió la entrada a la Tierra Prometida. Saúl no esperó a Samuel — perdió el reino. Israel se impacientó en Sinaí — fabricó el becerro de oro (Éxodo 32). Una vida sin paciencia produce decisiones que persiguen generaciones.</p>
+  </div>
+
+  <!-- SECCIÓN 7: Herramientas -->
+  <h2>7. HERRAMIENTAS ESPIRITUALES PARA CULTIVAR LA PACIENCIA</h2>
+  <div class="card-grid">
+    <div class="card"><strong>📖 Meditación en la Palabra</strong><br>“Porque las cosas que se escribieron antes, para nuestra enseñanza se escribieron, a fin de que por la paciencia y la consolación de las Escrituras tengamos esperanza” (Romanos 15:4).</div>
+    <div class="card"><strong>🙏 Oración de perseverancia</strong><br>Como Ana (1 Samuel 1) — oró año tras año hasta que Elohim respondió. La oración paciente alinea nuestro corazón con el tiempo divino.</div>
+    <div class="card"><strong>🎵 Salmos y alabanza</strong><br>David esperó en YHWH mientras cantaba: “Pacientemente esperé a YHWH, y se inclinó a mí y oyó mi clamor” (Salmo 40:1). La alabanza renueva la perspectiva eterna.</div>
+    <div class="card"><strong>🧘 Silencio y quietud</strong><br>“Mi alma está en silencio solamente en Elohim; de Él viene mi salvación” (Salmo 62:1). El silencio es el ambiente donde la paciencia echa raíces.</div>
+    <div class="card"><strong>🕊️ Recordar la fidelidad pasada</strong><br>“Acuérdate de todo el camino que YHWH tu Elohim te ha traído…” (Deuteronomio 8:2). Memorializar las victorias pasadas fortalece la paciencia presente.</div>
+    <div class="card"><strong>🤝 Comunión</strong><br>“Y considerémonos unos a otros para estimularnos al amor y a las buenas obras” (Hebreos 10:24). Hermanos que corren juntos perseveran más.</div>
+  </div>
+
+  <!-- SECCIÓN 8: Yeshúa -->
+  <h2>8. YESHÚA: MODELO SUPREMO DE PACIENCIA</h2>
+
+  <h3>Paciencia en el ministerio</h3>
+  <p>Yeshúa enseñó las mismas parábolas una y otra vez. Soportó la incomprensión de Sus discípulos, la hostilidad de los fariseos, el abandono de la multitud. Cuando Pedro le negó tres veces, Yeshúa restauró pacientemente (Juan 21:15-17). Cuando Tomás dudó, Yeshúa se mostró con paciencia (Juan 20:27).</p>
+
+  <h3>Paciencia en el sufrimiento</h3>
+  <p>“Quien cuando le maldecían, no respondía con maldición; cuando padecía, no amenazaba, sino encomendaba la causa al que juzga justamente” (1 Pedro 2:23). Yeshúa no pronunció palabra ante Herodes, soportó los azotes, cargó la cruz. Su silencio paciente fue Su victoria.</p>
+
+  <div class="badge">“Porque para esto fuisteis llamados; porque también el Mesías padeció por nosotros, dejándonos <strong>ejemplo</strong>, para que sigáis sus pisadas.” — 1 Pedro 2:21</div>
+
+  <!-- SECCIÓN 9: Aplicación -->
+  <h2>9. APLICACIÓN PRÁCTICA: EJERCICIOS DIARIOS</h2>
+  <div class="card-grid">
+    <div class="card"><strong>🌅 Cada mañana</strong><br>Declara: “Hoy esperaré en YHWH. Su tiempo es perfecto.” Identifica un área donde la impaciencia suele dominarte (tráfico, respuestas, personas difíciles) y entrégala al Eterno.</div>
+    <div class="card"><strong>⏳ Durante el día</strong><br>Practica “el retraso santo”: antes de hablar o actuar, cuenta tres segundos y pregunta: “¿Esto es de fe o de impaciencia?”. Cuando la ira suba, recuerda Éxodo 34:6 — “YHWH, tardo para la ira”.</div>
+    <div class="card"><strong>🌙 Cada noche</strong><br>Examina: ¿Dónde perdí la paciencia hoy? ¿Qué reveló eso de mi corazón? Da gracias por las veces que esperaste y pide fortaleza para las batallas de mañana.</div>
+  </div>
+
+  <h3>📋 Ejercicio de las cuatro esperas</h3>
+  <ul style="margin: 1rem 0 1rem 1.8rem;">
+    <li><strong>Espera en oración</strong> — No abandones una petición; ora como Ana, insiste como la viuda (Lucas 18:1-8).</li>
+    <li><strong>Espera en silencio</strong> — Practica estar quieto ante Elohim sin pedir nada (Salmo 46:10).</li>
+    <li><strong>Espera en la prueba</strong> — Cuando venga la tribulación, no busques escape inmediato; busca la lección (Santiago 1:2-4).</li>
+    <li><strong>Espera en las personas</strong> — Antes de cortar una relación, da tiempo para que Elohim obre. “Soportándoos unos a otros en amor” (Efesios 4:2).</li>
+  </ul>
+
+  <!-- tabla de referencias -->
+  <h2>📖 REFERENCIAS ESCRITURALES CLAVE</h2>
+  <div class="table-scripture">
+    <table>
+      <thead><tr><th>Tema</th><th>Referencia</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>YHWH se revela como tardo para la ira</td><td class="scripture-ref">Éxodo 34:6</td></tr>
+        <tr><td>Paciencia en la espera: Abraham</td><td class="scripture-ref">Génesis 15:6 / Hebreos 6:12-15</td></tr>
+        <tr><td>Esperar en YHWH renueva fuerzas</td><td class="scripture-ref">Isaías 40:31</td></tr>
+        <tr><td>Paciencia del justo: Job</td><td class="scripture-ref">Job 1:21-22 / Santiago 5:11</td></tr>
+        <tr><td>Prudente es tardo para la ira</td><td class="scripture-ref">Proverbios 14:29</td></tr>
+        <tr><td>Mejor el lento para la ira que el fuerte</td><td class="scripture-ref">Proverbios 16:32</td></tr>
+        <tr><td>Bueno es esperar en silencio</td><td class="scripture-ref">Lamentaciones 3:25-26</td></tr>
+        <tr><td>Pacientemente esperé a YHWH</td><td class="scripture-ref">Salmo 40:1</td></tr>
+        <tr><td>Espera a YHWH; esfuérzate y aliéntese tu corazón</td><td class="scripture-ref">Salmo 27:14</td></tr>
+        <tr><td>La tribulación produce paciencia</td><td class="scripture-ref">Romanos 5:3-4</td></tr>
+        <tr><td>El amor es sufrido (paciente)</td><td class="scripture-ref">1 Corintios 13:4</td></tr>
+        <tr><td>Fruto del Espíritu: paciencia</td><td class="scripture-ref">Gálatas 5:22-23</td></tr>
+        <tr><td>Prueba de fe produce paciencia</td><td class="scripture-ref">Santiago 1:3-4</td></tr>
+        <tr><td>Correr con paciencia la carrera</td><td class="scripture-ref">Hebreos 12:1-2</td></tr>
+        <tr><td>Fe y paciencia heredan las promesas</td><td class="scripture-ref">Hebreos 6:12</td></tr>
+        <tr><td>Necesitáis paciencia para obtener la promesa</td><td class="scripture-ref">Hebreos 10:36</td></tr>
+        <tr><td>Paciencia de Cristo como modelo</td><td class="scripture-ref">2 Tesalonicenses 3:5</td></tr>
+        <tr><td>Yeshúa sufrió sin amenazar</td><td class="scripture-ref">1 Pedro 2:21-23</td></tr>
+        <tr><td>Soportándoos unos a otros en amor</td><td class="scripture-ref">Efesios 4:2</td></tr>
+        <tr><td>Revestíos de paciencia (makrothymía)</td><td class="scripture-ref">Colosenses 3:12</td></tr>
+        <tr><td>La paciencia de los santos</td><td class="scripture-ref">Apocalipsis 14:12</td></tr>
+        <tr><td>El Eterno es paciente con nosotros</td><td class="scripture-ref">2 Pedro 3:9</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- conclusión -->
+  <h2>10. CONCLUSIÓN: EL CAMINO DE LA PACIENCIA</h2>
+  <p>“Pero los que esperan a YHWH tendrán nuevas fuerzas; levantarán alas como las águilas; correrán y no se cansarán; caminarán y no se fatigarán” (Isaías 40:31). La paciencia no es debilidad ni resignación pasiva — es la <strong>fuerza del que confía</strong> en el tiempo perfecto del Eterno.</p>
+
+  <p>En un mundo que exige inmediatez, el pueblo de Elohim es llamado a la <em>hupomoné</em> (perseverar bajo la prueba) y la <em>makrothymía</em> (ser lento para la ira con los demás). Ambas fluyen del mismo Ruaj que produce el fruto. Sin paciencia, el carácter se quiebra; con ella, la fe madura, el amor se perfecciona y las promesas se heredan.</p>
+
+  <p>Como está escrito: “He aquí, tenemos por bienaventurados a los que sufren (ὑπομείναντας). Habéis oído de la paciencia de Job, y habéis visto el fin del Señor, que el Señor es muy misericordioso y compasivo” (Santiago 5:11). El fin de la paciencia siempre revela la compasión de Elohim.</p>
+
+  <div class="card" style="background: #F7F2EA; text-align: center; font-size: 1.1rem;">
+    <strong>⚓ El ancla de la paciencia</strong><br>
+    “En la esperanza (ἐλπίς) fuimos salvos; pero la esperanza que se ve, no es esperanza; porque lo que alguien ve, ¿a qué esperarlo? Pero si esperamos lo que no vemos, con <strong>paciencia (ὑπομονή)</strong> lo aguardamos.” — Romanos 8:24-25
+  </div>
+
+  <!-- oración final -->
+  <div class="prayer">
+    <span style="font-size:2rem;">🙌</span><br>
+    <strong>ORACIÓN FINAL</strong><br>
+    <em>Amado Padre, Rey del universo, Tú que eres tardo para la ira y grande en misericordia, enséñanos a esperar en Ti. Danos paciencia — la hupomoné para soportar las pruebas sin rendirnos, y la makrothymía para amar a los demás como Tú nos amas. Circuncida nuestro corazón impaciente. Que nuestro espíritu descanse en Tus tiempos perfectos. Cuando la tribulación venga, que produzca paciencia; cuando la paciencia obre, que nos haga cabales y completos. Ayúdanos a correr con paciencia la carrera, fijos los ojos en Yeshúa, Autor y Consumador de nuestra fe. Que al final, como Job, veamos Tu compasión y misericordia. En el nombre de Yeshúa HaMashíaj. Amén veamén.</em>
+  </div>
+
+  <div class="verse-callout" style="background: #E8D9CA;">
+    🕊️ “Mas el fruto del Espíritu es amor, gozo, paz, <strong>paciencia</strong>, benignidad, bondad, fe, mansedumbre, templanza; contra tales cosas no hay ley.” <br>— Gálatas 5:22-23
+  </div>
+
+  <footer>
+    Jazak Veematz — Esfuérzate y sé valiente · Estudio basado en las raíces hebreas y el conteo del Omer · <span style="font-family: monospace;">μακροθυμία · ὑπομονή · אֹרֶךְ רוּחַ</span>
+  </footer>
+</div>
+</body>
+</html>
