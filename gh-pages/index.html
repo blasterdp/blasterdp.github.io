@@ -153,10 +153,29 @@
                 font-size: 1.4rem;
             }
         }
+
+        .top-links {
+            display: flex;
+            align-items: center;
+            gap: 18px;
+            margin-bottom: 20px;
+            font-size: 0.92rem;
+            font-weight: 600;
+        }
+        .top-links a {
+            color: #5f6368;
+            text-decoration: none;
+        }
+        .top-links a:hover { color: #202124; }
+        .top-links a:last-child { margin-left: auto; color: #177e70; }
     </style>
 </head>
 <body>
     <div class="container">
+        <nav class="top-links" aria-label="Navegación del sitio">
+            <a href="../">← Portafolio</a>
+            <a href="../mocks/">Demos comerciales →</a>
+        </nav>
         <h1>Aplicaciones</h1>
         <p class="subtitle">Selecciona una aplicación para descargarla.</p>
         
@@ -166,7 +185,7 @@
         </div>
     </div>
     <div class="footer">
-        © 2026 BasterDP. Todos los derechos reservados.
+        © 2026 BlasterDP. Todos los derechos reservados.
     </div>
 
     <script>
