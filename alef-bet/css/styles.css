@@ -415,6 +415,15 @@ body {
 
 .chips--mode .chip { flex: 1 1 6rem; font-size: 0.8rem; letter-spacing: 0.04em; }
 
+@media (max-width: 22rem) {
+  .chips--mode .chip {
+    flex: 1 1 4.5rem;
+    padding: var(--s2) var(--s1);
+    font-size: 0.7rem;
+    letter-spacing: 0;
+  }
+}
+
 /* ---------- Vista previa de letras ---------- */
 .setup__preview-label {
   margin: var(--s5) 0 var(--s2);
@@ -430,6 +439,19 @@ body {
   font-size: 0.88rem;
   color: var(--ink-soft);
   min-height: 1.2em;
+}
+
+.setup__mods {
+  margin-top: var(--s3);
+}
+
+.setup__mods .chip {
+  flex: 1 1 0;
+  min-width: 0;
+  padding: var(--s2) var(--s1);
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
 }
 
 .preview {
@@ -608,6 +630,12 @@ body {
   font-family: var(--font-heb);
   font-size: 1.2rem;
   color: var(--ink);
+}
+
+.flash__order {
+  margin: 0;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
 }
 
 .study__rating {
@@ -796,7 +824,7 @@ body {
 
 .quiz__meaning {
   margin: 0;
-  font-size: 1.15rem;
+  font-size: 1.35rem;
   font-weight: 700;
   color: var(--ink);
 }
@@ -894,6 +922,8 @@ body {
   line-height: 1.1;
   unicode-bidi: isolate;
 }
+
+.option--word { font-size: 1.7rem; letter-spacing: 0.08em; }
 
 .option.is-correct {
   background: var(--ok);

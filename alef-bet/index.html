@@ -163,6 +163,18 @@
       <div class="chips chips--mode" id="mode-chips" role="group" aria-label="Tipo de examen"></div>
       <p class="setup__mode-desc" id="mode-desc"></p>
 
+      <div id="word-direction-group" hidden>
+        <h2 class="card__title card__title--spaced">Formato</h2>
+        <div class="chips" id="word-direction-chips" role="group" aria-label="Formato de palabras"></div>
+      </div>
+
+      <div class="chips setup__mods" id="modifier-chips" role="group" aria-label="Opciones de la ronda">
+        <button type="button" class="chip" id="mod-random" aria-pressed="false"
+                title="Elige letras al azar en vez de las primeras">🎲 Al azar</button>
+        <button type="button" class="chip" id="mod-zen" aria-pressed="false"
+                title="Desactiva el reloj y el bonus de rapidez">⏳ Sin tiempo</button>
+      </div>
+
       <p class="setup__preview-label" id="preview-label">Letras de la ronda</p>
       <div class="preview" id="letter-preview" aria-live="polite"></div>
     </div>
@@ -199,6 +211,7 @@
           <p class="flash__breakdown" id="study-breakdown" hidden></p>
           <p class="flash__hint" id="study-hint">La letra del buey</p>
           <p class="flash__final" id="study-final" hidden></p>
+          <p class="flash__order" id="study-order" hidden></p>
         </div>
       </div>
     </div>
@@ -305,24 +318,24 @@
       <li class="steps__item card">
         <span class="steps__num" aria-hidden="true">1</span>
         <h2>Elige cuántas letras</h2>
-        <p>De 5 a las 22 letras del alfabeto. Cuantas más elijas, más difícil (y más puntos).</p>
+        <p>De 5 a las 22 letras del alfabeto. Cuantas más elijas, más difícil (y más puntos). También puedes activar <strong>Al azar</strong> y <strong>Sin tiempo</strong>.</p>
       </li>
       <li class="steps__item card">
         <span class="steps__num" aria-hidden="true">2</span>
         <h2>Memoriza</h2>
-        <p>Cada carta muestra la letra. Toca la carta o <strong>Revelar</strong> para ver el nombre, el valor gematría, una pronunciación aproximada en español y su forma final.</p>
+        <p>Cada carta muestra la letra. Toca la carta o <strong>Revelar</strong> para ver el nombre, el valor gematría, una pronunciación aproximada en español y su forma final. En <strong>Orden</strong> también ves su posición en el alfabeto.</p>
         <p>Tras revelarla puedes marcarla como <strong>La sabía</strong> o <strong>No la sabía</strong>; esa marca alimenta tu repaso. El resumen te dice cuántas llevas.</p>
         <p>Bet/vet, kaf/jaf, pe/fei y shin/sin son sonidos de la misma letra. El <strong>niqud</strong> (las vocales) no se trabaja en esta versión.</p>
       </li>
       <li class="steps__item card">
         <span class="steps__num" aria-hidden="true">3</span>
         <h2>Examen</h2>
-        <p>Las letras salen en <strong>orden aleatorio</strong> y <strong>sin su nombre</strong>. Según el modo eliges su <strong>nombre</strong>, su <strong>valor</strong>, su <strong>forma final</strong> o, en modo <strong>Letra</strong>, te muestran el nombre y eliges el glifo hebreo entre 4.</p>
+        <p>Las letras salen en <strong>orden aleatorio</strong> y <strong>sin su nombre</strong>. Según el modo eliges su <strong>nombre</strong>, su <strong>valor</strong>, su <strong>forma final</strong>, la letra que va <strong>antes o después</strong> (Orden) o, en modo <strong>Letra</strong>, te muestran el nombre y eliges el glifo hebreo entre 4.</p>
       </li>
       <li class="steps__item card">
         <span class="steps__num" aria-hidden="true">4</span>
         <h2>Palabras</h2>
-        <p>En modo <strong>Palabras</strong> te dan la pronunciación y el significado (por ejemplo <em>av – padre</em>) y escribes la palabra hebrea de dos letras en los dos huecos. La 1ª letra va a la derecha, como se lee el hebreo.</p>
+        <p>En modo <strong>Palabras</strong> puedes <strong>Escribir</strong>: te dan la pronunciación y el significado (por ejemplo <em>av – padre</em>) y escribes la palabra hebrea en dos huecos; la 1ª letra va a la derecha. O elegir <strong>Leer</strong>: te dan el significado y eliges la palabra entre 4.</p>
       </li>
       <li class="steps__item card">
         <span class="steps__num" aria-hidden="true">5</span>

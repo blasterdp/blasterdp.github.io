@@ -40,12 +40,14 @@
   const LETTER_TIME = 20000; // ms por pregunta de letras
   const SOFIT_TIME = 15000;  // ms por pregunta de formas finales
   const VF_TIME = 8000;      // ms por ficha de verdadero/falso
-  const WORD_TIME = 30000;   // ms por palabra (dos letras)
+  const ORDER_TIME = 12000;  // ms por pregunta de orden alfabético
+  const WORD_TIME = 30000;   // ms por palabra escrita (dos letras)
+  const WORD_READ_TIME = 20000; // ms por palabra leída
   const POINTS_BASE = 100;
   const POINTS_WORD = 150;
 
   const settings = Object.assign(
-    { music: true, sfx: true },
+    { music: true, sfx: true, randomLetters: false, zen: false },
     store.get(SETTINGS_KEY, {})
   );
 
@@ -97,6 +99,7 @@
     answeredCurrent: false,
     hintUsed: false,   // la pista cambia la puntuación de la pregunta
     wordPicks: [null, null], // letras elegidas por el jugador (modo palabras)
+    wordDirection: 'write', // Palabras: escribir o leer
     activeSlot: 0,
     campaignLevel: null, // mundo activo, o null en juego libre
     worldLetters: null,  // letras del mundo cuando no es sofit/palabras
@@ -212,7 +215,7 @@
   function recordQuestionProgress(q, correct) {
     if (!q) return;
     let chars = [];
-    if (q.ask === 'words') chars = q.word.letters;
+    if (q.ask === 'words' || q.ask === 'read') chars = q.word.letters;
     else if (q.letter) chars = [q.letter.char];
     recordLettersResult(chars, correct);
   }
@@ -242,14 +245,21 @@
 
   /* ---------------- Preparación ---------------- */
   const isWordMode = () => session.mode === 'words';
+  const isWordReadMode = () => isWordMode() && session.wordDirection === 'read';
   const isSofitMode = () => session.mode === 'sofit';
   const isTrueFalseMode = () => session.mode === 'truefalse';
+  const isOrderMode = () => session.mode === 'order';
   const isReviewMode = () => session.mode === 'review';
+  const isRandomLetterMode = () => {
+    return session.mode === 'name' || session.mode === 'value' ||
+      session.mode === 'glyph' || session.mode === 'mix';
+  };
 
   function currentChoices() {
     if (isWordMode()) return WORD_QUANTITY_CHOICES;
     if (isSofitMode()) return SOFIT_QUANTITY_CHOICES;
     if (isTrueFalseMode()) return VF_QUANTITY_CHOICES;
+    if (isOrderMode()) return ORDER_QUANTITY_CHOICES;
     if (isReviewMode()) return REVIEW_QUANTITY_CHOICES;
     return QUANTITY_CHOICES;
   }
@@ -259,11 +269,18 @@
     session.campaignLevel = null;
     session.worldLetters = null;
 
+    if (isWordMode() && session.wordDirection !== 'read') session.wordDirection = 'write';
+
     const choices = currentChoices();
     if (!choices.includes(session.quantity)) session.quantity = choices[0];
     // V/F usa una muestra aleatoria y Repaso prioriza las letras pendientes
     if (isTrueFalseMode()) session.letters = pick(HEBREW_LETTERS, session.quantity);
     if (isReviewMode()) session.letters = pickReviewLetters(session.quantity);
+    if (isOrderMode()) session.letters = pick(HEBREW_LETTERS, session.quantity);
+    // Letras al azar: la muestra se ve en la vista previa
+    if (isRandomLetterMode() && settings.randomLetters) {
+      session.letters = pick(HEBREW_LETTERS, session.quantity);
+    }
 
     const qWrap = el('quantity-chips');
     qWrap.innerHTML = '';
@@ -277,6 +294,10 @@
         session.quantity = q;
         if (isTrueFalseMode()) session.letters = pick(HEBREW_LETTERS, q);
         if (isReviewMode()) session.letters = pickReviewLetters(q);
+        if (isOrderMode()) session.letters = pick(HEBREW_LETTERS, q);
+        if (isRandomLetterMode() && settings.randomLetters) {
+          session.letters = pick(HEBREW_LETTERS, q);
+        }
         Chiptune.sfx('click');
         [...qWrap.children].forEach((c) => c.setAttribute('aria-pressed', 'false'));
         b.setAttribute('aria-pressed', 'true');
@@ -285,7 +306,7 @@
       qWrap.appendChild(b);
     });
 
-    const questionMode = isSofitMode() || isTrueFalseMode() || isReviewMode();
+    const questionMode = isSofitMode() || isTrueFalseMode() || isOrderMode() || isReviewMode();
     el('quantity-title').textContent = isWordMode() ? 'Palabras'
       : questionMode ? 'Preguntas' : 'Cantidad';
     el('quantity-chips').setAttribute('aria-label',
@@ -295,16 +316,28 @@
       ? 'Elige cuántas palabras'
       : isSofitMode() ? 'Practica las formas finales'
         : isTrueFalseMode() ? 'Verdadero o falso'
-          : isReviewMode() ? 'Repaso inteligente' : 'Elige cuántas letras';
+          : isOrderMode() ? 'Orden alfabético'
+            : isReviewMode() ? 'Repaso inteligente' : 'Elige cuántas letras';
     el('setup-lead').textContent = isWordMode()
-      ? 'Palabras de dos letras que vas a practicar en esta ronda.'
+      ? (session.wordDirection === 'read'
+          ? 'Te damos el significado y eliges la palabra hebrea.'
+          : 'Palabras de dos letras que vas a escribir en esta ronda.')
       : isSofitMode()
         ? '5 preguntas (una por pareja) o 10 (letra y forma final, ida y vuelta).'
         : isTrueFalseMode()
           ? 'Decide si cada ficha (nombre y valor) es correcta. La mitad son falsas.'
-          : isReviewMode()
-            ? 'Prioriza las letras que fallas o llevan tiempo sin salir.'
-            : 'Cantidad de letras a memorizar en esta ronda.';
+          : isOrderMode()
+            ? '¿Qué letra va antes o después? 10 o 16 preguntas.'
+            : isReviewMode()
+              ? 'Prioriza las letras que fallas o llevan tiempo sin salir.'
+              : 'Cantidad de letras a memorizar en esta ronda.';
+
+    el('word-direction-group').hidden = !isWordMode();
+    renderWordDirectionChips();
+
+    el('mod-random').hidden = !isRandomLetterMode();
+    el('mod-random').setAttribute('aria-pressed', String(settings.randomLetters));
+    el('mod-zen').setAttribute('aria-pressed', String(settings.zen));
 
     const mWrap = el('mode-chips');
     mWrap.innerHTML = '';
@@ -327,20 +360,60 @@
     renderPreview();
   }
 
+  function renderWordDirectionChips() {
+    const wrap = el('word-direction-chips');
+    if (!wrap.children.length) {
+      WORD_DIRECTIONS.forEach((direction) => {
+        const b = document.createElement('button');
+        b.type = 'button';
+        b.className = 'chip';
+        b.textContent = direction.label;
+        b.dataset.value = direction.id;
+        b.addEventListener('click', () => {
+          if (session.wordDirection === direction.id) return;
+          session.wordDirection = direction.id;
+          Chiptune.sfx('click');
+          buildSetup();
+        });
+        wrap.appendChild(b);
+      });
+    }
+    [...wrap.children].forEach((b) => {
+      b.setAttribute('aria-pressed', String(b.dataset.value === session.wordDirection));
+    });
+  }
+
   function renderModeDesc() {
     const mode = QUIZ_MODES.find((m) => m.id === session.mode);
     if (!mode) {
       el('mode-desc').textContent = '';
       return;
     }
+    let desc = mode.desc;
+    if (mode.id === 'words') {
+      desc += session.wordDirection === 'read' ? ' · Leer' : ' · Escribir';
+    }
     const best = stats.bestByMode[session.mode] || 0;
-    el('mode-desc').textContent = mode.desc + (best > 0 ? ' · Récord: ' + best + ' pts' : '');
+    el('mode-desc').textContent = desc + (best > 0 ? ' · Récord: ' + best + ' pts' : '');
   }
 
   function renderPreview() {
     const wrap = el('letter-preview');
     wrap.innerHTML = '';
     const label = el('preview-label');
+
+    if (isOrderMode()) {
+      label.textContent = 'El alfabeto en orden';
+      HEBREW_LETTERS.forEach((l, i) => {
+        const s = document.createElement('span');
+        s.className = 'preview__letter';
+        s.textContent = l.char;
+        s.style.animationDelay = (i * 16) + 'ms';
+        s.title = l.name;
+        wrap.appendChild(s);
+      });
+      return;
+    }
 
     if (isSofitMode()) {
       label.textContent = 'Parejas de la ronda';
@@ -398,10 +471,12 @@
       return;
     }
 
-    label.textContent = isReviewMode() ? 'Letras del repaso' : 'Letras de la ronda';
-    const letters = (isTrueFalseMode() || isReviewMode())
-      ? session.letters
-      : HEBREW_LETTERS.slice(0, session.quantity);
+    const sampled = isTrueFalseMode() || isReviewMode() ||
+      (isRandomLetterMode() && settings.randomLetters);
+    label.textContent = isReviewMode()
+      ? 'Letras del repaso'
+      : (isRandomLetterMode() && settings.randomLetters) ? 'Letras al azar' : 'Letras de la ronda';
+    const letters = sampled ? session.letters : HEBREW_LETTERS.slice(0, session.quantity);
     letters.forEach((l, i) => {
       const s = document.createElement('span');
       s.className = 'preview__letter';
@@ -430,11 +505,22 @@
         session.letters = pickReviewLetters(session.quantity);
       }
       session.studyOrder = shuffle(session.letters);
+    } else if (isOrderMode()) {
+      if (session.letters.length !== session.quantity) {
+        session.letters = pick(HEBREW_LETTERS, session.quantity);
+      }
+      session.studyOrder = shuffle(session.letters);
     } else if (session.worldLetters && session.worldLetters.length) {
       session.letters = session.worldLetters.slice();
       session.studyOrder = shuffle(session.letters);
     } else {
-      session.letters = HEBREW_LETTERS.slice(0, session.quantity);
+      if (isRandomLetterMode() && settings.randomLetters) {
+        if (session.letters.length !== session.quantity) {
+          session.letters = pick(HEBREW_LETTERS, session.quantity);
+        }
+      } else {
+        session.letters = HEBREW_LETTERS.slice(0, session.quantity);
+      }
       session.studyOrder = shuffle(session.letters);
     }
   }
@@ -483,11 +569,15 @@
       el('study-hint').textContent = item.note || '';
       el('study-final').hidden = true;
       el('study-say-row').hidden = true;
+      el('study-order').hidden = true;
+      el('study-order').textContent = '';
     } else {
       el('study-label').textContent = 'LETRA';
-      el('study-prompt').innerHTML = isSofitMode()
-        ? 'Toca <strong>revelar</strong> para ver su forma final'
-        : 'Toca <strong>revelar</strong> para ver su nombre y su valor';
+      el('study-prompt').innerHTML = isOrderMode()
+        ? 'Toca <strong>revelar</strong> para ver su posición'
+        : isSofitMode()
+          ? 'Toca <strong>revelar</strong> para ver su forma final'
+          : 'Toca <strong>revelar</strong> para ver su nombre y su valor';
       el('study-glyph').textContent = item.char;
       el('study-glyph-back').textContent = item.char;
       el('study-name').textContent = item.name;
@@ -505,6 +595,19 @@
         finalNode.hidden = false;
       } else {
         finalNode.hidden = true;
+      }
+
+      const orderNode = el('study-order');
+      if (isOrderMode()) {
+        const index = HEBREW_LETTERS.findIndex((l) => l.char === item.char);
+        const before = index > 0 ? HEBREW_LETTERS[index - 1].name : '—';
+        const after = index < HEBREW_LETTERS.length - 1 ? HEBREW_LETTERS[index + 1].name : '—';
+        orderNode.textContent = 'Posición ' + (index + 1) + ' de ' + HEBREW_LETTERS.length +
+          ' · antes: ' + before + ' · después: ' + after;
+        orderNode.hidden = false;
+      } else {
+        orderNode.hidden = true;
+        orderNode.textContent = '';
       }
     }
 
@@ -633,7 +736,9 @@
   /* ---------------- Examen ---------------- */
   function buildQuestions() {
     if (isWordMode()) {
-      session.questions = shuffle(session.words).map((word) => ({ ask: 'words', word }));
+      session.questions = isWordReadMode()
+        ? buildReadQuestions()
+        : shuffle(session.words).map((word) => ({ ask: 'words', word }));
       return;
     }
 
@@ -644,6 +749,11 @@
 
     if (isTrueFalseMode()) {
       session.questions = buildTrueFalseQuestions();
+      return;
+    }
+
+    if (isOrderMode()) {
+      session.questions = buildOrderQuestions();
       return;
     }
 
@@ -762,6 +872,50 @@
     });
   }
 
+  /* Palabras: leer. Se da el significado y se elige la palabra hebrea. */
+  function buildReadQuestions() {
+    return shuffle(session.words).map((word) => {
+      const pool = HEBREW_WORDS.filter((w) => w !== word);
+      const distractors = pick(pool, Math.min(3, pool.length)).map((w) => w.word);
+      const options = shuffle([word.word, ...distractors]).map((label) => ({
+        label,
+        correct: label === word.word
+      }));
+      return {
+        ask: 'read',
+        word,
+        correct: word.word,
+        correctText: word.word + ' (' + word.translit + ')',
+        hint: word.translit,
+        options
+      };
+    });
+  }
+
+  /* Orden alfabético: la letra que va antes o después de la mostrada. */
+  function buildOrderQuestions() {
+    return shuffle(session.letters).map((letter) => {
+      const index = HEBREW_LETTERS.findIndex((l) => l.char === letter.char);
+      let direction;
+      if (index === 0) direction = 'after';
+      else if (index === HEBREW_LETTERS.length - 1) direction = 'before';
+      else direction = Math.random() < 0.5 ? 'after' : 'before';
+
+      const target = HEBREW_LETTERS[direction === 'after' ? index + 1 : index - 1];
+      return {
+        ask: 'order',
+        letter,
+        show: letter.char,
+        direction,
+        prompt: direction === 'after' ? '¿Qué letra va después?' : '¿Qué letra va antes?',
+        correct: target.char,
+        correctText: target.char + ' (' + target.name + ')',
+        hint: null,
+        options: glyphOptions(target.char, HEBREW_LETTERS.map((l) => l.char))
+      };
+    });
+  }
+
   function startQuiz() {
     prepareRound();
     buildQuestions();
@@ -787,18 +941,25 @@
       return;
     }
 
+    if (q.ask === 'read') {
+      renderReadQuestion(q);
+      return;
+    }
+
     const prompts = { name: 'Elige el nombre', value: 'Elige el valor', glyph: 'Elige la letra' };
 
     el('quiz-progress').textContent = 'Pregunta ' + (session.qIndex + 1) + ' / ' + session.questions.length;
     el('quiz-score').textContent = session.score + ' pts';
     el('quiz-prompt').textContent = q.prompt || prompts[q.ask];
     session.questionTime = q.ask === 'truefalse' ? VF_TIME
-      : q.ask === 'sofit' ? SOFIT_TIME : LETTER_TIME;
+      : q.ask === 'sofit' ? SOFIT_TIME
+        : q.ask === 'order' ? ORDER_TIME : LETTER_TIME;
 
     // "Letra" muestra el nombre y pide el glifo; el resto muestra el glifo.
     const showGlyph = q.ask !== 'glyph';
-    const optionsGlyph = q.ask === 'glyph' || q.ask === 'sofit';
+    const optionsGlyph = q.ask === 'glyph' || q.ask === 'sofit' || q.ask === 'order';
     const isTrueFalse = q.ask === 'truefalse';
+    const isOrder = q.ask === 'order';
     el('quiz-glyph').hidden = !showGlyph;
     el('quiz-word').hidden = showGlyph;
     el('quiz-meaning').hidden = true;
@@ -815,8 +976,8 @@
 
     el('quiz-hint').hidden = true;
     el('quiz-hint').textContent = '';
-    el('btn-hint').hidden = isTrueFalse;
-    el('btn-hint').disabled = isTrueFalse;
+    el('btn-hint').hidden = isTrueFalse || isOrder;
+    el('btn-hint').disabled = isTrueFalse || isOrder;
     el('btn-hint').textContent = '💡 Pista (−25 pts)';
 
     const streakNode = el('streak');
@@ -890,6 +1051,60 @@
     resetSlots();
     paintSlots();
     renderWordOptions();
+
+    el('quiz-feedback').textContent = '';
+    el('quiz-feedback').className = 'feedback';
+    el('btn-quiz-next').hidden = true;
+    el('btn-quiz-next').textContent = 'Siguiente ▶';
+
+    startTimer();
+  }
+
+  /* Palabras: leer. El significado es el enunciado y las opciones son palabras. */
+  function renderReadQuestion(q) {
+    const w = q.word;
+    session.questionTime = WORD_READ_TIME;
+    session.hintUsed = false;
+
+    el('quiz-progress').textContent = 'Pregunta ' + (session.qIndex + 1) + ' / ' + session.questions.length;
+    el('quiz-score').textContent = session.score + ' pts';
+    el('quiz-prompt').textContent = 'Elige la palabra hebrea';
+    el('quiz-glyph').hidden = true;
+    el('quiz-word').hidden = true;
+    el('quiz-meaning').hidden = false;
+    el('quiz-meaning').textContent = w.meaning;
+    el('quiz-claim').hidden = true;
+    el('quiz-claim').textContent = '';
+    el('quiz-slots').hidden = true;
+
+    el('quiz-hint').hidden = true;
+    el('quiz-hint').textContent = '';
+    el('btn-hint').hidden = false;
+    el('btn-hint').disabled = false;
+    el('btn-hint').textContent = '💡 Pista (−25 pts)';
+
+    const streakNode = el('streak');
+    if (session.streak > 1) {
+      streakNode.hidden = false;
+      el('streak-count').textContent = session.streak;
+    } else {
+      streakNode.hidden = true;
+    }
+
+    const wrap = el('quiz-options');
+    wrap.innerHTML = '';
+    q.options.forEach((opt, i) => {
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'option option--' + (i + 1) + ' option--glyph option--word';
+      b.textContent = opt.label;
+      b.dir = 'rtl';
+      b.setAttribute('lang', 'he');
+      b.dataset.correct = String(opt.correct);
+      b.setAttribute('aria-keyshortcuts', String(i + 1));
+      b.addEventListener('click', () => answer(opt, b));
+      wrap.appendChild(b);
+    });
 
     el('quiz-feedback').textContent = '';
     el('quiz-feedback').className = 'feedback';
@@ -996,7 +1211,9 @@
         // Con pista ya se ha visto una de las dos letras: media base y sin bonus.
         points = Math.round(POINTS_WORD * 0.5);
       } else {
-        const speed = Math.round(50 * Math.max(0, 1 - elapsed / session.questionTime));
+        const speed = settings.zen
+          ? 0
+          : Math.round(50 * Math.max(0, 1 - elapsed / session.questionTime));
         const streakBonus = Math.min(session.streak * 10, 50);
         points = POINTS_WORD + speed + streakBonus;
       }
@@ -1017,8 +1234,13 @@
   function startTimer(resume) {
     stopTimer();
     if (!resume) session.qStart = Date.now();
-    const total = session.questionTime;
     const bar = el('timerbar');
+    if (settings.zen) {
+      bar.hidden = true;
+      return;
+    }
+    bar.hidden = false;
+    const total = session.questionTime;
     const fill = el('timerbar-fill');
     bar.classList.remove('is-low');
     bar.setAttribute('aria-valuemax', String(Math.round(total / 1000)));
@@ -1110,25 +1332,28 @@
       }
     });
 
+    const q = session.questions[session.qIndex];
+    const assisted = session.hintUsed && q.ask === 'read';
     let points = 0;
     if (opt.correct) {
       session.hits++;
       session.streak++;
       session.bestStreak = Math.max(session.bestStreak, session.streak);
-      const speed = Math.round(50 * Math.max(0, 1 - elapsed / session.questionTime));
+      const speed = settings.zen
+        ? 0
+        : Math.round(50 * Math.max(0, 1 - elapsed / session.questionTime));
       const streakBonus = Math.min(session.streak * 10, 50);
-      points = POINTS_BASE + speed + streakBonus;
+      points = assisted ? Math.round(POINTS_BASE * 0.5) : POINTS_BASE + speed + streakBonus;
       Chiptune.sfx('correct');
     } else {
       session.streak = 0;
       Chiptune.sfx('wrong');
     }
 
-    const q = session.questions[session.qIndex];
     // En Letra y Finales la respuesta correcta aporta más información que la opción
     const detail = q.correctText !== opt.label ? q.correctText + ' · ' : '';
     const msg = opt.correct
-      ? '¡Correcto! ' + detail + '+' + points + ' pts'
+      ? '¡Correcto! ' + detail + '+' + points + ' pts' + (assisted ? ' · con pista' : '')
       : 'No era ' + opt.label + '. La respuesta es ' + q.correctText + '.';
 
     finishAnswer(opt.correct, msg, points);
@@ -1164,7 +1389,7 @@
   function showHint() {
     if (session.answeredCurrent) return;
     const q = session.questions[session.qIndex];
-    if (q.ask === 'truefalse') return;
+    if (q.ask === 'truefalse' || q.ask === 'order') return;
     session.hintUsed = true;
 
     if (q.ask === 'words') {
@@ -1607,6 +1832,7 @@
       ? level.letters.map((ch) => HEBREW_LETTERS.find((l) => l.char === ch)).filter(Boolean)
       : null;
     session.mode = level.mode;
+    if (level.mode === 'words') session.wordDirection = level.wordDirection || 'write';
     session.quantity = level.quantity || (level.letters ? level.letters.length : 10);
 
     Chiptune.sfx('level');
@@ -1751,6 +1977,23 @@
       applyAudioSettings();
       if (settings.sfx) Chiptune.sfx('click');
       toast(settings.sfx ? '🔊 Sonido activado' : '🔇 Sonido desactivado');
+    });
+
+    el('mod-random').addEventListener('click', () => {
+      if (!isRandomLetterMode()) return;
+      settings.randomLetters = !settings.randomLetters;
+      store.set(SETTINGS_KEY, settings);
+      Chiptune.sfx('click');
+      buildSetup();
+      toast(settings.randomLetters ? '🎲 Letras al azar' : '🔤 Letras en orden');
+    });
+
+    el('mod-zen').addEventListener('click', () => {
+      settings.zen = !settings.zen;
+      store.set(SETTINGS_KEY, settings);
+      Chiptune.sfx('click');
+      buildSetup();
+      toast(settings.zen ? '⏳ Sin tiempo: reloj desactivado' : '⏱️ Tiempo activado');
     });
 
     document.querySelector('[data-action="start-setup"]').addEventListener('click', () => {
@@ -1963,6 +2206,10 @@
     screen: currentScreen,
     score: session.score,
     hintUsed: session.hintUsed,
+    wordDirection: session.wordDirection,
+    zen: settings.zen,
+    randomLetters: settings.randomLetters,
+    letters: session.letters.map((l) => l.char),
     campaignLevel: session.campaignLevel,
     pendingReview: pendingReviewCount(),
     memory: {

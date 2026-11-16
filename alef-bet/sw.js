@@ -2,7 +2,7 @@
    sw.js — Service worker: juego disponible sin conexión
    ============================================================ */
 
-const CACHE = 'alef-bet-v7';
+const CACHE = 'alef-bet-v8';
 const ASSETS = [
   './',
   './index.html',

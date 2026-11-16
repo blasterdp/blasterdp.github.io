@@ -68,14 +68,24 @@ const VF_QUANTITY_CHOICES = [10, 16];
 /* Letras por ronda del repaso inteligente */
 const REVIEW_QUANTITY_CHOICES = [10, 16];
 
+/* Preguntas del modo Orden alfabético */
+const ORDER_QUANTITY_CHOICES = [10, 16];
+
+/* Formatos de Palabras: escribir la palabra o leerla a partir del significado */
+const WORD_DIRECTIONS = [
+  { id: 'write', label: 'Escribir' },
+  { id: 'read', label: 'Leer' }
+];
+
 /* Modos de examen */
 const QUIZ_MODES = [
   { id: 'name',      label: 'Nombre',   desc: 'Ver la letra y elegir su nombre' },
   { id: 'value',     label: 'Valor',    desc: 'Ver la letra y elegir su número' },
   { id: 'glyph',     label: 'Letra',    desc: 'Ver el nombre y elegir la letra hebrea' },
+  { id: 'order',     label: 'Orden',    desc: 'Elegir la letra que va antes o después en el alfabeto' },
   { id: 'sofit',     label: 'Finales',  desc: 'Ver una letra y elegir su forma final (o al revés)' },
   { id: 'truefalse', label: 'V/F',      desc: 'Decidir si la ficha de una letra es verdadera o falsa' },
-  { id: 'words',     label: 'Palabras', desc: 'Escribir palabras de dos letras hebreas' },
+  { id: 'words',     label: 'Palabras', desc: 'Escribir o leer palabras de dos letras hebreas' },
   { id: 'mix',       label: 'Mixto',    desc: 'Alterna entre nombre, valor y letra' },
   { id: 'review',    label: 'Repaso',   desc: 'Prioriza las letras que fallas o llevan tiempo sin salir' }
 ];
@@ -110,7 +120,8 @@ const CAMPAIGN_LEVELS = [
   },
   {
     id: 6, title: 'Palabras', subtitle: 'Diez palabras de dos letras',
-    mode: 'words', quantity: 10, preview: 'אב · אם · בן · בת · יד · ים…'
+    mode: 'words', quantity: 10, wordDirection: 'write',
+    preview: 'אב · אם · בן · בת · יד · ים…'
   }
 ];
 
