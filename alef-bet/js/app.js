@@ -244,43 +244,120 @@
   }
 
   /* ---------------- Preparación ---------------- */
-  const isWordMode = () => session.mode === 'words';
-  const isWordReadMode = () => isWordMode() && session.wordDirection === 'read';
-  const isSofitMode = () => session.mode === 'sofit';
-  const isTrueFalseMode = () => session.mode === 'truefalse';
-  const isOrderMode = () => session.mode === 'order';
-  const isReviewMode = () => session.mode === 'review';
-  const isRandomLetterMode = () => {
-    return session.mode === 'name' || session.mode === 'value' ||
-      session.mode === 'glyph' || session.mode === 'mix';
+  /* Registro central de modos. Cada entrada declara su familia, sus cantidades,
+     cómo prepara la ronda, cómo construye las preguntas y cómo pinta la vista
+     previa. Para añadir un modo: entrada en QUIZ_MODES + descriptor aquí +
+     renderer del tipo de pregunta. */
+  const LETTER_MODE = {
+    family: 'letters',
+    choices: QUANTITY_CHOICES,
+    random: true,
+    setupTitle: 'Elige cuántas letras',
+    lead: () => 'Cantidad de letras a memorizar en esta ronda.',
+    quantityLabel: 'Cantidad',
+    quantityAria: 'Cantidad de letras',
+    prepare: prepareLetterRound,
+    build: buildLetterQuestions,
+    preview: previewLetters,
+    sample: sampleLetterMode
   };
 
-  function currentChoices() {
-    if (isWordMode()) return WORD_QUANTITY_CHOICES;
-    if (isSofitMode()) return SOFIT_QUANTITY_CHOICES;
-    if (isTrueFalseMode()) return VF_QUANTITY_CHOICES;
-    if (isOrderMode()) return ORDER_QUANTITY_CHOICES;
-    if (isReviewMode()) return REVIEW_QUANTITY_CHOICES;
-    return QUANTITY_CHOICES;
-  }
+  const MODE_REGISTRY = {
+    name: LETTER_MODE,
+    value: LETTER_MODE,
+    glyph: LETTER_MODE,
+    mix: LETTER_MODE,
+    order: {
+      family: 'order',
+      choices: ORDER_QUANTITY_CHOICES,
+      random: false,
+      setupTitle: 'Orden alfabético',
+      lead: () => '¿Qué letra va antes o después? 10 o 16 preguntas.',
+      quantityLabel: 'Preguntas',
+      quantityAria: 'Cantidad de preguntas',
+      prepare: prepareOrderRound,
+      build: buildOrderQuestions,
+      preview: previewOrder,
+      sample: sampleOrder
+    },
+    sofit: {
+      family: 'sofit',
+      choices: SOFIT_QUANTITY_CHOICES,
+      random: false,
+      setupTitle: 'Practica las formas finales',
+      lead: () => '5 preguntas (una por pareja) o 10 (letra y forma final, ida y vuelta).',
+      quantityLabel: 'Preguntas',
+      quantityAria: 'Cantidad de preguntas',
+      prepare: prepareSofitRound,
+      build: buildSofitQuestions,
+      preview: previewSofit
+    },
+    truefalse: {
+      family: 'truefalse',
+      choices: VF_QUANTITY_CHOICES,
+      random: false,
+      setupTitle: 'Verdadero o falso',
+      lead: () => 'Decide si cada ficha (nombre y valor) es correcta. La mitad son falsas.',
+      quantityLabel: 'Preguntas',
+      quantityAria: 'Cantidad de preguntas',
+      prepare: prepareTrueFalseRound,
+      build: buildTrueFalseQuestions,
+      preview: previewLetters,
+      sample: sampleTrueFalse
+    },
+    words: {
+      family: 'words',
+      choices: WORD_QUANTITY_CHOICES,
+      random: false,
+      wordDirection: true,
+      setupTitle: 'Elige cuántas palabras',
+      lead: () => session.wordDirection === 'read'
+        ? 'Te damos el significado y eliges la palabra hebrea.'
+        : 'Palabras de dos letras que vas a escribir en esta ronda.',
+      quantityLabel: 'Palabras',
+      quantityAria: 'Cantidad de palabras',
+      prepare: prepareWordRound,
+      build: buildWordQuestions,
+      preview: previewWords
+    },
+    review: {
+      family: 'review',
+      choices: REVIEW_QUANTITY_CHOICES,
+      random: false,
+      setupTitle: 'Repaso inteligente',
+      lead: () => 'Prioriza las letras que fallas o llevan tiempo sin salir.',
+      quantityLabel: 'Preguntas',
+      quantityAria: 'Cantidad de preguntas',
+      prepare: prepareReviewRound,
+      build: buildLetterQuestions,
+      preview: previewLetters,
+      sample: sampleReview
+    }
+  };
+
+  const modeConfig = (id) => MODE_REGISTRY[id] || MODE_REGISTRY.name;
+
+  const isWordMode = () => modeConfig(session.mode).family === 'words';
+  const isWordReadMode = () => isWordMode() && session.wordDirection === 'read';
+  const isSofitMode = () => modeConfig(session.mode).family === 'sofit';
+  const isTrueFalseMode = () => modeConfig(session.mode).family === 'truefalse';
+  const isOrderMode = () => modeConfig(session.mode).family === 'order';
+  const isReviewMode = () => modeConfig(session.mode).family === 'review';
+  const isRandomLetterMode = () => Boolean(modeConfig(session.mode).random);
 
   function buildSetup() {
     // Entrar en la preparación siempre es juego libre, no un mundo del camino.
     session.campaignLevel = null;
     session.worldLetters = null;
 
-    if (isWordMode() && session.wordDirection !== 'read') session.wordDirection = 'write';
-
-    const choices = currentChoices();
-    if (!choices.includes(session.quantity)) session.quantity = choices[0];
-    // V/F usa una muestra aleatoria y Repaso prioriza las letras pendientes
-    if (isTrueFalseMode()) session.letters = pick(HEBREW_LETTERS, session.quantity);
-    if (isReviewMode()) session.letters = pickReviewLetters(session.quantity);
-    if (isOrderMode()) session.letters = pick(HEBREW_LETTERS, session.quantity);
-    // Letras al azar: la muestra se ve en la vista previa
-    if (isRandomLetterMode() && settings.randomLetters) {
-      session.letters = pick(HEBREW_LETTERS, session.quantity);
+    const config = modeConfig(session.mode);
+    if (config.family === 'words' && session.wordDirection !== 'read') {
+      session.wordDirection = 'write';
     }
+
+    const choices = config.choices;
+    if (!choices.includes(session.quantity)) session.quantity = choices[0];
+    if (config.sample) config.sample(session.quantity);
 
     const qWrap = el('quantity-chips');
     qWrap.innerHTML = '';
@@ -292,12 +369,7 @@
       b.setAttribute('aria-pressed', String(q === session.quantity));
       b.addEventListener('click', () => {
         session.quantity = q;
-        if (isTrueFalseMode()) session.letters = pick(HEBREW_LETTERS, q);
-        if (isReviewMode()) session.letters = pickReviewLetters(q);
-        if (isOrderMode()) session.letters = pick(HEBREW_LETTERS, q);
-        if (isRandomLetterMode() && settings.randomLetters) {
-          session.letters = pick(HEBREW_LETTERS, q);
-        }
+        if (config.sample) config.sample(q);
         Chiptune.sfx('click');
         [...qWrap.children].forEach((c) => c.setAttribute('aria-pressed', 'false'));
         b.setAttribute('aria-pressed', 'true');
@@ -306,36 +378,15 @@
       qWrap.appendChild(b);
     });
 
-    const questionMode = isSofitMode() || isTrueFalseMode() || isOrderMode() || isReviewMode();
-    el('quantity-title').textContent = isWordMode() ? 'Palabras'
-      : questionMode ? 'Preguntas' : 'Cantidad';
-    el('quantity-chips').setAttribute('aria-label',
-      isWordMode() ? 'Cantidad de palabras'
-        : questionMode ? 'Cantidad de preguntas' : 'Cantidad de letras');
-    el('setup-title').textContent = isWordMode()
-      ? 'Elige cuántas palabras'
-      : isSofitMode() ? 'Practica las formas finales'
-        : isTrueFalseMode() ? 'Verdadero o falso'
-          : isOrderMode() ? 'Orden alfabético'
-            : isReviewMode() ? 'Repaso inteligente' : 'Elige cuántas letras';
-    el('setup-lead').textContent = isWordMode()
-      ? (session.wordDirection === 'read'
-          ? 'Te damos el significado y eliges la palabra hebrea.'
-          : 'Palabras de dos letras que vas a escribir en esta ronda.')
-      : isSofitMode()
-        ? '5 preguntas (una por pareja) o 10 (letra y forma final, ida y vuelta).'
-        : isTrueFalseMode()
-          ? 'Decide si cada ficha (nombre y valor) es correcta. La mitad son falsas.'
-          : isOrderMode()
-            ? '¿Qué letra va antes o después? 10 o 16 preguntas.'
-            : isReviewMode()
-              ? 'Prioriza las letras que fallas o llevan tiempo sin salir.'
-              : 'Cantidad de letras a memorizar en esta ronda.';
+    el('quantity-title').textContent = config.quantityLabel;
+    el('quantity-chips').setAttribute('aria-label', config.quantityAria);
+    el('setup-title').textContent = config.setupTitle;
+    el('setup-lead').textContent = config.lead();
 
-    el('word-direction-group').hidden = !isWordMode();
+    el('word-direction-group').hidden = !config.wordDirection;
     renderWordDirectionChips();
 
-    el('mod-random').hidden = !isRandomLetterMode();
+    el('mod-random').hidden = !config.random;
     el('mod-random').setAttribute('aria-pressed', String(settings.randomLetters));
     el('mod-zen').setAttribute('aria-pressed', String(settings.zen));
 
@@ -401,81 +452,81 @@
     const wrap = el('letter-preview');
     wrap.innerHTML = '';
     const label = el('preview-label');
+    modeConfig(session.mode).preview(wrap, label);
+  }
 
-    if (isOrderMode()) {
-      label.textContent = 'El alfabeto en orden';
-      HEBREW_LETTERS.forEach((l, i) => {
-        const s = document.createElement('span');
-        s.className = 'preview__letter';
-        s.textContent = l.char;
-        s.style.animationDelay = (i * 16) + 'ms';
-        s.title = l.name;
-        wrap.appendChild(s);
-      });
-      return;
-    }
+  function previewOrder(wrap, label) {
+    label.textContent = 'El alfabeto en orden';
+    HEBREW_LETTERS.forEach((l, i) => {
+      const s = document.createElement('span');
+      s.className = 'preview__letter';
+      s.textContent = l.char;
+      s.style.animationDelay = (i * 16) + 'ms';
+      s.title = l.name;
+      wrap.appendChild(s);
+    });
+  }
 
-    if (isSofitMode()) {
-      label.textContent = 'Parejas de la ronda';
-      FINAL_PAIRS.forEach((p, i) => {
-        const s = document.createElement('span');
-        s.className = 'preview__pair';
-        s.title = p.name + ': ' + p.base + ' → ' + p.final;
-        s.style.animationDelay = (i * 28) + 'ms';
+  function previewSofit(wrap, label) {
+    label.textContent = 'Parejas de la ronda';
+    FINAL_PAIRS.forEach((p, i) => {
+      const s = document.createElement('span');
+      s.className = 'preview__pair';
+      s.title = p.name + ': ' + p.base + ' → ' + p.final;
+      s.style.animationDelay = (i * 28) + 'ms';
 
-        const base = document.createElement('span');
-        base.className = 'preview__pair-glyph';
-        base.lang = 'he';
-        base.dir = 'rtl';
-        base.textContent = p.base;
+      const base = document.createElement('span');
+      base.className = 'preview__pair-glyph';
+      base.lang = 'he';
+      base.dir = 'rtl';
+      base.textContent = p.base;
 
-        const arrow = document.createElement('span');
-        arrow.className = 'preview__pair-arrow';
-        arrow.setAttribute('aria-hidden', 'true');
-        arrow.textContent = '→';
+      const arrow = document.createElement('span');
+      arrow.className = 'preview__pair-arrow';
+      arrow.setAttribute('aria-hidden', 'true');
+      arrow.textContent = '→';
 
-        const fin = document.createElement('span');
-        fin.className = 'preview__pair-glyph';
-        fin.lang = 'he';
-        fin.dir = 'rtl';
-        fin.textContent = p.final;
+      const fin = document.createElement('span');
+      fin.className = 'preview__pair-glyph';
+      fin.lang = 'he';
+      fin.dir = 'rtl';
+      fin.textContent = p.final;
 
-        s.appendChild(base);
-        s.appendChild(arrow);
-        s.appendChild(fin);
-        wrap.appendChild(s);
-      });
-      return;
-    }
+      s.appendChild(base);
+      s.appendChild(arrow);
+      s.appendChild(fin);
+      wrap.appendChild(s);
+    });
+  }
 
-    if (isWordMode()) {
-      label.textContent = 'Palabras de la ronda';
-      HEBREW_WORDS.slice(0, session.quantity).forEach((w, i) => {
-        const s = document.createElement('span');
-        s.className = 'preview__word';
-        s.innerHTML = '';
-        const g = document.createElement('span');
-        g.className = 'preview__word-glyph';
-        g.lang = 'he';
-        g.dir = 'rtl';
-        g.textContent = w.word;
-        const t = document.createElement('span');
-        t.className = 'preview__word-translit';
-        t.textContent = w.translit;
-        s.appendChild(g);
-        s.appendChild(t);
-        s.title = w.meaning;
-        s.style.animationDelay = (i * 28) + 'ms';
-        wrap.appendChild(s);
-      });
-      return;
-    }
+  function previewWords(wrap, label) {
+    label.textContent = 'Palabras de la ronda';
+    HEBREW_WORDS.slice(0, session.quantity).forEach((w, i) => {
+      const s = document.createElement('span');
+      s.className = 'preview__word';
+      const g = document.createElement('span');
+      g.className = 'preview__word-glyph';
+      g.lang = 'he';
+      g.dir = 'rtl';
+      g.textContent = w.word;
+      const t = document.createElement('span');
+      t.className = 'preview__word-translit';
+      t.textContent = w.translit;
+      s.appendChild(g);
+      s.appendChild(t);
+      s.title = w.meaning;
+      s.style.animationDelay = (i * 28) + 'ms';
+      wrap.appendChild(s);
+    });
+  }
 
-    const sampled = isTrueFalseMode() || isReviewMode() ||
-      (isRandomLetterMode() && settings.randomLetters);
-    label.textContent = isReviewMode()
+  function previewLetters(wrap, label) {
+    const config = modeConfig(session.mode);
+    const sampled = config.family === 'truefalse' || config.family === 'review' ||
+      (config.random && settings.randomLetters);
+    label.textContent = config.family === 'review'
       ? 'Letras del repaso'
-      : (isRandomLetterMode() && settings.randomLetters) ? 'Letras al azar' : 'Letras de la ronda';
+      : (config.random && settings.randomLetters) ? 'Letras al azar' : 'Letras de la ronda';
     const letters = sampled ? session.letters : HEBREW_LETTERS.slice(0, session.quantity);
     letters.forEach((l, i) => {
       const s = document.createElement('span');
@@ -489,40 +540,67 @@
 
   /* ---------------- Estudio ---------------- */
   function prepareRound() {
-    if (isWordMode()) {
-      session.words = HEBREW_WORDS.slice(0, session.quantity);
-      session.studyOrder = shuffle(session.words);
-    } else if (isSofitMode()) {
-      session.letters = HEBREW_LETTERS.filter((l) => l.final);
-      session.studyOrder = shuffle(session.letters);
-    } else if (isTrueFalseMode()) {
-      if (session.letters.length !== session.quantity) {
-        session.letters = pick(HEBREW_LETTERS, session.quantity);
-      }
-      session.studyOrder = shuffle(session.letters);
-    } else if (isReviewMode()) {
-      if (session.letters.length !== session.quantity) {
-        session.letters = pickReviewLetters(session.quantity);
-      }
-      session.studyOrder = shuffle(session.letters);
-    } else if (isOrderMode()) {
-      if (session.letters.length !== session.quantity) {
-        session.letters = pick(HEBREW_LETTERS, session.quantity);
-      }
-      session.studyOrder = shuffle(session.letters);
-    } else if (session.worldLetters && session.worldLetters.length) {
-      session.letters = session.worldLetters.slice();
-      session.studyOrder = shuffle(session.letters);
-    } else {
-      if (isRandomLetterMode() && settings.randomLetters) {
-        if (session.letters.length !== session.quantity) {
-          session.letters = pick(HEBREW_LETTERS, session.quantity);
-        }
-      } else {
-        session.letters = HEBREW_LETTERS.slice(0, session.quantity);
-      }
-      session.studyOrder = shuffle(session.letters);
+    modeConfig(session.mode).prepare();
+  }
+
+  function sampleLetterMode(n) {
+    if (settings.randomLetters) session.letters = pick(HEBREW_LETTERS, n);
+  }
+
+  function sampleTrueFalse(n) {
+    session.letters = pick(HEBREW_LETTERS, n);
+  }
+
+  function sampleOrder(n) {
+    session.letters = pick(HEBREW_LETTERS, n);
+  }
+
+  function sampleReview(n) {
+    session.letters = pickReviewLetters(n);
+  }
+
+  function prepareWordRound() {
+    session.words = HEBREW_WORDS.slice(0, session.quantity);
+    session.studyOrder = shuffle(session.words);
+  }
+
+  function prepareSofitRound() {
+    session.letters = HEBREW_LETTERS.filter((l) => l.final);
+    session.studyOrder = shuffle(session.letters);
+  }
+
+  function prepareTrueFalseRound() {
+    if (session.letters.length !== session.quantity) {
+      session.letters = pick(HEBREW_LETTERS, session.quantity);
     }
+    session.studyOrder = shuffle(session.letters);
+  }
+
+  function prepareOrderRound() {
+    if (session.letters.length !== session.quantity) {
+      session.letters = pick(HEBREW_LETTERS, session.quantity);
+    }
+    session.studyOrder = shuffle(session.letters);
+  }
+
+  function prepareReviewRound() {
+    if (session.letters.length !== session.quantity) {
+      session.letters = pickReviewLetters(session.quantity);
+    }
+    session.studyOrder = shuffle(session.letters);
+  }
+
+  function prepareLetterRound() {
+    if (session.worldLetters && session.worldLetters.length) {
+      session.letters = session.worldLetters.slice();
+    } else if (isRandomLetterMode() && settings.randomLetters) {
+      if (session.letters.length !== session.quantity) {
+        session.letters = pick(HEBREW_LETTERS, session.quantity);
+      }
+    } else {
+      session.letters = HEBREW_LETTERS.slice(0, session.quantity);
+    }
+    session.studyOrder = shuffle(session.letters);
   }
 
   function startStudy() {
@@ -735,32 +813,19 @@
 
   /* ---------------- Examen ---------------- */
   function buildQuestions() {
-    if (isWordMode()) {
-      session.questions = isWordReadMode()
-        ? buildReadQuestions()
-        : shuffle(session.words).map((word) => ({ ask: 'words', word }));
-      return;
-    }
+    session.questions = modeConfig(session.mode).build();
+  }
 
-    if (isSofitMode()) {
-      session.questions = buildSofitQuestions();
-      return;
-    }
+  function buildWordQuestions() {
+    if (isWordReadMode()) return buildReadQuestions();
+    return shuffle(session.words).map((word) => ({ ask: 'words', word }));
+  }
 
-    if (isTrueFalseMode()) {
-      session.questions = buildTrueFalseQuestions();
-      return;
-    }
-
-    if (isOrderMode()) {
-      session.questions = buildOrderQuestions();
-      return;
-    }
-
+  function buildLetterQuestions() {
     const letters = session.letters;
     const mode = session.mode;
 
-    session.questions = shuffle(letters).map((letter) => {
+    return shuffle(letters).map((letter) => {
       const ask = (mode === 'mix' || mode === 'review')
         ? pick(['name', 'value', 'glyph'], 1)[0]
         : mode;
@@ -2200,6 +2265,20 @@
   };
 
   // API de introspección (la usan las pruebas automáticas)
+  window.alefModes = () => QUIZ_MODES.map((m) => {
+    const config = modeConfig(m.id);
+    return {
+      id: m.id,
+      label: m.label,
+      family: config.family,
+      random: Boolean(config.random),
+      quantities: config.choices.slice(),
+      prepare: typeof config.prepare === 'function',
+      build: typeof config.build === 'function',
+      preview: typeof config.preview === 'function'
+    };
+  });
+
   window.alefState = () => ({
     mode: session.mode,
     quantity: session.quantity,
