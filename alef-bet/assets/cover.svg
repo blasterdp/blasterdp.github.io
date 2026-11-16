@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Álef-Bet, juego para aprender hebreo">
+  <rect width="600" height="400" fill="#2B2140"/>
+  <g fill="#FFB627" opacity="0.14" font-family="Georgia, serif" font-size="64" text-anchor="middle">
+    <text x="300" y="118" direction="rtl">א ב ג ד ה ו</text>
+    <text x="300" y="330" direction="rtl">ז ח ט י כ ל</text>
+  </g>
+  <rect x="34" y="34" width="532" height="332" rx="22" fill="none" stroke="#FFF3DA" stroke-width="5"/>
+  <rect x="66" y="66" width="468" height="268" rx="16" fill="#FFF3DA" opacity="0.07"/>
+  <text x="300" y="172" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="56" fill="#FFF3DA">ÁLEF-BET</text>
+  <text x="300" y="216" text-anchor="middle" font-family="'Courier New', monospace" font-size="22" fill="#12CFA0">Aprende hebreo jugando</text>
+  <text x="300" y="266" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#FFB627">22 letras · formas finales · gematría · palabras</text>
+  <g fill="#FF5D73">
+    <circle cx="90" cy="90" r="6"/>
+    <circle cx="510" cy="90" r="6"/>
+    <circle cx="90" cy="310" r="6"/>
+    <circle cx="510" cy="310" r="6"/>
+  </g>
+  <text x="300" y="308" text-anchor="middle" font-family="'Courier New', monospace" font-size="15" fill="#FFF3DA" opacity="0.8">FINALES · V/F · PAREJAS</text>
+</svg>

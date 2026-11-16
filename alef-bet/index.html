@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Álef-Bet — Aprende hebreo jugando</title>
+<meta name="description" content="Juego retro para memorizar el alfabeto hebreo: nombres de las letras y sus valores gematría.">
+<meta name="theme-color" content="#2B2140">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icon-180.png">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<div class="bg-deco" aria-hidden="true"></div>
+<div class="scanlines" aria-hidden="true"></div>
+
+<header class="topbar">
+  <div class="topbar__brand">
+    <span class="topbar__glyph" aria-hidden="true">א</span>
+    <span class="topbar__title">ÁLEF<span class="topbar__dash">-</span>BET</span>
+  </div>
+  <div class="topbar__actions">
+    <button type="button" class="iconbtn" id="btn-music" aria-pressed="true" aria-label="Activar o desactivar la música">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M9 18V6l10-2v12" /><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/></svg>
+    </button>
+    <button type="button" class="iconbtn" id="btn-sfx" aria-pressed="true" aria-label="Activar o desactivar los efectos de sonido">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 9v6h4l5 4V5L8 9H4z"/><path d="M16.5 8.5a5 5 0 0 1 0 7" id="wave"/></svg>
+    </button>
+  </div>
+</header>
+
+<main id="app" class="app">
+
+  <!-- ============================ PORTADA ============================ -->
+  <section class="screen" id="screen-home" data-screen="home">
+    <h1 class="sr-only" tabindex="-1">Álef-Bet, juego para aprender hebreo</h1>
+
+    <div class="hero card">
+      <p class="hero__kicker">APRENDE HEBREO JUGANDO</p>
+      <p class="hero__glyphs" aria-hidden="true"><span>א</span> <span>ב</span> <span>ג</span> <span>ד</span> <span>ה</span></p>
+      <h2 class="hero__title">Memoriza las<br>letras hebreas</h2>
+      <p class="hero__text">Estudia las 22 letras con su nombre, su valor gematría y sus formas finales, y luego demuéstralo en un examen contrarreloj.</p>
+    </div>
+
+    <div class="stack">
+      <button type="button" class="btn btn--coral btn--xl" data-action="start-setup" data-mode="name">
+        <span class="btn__emoji" aria-hidden="true">🎯</span> Jugar
+      </button>
+      <button type="button" class="btn btn--mint btn--xl" data-action="show-campaign">
+        <span class="btn__emoji" aria-hidden="true">🗺️</span>
+        <span class="btn__stack">
+          <span>Camino de letras</span>
+          <span class="btn__sub" id="campaign-progress">Mundo 1 · 0/18 ★</span>
+        </span>
+      </button>
+      <button type="button" class="btn btn--sky" data-action="show-memory">
+        <span class="btn__emoji" aria-hidden="true">🧩</span>
+        <span class="btn__stack">
+          <span>Parejas</span>
+          <span class="btn__sub">Memoria</span>
+        </span>
+      </button>
+      <button type="button" class="btn btn--ghost" data-action="show-review">
+        <span class="btn__emoji" aria-hidden="true">🧠</span> Repaso
+        <span class="btn__sub" id="review-count">· al día</span>
+      </button>
+      <button type="button" class="btn btn--ghost" data-action="show-help">
+        <span class="btn__emoji" aria-hidden="true">📖</span> Cómo se juega
+      </button>
+    </div>
+
+    <dl class="stats" id="home-stats" aria-label="Tus mejores marcas">
+      <div class="stats__item">
+        <dt>Mejor marca</dt>
+        <dd id="stat-best">—</dd>
+      </div>
+      <div class="stats__item">
+        <dt>Partidas</dt>
+        <dd id="stat-games">0</dd>
+      </div>
+      <div class="stats__item">
+        <dt>Aciertos</dt>
+        <dd id="stat-correct">0</dd>
+      </div>
+    </dl>
+
+    <div class="ticker" aria-hidden="true">
+      <div class="ticker__track">
+        <span class="ticker__row"><span>א</span> <span>ב</span> <span>ג</span> <span>ד</span> <span>ה</span> <span>ו</span> <span>ז</span> <span>ח</span> <span>ט</span> <span>י</span> <span>כ</span> <span>ל</span> <span>מ</span> <span>נ</span> <span>ס</span> <span>ע</span> <span>פ</span> <span>צ</span> <span>ק</span> <span>ר</span> <span>ש</span> <span>ת</span></span>
+        <span class="ticker__row"><span>א</span> <span>ב</span> <span>ג</span> <span>ד</span> <span>ה</span> <span>ו</span> <span>ז</span> <span>ח</span> <span>ט</span> <span>י</span> <span>כ</span> <span>ל</span> <span>מ</span> <span>נ</span> <span>ס</span> <span>ע</span> <span>פ</span> <span>צ</span> <span>ק</span> <span>ר</span> <span>ש</span> <span>ת</span></span>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================== PAREJAS ============================ -->
+  <section class="screen" id="screen-memory" data-screen="memory" hidden>
+    <div class="screen__head">
+      <h1 class="screen__title" tabindex="-1">Parejas</h1>
+      <p class="counter" id="memory-best">Sin récord</p>
+    </div>
+    <p class="screen__lead" id="memory-lead">Voltea dos cartas y encuentra el glifo y su nombre.</p>
+
+    <div class="memory-config">
+      <div class="chips" id="memory-sizes" role="group" aria-label="Número de parejas"></div>
+      <div class="chips" id="memory-kinds" role="group" aria-label="Tipo de pareja"></div>
+    </div>
+
+    <div class="hud__row memory-hud">
+      <span class="hud__chip" id="memory-moves">0 movs</span>
+      <span class="hud__chip" id="memory-time">0:00</span>
+      <span class="hud__chip hud__chip--score" id="memory-found">0 / 4 parejas</span>
+    </div>
+
+    <div class="memory-board" id="memory-board" role="group" aria-label="Cartas boca abajo"></div>
+    <p class="feedback" id="memory-status" role="status" aria-live="polite">Voltea dos cartas para empezar.</p>
+
+    <div class="card card--result memory-win" id="memory-win" hidden>
+      <p class="stars" id="memory-stars" aria-hidden="true">⭐⭐⭐</p>
+      <p class="result__title" id="memory-win-title" tabindex="-1">¡Completado!</p>
+      <p class="memory-win__text" id="memory-win-text"></p>
+      <p class="memory-win__best" id="memory-win-best"></p>
+      <div class="stack">
+        <button type="button" class="btn btn--coral" id="btn-memory-again">
+          <span class="btn__emoji" aria-hidden="true">🔁</span> Otra partida
+        </button>
+        <button type="button" class="btn btn--ghost" id="btn-memory-win-home">Ir al inicio</button>
+      </div>
+    </div>
+
+    <div class="stack" id="memory-actions">
+      <button type="button" class="btn btn--mint btn--xl" id="btn-memory-new">
+        <span class="btn__emoji" aria-hidden="true">🧩</span> Nueva partida
+      </button>
+      <button type="button" class="btn btn--ghost" id="btn-memory-home">Ir al inicio</button>
+    </div>
+  </section>
+
+  <!-- =========================== CAMINO ============================== -->
+  <section class="screen" id="screen-campaign" data-screen="campaign" hidden>
+    <div class="screen__head">
+      <h1 class="screen__title" tabindex="-1">Camino de letras</h1>
+      <p class="counter" id="campaign-total">0 / 18 ★</p>
+    </div>
+    <p class="screen__lead">Supera cada mundo con al menos una estrella para abrir el siguiente.</p>
+    <ol class="worlds" id="campaign-worlds"></ol>
+    <button type="button" class="btn btn--ghost" id="btn-campaign-back">Volver al inicio</button>
+  </section>
+
+  <!-- ========================== PREPARACIÓN ========================== -->
+  <section class="screen" id="screen-setup" data-screen="setup" hidden>
+    <h1 class="screen__title" tabindex="-1" id="setup-title">Elige cuántas letras</h1>
+    <p class="screen__lead" id="setup-lead">Cantidad de letras a memorizar en esta ronda.</p>
+
+    <div class="card">
+      <h2 class="card__title" id="quantity-title">Cantidad</h2>
+      <div class="chips" id="quantity-chips" role="group" aria-label="Cantidad"></div>
+
+      <h2 class="card__title card__title--spaced">Tipo de examen</h2>
+      <div class="chips chips--mode" id="mode-chips" role="group" aria-label="Tipo de examen"></div>
+      <p class="setup__mode-desc" id="mode-desc"></p>
+
+      <p class="setup__preview-label" id="preview-label">Letras de la ronda</p>
+      <div class="preview" id="letter-preview" aria-live="polite"></div>
+    </div>
+
+    <div class="stack">
+      <button type="button" class="btn btn--mint btn--xl" id="btn-study">
+        <span class="btn__emoji" aria-hidden="true">🧠</span> Memorizarlas
+      </button>
+      <button type="button" class="btn btn--ghost" id="btn-skip-study">
+        Ir directo al examen
+      </button>
+    </div>
+  </section>
+
+  <!-- ============================ ESTUDIO ============================ -->
+  <section class="screen" id="screen-study" data-screen="study" hidden>
+    <div class="screen__head">
+      <h1 class="screen__title" tabindex="-1">Estudia</h1>
+      <p class="counter" id="study-counter">1 / 5</p>
+    </div>
+
+    <div class="card card--flash" id="study-card">
+      <div class="flash" id="study-flash">
+        <div class="flash__face flash__face--front">
+          <p class="flash__label" id="study-label">LETRA</p>
+          <p class="glyph" id="study-glyph" lang="he" dir="rtl">א</p>
+          <p class="flash__prompt" id="study-prompt">Toca <strong>revelar</strong> para ver su nombre y su valor</p>
+        </div>
+        <div class="flash__face flash__face--back" id="study-back" aria-hidden="true">
+          <p class="glyph glyph--sm" id="study-glyph-back" lang="he" dir="rtl">א</p>
+          <p class="flash__name" id="study-name">Alef</p>
+          <p class="flash__say" id="study-say-row"><span>Suena:</span> <strong id="study-say">a</strong></p>
+          <p class="flash__value"><span id="study-value-label">Valor gematría:</span> <strong id="study-value">1</strong></p>
+          <p class="flash__breakdown" id="study-breakdown" hidden></p>
+          <p class="flash__hint" id="study-hint">La letra del buey</p>
+          <p class="flash__final" id="study-final" hidden></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="study__rating" id="study-rating" hidden>
+      <button type="button" class="btn btn--coral btn--sm" id="btn-study-again"
+              aria-label="No la sabía: volver a repasarla" aria-keyshortcuts="1">🔁 No la sabía</button>
+      <button type="button" class="btn btn--mint btn--sm" id="btn-study-known"
+              aria-label="La sabía: subirla de nivel" aria-keyshortcuts="2">✅ La sabía</button>
+    </div>
+    <p class="study__rating-note" id="study-rating-note" hidden></p>
+
+    <div class="dots" id="study-dots" aria-hidden="true"></div>
+    <p class="study__summary" id="study-summary" aria-live="polite">Marca cada tarjeta al revelarla.</p>
+
+    <div class="stack stack--row">
+      <button type="button" class="btn btn--ghost" id="btn-study-prev">◀ Anterior</button>
+      <button type="button" class="btn btn--mango" id="btn-study-flip" aria-keyshortcuts="R">Revelar</button>
+      <button type="button" class="btn btn--mango" id="btn-study-next">Siguiente ▶</button>
+    </div>
+
+    <button type="button" class="btn btn--mint btn--xl" id="btn-study-done">
+      <span class="btn__emoji" aria-hidden="true">🚀</span> ¡A examen!
+    </button>
+  </section>
+
+  <!-- ============================ EXAMEN ============================= -->
+  <section class="screen" id="screen-quiz" data-screen="quiz" hidden>
+    <h1 class="sr-only" tabindex="-1">Examen</h1>
+    <div class="hud">
+      <div class="hud__row">
+        <span class="hud__chip" id="quiz-progress">Pregunta 1 / 10</span>
+        <span class="hud__chip hud__chip--score" id="quiz-score">0 pts</span>
+      </div>
+      <div class="timerbar" id="timerbar" role="progressbar" aria-label="Tiempo restante"
+           aria-valuemin="0" aria-valuemax="20" aria-valuenow="20"><span id="timerbar-fill"></span></div>
+      <div class="streak" id="streak" hidden>
+        <span aria-hidden="true">🔥</span> <span id="streak-count">0</span> seguidas
+      </div>
+    </div>
+
+    <div class="card card--glyph" id="quiz-card">
+      <p class="quiz__prompt" id="quiz-prompt">Elige el nombre</p>
+      <p class="glyph glyph--xl" id="quiz-glyph" lang="he" dir="rtl">א</p>
+      <p class="quiz__word" id="quiz-word" hidden>Alef</p>
+      <p class="quiz__claim" id="quiz-claim" hidden></p>
+      <p class="quiz__meaning" id="quiz-meaning" hidden></p>
+      <div class="slots" id="quiz-slots" hidden>
+        <button type="button" class="slot" id="slot-1">
+          <span class="slot__num" aria-hidden="true">1</span>
+          <span class="slot__glyph" lang="he" dir="rtl"></span>
+        </button>
+        <button type="button" class="slot" id="slot-2">
+          <span class="slot__num" aria-hidden="true">2</span>
+          <span class="slot__glyph" lang="he" dir="rtl"></span>
+        </button>
+      </div>
+      <p class="quiz__hintbox" id="quiz-hint" hidden></p>
+      <button type="button" class="btn btn--ghost btn--sm" id="btn-hint">💡 Pista (−25 pts)</button>
+    </div>
+
+    <div class="options" id="quiz-options" role="group" aria-label="Opciones de respuesta"></div>
+
+    <p class="feedback" id="quiz-feedback" role="status" aria-live="polite"></p>
+
+    <button type="button" class="btn btn--mint btn--xl" id="btn-quiz-next" hidden>
+      Siguiente <span aria-hidden="true">▶</span>
+    </button>
+  </section>
+
+  <!-- =========================== RESULTADO =========================== -->
+  <section class="screen" id="screen-result" data-screen="result" hidden>
+    <h1 class="sr-only" tabindex="-1">Resultado de la partida</h1>
+    <div class="card card--result">
+      <p class="stars" id="result-stars" aria-hidden="true">⭐⭐⭐</p>
+      <p class="result__title" id="result-title">¡Perfecto!</p>
+      <p class="result__score"><span id="result-score">0</span> <small>pts</small></p>
+      <dl class="result__grid">
+        <div><dt>Aciertos</dt><dd id="result-correct">0 / 0</dd></div>
+        <div><dt>Precisión</dt><dd id="result-accuracy">0 %</dd></div>
+        <div><dt>Tiempo</dt><dd id="result-time">0 s</dd></div>
+        <div><dt>Mejor racha</dt><dd id="result-streak">0</dd></div>
+      </dl>
+      <p class="result__best" id="result-best"></p>
+      <p class="result__unlock" id="result-unlock" hidden></p>
+    </div>
+
+    <div class="stack">
+      <button type="button" class="btn btn--coral btn--xl" id="btn-replay">
+        <span class="btn__emoji" aria-hidden="true">🔁</span> Repetir
+      </button>
+      <button type="button" class="btn btn--mint" id="btn-campaign-result" hidden>
+        <span class="btn__emoji" aria-hidden="true">🗺️</span> Volver al mapa
+      </button>
+      <button type="button" class="btn btn--ghost" id="btn-change">Cambiar cantidad</button>
+      <button type="button" class="btn btn--ghost" id="btn-home">Ir al inicio</button>
+    </div>
+  </section>
+
+  <!-- ============================ AYUDA ============================= -->
+  <section class="screen" id="screen-help" data-screen="help" hidden>
+    <h1 class="screen__title" tabindex="-1">Cómo se juega</h1>
+    <ol class="steps">
+      <li class="steps__item card">
+        <span class="steps__num" aria-hidden="true">1</span>
+        <h2>Elige cuántas letras</h2>
+        <p>De 5 a las 22 letras del alfabeto. Cuantas más elijas, más difícil (y más puntos).</p>
+      </li>
+      <li class="steps__item card">
+        <span class="steps__num" aria-hidden="true">2</span>
+        <h2>Memoriza</h2>
+        <p>Cada carta muestra la letra. Toca la carta o <strong>Revelar</strong> para ver el nombre, el valor gematría, una pronunciación aproximada en español y su forma final.</p>
+        <p>Tras revelarla puedes marcarla como <strong>La sabía</strong> o <strong>No la sabía</strong>; esa marca alimenta tu repaso. El resumen te dice cuántas llevas.</p>
+        <p>Bet/vet, kaf/jaf, pe/fei y shin/sin son sonidos de la misma letra. El <strong>niqud</strong> (las vocales) no se trabaja en esta versión.</p>
+      </li>
+      <li class="steps__item card">
+        <span class="steps__num" aria-hidden="true">3</span>
+        <h2>Examen</h2>
+        <p>Las letras salen en <strong>orden aleatorio</strong> y <strong>sin su nombre</strong>. Según el modo eliges su <strong>nombre</strong>, su <strong>valor</strong>, su <strong>forma final</strong> o, en modo <strong>Letra</strong>, te muestran el nombre y eliges el glifo hebreo entre 4.</p>
+      </li>
+      <li class="steps__item card">
+        <span class="steps__num" aria-hidden="true">4</span>
+        <h2>Palabras</h2>
+        <p>En modo <strong>Palabras</strong> te dan la pronunciación y el significado (por ejemplo <em>av – padre</em>) y escribes la palabra hebrea de dos letras en los dos huecos. La 1ª letra va a la derecha, como se lee el hebreo.</p>
+      </li>
+      <li class="steps__item card">
+        <span class="steps__num" aria-hidden="true">5</span>
+        <h2>Verdadero o falso</h2>
+        <p>En modo <strong>V/F</strong> aparece una letra con una ficha de su nombre y valor; la mitad son falsas. Tienes 8 s para decidir entre <strong>Verdadero</strong> y <strong>Falso</strong>, y el feedback dice cuál era la ficha correcta.</p>
+      </li>
+      <li class="steps__item card">
+        <span class="steps__num" aria-hidden="true">6</span>
+        <h2>Camino y repaso</h2>
+        <p>En <strong>Camino de letras</strong> superas mundos de 5–6 letras, luego las formas finales y las palabras. Con una estrella abres el siguiente. El <strong>Repaso inteligente</strong> elige las letras que fallas o que llevan tiempo sin salir.</p>
+      </li>
+      <li class="steps__item card">
+        <span class="steps__num" aria-hidden="true">7</span>
+        <h2>Parejas</h2>
+        <p>En <strong>Parejas</strong> volteas dos cartas y buscas el glifo y su nombre (o su valor). Las parejas se quedan boca arriba; completa todas con los menos movimientos posibles para ganar estrellas.</p>
+      </li>
+      <li class="steps__item card">
+        <span class="steps__num" aria-hidden="true">8</span>
+        <h2>Gana puntos</h2>
+        <p>100 por acertar, más bonus por rapidez y por racha. Si te equivocas, la respuesta correcta se ilumina para que la aprendas.</p>
+      </li>
+    </ol>
+    <button type="button" class="btn btn--mango btn--xl" id="btn-help-back">Entendido</button>
+  </section>
+
+</main>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script src="js/data.js"></script>
+<script src="js/audio.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
